@@ -8,11 +8,13 @@ You can see an implementation of this API on our web site: http://cr-api.com
 
 ## Documentation
 
-- Clans
-    - [Top Clans](/clans/top_clans.md)
-    - [Single Clan](/clans/single_clan.md)
-    - [Multiple Clans](/clans/multiple_clans.md)
-- [Errors](/errors.md)
+Endpoint | Example Implementation
+--- | ---
+[Top Clans](/clans/top_clans.md) | http://cr-api.com/clans
+[Single Clan](/clans/single_clan.md) | http://cr-api.com/clan/2CCCP
+[Multiple Clans](/clans/multiple_clans.md) | http://cr-api.com/clan/family/racf
+[Constants](/info/constants.md) | API constants
+[Version](/info/version.md) | API version
 
 ## Support
 

@@ -45,3 +45,7 @@ The above command returns JSON structured like this:
     "lastUpdated": 1504049995278
 }
 ```
+
+## Implementation
+
+You can see an example of this at http://cr-api.com/clans

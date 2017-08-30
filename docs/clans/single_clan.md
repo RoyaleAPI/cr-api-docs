@@ -105,3 +105,7 @@ The above command returns JSON structured like this:
     ]
 }
 ```
+
+## Implementation
+
+You can see an implementation of this at http://cr-api.com/clan/2CCCP
