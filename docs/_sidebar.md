@@ -1,0 +1,2 @@
+- [Home](/)
+- [Clans: Top Clans](/endpoint/top_clans.md)
