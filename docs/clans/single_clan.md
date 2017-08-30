@@ -1,4 +1,4 @@
-# Clans: Single Clan
+# Get Single Clan
 
 This endpoint retrieves a specific clan.
 

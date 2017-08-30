@@ -2,3 +2,5 @@
 - Clans
     - [Top Clans](/clans/top_clans.md)
     - [Single Clan](/clans/single_clan.md)
+    - [Multiple Clans](/clans/multiple_clans.md)
+- [Errors](/errors.md)

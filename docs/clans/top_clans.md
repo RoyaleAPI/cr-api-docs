@@ -1,4 +1,4 @@
-# Clans: Top Clans
+# Get Top Clans
 
 This endpoint retrieves the Global 200 top clans on the leaderboard.
 
