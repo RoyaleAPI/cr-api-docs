@@ -1,12 +1,16 @@
-# Clans: Get Top Clans
+# Clans: Top Clans
 
 This endpoint retrieves the Global 200 top clans on the leaderboard.
 
 ## HTTP Request
 
-`GET http://api.cr-api.com/top/clans`
+`http://api.cr-api.com/top/clans`
 
 ## Response
+
+http://api.cr-api.com/top/clans
+
+The above command returns JSON structured like this:
 
 ```json
 {

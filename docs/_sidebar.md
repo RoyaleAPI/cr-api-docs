@@ -1,2 +1,4 @@
-- [Home](/)
-- [Clans: Top Clans](/endpoint/top_clans.md)
+- [Introduction](/)
+- Clans
+    - [Top Clans](/clans/top_clans.md)
+    - [Single Clan](/clans/single_clan.md)

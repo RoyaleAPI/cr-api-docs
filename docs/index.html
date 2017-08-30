@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>CR-API Documetnation</title>
+  <link rel="icon" href="http://cr-api.com/static/img/favicon/favicon.ico">
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
@@ -13,11 +14,15 @@
 <script>
   window.$docsify = {
     name: 'CR-API',
-    repo: '',
     loadSidebar: true,
+    subMaxLevel: 6,
     auto2top: true,
+    autoHeader: true,
     formatUpdated: '{YYYY}-{MM}-{DD} {HH}:{mm}',
   }
 </script>
-<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify@latest/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify@latest/lib/plugins/search.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-json.min.js"></script>
 </html>
