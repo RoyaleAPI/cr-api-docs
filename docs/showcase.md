@@ -1,6 +1,6 @@
 # Showcase
 
-Here are some applications which use our API.
+Here are some applications which use our API. Want to get your app listed here? Open an issue on our [issue tracker](https://github.com/cr-api/cr-api/issues).
 
 Name | Description
 --- | ---
