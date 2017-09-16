@@ -7,3 +7,4 @@
     - [Constants](/info/constants.md)
     - [Version](/info/version.md)
 - [Errors](/errors.md)
+- [Showcase](/showcase.md)
