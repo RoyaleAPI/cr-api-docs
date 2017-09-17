@@ -10,6 +10,7 @@ You can see an implementation of this API on our web site: http://cr-api.com
 
 Endpoint | Example Implementation
 --- | ---
+[Profile](/profile/profile.md) | http://cr-api.com/profile/Y99YRPYG
 [Top Clans](/clans/top_clans.md) | http://cr-api.com/clans
 [Single Clan](/clans/single_clan.md) | http://cr-api.com/clan/2CCCP
 [Multiple Clans](/clans/multiple_clans.md) | http://cr-api.com/clan/family/racf

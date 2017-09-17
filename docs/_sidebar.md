@@ -1,4 +1,5 @@
 - [Introduction](/README.md)
+- [Profile](/profile/profile.md)
 - Clans
     - [Top Clans](/clans/top_clans.md)
     - [Single Clan](/clans/single_clan.md)
