@@ -2,7 +2,7 @@
 
 <img width="30%" height="30%" src="https://raw.githubusercontent.com/cr-api/cr-api-docs/master/docs/img/cr-api-logo-b.png">
 
-Welcome to the Clash Royale API! You can use our API to access Clash Royale API endpoints, which can get information about Clash Royale. At the moment, you can access clan information but we are working on retrieving player profiles and battle logs in the future.
+Welcome to the Clash Royale API! You can use our API to access Clash Royale API endpoints, which can get information about Clash Royale. At the moment, you can access profile and clan data.
 
 You can see an implementation of this API on our web site: http://cr-api.com
 
@@ -17,7 +17,7 @@ Endpoint | Example Implementation
 [Constants](/info/constants.md) | API constants
 [Version](/info/version.md) | API version
 
-## Support
+## Support + Feature Requests
 
 If you have a suggestion or an issue to report, please use the [issue tracker](https://github.com/cr-api/cr-api/issues). We recommend that you search the issue tracker to check if someone else has already reported the issue and whether there is a known solution that you can use. This probably is the fastest way for you to find a solution to any issue that you are facing.
 
