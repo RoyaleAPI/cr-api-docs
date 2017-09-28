@@ -15,4 +15,4 @@ Name | Author | Description
 --- | --- | ---
 [cr-api.com](http://cr-api.com) | SML | Web app.
 [CRProfile](https://github.com/smlbiobot/SML-Cogs/tree/master/crprofile) | SML | CR Profile cog for Red Discord bot.
-[CRClan](https://github.com/smlbiobot/SML-Cogs/tree/master/crclan) | SML CR Clan cog for Red Discord bot.
+[CRClan](https://github.com/smlbiobot/SML-Cogs/tree/master/crclan) | SML | CR Clan cog for Red Discord bot.
