@@ -6,7 +6,8 @@ Here are some applications which use our API. Want to get your app listed here? 
 
 Name | Author | Description
 --- | --- | ---
-[Clash Royale SelfStats](http://github.com/kwugfighter/cr-selfstats) | kwugfighter | A selfbot dedicated to getting your CR stats.
+[Clash Royale SelfStats (Bot)](http://github.com/kwugfighter/cr-selfstats) | kwugfighter | A selfbot dedicated to getting your CR stats.
+[Crown Stats (Bot)](https://m.me/CrownStats) | kamaelxiii |  A Clash Royale Statistics bot for Facebook Messenger Platform.
 [RoyaleStats](https://github.com/akaminetzkyp/RoyaleStats) | akaminetzkyp | Clan info logging.
 [Ultimate Clash Royale Tracker](https://play.google.com/store/apps/details?id=eu.tudor.ultimatechesttrackerforclash) | Tudorr (XDDK) | Android chest tracker app.
 
