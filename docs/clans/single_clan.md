@@ -12,13 +12,6 @@ Parameter | Description
 --- | ---
 TAG | The clan tag of the clan to retrieve
 
-### Query Parameters
-
-Parameter | Default | Description
---- | --- | ---
-members | 1 | If set to 0, the result will not include members.
-
-
 ## Response
 
 http://api.cr-api.com/clan/2CCCP
