@@ -4,7 +4,7 @@ This endpoint retrieves multiple clans. You can request up to 15 clans in each r
 
 ## HTTP Request
 
-`GET http://api.cr-api.com/clan/<TAG>,<TAG>,<TAG>?members=0`
+`GET http://api.cr-api.com/clan/<TAG>,<TAG>,<TAG>`
 
 ### URL Parameters
 
