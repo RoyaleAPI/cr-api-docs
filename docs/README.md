@@ -8,14 +8,14 @@ You can see an implementation of this API on our web site: http://cr-api.com
 
 ## Documentation
 
-Endpoint | Example Implementation
---- | ---
-[Profile](/profile/profile.md) | http://cr-api.com/profile/Y99YRPYG
-[Top Clans](/clans/top_clans.md) | http://cr-api.com/clans
-[Single Clan](/clans/single_clan.md) | http://cr-api.com/clan/2CCCP
-[Multiple Clans](/clans/multiple_clans.md) | http://cr-api.com/clan/family/racf
-[Constants](/info/constants.md) | API constants
-[Version](/info/version.md) | API version
+Endpoint | Example API URL | Example Implementation
+--- | --- | ---
+[Profile](/profile/profile.md) | http://api.cr-api.com/profile/Y99YRPYG | http://cr-api.com/profile/Y99YRPYG
+[Top Clans](/clans/top_clans.md) | http://api.cr-api.com/top/clans | http://cr-api.com/clans
+[Single Clan](/clans/single_clan.md) | http://api.cr-api.com/clan/2CCCP | http://cr-api.com/clan/2CCCP
+[Multiple Clans](/clans/multiple_clans.md) | http://api.cr-api.com/clan/2CCCP,2U2GGQJ | http://cr-api.com/clan/family/racf
+[Constants](/info/constants.md) | http://api.cr-api.com/constants | API constants
+[Version](/info/version.md) | http://api.cr-api.com/version | API version
 
 ## Support + Feature Requests
 
