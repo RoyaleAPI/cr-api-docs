@@ -17,7 +17,7 @@ Endpoint | Example Implementation
 [Constants](/info/constants.md) | API constants
 [Version](/info/version.md) | API version
 
-## Support + Feature RequestsP
+## Support + Feature Requests
 
 If you have a suggestion or an issue to report, please use the [issue tracker](https://github.com/cr-api/cr-api/issues). We recommend that you search the issue tracker to check if someone else has already reported the issue and whether there is a known solution that you can use. This probably is the fastest way for you to find a solution to any issue that you are facing.
 
