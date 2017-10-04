@@ -4,7 +4,7 @@
 
 Welcome to the Clash Royale API! You can use our API to access Clash Royale API endpoints, which can get information about Clash Royale. At the moment, you can access profile and clan data.
 
-You can see an implementation of this API on our web site: http://cr-api.com
+You can see implementations of this API in [Showcase](showcase.md) by third-party developers and on our web site: http://cr-api.com
 
 ## Documentation
 
