@@ -9,6 +9,7 @@ Name | Author | Description
 [Clash Royale SelfStats (Bot)](http://github.com/kwugfighter/cr-selfstats) | kwugfighter | A selfbot dedicated to getting your CR stats.
 [Crown Stats (Bot)](https://m.me/CrownStats) | kamaelxiii |  A Clash Royale Statistics bot for Facebook Messenger Platform.
 [RoyaleStats](https://github.com/akaminetzkyp/RoyaleStats) | akaminetzkyp | Clan info logging.
+[stusarmybot](https://github.com/fourjr/stusarmybot) | fourjr (4JR) | Discord bot for a clan family.
 [Ultimate Clash Royale Tracker](https://play.google.com/store/apps/details?id=eu.tudor.ultimatechesttrackerforclash) | Tudorr (XDDK) | Android chest tracker app.
 
 ## Our proof-of-concepts
