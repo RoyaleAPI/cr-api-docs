@@ -2,6 +2,11 @@
 
 Here are some applications which use our API. Want to get your app listed here? Open an issue on our [issue tracker](https://github.com/cr-api/cr-api/issues) or let us know about it on [our Discord server](http://discord.me/cr_api)
 
+## Wrapper
+
+Language | Name | Author | Description
+Python | [cr-py](https://github.com/kwugfighter/cr.py) | kwugfigher | Python wrapper
+
 ## Third-party applications
 
 Name | Author | Description
