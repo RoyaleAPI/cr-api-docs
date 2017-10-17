@@ -5,6 +5,7 @@ Here are some applications which use our API. Want to get your app listed here? 
 ## Wrapper
 
 Language | Name | Author | Description
+--- | --- | --- | ---
 Python | [cr-py](https://github.com/kwugfighter/cr.py) | kwugfigher | Python wrapper
 
 ## Third-party applications
