@@ -16,9 +16,9 @@ This endpoint returns constants returned by the API. Top level objects include:
     - isCountry (bool)
     - name (str)
 - cards
-    - card_id (int)
+    - card\_id (int)
     - key (str): alpha lowercase, white space as hyphen `-`
-    - card_key (str): alpha lowercase, white space as underscore `_`
+    - card\_key (str): alpha lowercase, white space as underscore `_`
     - name (str): name in English, title case.
     - elixir (int)
     - type (str): Spell type
