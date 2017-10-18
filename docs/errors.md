@@ -1,5 +1,7 @@
 # Errors
 
+If the API responses with `200` then it is a good response. Anything else contains an error.
+
 The Clash Royale API uses the following error codes:
 
 Error Code| Meaning
