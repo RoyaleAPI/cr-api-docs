@@ -29,4 +29,4 @@ If you are interested in talking to the team, we are there on Discord. Feel free
 
 Join our Discord Server at: http://discord.me/cr_api.
 
-We are also available as [@CRPublicAPI](http://twitter,com/CRPublicAPI) on Twitter. Feel free to drop in a line wherever it is easiest for you. Twitter would be the best place for you to stay updated with latest news, features and releases regarding cr-api.
+We are also available as [@CRPublicAPI](http://twitter.com/CRPublicAPI) on Twitter. Feel free to drop in a line wherever it is easiest for you. Twitter would be the best place for you to stay updated with latest news, features and releases regarding cr-api.
