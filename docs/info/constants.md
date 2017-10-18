@@ -2,17 +2,37 @@
 
 This endpoint returns constants returned by the API. Top level objects include:
 - alliance (aka clan)
-    - roles
-    - types
+    - roles (str)
+    - types (str)
 - arenas
-    - arena
-    - arenaID
-    - name
-    - trophyLimit
+    - arena (str)
+    - arenaID (int)
+    - name (str)
+    - trophyLimit (int)
 - badges
+    - id (str)
+        - name (str)
 - countryCodes
-    - isCountry
-    - name
+    - isCountry (bool)
+    - name (str)
+- cards
+    - card_id (int)
+    - key (str): alpha lowercase, white space as hyphen `-`
+    - card_key (str): alpha lowercase, white space as underscore `_`
+    - name (str): name in English, title case.
+    - elixir (int)
+    - type (str): Spell type
+        - Troop
+        - Building
+        - Spell
+    - rarity (str)
+        - Common
+        - Rare
+        - Epic
+        - Legendary
+    - arena (int)
+    - description (str): card description in English
+    - decklink (str): card id used in decklinks
 
 ## HTTP Request
 
