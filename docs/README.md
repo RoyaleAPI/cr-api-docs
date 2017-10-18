@@ -6,6 +6,8 @@ Welcome to the Clash Royale API! You can use our API to access Clash Royale API 
 
 You can see implementations of this API in [Showcase](showcase.md) by third-party developers and on our web site: http://cr-api.com
 
+!> We are currently in alpha pre-release. The JSON structure may change over time. Please follow our [Twitter](http://twitter.com/CRPublicAPI) or join our [Discord](http://discord.me/cr_api) server for up-to-date changes.
+
 ## Documentation
 
 Endpoint | Example API URL | Example Implementation
