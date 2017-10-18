@@ -6,6 +6,7 @@ Here are some applications which use our API. Want to get your app listed here? 
 
 Language | Name | Author | Description
 --- | --- | --- | ---
+Java | [jcrapi](https://github.com/mlieshoff/jcrapi) | mlieshoff (micah) | Java wrapper
 Python | [cr-py](https://github.com/kwugfighter/cr.py) | kwugfigher | Python wrapper
 
 ## Third-party applications
