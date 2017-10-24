@@ -11,3 +11,4 @@
     - [Version](/info/version.md)
 - [Errors](/errors.md)
 - [Showcase](/showcase.md)
+- [FAQ](/faq.md)
