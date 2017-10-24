@@ -1,6 +1,7 @@
 # Constants
 
 This endpoint returns constants returned by the API. Top level objects include:
+
 - alliance (aka clan)
     - roles (str)
     - types (str)
@@ -53,6 +54,18 @@ This endpoint returns constants returned by the API. Top level objects include:
 ## HTTP Request
 
 `http://api.cr-api.com/constants`
+
+### Params
+
+Add keys to get specific sections:
+
+- http://api.cr-api.com/constants/alliance/
+- http://api.cr-api.com/constants/arenas/
+- http://api.cr-api.com/constants/badges/
+- http://api.cr-api.com/constants/chestCycle/
+- http://api.cr-api.com/constants/countryCodes/
+- http://api.cr-api.com/constants/rarities/
+- http://api.cr-api.com/constants/cards/
 
 ## Response
 
