@@ -14,11 +14,11 @@ Python | [cr-py](https://github.com/kwugfighter/cr.py) | [kwugfigher](http://git
 
 Name | Author | Description
 --- | --- | ---
-[Clash Royale SelfStats (Bot)](http://github.com/kwugfighter/cr-selfstats) | kwugfighter | A selfbot dedicated to getting your CR stats.
+[Clash Royale SelfStats (Bot)](http://github.com/kwugfighter/cr-selfstats) | [kwugfigher](http://github.com/kwugfighter) | A selfbot dedicated to getting your CR stats.
 [Crown Stats (Bot)](https://m.me/CrownStats) | kamaelxiii |  A Clash Royale Statistics bot for Facebook Messenger Platform.
-[Fayssalbot](http://www.fayssalbot.ml/) | fayssalz59 (FayssalZ) | A French Discord bot with many features (e.g. moderation, utilities) as well as Clash Royale and Clash of Clans commands.
-[RoyaleStats](https://github.com/akaminetzkyp/RoyaleStats) | akaminetzkyp | Clan info logging.
-[stusarmybot](https://github.com/fourjr/stusarmybot) | fourjr (4JR) | Discord Bot to track statistics for a clan family.
+[Fayssalbot](http://www.fayssalbot.ml/) | [fayssalz59 (FayssalZ)](http://github.com/fayssalz59) | A French Discord bot with many features (e.g. moderation, utilities) as well as Clash Royale and Clash of Clans commands.
+[RoyaleStats](https://github.com/akaminetzkyp/RoyaleStats) | [akaminetzkyp](https://github.com/akaminetzkyp) | Clan info logging.
+[stusarmybot](https://github.com/fourjr/stusarmybot) | [4JR  (fourjr)](http://github.com/fourjr) | Discord Bot to track statistics for a clan family.
 [Ultimate Clash Royale Tracker](https://play.google.com/store/apps/details?id=eu.tudor.ultimatechesttrackerforclash) | Tudorr (XDDK) | Android chest tracker app.
 
 ## Our proof-of-concepts
