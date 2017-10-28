@@ -6,9 +6,9 @@ Here are some applications which use our API. Want to get your app listed here? 
 
 Language | Name | Author | Description
 --- | --- | --- | ---
-Java | [jcrapi](https://github.com/mlieshoff/jcrapi) | mlieshoff (micah) | Java wrapper
-Python | [cr-async](https://github.com/grokkers/cr-async) | grokkers (verixx) | Python async wrapper
-Python | [cr-py](https://github.com/kwugfighter/cr.py) | kwugfigher | Python wrapper
+Java | [jcrapi](https://github.com/mlieshoff/jcrapi) | [mlieshoff (micah)](http://github.com/mlieshoff)  | Java wrapper
+Python | [cr-async](https://github.com/grokkers/cr-async) | [grokkers (verixx)](http://github.com/grokkers) [4JR  (fourjr)](http://github.com/fourjr) | Python async wrapper
+Python | [cr-py](https://github.com/kwugfighter/cr.py) | [kwugfigher](http://github.com/kwugfighter) | Python wrapper
 
 ## Third-party applications
 
