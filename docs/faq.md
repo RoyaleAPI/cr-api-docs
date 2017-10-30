@@ -23,3 +23,32 @@ To find out upcoming chests:
 - Number of chests opened so far is the same as your current position.
 
 See [Github issue #21](https://github.com/cr-api/cr-api/issues/21) for a discussion about this.
+
+# Часто Задаваемые Вопросы
+
+(Russian translation by Spy727 — thanks!)
+
+## Как получить следующие n сундуки любого профиля?
+
+[Конечная точка](/profile/profile) профиля возвращает информацию о цикле сундуков в этом формате:
+
+```json
+"chestCycle": {
+   "position": 1893,
+   "superMagicalPos": 2094,
+   "legendaryPos": 1989,
+   "epicPos": 1893
+},
+```
+
+
+Чтобы узнать о n следующих сундуках:
+
+- Посмотрите порядок сундуков в [константах](/info/constants)
+- Проведите полный цикл сундуков, чтобы найти текущий индекс: `current_index = position % len(chestCycle)`
+- Вашы следующие n сундуки: `chestCycle[current_index]`, `chestCycle[current_index + 1]`, `chestCycle[current_index + 2]` и т. д.
+- Чтобы определить следующий гигантский или магический сундук, найдите первый индекс `Giant` или `Magic` после `current_index`. Не забудьте снова зациклиться от начала цикла сундуков если вы исчерпали полный цикл.
+- Специальные сундуки: например, супермагические, легендарные и эпические сундуки заменяют сундуки в основном цикле. В приведенном выше примере ваш следующий сундук будет заменен эпическим сундуком потому что `epicPos - position = 1893 - 1893 = 0`, а ваш легендарный сундук появится в `legendaryPos - position = 1989 - 1893 = 96`.
+- Количество сундуков, открытых до сих пор, совпадает с вашим текущим положением.
+
+См. [Github Вопрос № 21](https://github.com/cr-api/cr-api/issues/21) для обсуждения этого вопроса.
