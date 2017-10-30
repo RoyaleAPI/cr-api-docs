@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-## How do I get the next chest in any profile?
+## How do I get the upcoming chests for a user?
 
 The [profile endpoint](/profile/profile) returns chest cycle info in this format:
 
@@ -13,7 +13,7 @@ The [profile endpoint](/profile/profile) returns chest cycle info in this format
 },
 ```
 
-To find out the next chests number of chests:
+To find out upcoming chests:
 
 - Look up chestCycle order in [constants endpoint](http://api.cr-api.com/constants)
 - Loop through the full chest cycle to find the current index: `current_index = position % len(chestCycle)`
