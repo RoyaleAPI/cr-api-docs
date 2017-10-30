@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-## How do I get the next n chest in any profile?
+## How do I get the next chest in any profile?
 
 The [profile endpoint](/profile/profile) returns chest cycle info in this format:
 
