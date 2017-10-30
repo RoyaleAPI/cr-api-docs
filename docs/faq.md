@@ -15,7 +15,7 @@ The [profile endpoint](/profile/profile) returns chest cycle info in this format
 
 To find out upcoming chests:
 
-- Look up chestCycle order in [constants endpoint](/info/constants)
+- Look up chestCycle order in [constants endpoint](http://api.cr-api.com/constants)
 - Loop through the full chest cycle to find the current index: `current_index = position % len(chestCycle)`
 - Your next n chest are: `chestCycle[current_index]`, `chestCycle[current_index + 1]`, `chestCycle[current_index + 2]`, etc.
 - To determine the next Giant or Magical chests, find the first index of `Giant` of `Magic` counting from the `current_index`. Remember to loop again from the beginning of chestCycle if you have exhausted the full cycle.
