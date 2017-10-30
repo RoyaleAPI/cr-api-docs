@@ -24,9 +24,9 @@ To find out upcoming chests:
 
 See [Github issue #21](https://github.com/cr-api/cr-api/issues/21) for a discussion about this.
 
-# Часто Задаваемые Вопросы
+!> Russian language translation by Spy727 — thanks!
 
-(Russian translation by Spy727 — thanks!)
+# Часто Задаваемые Вопросы
 
 ## Как получить следующие n сундуки любого профиля?
 
