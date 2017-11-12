@@ -34,3 +34,16 @@ If you are interested in talking to the team, we are there on Discord. Feel free
 Join our Discord Server at: http://discord.me/cr_api.
 
 We are also available as [@CRPublicAPI](http://twitter.com/CRPublicAPI) on Twitter. Feel free to drop in a line wherever it is easiest for you. Twitter would be the best place for you to stay updated with latest news, features and releases regarding cr-api.
+
+## Authors
+
+<table>
+<tr>
+<td><a target="_blank" href="https://github.com/selfish"><img src="https://avatars0.githubusercontent.com/u/7327741" height=80px"></a></td>
+<td><a target="_blank" href="https://github.com/smlbiobot"><img src="https://avatars1.githubusercontent.com/u/25040297" height=80px"></a></td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" href="https://github.com/selfish">Selfish</a></td>
+<td align="center"><a target="_blank" href="https://github.com/smlbiobot">smlbiobot</a></td>
+</tr>
+</table>
