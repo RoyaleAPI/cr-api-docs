@@ -6,6 +6,8 @@
     - [Top Clans](/clans/top_clans.md)
     - [Single Clan](/clans/single_clan.md)
     - [Multiple Clans](/clans/multiple_clans.md)
+- Leaderboard
+    - [Top Players](/leaderboard/top_players.md)
 - Info
     - [Constants](/info/constants.md)
     - [Version](/info/version.md)
