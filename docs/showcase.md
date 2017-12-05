@@ -21,6 +21,7 @@ Name | Author | Description
 [cr-selfstats](http://github.com/kwugfighter/cr-selfstats) | [kwugfigher](http://github.com/kwugfighter) | Clash Royale selfbot dedicated to getting your CR stats.
 [Crown Stats (Bot)](https://m.me/CrownStats) | kamaelxiii |  A Clash Royale Statistics bot for Facebook Messenger Platform.
 [Fayssalbot](http://www.fayssalbot.ml/) | [fayssalz59 (FayssalZ)](http://github.com/fayssalz59) | A French Discord bot with many features (e.g. moderation, utilities) as well as Clash Royale and Clash of Clans commands.
+[Gearz](http://github.com/Innovative-creators/Gearz) | [Froosty Aka TheLearneer](https://github.com/TheLearneer) | A multipurpose bot with music, fun, moderation, and many more things, and especially Clash Royale commands.
 [RoyaleStats](https://github.com/akaminetzkyp/RoyaleStats) | [akaminetzkyp](https://github.com/akaminetzkyp) | Clan info logging.
 [Statsy](https://github.com/cgrok/statsy) |  [verixx](https://github.com/verixx), [kwugfighter](https://github.com/kwugfighter), [fourjr](https://github.com/fourjr) | Clash Royale Stats Discord Bot - Written in python using discord.py, crasync and cr-api.com
 [stusarmybot](https://github.com/fourjr/stusarmybot) | [4JR  (fourjr)](http://github.com/fourjr) | Discord Bot to track statistics for a clan family.
