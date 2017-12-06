@@ -1,5 +1,7 @@
 #  Authentication
 
+!> IMPORTANT: This is not live. We will make an announcement about it when it is live.
+
 Starting from version TBD, all API requests must be accompanied by a developer key. This key is a unique identifier to an individual developer and you should not share it with anyone else.
 
 ## Key Management
