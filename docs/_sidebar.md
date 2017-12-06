@@ -1,4 +1,5 @@
 - [Introduction](/README.md)
+- [Authentication](/authentication.md)
 - Profile
     - [Profile](/profile/profile.md)
     - [Multiple Profiles](/profile/multiple_profiles.md)
