@@ -6,7 +6,7 @@ Starting from version TBD, all API requests must be accompanied by a developer k
 
 ###  Generating new keys
 
-You can obtain and manage your developer key on [our discord server](http://disocrd.me/cr_api).
+You can obtain and manage your developer key on [our discord server](http://discord.me/cr_api).
 
 1. Go to the #developer-key channel.
 2. Type `!crapikey get`
