@@ -1,6 +1,6 @@
 #  Authentication
 
-!> IMPORTANT: This is not live. We will make an announcement about it when it is live.
+!> IMPORTANT: This is not live. We will make an announcement about it when it is live. Mechanism on how to use your developer key to make requests will be added when the details are known. Stay tuned.
 
 Starting from version TBD, all API requests must be accompanied by a developer key. This key is a unique identifier to an individual developer and you should not share it with anyone else.
 
