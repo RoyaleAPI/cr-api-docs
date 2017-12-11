@@ -26,7 +26,7 @@ Name | Author | Description
 [Gearz](http://github.com/Innovative-creators/Gearz) | [Froosty Aka TheLearneer](https://github.com/TheLearneer) | A multipurpose bot with music, fun, moderation, and many more things, and especially Clash Royale commands.
 [Orion eSports Ranking Website](http://orionesportsbr.com/ranking/raw-leaderboard/mobile-ranking) + [Android App](http://play.google.com/store/apps/details?id=com.wOrioneSports) | [Vitor Hugo Welzel](https://github.com/welzel855) | An app and website that shows the trophies ranking for the clan family, and the interim season prizes.
 [RoyaleStats](https://github.com/akaminetzkyp/RoyaleStats) | [akaminetzkyp](https://github.com/akaminetzkyp) | Clan info logging.
-[Statsy](http://statsy.ml/) |  [kyb3r](https://github.com/kyb3r), [kwugfighter](https://github.com/kwugfighter), [fourjr](https://github.com/fourjr) | Clash Royale Stats Discord Bot - Written in python using discord.py and cr-api.com
+[Statsy](http://statsy.ml/) |  [kyb3r](https://github.com/kyb3r), [kwugfighter](https://github.com/kwugfighter), [fourjr](https://github.com/fourjr) | Clash Royale Stats Discord Bot - Written in python using discord.py and cr-api.com`
 [stusarmybot](https://github.com/fourjr/stusarmybot) | [4JR  (fourjr)](http://github.com/fourjr) | Discord Bot to track statistics for a clan family.
 [Ultimate Clash Royale Tracker](https://play.google.com/store/apps/details?id=eu.tudor.ultimatechesttrackerforclash) | Tudorr (XDDK) | Android chest tracker app.
 

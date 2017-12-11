@@ -4,6 +4,17 @@
 
 Starting from version TBD, all API requests must be accompanied by a developer key. This key is a unique identifier to an individual developer and you should not share it with anyone else.
 
+
+## Authenticated Requests
+
+Add `auth=<token>` to your API requests to authenticate them. For example:
+
+Name | Value
+--- | ---
+Your developer key | `a123b4567`
+API request URL | `http://api.cr-api.com/clan/2cccp`
+API request URL with developer key | `http://api.cr-api.com/clan/2cccp?auth=a123b4567`
+
 ## Key Management
 
 ###  Generating new keys
