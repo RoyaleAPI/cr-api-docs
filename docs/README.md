@@ -2,13 +2,15 @@
 
 <img width="30%" height="30%" src="https://raw.githubusercontent.com/cr-api/cr-api-docs/master/docs/img/cr-api-logo-b.png">
 
-Welcome to the Clash Royale API! You can use our API to access Clash Royale API endpoints, which can get information about Clash Royale. 
+Welcome to the Clash Royale API! You can use our API to access Clash Royale API endpoints, which can get information about Clash Royale.
 
 You can see implementations of this API in [Showcase](showcase.md) by third-party developers and on our web site: http://cr-api.com
 
 [Wrappers](showcase.md?id=wrapper) in multiple languages are also available.
 
 !> We are currently in alpha pre-release. The JSON structure may change over time. Please follow our [Twitter](http://twitter.com/CRPublicAPI) or join our [Discord](http://discord.me/cr_api) server for important updates.
+
+!> December 12th, 2017. The latest client update has prevented our API server to fetch data using  existing methods. We are still making efforts to get the service running again, but since we have no solution, we regret that we also do not have an ETA. Thank you for your patience and understanding.
 
 ## Documentation
 
