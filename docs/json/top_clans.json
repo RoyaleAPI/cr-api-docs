@@ -1,0 +1,2802 @@
+[
+    {
+        "tag": "LCVUYCR",
+        "name": "Nova eSports",
+        "score": 57866,
+        "memberCount": 50,
+        "rank": 1,
+        "previousRank": 1,
+        "badge": 16000044,
+        "location": {
+            "name": "International",
+            "isCountry": false,
+            "code": "_INT"
+        }
+    },
+    {
+        "tag": "8VRJC2V2",
+        "name": "风暴",
+        "score": 56904,
+        "memberCount": 50,
+        "rank": 2,
+        "previousRank": 2,
+        "badge": 16000097,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "8R8YULRJ",
+        "name": "Sandstorm",
+        "score": 56499,
+        "memberCount": 49,
+        "rank": 3,
+        "previousRank": 4,
+        "badge": 16000097,
+        "location": {
+            "name": "International",
+            "isCountry": false,
+            "code": "_INT"
+        }
+    },
+    {
+        "tag": "2LRU2J",
+        "name": "Crucible Wrath",
+        "score": 55710,
+        "memberCount": 50,
+        "rank": 4,
+        "previousRank": 3,
+        "badge": 16000002,
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "8G9VY92",
+        "name": "上海 OP Elite",
+        "score": 55396,
+        "memberCount": 50,
+        "rank": 5,
+        "previousRank": 6,
+        "badge": 16000000,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "RVL2PQQ",
+        "name": "Nova l 大唐天子",
+        "score": 54413,
+        "memberCount": 46,
+        "rank": 6,
+        "previousRank": 5,
+        "badge": 16000044,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "29QLGL28",
+        "name": "Mega Stars",
+        "score": 54187,
+        "memberCount": 48,
+        "rank": 7,
+        "previousRank": 7,
+        "badge": 16000020,
+        "location": {
+            "name": "India",
+            "isCountry": true,
+            "code": "IN"
+        }
+    },
+    {
+        "tag": "88UGGYG",
+        "name": "Nova l NA",
+        "score": 53738,
+        "memberCount": 48,
+        "rank": 8,
+        "previousRank": 17,
+        "badge": 16000044,
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "8YGRJ8GG",
+        "name": "Nova I Iran",
+        "score": 53675,
+        "memberCount": 50,
+        "rank": 9,
+        "previousRank": 11,
+        "badge": 16000044,
+        "location": {
+            "name": "Iran",
+            "isCountry": true,
+            "code": "IR"
+        }
+    },
+    {
+        "tag": "82V9V",
+        "name": "Munich Warriors",
+        "score": 53455,
+        "memberCount": 50,
+        "rank": 10,
+        "previousRank": 9,
+        "badge": 16000004,
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "82YYQR98",
+        "name": "Sandstorm Kw",
+        "score": 53402,
+        "memberCount": 50,
+        "rank": 11,
+        "previousRank": 13,
+        "badge": 16000097,
+        "location": {
+            "name": "Kuwait",
+            "isCountry": true,
+            "code": "KW"
+        }
+    },
+    {
+        "tag": "90R9VPP9",
+        "name": "North Rebellion",
+        "score": 53385,
+        "memberCount": 48,
+        "rank": 12,
+        "previousRank": 8,
+        "badge": 16000169,
+        "location": {
+            "name": "Canada",
+            "isCountry": true,
+            "code": "CA"
+        }
+    },
+    {
+        "tag": "2CQQVQCU",
+        "name": "Nova l Hispania",
+        "score": 53052,
+        "memberCount": 50,
+        "rank": 13,
+        "previousRank": 23,
+        "badge": 16000044,
+        "location": {
+            "name": "Mexico",
+            "isCountry": true,
+            "code": "MX"
+        }
+    },
+    {
+        "tag": "JVRPGV8",
+        "name": "Nova l Brazil",
+        "score": 52808,
+        "memberCount": 46,
+        "rank": 14,
+        "previousRank": 10,
+        "badge": 16000044,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "8PCCV9PQ",
+        "name": "Sandstorm Arb",
+        "score": 52737,
+        "memberCount": 50,
+        "rank": 15,
+        "previousRank": 18,
+        "badge": 16000097,
+        "location": {
+            "name": "International",
+            "isCountry": false,
+            "code": "_INT"
+        }
+    },
+    {
+        "tag": "8V00U2RJ",
+        "name": "Star Alliance",
+        "score": 52666,
+        "memberCount": 47,
+        "rank": 16,
+        "previousRank": 12,
+        "badge": 16000040,
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "8VG2C9CJ",
+        "name": "Nova FrenchArmy",
+        "score": 52423,
+        "memberCount": 49,
+        "rank": 17,
+        "previousRank": 15,
+        "badge": 16000044,
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "2CL8RCC0",
+        "name": "Orion eSports",
+        "score": 52355,
+        "memberCount": 50,
+        "rank": 18,
+        "previousRank": 29,
+        "badge": 16000023,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "8RJQU9CU",
+        "name": "Deep swamp",
+        "score": 52349,
+        "memberCount": 49,
+        "rank": 19,
+        "previousRank": 34,
+        "badge": 16000139,
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "8G9U0PU0",
+        "name": "Sandstorm BR",
+        "score": 52302,
+        "memberCount": 44,
+        "rank": 20,
+        "previousRank": 16,
+        "badge": 16000097,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "90RJGVGJ",
+        "name": "Revolution™",
+        "score": 52268,
+        "memberCount": 48,
+        "rank": 21,
+        "previousRank": 14,
+        "badge": 16000093,
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "8R2C0G9Y",
+        "name": "GloryMakersNova",
+        "score": 52207,
+        "memberCount": 49,
+        "rank": 22,
+        "previousRank": 20,
+        "badge": 16000044,
+        "location": {
+            "name": "Saudi Arabia",
+            "isCountry": true,
+            "code": "SA"
+        }
+    },
+    {
+        "tag": "8Q8R9LQ0",
+        "name": "Boréal ★ MG",
+        "score": 52207,
+        "memberCount": 50,
+        "rank": 23,
+        "previousRank": 28,
+        "badge": 16000122,
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "92LLJ828",
+        "name": "Nova I Korea",
+        "score": 52089,
+        "memberCount": 49,
+        "rank": 24,
+        "previousRank": 31,
+        "badge": 16000044,
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "V0U",
+        "name": "ジェンコ・オリーブ商会",
+        "score": 52042,
+        "memberCount": 49,
+        "rank": 25,
+        "previousRank": 22,
+        "badge": 16000054,
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "8YLJ8UL2",
+        "name": "Nova I EG",
+        "score": 52041,
+        "memberCount": 46,
+        "rank": 26,
+        "previousRank": 19,
+        "badge": 16000044,
+        "location": {
+            "name": "International",
+            "isCountry": false,
+            "code": "_INT"
+        }
+    },
+    {
+        "tag": "8LQ2P0RL",
+        "name": "龍溪CR",
+        "score": 51893,
+        "memberCount": 45,
+        "rank": 27,
+        "previousRank": 21,
+        "badge": 16000012,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "8CRU0LPL",
+        "name": "GulfNation™",
+        "score": 51825,
+        "memberCount": 47,
+        "rank": 28,
+        "previousRank": 33,
+        "badge": 16000043,
+        "location": {
+            "name": "United Arab Emirates",
+            "isCountry": true,
+            "code": "AE"
+        }
+    },
+    {
+        "tag": "80U9VQU8",
+        "name": "Sandstorm Ru",
+        "score": 51792,
+        "memberCount": 49,
+        "rank": 29,
+        "previousRank": 27,
+        "badge": 16000097,
+        "location": {
+            "name": "Russia",
+            "isCountry": true,
+            "code": "RU"
+        }
+    },
+    {
+        "tag": "8YYRQY8J",
+        "name": "Sandstorm IRQ",
+        "score": 51786,
+        "memberCount": 49,
+        "rank": 30,
+        "previousRank": 42,
+        "badge": 16000097,
+        "location": {
+            "name": "Iraq",
+            "isCountry": true,
+            "code": "IQ"
+        }
+    },
+    {
+        "tag": "2CCCP",
+        "name": "Reddit Alpha",
+        "score": 51779,
+        "memberCount": 47,
+        "rank": 31,
+        "previousRank": 30,
+        "badge": 16000167,
+        "location": {
+            "name": "Christmas Island",
+            "isCountry": true,
+            "code": "CX"
+        }
+    },
+    {
+        "tag": "2UP8R99Y",
+        "name": "Nova l Potenza",
+        "score": 51762,
+        "memberCount": 50,
+        "rank": 32,
+        "previousRank": 50,
+        "badge": 16000044,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "2CPU92VC",
+        "name": "Omega Squadron",
+        "score": 51733,
+        "memberCount": 49,
+        "rank": 33,
+        "previousRank": 26,
+        "badge": 16000165,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "VQ9CGR0",
+        "name": "Caju Royale",
+        "score": 51722,
+        "memberCount": 50,
+        "rank": 34,
+        "previousRank": 32,
+        "badge": 16000141,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "20QRPR98",
+        "name": "薛家军",
+        "score": 51640,
+        "memberCount": 47,
+        "rank": 35,
+        "previousRank": 40,
+        "badge": 16000162,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "29YY8L89",
+        "name": "娱乐至上",
+        "score": 51618,
+        "memberCount": 46,
+        "rank": 36,
+        "previousRank": 25,
+        "badge": 16000128,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "Y2RGQPJ",
+        "name": "Fusion™",
+        "score": 51595,
+        "memberCount": 47,
+        "rank": 37,
+        "previousRank": 43,
+        "badge": 16000164,
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "22UYUJ9V",
+        "name": "ENIGMA",
+        "score": 51468,
+        "memberCount": 49,
+        "rank": 38,
+        "previousRank": 51,
+        "badge": 16000004,
+        "location": {
+            "name": "Russia",
+            "isCountry": true,
+            "code": "RU"
+        }
+    },
+    {
+        "tag": "CV0YVU",
+        "name": "大阪クラン",
+        "score": 51466,
+        "memberCount": 50,
+        "rank": 39,
+        "previousRank": 45,
+        "badge": 16000050,
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "Q0JJUQG",
+        "name": "White Waltz",
+        "score": 51408,
+        "memberCount": 47,
+        "rank": 40,
+        "previousRank": 69,
+        "badge": 16000110,
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "LQ9YR",
+        "name": "SENTRY",
+        "score": 51328,
+        "memberCount": 48,
+        "rank": 41,
+        "previousRank": 41,
+        "badge": 16000020,
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "82PPJUU8",
+        "name": "Made In Egypt ™",
+        "score": 51245,
+        "memberCount": 48,
+        "rank": 42,
+        "previousRank": 48,
+        "badge": 16000096,
+        "location": {
+            "name": "Egypt",
+            "isCountry": true,
+            "code": "EG"
+        }
+    },
+    {
+        "tag": "8PVYCRJR",
+        "name": "Assassins Crew™",
+        "score": 51222,
+        "memberCount": 44,
+        "rank": 43,
+        "previousRank": 24,
+        "badge": 16000154,
+        "location": {
+            "name": "Chile",
+            "isCountry": true,
+            "code": "CL"
+        }
+    },
+    {
+        "tag": "PQJ2Y",
+        "name": "RoyaleConQueso",
+        "score": 51180,
+        "memberCount": 49,
+        "rank": 44,
+        "previousRank": 35,
+        "badge": 16000013,
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "989CPY8C",
+        "name": "Sandstorm PL™",
+        "score": 51164,
+        "memberCount": 47,
+        "rank": 45,
+        "previousRank": 38,
+        "badge": 16000097,
+        "location": {
+            "name": "Poland",
+            "isCountry": true,
+            "code": "PL"
+        }
+    },
+    {
+        "tag": "UU9L",
+        "name": "きくすいコーポ",
+        "score": 51153,
+        "memberCount": 50,
+        "rank": 46,
+        "previousRank": 56,
+        "badge": 16000119,
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "8QCVG8VG",
+        "name": "JSG I 廣州",
+        "score": 51124,
+        "memberCount": 50,
+        "rank": 47,
+        "previousRank": 55,
+        "badge": 16000129,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "92LCY22C",
+        "name": "Sandstorm UAE",
+        "score": 51078,
+        "memberCount": 45,
+        "rank": 48,
+        "previousRank": 46,
+        "badge": 16000097,
+        "location": {
+            "name": "United Arab Emirates",
+            "isCountry": true,
+            "code": "AE"
+        }
+    },
+    {
+        "tag": "8C88C2",
+        "name": "Кузькина Мать",
+        "score": 50996,
+        "memberCount": 48,
+        "rank": 49,
+        "previousRank": 37,
+        "badge": 16000077,
+        "location": {
+            "name": "Russia",
+            "isCountry": true,
+            "code": "RU"
+        }
+    },
+    {
+        "tag": "GJJRJUR",
+        "name": "80.90【集中赢】",
+        "score": 50940,
+        "memberCount": 49,
+        "rank": 50,
+        "previousRank": 62,
+        "badge": 16000111,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "8GUJ9J8G",
+        "name": "Omega™ITLegends",
+        "score": 50940,
+        "memberCount": 50,
+        "rank": 51,
+        "previousRank": 63,
+        "badge": 16000042,
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "9982P8UY",
+        "name": "PACUCO ARRIBA",
+        "score": 50931,
+        "memberCount": 50,
+        "rank": 52,
+        "previousRank": 4138,
+        "badge": 16000098,
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "YQVJ9L",
+        "name": "Die Tafelrunde",
+        "score": 50918,
+        "memberCount": 49,
+        "rank": 53,
+        "previousRank": 70,
+        "badge": 16000007,
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "8V00VRU0",
+        "name": "100% VIP™",
+        "score": 50911,
+        "memberCount": 45,
+        "rank": 54,
+        "previousRank": 39,
+        "badge": 16000002,
+        "location": {
+            "name": "Mexico",
+            "isCountry": true,
+            "code": "MX"
+        }
+    },
+    {
+        "tag": "80LC8228",
+        "name": "Les Vilains !",
+        "score": 50885,
+        "memberCount": 50,
+        "rank": 55,
+        "previousRank": 81,
+        "badge": 16000108,
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "LVL8GP8",
+        "name": "Munich Fighters",
+        "score": 50885,
+        "memberCount": 50,
+        "rank": 56,
+        "previousRank": 53,
+        "badge": 16000004,
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "2J8VQPLP",
+        "name": "paiN Gaming",
+        "score": 50834,
+        "memberCount": 49,
+        "rank": 57,
+        "previousRank": 61,
+        "badge": 16000015,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "8GG8YGP0",
+        "name": "OTK eSports",
+        "score": 50791,
+        "memberCount": 50,
+        "rank": 58,
+        "previousRank": 58,
+        "badge": 16000145,
+        "location": {
+            "name": "Guatemala",
+            "isCountry": true,
+            "code": "GT"
+        }
+    },
+    {
+        "tag": "8PLYP8V",
+        "name": "Nova I Canada",
+        "score": 50751,
+        "memberCount": 46,
+        "rank": 59,
+        "previousRank": 44,
+        "badge": 16000044,
+        "location": {
+            "name": "Canada",
+            "isCountry": true,
+            "code": "CA"
+        }
+    },
+    {
+        "tag": "2C9P8PJ2",
+        "name": "ME ELITE",
+        "score": 50745,
+        "memberCount": 50,
+        "rank": 60,
+        "previousRank": 82,
+        "badge": 16000003,
+        "location": {
+            "name": "Syria",
+            "isCountry": true,
+            "code": "SY"
+        }
+    },
+    {
+        "tag": "8QC8YQJC",
+        "name": "Nova I ARG",
+        "score": 50689,
+        "memberCount": 50,
+        "rank": 61,
+        "previousRank": 89,
+        "badge": 16000044,
+        "location": {
+            "name": "Argentina",
+            "isCountry": true,
+            "code": "AR"
+        }
+    },
+    {
+        "tag": "8LU8JUR8",
+        "name": "OldCheeseLegend",
+        "score": 50687,
+        "memberCount": 43,
+        "rank": 62,
+        "previousRank": 36,
+        "badge": 16000012,
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "8G0JC0GV",
+        "name": "Sandstorm KR",
+        "score": 50647,
+        "memberCount": 48,
+        "rank": 63,
+        "previousRank": 54,
+        "badge": 16000097,
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "8JYJC0UC",
+        "name": "Omega™PEKKATORI",
+        "score": 50637,
+        "memberCount": 47,
+        "rank": 64,
+        "previousRank": 64,
+        "badge": 16000042,
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "8L0QGGQ2",
+        "name": "Sandstorm Italy",
+        "score": 50624,
+        "memberCount": 47,
+        "rank": 65,
+        "previousRank": 103,
+        "badge": 16000097,
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "8QY2RU9G",
+        "name": "Sandstorm KSA",
+        "score": 50622,
+        "memberCount": 48,
+        "rank": 66,
+        "previousRank": 59,
+        "badge": 16000097,
+        "location": {
+            "name": "Saudi Arabia",
+            "isCountry": true,
+            "code": "SA"
+        }
+    },
+    {
+        "tag": "89QYUP90",
+        "name": "Sandstorm Fr",
+        "score": 50619,
+        "memberCount": 47,
+        "rank": 67,
+        "previousRank": 68,
+        "badge": 16000097,
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "2GJLCVJQ",
+        "name": "CRM eSports",
+        "score": 50570,
+        "memberCount": 50,
+        "rank": 68,
+        "previousRank": 112,
+        "badge": 16000050,
+        "location": {
+            "name": "Mexico",
+            "isCountry": true,
+            "code": "MX"
+        }
+    },
+    {
+        "tag": "V0GL8C8",
+        "name": "TeamLiquid VE",
+        "score": 50568,
+        "memberCount": 50,
+        "rank": 69,
+        "previousRank": 86,
+        "badge": 16000168,
+        "location": {
+            "name": "Venezuela",
+            "isCountry": true,
+            "code": "VE"
+        }
+    },
+    {
+        "tag": "8LG02LP2",
+        "name": "Leb Loob™",
+        "score": 50552,
+        "memberCount": 49,
+        "rank": 70,
+        "previousRank": 60,
+        "badge": 16000139,
+        "location": {
+            "name": "Lebanon",
+            "isCountry": true,
+            "code": "LB"
+        }
+    },
+    {
+        "tag": "8QQ8YRUV",
+        "name": "Phantoms Push",
+        "score": 50539,
+        "memberCount": 49,
+        "rank": 71,
+        "previousRank": 74,
+        "badge": 16000096,
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "22QP0LQ9",
+        "name": "Ad Astra",
+        "score": 50507,
+        "memberCount": 49,
+        "rank": 72,
+        "previousRank": 118,
+        "badge": 16000040,
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "V8PUJ",
+        "name": "AuRuM TV",
+        "score": 50507,
+        "memberCount": 48,
+        "rank": 73,
+        "previousRank": 80,
+        "badge": 16000012,
+        "location": {
+            "name": "Russia",
+            "isCountry": true,
+            "code": "RU"
+        }
+    },
+    {
+        "tag": "8R2LL0YJ",
+        "name": "Sandstorm BR™",
+        "score": 50500,
+        "memberCount": 48,
+        "rank": 74,
+        "previousRank": 72,
+        "badge": 16000097,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "LU0RQP8",
+        "name": "トレジャーハンター",
+        "score": 50499,
+        "memberCount": 48,
+        "rank": 75,
+        "previousRank": 84,
+        "badge": 16000098,
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "88GVV0QL",
+        "name": "MANGÚ™",
+        "score": 50455,
+        "memberCount": 47,
+        "rank": 76,
+        "previousRank": 115,
+        "badge": 16000171,
+        "location": {
+            "name": "Dominican Republic",
+            "isCountry": true,
+            "code": "DO"
+        }
+    },
+    {
+        "tag": "Q8YRPV",
+        "name": "Persian.gulf",
+        "score": 50443,
+        "memberCount": 50,
+        "rank": 77,
+        "previousRank": 76,
+        "badge": 16000068,
+        "location": {
+            "name": "Iran",
+            "isCountry": true,
+            "code": "IR"
+        }
+    },
+    {
+        "tag": "8GP8Y28R",
+        "name": "Mega Indonesia",
+        "score": 50441,
+        "memberCount": 50,
+        "rank": 78,
+        "previousRank": 66,
+        "badge": 16000020,
+        "location": {
+            "name": "Indonesia",
+            "isCountry": true,
+            "code": "ID"
+        }
+    },
+    {
+        "tag": "PGPV0GG",
+        "name": "잎새",
+        "score": 50432,
+        "memberCount": 46,
+        "rank": 79,
+        "previousRank": 71,
+        "badge": 16000170,
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "8CCQ2C8U",
+        "name": "MDL #SINCLUB",
+        "score": 50423,
+        "memberCount": 50,
+        "rank": 80,
+        "previousRank": 90,
+        "badge": 16000159,
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "2VL990UL",
+        "name": "Sandstorm USA",
+        "score": 50406,
+        "memberCount": 48,
+        "rank": 81,
+        "previousRank": 52,
+        "badge": 16000097,
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "LYR90J2",
+        "name": "༺ᏕᏢᏐᏒᏐᎢ ᎻᎪᎳᏦ༻",
+        "score": 50400,
+        "memberCount": 44,
+        "rank": 82,
+        "previousRank": 49,
+        "badge": 16000016,
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "8RCVQ0G2",
+        "name": "Nova l Forza",
+        "score": 50391,
+        "memberCount": 50,
+        "rank": 83,
+        "previousRank": 83,
+        "badge": 16000044,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "2GYJL2GQ",
+        "name": "Nova l JPN",
+        "score": 50385,
+        "memberCount": 48,
+        "rank": 84,
+        "previousRank": 616,
+        "badge": 16000044,
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "8C089098",
+        "name": "X-Fun",
+        "score": 50321,
+        "memberCount": 48,
+        "rank": 85,
+        "previousRank": 67,
+        "badge": 16000113,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "2Q9RGGVV",
+        "name": "Notorious",
+        "score": 50296,
+        "memberCount": 44,
+        "rank": 86,
+        "previousRank": 75,
+        "badge": 16000113,
+        "location": {
+            "name": "International",
+            "isCountry": false,
+            "code": "_INT"
+        }
+    },
+    {
+        "tag": "8RR89PUY",
+        "name": "Nova l Swiss",
+        "score": 50292,
+        "memberCount": 46,
+        "rank": 87,
+        "previousRank": 65,
+        "badge": 16000044,
+        "location": {
+            "name": "Switzerland",
+            "isCountry": true,
+            "code": "CH"
+        }
+    },
+    {
+        "tag": "2GP0L09",
+        "name": "上海 OP 千阳号",
+        "score": 50291,
+        "memberCount": 45,
+        "rank": 88,
+        "previousRank": 78,
+        "badge": 16000000,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "8GG8G2RU",
+        "name": "Heralds™",
+        "score": 50254,
+        "memberCount": 47,
+        "rank": 89,
+        "previousRank": 145,
+        "badge": 16000165,
+        "location": {
+            "name": "Costa Rica",
+            "isCountry": true,
+            "code": "CR"
+        }
+    },
+    {
+        "tag": "PLYVU2G",
+        "name": "Nova l Germany",
+        "score": 50225,
+        "memberCount": 49,
+        "rank": 90,
+        "previousRank": 102,
+        "badge": 16000044,
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "8QRULPPC",
+        "name": "GulfNation™ ITA",
+        "score": 50212,
+        "memberCount": 48,
+        "rank": 91,
+        "previousRank": 99,
+        "badge": 16000043,
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "YLYJ8",
+        "name": "Wi and Fi",
+        "score": 50192,
+        "memberCount": 46,
+        "rank": 92,
+        "previousRank": 91,
+        "badge": 16000168,
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "8RU0G892",
+        "name": "Brasil eSports",
+        "score": 50191,
+        "memberCount": 49,
+        "rank": 93,
+        "previousRank": 108,
+        "badge": 16000024,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "90PCLCUC",
+        "name": "风暴 【Destroy】",
+        "score": 50160,
+        "memberCount": 49,
+        "rank": 94,
+        "previousRank": 79,
+        "badge": 16000097,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "8PQQ0RVP",
+        "name": "Arena Quesito",
+        "score": 50111,
+        "memberCount": 48,
+        "rank": 95,
+        "previousRank": 92,
+        "badge": 16000013,
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "2JYGCRLL",
+        "name": "Crema Catalana",
+        "score": 50093,
+        "memberCount": 50,
+        "rank": 96,
+        "previousRank": 100,
+        "badge": 16000000,
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "29CPJ8Y0",
+        "name": "花言葉～Momo～",
+        "score": 50079,
+        "memberCount": 49,
+        "rank": 97,
+        "previousRank": 98,
+        "badge": 16000132,
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "8L2YPVRR",
+        "name": "SandStorm Dark",
+        "score": 50066,
+        "memberCount": 47,
+        "rank": 98,
+        "previousRank": 249,
+        "badge": 16000097,
+        "location": {
+            "name": "Honduras",
+            "isCountry": true,
+            "code": "HN"
+        }
+    },
+    {
+        "tag": "8JLVR9VV",
+        "name": "Nova I C.A",
+        "score": 50064,
+        "memberCount": 41,
+        "rank": 99,
+        "previousRank": 47,
+        "badge": 16000044,
+        "location": {
+            "name": "Guatemala",
+            "isCountry": true,
+            "code": "GT"
+        }
+    },
+    {
+        "tag": "8LQLVL8P",
+        "name": "Ghost eSports",
+        "score": 49993,
+        "memberCount": 50,
+        "rank": 100,
+        "previousRank": 232,
+        "badge": 16000002,
+        "location": {
+            "name": "Panama",
+            "isCountry": true,
+            "code": "PA"
+        }
+    },
+    {
+        "tag": "80Y0U9",
+        "name": "iran tehran",
+        "score": 49990,
+        "memberCount": 48,
+        "rank": 101,
+        "previousRank": 124,
+        "badge": 16000002,
+        "location": {
+            "name": "Iran",
+            "isCountry": true,
+            "code": "IR"
+        }
+    },
+    {
+        "tag": "99Y09VG2",
+        "name": "Supremos™",
+        "score": 49957,
+        "memberCount": 50,
+        "rank": 102,
+        "previousRank": 93,
+        "badge": 16000012,
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "8RU0JYQ8",
+        "name": "ارتش امام زمان",
+        "score": 49910,
+        "memberCount": 49,
+        "rank": 103,
+        "previousRank": 85,
+        "badge": 16000101,
+        "location": {
+            "name": "Iran",
+            "isCountry": true,
+            "code": "IR"
+        }
+    },
+    {
+        "tag": "9GJ89V",
+        "name": "ウエスト98cmの会",
+        "score": 49884,
+        "memberCount": 44,
+        "rank": 104,
+        "previousRank": 206,
+        "badge": 16000100,
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "8UL9R8VR",
+        "name": "[LGN] huntters",
+        "score": 49882,
+        "memberCount": 49,
+        "rank": 105,
+        "previousRank": 96,
+        "badge": 16000064,
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "2J2V00QP",
+        "name": "WhyWorry",
+        "score": 49869,
+        "memberCount": 50,
+        "rank": 106,
+        "previousRank": 215,
+        "badge": 16000170,
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "8RU0QRRC",
+        "name": "Epix N Impulse",
+        "score": 49859,
+        "memberCount": 43,
+        "rank": 107,
+        "previousRank": 77,
+        "badge": 16000019,
+        "location": {
+            "name": "North America",
+            "isCountry": false,
+            "code": "_NA"
+        }
+    },
+    {
+        "tag": "2JU290L9",
+        "name": "場內野豬搖滾區",
+        "score": 49854,
+        "memberCount": 47,
+        "rank": 108,
+        "previousRank": 94,
+        "badge": 16000165,
+        "location": {
+            "name": "Taiwan",
+            "isCountry": true,
+            "code": "TW"
+        }
+    },
+    {
+        "tag": "2YVQ2CG0",
+        "name": "LegendaryRivals",
+        "score": 49852,
+        "memberCount": 48,
+        "rank": 109,
+        "previousRank": 111,
+        "badge": 16000017,
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "GG2V89L",
+        "name": "RomaniaWarlords",
+        "score": 49822,
+        "memberCount": 49,
+        "rank": 110,
+        "previousRank": 121,
+        "badge": 16000020,
+        "location": {
+            "name": "Romania",
+            "isCountry": true,
+            "code": "RO"
+        }
+    },
+    {
+        "tag": "RGJ0C",
+        "name": "Hello Winner",
+        "score": 49811,
+        "memberCount": 46,
+        "rank": 111,
+        "previousRank": 123,
+        "badge": 16000068,
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "GJGQCGU",
+        "name": "Vietnam Glory",
+        "score": 49799,
+        "memberCount": 45,
+        "rank": 112,
+        "previousRank": 109,
+        "badge": 16000039,
+        "location": {
+            "name": "Vietnam",
+            "isCountry": true,
+            "code": "VN"
+        }
+    },
+    {
+        "tag": "PUUL9YY",
+        "name": "Rubinho's Army",
+        "score": 49782,
+        "memberCount": 49,
+        "rank": 113,
+        "previousRank": 142,
+        "badge": 16000165,
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "8RPPP90P",
+        "name": "COUNTING STARS",
+        "score": 49776,
+        "memberCount": 48,
+        "rank": 114,
+        "previousRank": 114,
+        "badge": 16000039,
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "PP289",
+        "name": "Phonecats",
+        "score": 49733,
+        "memberCount": 47,
+        "rank": 115,
+        "previousRank": 113,
+        "badge": 16000008,
+        "location": {
+            "name": "International",
+            "isCountry": false,
+            "code": "_INT"
+        }
+    },
+    {
+        "tag": "8L08JG2V",
+        "name": "Critical Gaming",
+        "score": 49706,
+        "memberCount": 45,
+        "rank": 116,
+        "previousRank": 120,
+        "badge": 16000165,
+        "location": {
+            "name": "Chile",
+            "isCountry": true,
+            "code": "CL"
+        }
+    },
+    {
+        "tag": "8LLL0R2J",
+        "name": "Revolution™2.0",
+        "score": 49696,
+        "memberCount": 50,
+        "rank": 117,
+        "previousRank": 117,
+        "badge": 16000093,
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "8L8C2VJQ",
+        "name": "Karmes PDF",
+        "score": 49689,
+        "memberCount": 48,
+        "rank": 118,
+        "previousRank": 107,
+        "badge": 16000029,
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "9RPQU0",
+        "name": "BigDelt∆",
+        "score": 49686,
+        "memberCount": 50,
+        "rank": 119,
+        "previousRank": 138,
+        "badge": 16000051,
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "C0QQ22J",
+        "name": "Nova ITA",
+        "score": 49662,
+        "memberCount": 48,
+        "rank": 120,
+        "previousRank": 88,
+        "badge": 16000044,
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "8Q09RJ00",
+        "name": "娱乐至巅❤️冠绝一时",
+        "score": 49658,
+        "memberCount": 49,
+        "rank": 121,
+        "previousRank": 199,
+        "badge": 16000128,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "2JPPJQ",
+        "name": "Hebrew Hammer™",
+        "score": 49649,
+        "memberCount": 50,
+        "rank": 122,
+        "previousRank": 116,
+        "badge": 16000164,
+        "location": {
+            "name": "Israel",
+            "isCountry": true,
+            "code": "IL"
+        }
+    },
+    {
+        "tag": "8YLQY0",
+        "name": "The Royales",
+        "score": 49642,
+        "memberCount": 50,
+        "rank": 123,
+        "previousRank": 144,
+        "badge": 16000015,
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "8YVV9YUR",
+        "name": "Veterans Élite™",
+        "score": 49639,
+        "memberCount": 48,
+        "rank": 124,
+        "previousRank": 127,
+        "badge": 16000036,
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "2QG0LPRY",
+        "name": "Mega India",
+        "score": 49636,
+        "memberCount": 50,
+        "rank": 125,
+        "previousRank": 125,
+        "badge": 16000020,
+        "location": {
+            "name": "India",
+            "isCountry": true,
+            "code": "IN"
+        }
+    },
+    {
+        "tag": "89QC0GYJ",
+        "name": "Sandstorm Latam",
+        "score": 49622,
+        "memberCount": 49,
+        "rank": 126,
+        "previousRank": 173,
+        "badge": 16000097,
+        "location": {
+            "name": "Argentina",
+            "isCountry": true,
+            "code": "AR"
+        }
+    },
+    {
+        "tag": "8VJQ0U9",
+        "name": "Half Baked™",
+        "score": 49582,
+        "memberCount": 42,
+        "rank": 127,
+        "previousRank": 87,
+        "badge": 16000021,
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "2LR02ULG",
+        "name": "Nova大唐 l 禁卫军",
+        "score": 49542,
+        "memberCount": 50,
+        "rank": 128,
+        "previousRank": 149,
+        "badge": 16000044,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "90V02GQQ",
+        "name": "Mega l Surge",
+        "score": 49542,
+        "memberCount": 49,
+        "rank": 129,
+        "previousRank": 126,
+        "badge": 16000020,
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "22PGG82Q",
+        "name": "UAE LEGENDS",
+        "score": 49515,
+        "memberCount": 49,
+        "rank": 130,
+        "previousRank": 130,
+        "badge": 16000009,
+        "location": {
+            "name": "United Arab Emirates",
+            "isCountry": true,
+            "code": "AE"
+        }
+    },
+    {
+        "tag": "22LCR",
+        "name": "V.N Champions",
+        "score": 49508,
+        "memberCount": 47,
+        "rank": 131,
+        "previousRank": 148,
+        "badge": 16000169,
+        "location": {
+            "name": "Vietnam",
+            "isCountry": true,
+            "code": "VN"
+        }
+    },
+    {
+        "tag": "2JVJRYP",
+        "name": "Nova l UK",
+        "score": 49500,
+        "memberCount": 46,
+        "rank": 132,
+        "previousRank": 119,
+        "badge": 16000044,
+        "location": {
+            "name": "United Kingdom",
+            "isCountry": true,
+            "code": "GB"
+        }
+    },
+    {
+        "tag": "CYCJJLG",
+        "name": "Nova Turkey",
+        "score": 49496,
+        "memberCount": 45,
+        "rank": 133,
+        "previousRank": 110,
+        "badge": 16000044,
+        "location": {
+            "name": "Turkey",
+            "isCountry": true,
+            "code": "TR"
+        }
+    },
+    {
+        "tag": "P9QRRCG",
+        "name": "CLASH CHAMPIONS",
+        "score": 49478,
+        "memberCount": 48,
+        "rank": 134,
+        "previousRank": 135,
+        "badge": 16000007,
+        "location": {
+            "name": "North America",
+            "isCountry": false,
+            "code": "_NA"
+        }
+    },
+    {
+        "tag": "929092",
+        "name": "RoyaleSinQueso",
+        "score": 49460,
+        "memberCount": 48,
+        "rank": 135,
+        "previousRank": 128,
+        "badge": 16000013,
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "2JYY2GR8",
+        "name": "Emporio eSports",
+        "score": 49451,
+        "memberCount": 48,
+        "rank": 136,
+        "previousRank": 137,
+        "badge": 16000077,
+        "location": {
+            "name": "Mexico",
+            "isCountry": true,
+            "code": "MX"
+        }
+    },
+    {
+        "tag": "2GUPURPV",
+        "name": "Nova l Imperio",
+        "score": 49434,
+        "memberCount": 43,
+        "rank": 137,
+        "previousRank": 175,
+        "badge": 16000044,
+        "location": {
+            "name": "Mexico",
+            "isCountry": true,
+            "code": "MX"
+        }
+    },
+    {
+        "tag": "8JQQP8UL",
+        "name": "HK@852 l Nova",
+        "score": 49422,
+        "memberCount": 46,
+        "rank": 138,
+        "previousRank": 172,
+        "badge": 16000044,
+        "location": {
+            "name": "Hong Kong",
+            "isCountry": true,
+            "code": "HK"
+        }
+    },
+    {
+        "tag": "8QLVV00V",
+        "name": "TÜRKİYE",
+        "score": 49420,
+        "memberCount": 46,
+        "rank": 139,
+        "previousRank": 73,
+        "badge": 16000030,
+        "location": {
+            "name": "Turkey",
+            "isCountry": true,
+            "code": "TR"
+        }
+    },
+    {
+        "tag": "922VCJ",
+        "name": "Orange Juice",
+        "score": 49416,
+        "memberCount": 48,
+        "rank": 140,
+        "previousRank": 97,
+        "badge": 16000140,
+        "location": {
+            "name": "Canada",
+            "isCountry": true,
+            "code": "CA"
+        }
+    },
+    {
+        "tag": "VJYGYL",
+        "name": "Golems Vendetta",
+        "score": 49406,
+        "memberCount": 46,
+        "rank": 141,
+        "previousRank": 166,
+        "badge": 16000176,
+        "location": {
+            "name": "Colombia",
+            "isCountry": true,
+            "code": "CO"
+        }
+    },
+    {
+        "tag": "8ULG9JCR",
+        "name": "Killer Clowns™",
+        "score": 49398,
+        "memberCount": 49,
+        "rank": 142,
+        "previousRank": 237,
+        "badge": 16000169,
+        "location": {
+            "name": "Mexico",
+            "isCountry": true,
+            "code": "MX"
+        }
+    },
+    {
+        "tag": "LGPC2UR",
+        "name": "winchesters",
+        "score": 49396,
+        "memberCount": 46,
+        "rank": 143,
+        "previousRank": 104,
+        "badge": 16000144,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "29LPY",
+        "name": "WoT",
+        "score": 49393,
+        "memberCount": 47,
+        "rank": 144,
+        "previousRank": 139,
+        "badge": 16000008,
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "9Q2R0C0V",
+        "name": "Rising Night",
+        "score": 49389,
+        "memberCount": 50,
+        "rank": 145,
+        "previousRank": 159,
+        "badge": 16000122,
+        "location": {
+            "name": "Belgium",
+            "isCountry": true,
+            "code": "BE"
+        }
+    },
+    {
+        "tag": "2GRG0YR9",
+        "name": "UNITS",
+        "score": 49376,
+        "memberCount": 47,
+        "rank": 146,
+        "previousRank": 280,
+        "badge": 16000008,
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "CCUQ",
+        "name": "Husaria Polska",
+        "score": 49370,
+        "memberCount": 49,
+        "rank": 147,
+        "previousRank": 133,
+        "badge": 16000067,
+        "location": {
+            "name": "Poland",
+            "isCountry": true,
+            "code": "PL"
+        }
+    },
+    {
+        "tag": "82LQRL",
+        "name": "FiringRange",
+        "score": 49367,
+        "memberCount": 49,
+        "rank": 148,
+        "previousRank": 140,
+        "badge": 16000016,
+        "location": {
+            "name": "United Kingdom",
+            "isCountry": true,
+            "code": "GB"
+        }
+    },
+    {
+        "tag": "2U2GGQJ",
+        "name": "Reddit Bravo",
+        "score": 49349,
+        "memberCount": 47,
+        "rank": 149,
+        "previousRank": 129,
+        "badge": 16000167,
+        "location": {
+            "name": "Christmas Island",
+            "isCountry": true,
+            "code": "CX"
+        }
+    },
+    {
+        "tag": "J2Y98VL",
+        "name": "Pagoli",
+        "score": 49342,
+        "memberCount": 50,
+        "rank": 150,
+        "previousRank": 158,
+        "badge": 16000085,
+        "location": {
+            "name": "Iran",
+            "isCountry": true,
+            "code": "IR"
+        }
+    },
+    {
+        "tag": "2J2UYJG",
+        "name": "무궁화",
+        "score": 49325,
+        "memberCount": 48,
+        "rank": 151,
+        "previousRank": 176,
+        "badge": 16000132,
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "PGJUU9",
+        "name": "ARTIFICIEROSTOP",
+        "score": 49315,
+        "memberCount": 47,
+        "rank": 152,
+        "previousRank": 160,
+        "badge": 16000077,
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "QLJU8G",
+        "name": "29.10.1923",
+        "score": 49308,
+        "memberCount": 45,
+        "rank": 153,
+        "previousRank": 152,
+        "badge": 16000032,
+        "location": {
+            "name": "Turkey",
+            "isCountry": true,
+            "code": "TR"
+        }
+    },
+    {
+        "tag": "9PP29CJ2",
+        "name": "Vivo Keyd",
+        "score": 49303,
+        "memberCount": 49,
+        "rank": 154,
+        "previousRank": 106,
+        "badge": 16000162,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "LG0CC98",
+        "name": "VantaBlack",
+        "score": 49293,
+        "memberCount": 50,
+        "rank": 155,
+        "previousRank": 209,
+        "badge": 16000089,
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "2RYG90QL",
+        "name": "Tactical Tilt",
+        "score": 49290,
+        "memberCount": 50,
+        "rank": 156,
+        "previousRank": 171,
+        "badge": 16000096,
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "G2JR2QR",
+        "name": "白银帝国",
+        "score": 49289,
+        "memberCount": 50,
+        "rank": 157,
+        "previousRank": 157,
+        "badge": 16000029,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "2QPGU2GG",
+        "name": "Syndikaatti",
+        "score": 49278,
+        "memberCount": 49,
+        "rank": 158,
+        "previousRank": 146,
+        "badge": 16000063,
+        "location": {
+            "name": "Finland",
+            "isCountry": true,
+            "code": "FI"
+        }
+    },
+    {
+        "tag": "8C09UVUL",
+        "name": "100% Puro Gofio",
+        "score": 49270,
+        "memberCount": 50,
+        "rank": 159,
+        "previousRank": 132,
+        "badge": 16000040,
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "LVUUY0J",
+        "name": "AK Gaming",
+        "score": 49263,
+        "memberCount": 47,
+        "rank": 160,
+        "previousRank": 105,
+        "badge": 16000177,
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "YU2RQG9",
+        "name": "PandaScheme",
+        "score": 49258,
+        "memberCount": 50,
+        "rank": 161,
+        "previousRank": 167,
+        "badge": 16000139,
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "82PPURGV",
+        "name": "BrengiTitans",
+        "score": 49252,
+        "memberCount": 50,
+        "rank": 162,
+        "previousRank": 220,
+        "badge": 16000012,
+        "location": {
+            "name": "Israel",
+            "isCountry": true,
+            "code": "IL"
+        }
+    },
+    {
+        "tag": "P0Y9PJJ",
+        "name": "Munich Brawlers",
+        "score": 49240,
+        "memberCount": 49,
+        "rank": 163,
+        "previousRank": 134,
+        "badge": 16000004,
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "20JJCCG",
+        "name": "あかずきんのいえ",
+        "score": 49221,
+        "memberCount": 48,
+        "rank": 164,
+        "previousRank": 184,
+        "badge": 16000161,
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "8P9UV",
+        "name": "PH Alliance",
+        "score": 49220,
+        "memberCount": 50,
+        "rank": 165,
+        "previousRank": 178,
+        "badge": 16000087,
+        "location": {
+            "name": "Philippines",
+            "isCountry": true,
+            "code": "PH"
+        }
+    },
+    {
+        "tag": "8RYP2J",
+        "name": "대한민국•KOREA",
+        "score": 49201,
+        "memberCount": 49,
+        "rank": 166,
+        "previousRank": 183,
+        "badge": 16000126,
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "8QL99QYC",
+        "name": "Shorys Gaming",
+        "score": 49185,
+        "memberCount": 44,
+        "rank": 167,
+        "previousRank": 101,
+        "badge": 16000171,
+        "location": {
+            "name": "Guatemala",
+            "isCountry": true,
+            "code": "GT"
+        }
+    },
+    {
+        "tag": "28RLRYC",
+        "name": "SUPREMACIA BR",
+        "score": 49153,
+        "memberCount": 49,
+        "rank": 168,
+        "previousRank": 169,
+        "badge": 16000139,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "9GP09",
+        "name": "シュテルンリッター",
+        "score": 49150,
+        "memberCount": 47,
+        "rank": 169,
+        "previousRank": 122,
+        "badge": 16000044,
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "8GGC990V",
+        "name": "Nova l India",
+        "score": 49149,
+        "memberCount": 44,
+        "rank": 170,
+        "previousRank": 170,
+        "badge": 16000044,
+        "location": {
+            "name": "India",
+            "isCountry": true,
+            "code": "IN"
+        }
+    },
+    {
+        "tag": "V9GRG98",
+        "name": "Aura Gaming",
+        "score": 49147,
+        "memberCount": 44,
+        "rank": 171,
+        "previousRank": 193,
+        "badge": 16000020,
+        "location": {
+            "name": "Singapore",
+            "isCountry": true,
+            "code": "SG"
+        }
+    },
+    {
+        "tag": "JJCGC09",
+        "name": "朋友•皇族",
+        "score": 49134,
+        "memberCount": 50,
+        "rank": 172,
+        "previousRank": 156,
+        "badge": 16000171,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "9RY2R2",
+        "name": "Sentry 1.0",
+        "score": 49131,
+        "memberCount": 49,
+        "rank": 173,
+        "previousRank": 179,
+        "badge": 16000020,
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "9P80LGGG",
+        "name": "Sandstorm QTR",
+        "score": 49130,
+        "memberCount": 45,
+        "rank": 174,
+        "previousRank": 143,
+        "badge": 16000097,
+        "location": {
+            "name": "Qatar",
+            "isCountry": true,
+            "code": "QA"
+        }
+    },
+    {
+        "tag": "809JYLUP",
+        "name": "Latine eSports",
+        "score": 49127,
+        "memberCount": 48,
+        "rank": 175,
+        "previousRank": 189,
+        "badge": 16000167,
+        "location": {
+            "name": "Bolivia",
+            "isCountry": true,
+            "code": "BO"
+        }
+    },
+    {
+        "tag": "2PGCQV0L",
+        "name": "DESTROY",
+        "score": 49123,
+        "memberCount": 49,
+        "rank": 176,
+        "previousRank": 214,
+        "badge": 16000139,
+        "location": {
+            "name": "Russia",
+            "isCountry": true,
+            "code": "RU"
+        }
+    },
+    {
+        "tag": "2VQCY29G",
+        "name": "Nova l Nuggets",
+        "score": 49119,
+        "memberCount": 47,
+        "rank": 177,
+        "previousRank": 174,
+        "badge": 16000044,
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "8GV8GQGC",
+        "name": "x-GAME-OVER",
+        "score": 49116,
+        "memberCount": 49,
+        "rank": 178,
+        "previousRank": 163,
+        "badge": 16000096,
+        "location": {
+            "name": "Honduras",
+            "isCountry": true,
+            "code": "HN"
+        }
+    },
+    {
+        "tag": "Y0V2CV",
+        "name": "kuaizero_com",
+        "score": 49109,
+        "memberCount": 50,
+        "rank": 179,
+        "previousRank": 181,
+        "badge": 16000029,
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "8Y0LR8GU",
+        "name": "Nova I Iran 2",
+        "score": 49078,
+        "memberCount": 50,
+        "rank": 180,
+        "previousRank": 168,
+        "badge": 16000044,
+        "location": {
+            "name": "Iran",
+            "isCountry": true,
+            "code": "IR"
+        }
+    },
+    {
+        "tag": "92C82CRR",
+        "name": "SAMURAI™",
+        "score": 49077,
+        "memberCount": 47,
+        "rank": 181,
+        "previousRank": 305,
+        "badge": 16000117,
+        "location": {
+            "name": "Paraguay",
+            "isCountry": true,
+            "code": "PY"
+        }
+    },
+    {
+        "tag": "8LRG8UCQ",
+        "name": "яeвorn",
+        "score": 49074,
+        "memberCount": 50,
+        "rank": 182,
+        "previousRank": 186,
+        "badge": 16000036,
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "8GC288R2",
+        "name": "ODF Team",
+        "score": 49061,
+        "memberCount": 49,
+        "rank": 183,
+        "previousRank": 191,
+        "badge": 16000176,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "9V0GJ",
+        "name": "Realeza Latina",
+        "score": 49054,
+        "memberCount": 50,
+        "rank": 184,
+        "previousRank": 410,
+        "badge": 16000006,
+        "location": {
+            "name": "Mexico",
+            "isCountry": true,
+            "code": "MX"
+        }
+    },
+    {
+        "tag": "YVGRPQ8",
+        "name": "Kings Of IRAN",
+        "score": 49045,
+        "memberCount": 47,
+        "rank": 185,
+        "previousRank": 162,
+        "badge": 16000034,
+        "location": {
+            "name": "Iran",
+            "isCountry": true,
+            "code": "IR"
+        }
+    },
+    {
+        "tag": "2YUYU00P",
+        "name": "S.T.A.R.S.",
+        "score": 49025,
+        "memberCount": 48,
+        "rank": 186,
+        "previousRank": 239,
+        "badge": 16000040,
+        "location": {
+            "name": "Puerto Rico",
+            "isCountry": true,
+            "code": "PR"
+        }
+    },
+    {
+        "tag": "8QGV9Y9",
+        "name": "⚡️ C.N.A ⚡️",
+        "score": 49009,
+        "memberCount": 49,
+        "rank": 187,
+        "previousRank": 151,
+        "badge": 16000132,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "8Y22C298",
+        "name": "9DontKnow8",
+        "score": 48993,
+        "memberCount": 50,
+        "rank": 188,
+        "previousRank": 177,
+        "badge": 16000135,
+        "location": {
+            "name": "Hong Kong",
+            "isCountry": true,
+            "code": "HK"
+        }
+    },
+    {
+        "tag": "QG8CG8Q",
+        "name": "风林火山",
+        "score": 48976,
+        "memberCount": 49,
+        "rank": 189,
+        "previousRank": 241,
+        "badge": 16000125,
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "J8PL90P",
+        "name": "パリピジョンST",
+        "score": 48971,
+        "memberCount": 48,
+        "rank": 190,
+        "previousRank": 201,
+        "badge": 16000077,
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "GG8P9",
+        "name": "D.N.A. ITALY",
+        "score": 48971,
+        "memberCount": 48,
+        "rank": 191,
+        "previousRank": 150,
+        "badge": 16000081,
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "2GVJGLP0",
+        "name": "#2Fresh eSports",
+        "score": 48971,
+        "memberCount": 42,
+        "rank": 192,
+        "previousRank": 95,
+        "badge": 16000133,
+        "location": {
+            "name": "United Kingdom",
+            "isCountry": true,
+            "code": "GB"
+        }
+    },
+    {
+        "tag": "2GYLR",
+        "name": "Top Clan",
+        "score": 48969,
+        "memberCount": 49,
+        "rank": 193,
+        "previousRank": 164,
+        "badge": 16000020,
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "2C9Q0L90",
+        "name": "Aura.Nefarious",
+        "score": 48967,
+        "memberCount": 47,
+        "rank": 194,
+        "previousRank": 180,
+        "badge": 16000020,
+        "location": {
+            "name": "Malaysia",
+            "isCountry": true,
+            "code": "MY"
+        }
+    },
+    {
+        "tag": "8UVGQ8UQ",
+        "name": "Head of Büschel",
+        "score": 48962,
+        "memberCount": 49,
+        "rank": 195,
+        "previousRank": 222,
+        "badge": 16000142,
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "8UP0L9R",
+        "name": "若水千秋",
+        "score": 48950,
+        "memberCount": 48,
+        "rank": 196,
+        "previousRank": 281,
+        "badge": 16000140,
+        "location": {
+            "name": "Asia",
+            "isCountry": false,
+            "code": "_AS"
+        }
+    },
+    {
+        "tag": "8J9QJGYG",
+        "name": "Bm eSports™",
+        "score": 48946,
+        "memberCount": 46,
+        "rank": 197,
+        "previousRank": 271,
+        "badge": 16000165,
+        "location": {
+            "name": "Puerto Rico",
+            "isCountry": true,
+            "code": "PR"
+        }
+    },
+    {
+        "tag": "82CRQULY",
+        "name": "EVOLUTION",
+        "score": 48946,
+        "memberCount": 47,
+        "rank": 198,
+        "previousRank": 154,
+        "badge": 16000043,
+        "location": {
+            "name": "Indonesia",
+            "isCountry": true,
+            "code": "ID"
+        }
+    },
+    {
+        "tag": "8CPP8YQV",
+        "name": "Code In",
+        "score": 48912,
+        "memberCount": 50,
+        "rank": 199,
+        "previousRank": 190,
+        "badge": 16000155,
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "2VJYY82P",
+        "name": "MAD Lions E.C.",
+        "score": 48911,
+        "memberCount": 50,
+        "rank": 200,
+        "previousRank": 242,
+        "badge": 16000172,
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    }
+]
