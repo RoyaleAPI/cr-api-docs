@@ -1,11 +1,12 @@
 #  Authentication
 
-!> IMPORTANT: This is not live. We will make an announcement about it when it is live. Mechanism on how to use your developer key to make requests will be added when the details are known. Stay tuned.
-
-Starting from version TBD, all API requests must be accompanied by a developer key. This key is a unique identifier to an individual developer and you should not share it with anyone else.
-
+All API requests must be accompanied by a developer key. This key is a unique identifier to an individual developer and you should not share it with anyone else.
 
 ## Authenticated Requests
+
+We support the following methods for authenticating your requests
+
+### Query String
 
 Add `auth=<token>` to your API requests to authenticate them. For example:
 
@@ -14,6 +15,27 @@ Name | Value
 Your developer key | `a123b4567`
 API request URL | `http://api.cr-api.com/clan/2cccp`
 API request URL with developer key | `http://api.cr-api.com/clan/2cccp?auth=a123b4567`
+
+### Custom Header
+
+Add a key named `auth` with value `<token>` to your header when you make your requests.
+
+Here’s a Python code fragment for how to do this:
+
+```python
+headers = {"auth": "a123b4567"}
+try:
+    async with aiohttp.ClientSession() as session:
+        async with session.get(url, headers=headers) as resp:
+            if resp.status != 200:
+                error = True
+            else:
+                data = await resp.json()
+except json.decoder.JSONDecodeError:
+    raise
+except asyncio.TimeoutError:
+    raise
+```
 
 ## Key Management
 
@@ -31,11 +53,7 @@ To get a reminder of your developer key, visit the Discord channel above and typ
 
 ### Removing keys
 
-If you feel that your key may have been compromised, you may remove it and obtain a new one.
-
-1. Go to the #developer-key channel.
-2. Type `!crapikey remove` or `!crapikey rm`
-3. The bot will acknowledge your request if it is successful.
+If you feel that your key may have been compromised, please contact open an issue on [Github](http://github.com/cr-api/cr-api) and we will create a new one for you.
 
 ## Key Activation
 
