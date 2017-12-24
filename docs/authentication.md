@@ -4,7 +4,7 @@ All API requests must be accompanied by a developer key. This key is a unique id
 
 ## Authenticated Requests
 
-We support the following methods for authenticating your requests
+We support the following methods for authenticating your requests. Custom header is the recommended method. The query string method is mostly added for your convenience.
 
 ### Query String
 
@@ -20,7 +20,7 @@ API request URL with developer key | `http://api.cr-api.com/clan/2cccp?auth=a123
 
 Add a key named `auth` with value `<token>` to your header when you make your requests.
 
-Here’s a Python code fragment for how to do this:
+Here is a Python code fragment for how to do this:
 
 ```python
 headers = {"auth": "a123b4567"}
