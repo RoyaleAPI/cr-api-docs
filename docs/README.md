@@ -10,8 +10,6 @@ You can see implementations of this API in [Showcase](showcase.md) by third-part
 
 !> We are currently in alpha pre-release. The JSON structure may change over time. Please follow our [Twitter](http://twitter.com/CRPublicAPI) or join our [Discord](http://discord.me/cr_api) server for important updates.
 
-!> December 12th, 2017. The latest client update has prevented our API server to fetch data using  existing methods. We are still making efforts to get the service running again, but since we have no solution, we regret that we also do not have an ETA. Thank you for your patience and understanding.
-
 ## Documentation
 
 Endpoint | Example API URL | Example Implementation
