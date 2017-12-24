@@ -14,31 +14,44 @@ The above command returns JSON structured like this:
 
 ```json
 
-{
-    "lastUpdated": 1512094321480,
-    "players": [
-        {
-            "clan": {
-                "name": "Mafio$o$"
-            },
-            "country": "ZA",
-            "name": "sencerIsKing™",
-            "previousRank": 12,
-            "rank": 1,
-            "tag": "2LLJC0PJ",
-            "trophies": 6155
+[
+    {
+        "name": "AndreiK",
+        "tag": "2PCV808YJ",
+        "rank": 1,
+        "previousRank": 129,
+        "expLevel": 13,
+        "trophies": 6040,
+        "clan": {
+            "tag": "8R8YULRJ",
+            "name": "Sandstorm",
+            "badge": 16000097
         },
-        {
-            "clan": {
-                "name": "Mafio$o$"
-            },
-            "country": "FR",
-            "name": "⛔️NO PASARAN⛔️",
-            "previousRank": 37,
-            "rank": 2,
-            "tag": "G8R09PG8",
-            "trophies": 6131
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 18,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "yousefq822'",
+        "tag": "CC0CLGUC",
+        "rank": 2,
+        "previousRank": 2,
+        "expLevel": 13,
+        "trophies": 6018,
+        "clan": {
+            "tag": "82YYQR98",
+            "name": "Sandstorm Kw",
+            "badge": 16000097
         },
-    ]
-}
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 18,
+            "trophyLimit": 5800
+        }
+    },
+]
 ```
