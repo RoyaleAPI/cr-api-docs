@@ -24,6 +24,7 @@ Here is a Python code fragment for how to do this:
 
 ```python
 headers = {"auth": "a123b4567"}
+url = "http://api.cr-api.com/clan/2cccp"
 try:
     async with aiohttp.ClientSession() as session:
         async with session.get(url, headers=headers) as resp:
@@ -32,9 +33,15 @@ try:
             else:
                 data = await resp.json()
 except json.decoder.JSONDecodeError:
-    raise
+    pass
 except asyncio.TimeoutError:
-    raise
+    pass
+```
+
+Or with curl:
+
+```bash
+curl --header "auth: a123b4567" http://api.cr-api.com/clan/2cccp
 ```
 
 ## Key Management
