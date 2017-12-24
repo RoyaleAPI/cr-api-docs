@@ -1,5 +1,7 @@
 # Constants
 
+!> IMPORTANT: This endpoint has been removed since the latest update, but we will add it back soon. If you need to get to these right now, you can use https://github.com/cr-api/cr-api-data for JSON data and https://github.com/cr-api/cr-api-assets for image assets. Both repos are also hosted by Github pages so you can load these files directly as a URL. See respective repos for instructions. 
+
 This endpoint returns constants returned by the API. Top level objects include:
 
 - alliance (aka clan)
