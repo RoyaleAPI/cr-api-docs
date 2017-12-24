@@ -11,7 +11,6 @@ Language | Name | Author | Description
 C\# | [crapi-csharp-wrapper](https://github.com/SoptikHa2/crapi-csharp-wrapper/) | [SoptikHa2](http://github.com/SoptikHa2) | C\# Wrapper
 Java | [jcrapi](https://github.com/mlieshoff/jcrapi) | [mlieshoff (micah)](http://github.com/mlieshoff)  | Java wrapper
 Node.js | [cr.js](https://github.com/madebyKAI/cr.js) | [madebyKAI (Affinix)](https://github.com/madebyKAI) | Asynchronous Node.js wrapper
-Node.js | [croyale](https://github.com/TheLearneer/CRoyale/) ([npm](https://npmjs.com/package/croyale)) | [Froosty](https://github.com/TheLearneer) | Asyncrhonous Node.js wrapper
 PHP | [clash-royale-php](https://github.com/firegore2/clash-royale-php) | [Firegore](https://github.com/firegore2) | PHP 5.5+ wrapper
 Python | [cr-async](https://github.com/grokkers/cr-async) | [grokkers (verixx)](http://github.com/grokkers) [4JR  (fourjr)](http://github.com/fourjr) | Python async wrapper
 Python | [cr-py](https://github.com/kwugfighter/cr.py) | [kwugfigher](http://github.com/kwugfighter) | Python wrapper
