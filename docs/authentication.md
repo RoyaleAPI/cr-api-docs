@@ -100,7 +100,7 @@ $test = file_get_contents("http://api.cr-api.com/clan/2cccp",true, $context);
 
 We don’t generally recommend that you access the API on the client side as you will be exposing your token publicly. However, this is how you would do it with [jQuery](http://api.jquery.com/):
 
-```Javascript
+```javascript
 $.ajax({
     url: 'http://api.cr-api.com/clan/2cccp',
     headers: {auth: 'a123b4567'}
@@ -109,7 +109,7 @@ $.ajax({
 
 Better:
 
-```Javascript
+```javascript
 // Once:
 $.ajaxSetup({ headers: {auth: 'a123b4567'}});
 
