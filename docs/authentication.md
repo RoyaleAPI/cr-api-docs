@@ -85,9 +85,10 @@ data = r.json()
 ### PHP
 
 ```php
+$token = "a1234567890z"
 $opts = [
     "http" => [
-        "header" => "auth:token"
+        "header" => "auth:" . $token
     ]
 ];
 
