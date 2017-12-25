@@ -81,3 +81,38 @@ url = "http://api.cr-api.com/clan/2cccp"
 r = requests.get(url, headers=headers)
 data = r.json()
 ```
+
+### PHP
+
+```php
+$opts = [
+    "http" => [
+        "header" => "auth:token"
+    ]
+];
+
+$context = stream_context_create($opts);
+
+$test = file_get_contents("http://api.cr-api.com/clan/2cccp",true, $context);
+```
+
+### Javascript (Client-Side)
+
+We don’t generally recommend that you access the API on the client side as you will be exposing your token publicly. However, this is how you would do it with [jQuery](http://api.jquery.com/):
+
+```Javascript
+$.ajax({
+    url: 'http://api.cr-api.com/clan/2cccp',
+    headers: {auth: 'a123b4567'}
+});
+```
+
+Better:
+
+```Javascript
+// Once:
+$.ajaxSetup({ headers: {auth: 'a123b4567'}});
+
+// Request with header:
+$.ajax({ url: 'http://api.cr-api.com/clan/2cccp' });
+```
