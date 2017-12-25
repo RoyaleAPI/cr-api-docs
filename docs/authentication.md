@@ -8,56 +8,6 @@ You must authenticate your requests using custom headers. Add a key named `auth`
 
 !> We have allowed authentication using query string `auth=<token>` previously but have decided to remove it. We will disable query string authentication on `2017-12-26 00:00:00Z` (UTC).
 
-### Custom Headers
-
-Here are code fragments on to do it in different languages.
-
-| Endpoint | URL | token |
-| --- | --- | --- |
-| clan | http://api.cr-api.com/clan/2cccp | `a123b4567` |
-
-#### Shell
-
-```bash
-curl --header "auth: a123b4567" http://api.cr-api.com/clan/2cccp
-```
-
-
-#### Node.js
-
-```javascript
-const request = require("request");
-request('http://api.cr-api.com/clan/2cccp', {headers: {auth: 'a123b4567'}})
-```
-
-#### Python: Asynchronous
-
-Asynchronous python using the [aiohttp](http://aiohttp.readthedocs.io/) library.
-
-```python
-import aiohttp
-headers = {"auth": "a123b4567"}
-url = "http://api.cr-api.com/clan/2cccp"
-async with aiohttp.ClientSession() as session:
-    async with session.get(url, headers=headers) as resp:
-        data = await resp.json()
-```
-
-#### Python: Synchronous
-
-Synchronous (blocking) Python using the [requests](http://docs.python-requests.org) library.
-
-```python
-import requests
-headers = {"auth": "a123b4567"}
-url = "http://api.cr-api.com/clan/2cccp"
-r = requests.get(url, headers=headers)
-data = r.json()
-```
-
-
-
-
 ## Key Management
 
 ###  Generating new keys
@@ -84,3 +34,50 @@ If you feel that your key may have been compromised, please contact open an issu
 ## API Abuse
 
 We reserve the right to permanently blacklist keys / developers who have been shown to abuse the API with requests.
+
+
+## Code examples
+
+Here are some code fragments on how to add custom headers in different languages.
+
+| Endpoint | URL | token |
+| --- | --- | --- |
+| clan | http://api.cr-api.com/clan/2cccp | `a123b4567` |
+
+### Shell
+
+```bash
+curl --header "auth: a123b4567" http://api.cr-api.com/clan/2cccp
+```
+
+### Node.js
+
+```javascript
+const request = require("request");
+request('http://api.cr-api.com/clan/2cccp', {headers: {auth: 'a123b4567'}})
+```
+
+### Python: Asynchronous
+
+Asynchronous python using the [aiohttp](http://aiohttp.readthedocs.io/) library.
+
+```python
+import aiohttp
+headers = {"auth": "a123b4567"}
+url = "http://api.cr-api.com/clan/2cccp"
+async with aiohttp.ClientSession() as session:
+    async with session.get(url, headers=headers) as resp:
+        data = await resp.json()
+```
+
+### Python: Synchronous
+
+Synchronous (blocking) Python using the [requests](http://docs.python-requests.org) library.
+
+```python
+import requests
+headers = {"auth": "a123b4567"}
+url = "http://api.cr-api.com/clan/2cccp"
+r = requests.get(url, headers=headers)
+data = r.json()
+```
