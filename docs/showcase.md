@@ -15,6 +15,7 @@ Node.js | [cr.js](https://github.com/madebyKAI/cr.js) | [madebyKAI (Affinix)](ht
 PHP | [clash-royale-php](https://github.com/firegore2/clash-royale-php) | [Firegore](https://github.com/firegore2) | PHP 5.5+ wrapper
 Python | [cr-async](https://github.com/grokkers/cr-async) | [grokkers (verixx)](http://github.com/grokkers) [4JR  (fourjr)](http://github.com/fourjr) | Python async wrapper
 Python | [cr-py](https://github.com/kwugfighter/cr.py) | [kwugfigher](http://github.com/kwugfighter) | Python wrapper
+Python | [crapipy](https://github.com/smlbiobot/cr-api-py) | [SML](http://github.com/smlbiobot) | Python wrapper (both async and sync)
 
 ## Third-party applications
 
