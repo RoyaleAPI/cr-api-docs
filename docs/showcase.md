@@ -22,6 +22,7 @@ Python | [crapipy](https://github.com/smlbiobot/cr-api-py) | [SML](http://github
 Name | Author | Description
 --- | --- | ---
 [cr-selfstats](http://github.com/kwugfighter/cr-selfstats) | [kwugfigher](http://github.com/kwugfighter) | Clash Royale selfbot dedicated to getting your CR stats.
+[crclanstats](http://crclanstats.com/) | [Jimmy](http://github.com/jimmyk3008) | Tracking of clan and alliance stats. Listings of top Australian clans (to be expanded) for clan chest crowns. History of player stats and card upgrade information.
 [Crown Stats (Bot)](https://m.me/CrownStats) | kamaelxiii |  A Clash Royale Statistics bot for Facebook Messenger Platform.
 [Fayssalbot](http://www.fayssalbot.ml/) | [fayssalz59 (FayssalZ)](http://github.com/fayssalz59) | A French Discord bot with many features (e.g. moderation, utilities) as well as Clash Royale and Clash of Clans commands.
 [Gearz](http://github.com/Innovative-creators/Gearz) | [Froosty Aka TheLearneer](https://github.com/TheLearneer) | A multipurpose bot with music, fun, moderation, and many more things, and especially Clash Royale commands.
