@@ -9,7 +9,7 @@ Here are some applications which use our API. Want to get your app listed here? 
 Language | Name | Author | Description
 --- | --- | --- | ---
 C\# | [CrApiCsharp](http://github.com/Mahi-Uddin/CrApiCsharp/) | [Mahi-Uddin Zihad](http://github.com/Mahi-Uddin/) | A C\# wrapper
-C\# | [crapi-csharp-wrapper](https://github.com/SoptikHa2/crapi-csharp-wrapper/) | [SoptikHa2](http://github.com/SoptikHa2) | C\# wrapper
+C\# | [crapi-csharp-wrapper](https://github.com/SoptikHa2/crapi-csharp-wrapper/) | [SoptikHa2](http://github.com/SoptikHa2) | C\# wrapper (both async and sync)
 Java | [jcrapi](https://github.com/mlieshoff/jcrapi) | [mlieshoff (micah)](http://github.com/mlieshoff)  | Java wrapper
 Node.js | [cr.js](https://github.com/madebyKAI/cr.js) | [madebyKAI (Affinix)](https://github.com/madebyKAI) | Asynchronous Node.js wrapper
 PHP | [clash-royale-php](https://github.com/firegore2/clash-royale-php) | [Firegore](https://github.com/firegore2) | PHP 5.5+ wrapper
