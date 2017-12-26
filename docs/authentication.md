@@ -46,7 +46,7 @@ Here are some code fragments on how to add custom headers in different languages
 curl --header "auth: a123b4567" http://api.cr-api.com/clan/2cccp
 ```
 
-### C#
+### C# #
 
 ```csharp
 public string Get(string url)
