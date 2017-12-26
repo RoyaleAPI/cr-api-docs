@@ -6,9 +6,14 @@ All API requests must be accompanied by a developer key. This key is a unique id
 
 You must authenticate your requests using custom headers. Add a key named `auth` with value `<token>` to your header when you make your requests.
 
-!> We have allowed authentication using query string `auth=<token>` previously but have decided to remove it. We will disable query string authentication on `2017-12-26 00:00:00Z` (UTC).
+!> Query string `auth=<token>` authentication no longer works. Please use custom headers instead.
 
 ## Key Management
+
+1. Once issued, your key will be active.
+2. Your developer key will remain active as long as you remain a user on our Discord server. Your key will be automatically disabled once you have left the server.
+3. We reserve the right to permanently blacklist keys / developers who have been shown to abuse the API with requests.
+
 
 ###  Generating new keys
 
@@ -26,15 +31,6 @@ To get a reminder of your developer key, visit the Discord channel above and typ
 
 If you feel that your key may have been compromised, please contact open an issue on [Github](http://github.com/cr-api/cr-api) and we will create a new one for you.
 
-## Key Activation
-
-1. Once issued, your key will be active.
-2. Your developer key will remain active as long as you remain a user on our Discord server. Your key will be automatically disabled once you have left the server.
-
-## API Abuse
-
-We reserve the right to permanently blacklist keys / developers who have been shown to abuse the API with requests.
-
 
 ## Code examples
 
@@ -44,10 +40,30 @@ Here are some code fragments on how to add custom headers in different languages
 | --- | --- | --- |
 | clan | http://api.cr-api.com/clan/2cccp | `a123b4567` |
 
-### Shell
+### Bash (Shell)
 
 ```bash
 curl --header "auth: a123b4567" http://api.cr-api.com/clan/2cccp
+```
+
+### C#
+
+```csharp
+public string Get(string url)
+{
+    WebHeaderCollection headers = new WebHeaderCollection();
+    headers.Add($"auth: {AuthToken}");
+    HttpWebRequest getRequest = (HttpWebRequest)WebRequest.Create(url);
+    getRequest.Method = "GET";
+    getRequest.Headers = headers;
+    WebResponse apiResponse = getRequest.GetResponse();
+    StreamReader reader = new StreamReader(apiResponse.GetResponseStream(), Encoding.UTF8);
+    string responseString = reader.ReadToEnd();
+    reader.Close();
+    apiResponse.Close();
+
+    return responseString;
+}
 ```
 
 ### Node.js
@@ -55,6 +71,21 @@ curl --header "auth: a123b4567" http://api.cr-api.com/clan/2cccp
 ```javascript
 const request = require("request");
 request('http://api.cr-api.com/clan/2cccp', {headers: {auth: 'a123b4567'}})
+```
+
+### PHP
+
+```php
+$token = "a1234567890z"
+$opts = [
+    "http" => [
+        "header" => "auth:" . $token
+    ]
+];
+
+$context = stream_context_create($opts);
+
+$test = file_get_contents("http://api.cr-api.com/clan/2cccp",true, $context);
 ```
 
 ### Python: Asynchronous
@@ -80,21 +111,6 @@ headers = {"auth": "a123b4567"}
 url = "http://api.cr-api.com/clan/2cccp"
 r = requests.get(url, headers=headers)
 data = r.json()
-```
-
-### PHP
-
-```php
-$token = "a1234567890z"
-$opts = [
-    "http" => [
-        "header" => "auth:" . $token
-    ]
-];
-
-$context = stream_context_create($opts);
-
-$test = file_get_contents("http://api.cr-api.com/clan/2cccp",true, $context);
 ```
 
 ### Javascript (Client-Side)
