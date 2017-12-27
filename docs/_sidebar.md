@@ -13,6 +13,9 @@
 - Info
     - [Constants](/info/constants.md)
     - [Version](/info/version.md)
+- Stats
+    - [Popular Clans](/stats/popular_clans)
+    - [Popular Players](/stats/popular_players)
 - [Errors](/errors.md)
 - [Showcase](/showcase.md)
 - [FAQ](/faq.md)
