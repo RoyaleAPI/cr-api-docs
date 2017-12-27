@@ -6,6 +6,7 @@
 - Clan
     - [Single Clan](/clans/single_clan.md)
     - [Multiple Clans](/clans/multiple_clans.md)
+    - [Clan Search](/clans/clan_search.md)
 - Leaderboard
     - [Top Players](/leaderboard/top_players.md)
     - [Top Clans](/leaderboard/top_clans.md)
