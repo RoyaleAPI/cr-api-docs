@@ -12,10 +12,10 @@
     - [Top Clans](/leaderboard/top_clans.md)
 - Info
     - [Constants](/info/constants.md)
+    - [Endpoints](/info/endpoints)
+    - [Popular Clans](/info/popular_clans)
+    - [Popular Players](/info/popular_players)
     - [Version](/info/version.md)
-- Stats
-    - [Popular Clans](/stats/popular_clans)
-    - [Popular Players](/stats/popular_players)
 - [Errors](/errors.md)
 - [Showcase](/showcase.md)
 - [FAQ](/faq.md)
