@@ -16,6 +16,8 @@ TAG | The clan tag of the clan to retrieve. Use a comma to separate each clan ta
 
 http://api.cr-api.com/clan/2CCCP,2U2GGQJ
 
+<a href="/json/clan_2CCCP,2U2GGQJ.json">Full JSON response</a> with the two clans above.
+
 The above command returns JSON structured as follows, where `{}` denotes a full JSON response from a [single clan request](/clans/single_clan)
 
 ```json
@@ -24,8 +26,6 @@ The above command returns JSON structured as follows, where `{}` denotes a full 
     {}
 ]
 ```
-
-<a href="/json/clans_racf.json">Full JSON response with 8 clans</a>
 
 ## Implementation
 

@@ -1,14 +1,14 @@
 - [Introduction](/README.md)
 - [Authentication](/authentication.md)
-- Profile
-    - [Profile](/profile/profile.md)
-    - [Multiple Profiles](/profile/multiple_profiles.md)
+- Player
+    - [Player](/player/player.md)
+    - [Multiple Players](/player/multiple_players.md)
 - Clan
-    - [Top Clans](/clans/top_clans.md)
     - [Single Clan](/clans/single_clan.md)
     - [Multiple Clans](/clans/multiple_clans.md)
 - Leaderboard
     - [Top Players](/leaderboard/top_players.md)
+    - [Top Clans](/leaderboard/top_clans.md)
 - Info
     - [Constants](/info/constants.md)
     - [Version](/info/version.md)

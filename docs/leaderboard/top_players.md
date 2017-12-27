@@ -4,11 +4,21 @@ This endpoint retrieves the Global 200 top players on the leaderboard. Data is c
 
 ## HTTP Request
 
-`http://api.cr-api.com/top/players`
+`http://api.cr-api.com/top/players/<LOCATION_KEY>`
+
+### URL Parameters
+
+Parameter | Description
+--- | ---
+LOCATION_KEY | two-letter code of the location. Omit the LOCATION_KEY to get the global leaderboard.
+
+ See [cr-api-data/json/regions.json](https://github.com/cr-api/cr-api-data/blob/master/json/regions.json) for the full list of acceptable keys.
 
 ## Response
 
 http://api.cr-api.com/top/players
+
+<a href="/json/top_players.json">Full JSON response</a>
 
 The above command returns JSON structured like this:
 
@@ -16,42 +26,60 @@ The above command returns JSON structured like this:
 
 [
     {
-        "name": "AndreiK",
-        "tag": "2PCV808YJ",
+        "name": "Gianlu❤️Guapa™",
+        "tag": "2PQC2VU92",
         "rank": 1,
-        "previousRank": 129,
+        "previousRank": 8,
         "expLevel": 13,
-        "trophies": 6040,
+        "trophies": 6158,
+        "donationsDelta": null,
         "clan": {
-            "tag": "8R8YULRJ",
-            "name": "Sandstorm",
-            "badge": 16000097
+            "tag": "9QJQYYYJ",
+            "name": "Gladiators™️",
+            "badge": {
+                "name": "Sword_04",
+                "category": "01_Symbol",
+                "id": 16000007,
+                "image": "https://cr-api.github.io/cr-api-assets/badges/Sword_04.png"
+            }
         },
         "arena": {
-            "name": "Champion",
-            "arena": "League 7",
-            "arenaID": 18,
-            "trophyLimit": 5800
+            "name": "Grand Champion",
+            "arena": "League 8",
+            "arenaID": 20,
+            "trophyLimit": 6100
         }
     },
     {
-        "name": "yousefq822'",
-        "tag": "CC0CLGUC",
+        "name": "战大",
+        "tag": "2V0P9GVV",
         "rank": 2,
-        "previousRank": 2,
+        "previousRank": 391,
         "expLevel": 13,
-        "trophies": 6018,
+        "trophies": 6148,
+        "donationsDelta": null,
         "clan": {
-            "tag": "82YYQR98",
-            "name": "Sandstorm Kw",
-            "badge": 16000097
+            "tag": "LCVUYCR",
+            "name": "Nova eSports",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
         },
         "arena": {
-            "name": "Champion",
-            "arena": "League 7",
-            "arenaID": 18,
-            "trophyLimit": 5800
+            "name": "Grand Champion",
+            "arena": "League 8",
+            "arenaID": 20,
+            "trophyLimit": 6100
         }
     },
 ]
 ```
+
+## Implementation
+
+- http://cr-api.com/top/players
+- http://cr-api.com/top/players/_eu
+- http://cr-api.com/top/players/us

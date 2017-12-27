@@ -19,7 +19,7 @@ TAG | The profile tag of the player to retrieve. Use a comma to separate each pr
 
 http://api.cr-api.com/player/L88P2282,9CQ2U8QJ,8L9L9GL
 
-The above command returns JSON structured like this, where `{}` denotes a profile response as seen in [profile](/profile/profile)
+The above command returns JSON structured like this, where `{}` denotes a profile response as seen in [player](/player/player)
 
 <a href="/json/player_L88P2282,9CQ2U8QJ,8L9L9GL.json">Full JSON response</a>
 

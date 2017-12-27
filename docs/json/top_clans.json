@@ -1,12 +1,36 @@
 [
     {
-        "tag": "LCVUYCR",
-        "name": "Nova eSports",
-        "score": 57866,
+        "tag": "8R8YULRJ",
+        "name": "Sandstorm",
+        "score": 59563,
         "memberCount": 50,
         "rank": 1,
+        "previousRank": 2,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
+        "location": {
+            "name": "International",
+            "isCountry": false,
+            "code": "_INT"
+        }
+    },
+    {
+        "tag": "LCVUYCR",
+        "name": "Nova eSports",
+        "score": 59471,
+        "memberCount": 45,
+        "rank": 2,
         "previousRank": 1,
-        "badge": 16000044,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
         "location": {
             "name": "International",
             "isCountry": false,
@@ -16,67 +40,54 @@
     {
         "tag": "8VRJC2V2",
         "name": "风暴",
-        "score": 56904,
+        "score": 58822,
         "memberCount": 50,
-        "rank": 2,
-        "previousRank": 2,
-        "badge": 16000097,
+        "rank": 3,
+        "previousRank": 3,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
         "location": {
             "name": "China",
             "isCountry": true,
             "code": "CN"
-        }
-    },
-    {
-        "tag": "8R8YULRJ",
-        "name": "Sandstorm",
-        "score": 56499,
-        "memberCount": 49,
-        "rank": 3,
-        "previousRank": 4,
-        "badge": 16000097,
-        "location": {
-            "name": "International",
-            "isCountry": false,
-            "code": "_INT"
         }
     },
     {
         "tag": "2LRU2J",
         "name": "Crucible Wrath",
-        "score": 55710,
+        "score": 58327,
         "memberCount": 50,
         "rank": 4,
-        "previousRank": 3,
-        "badge": 16000002,
+        "previousRank": 4,
+        "badge": {
+            "name": "Flame_03",
+            "category": "01_Symbol",
+            "id": 16000002,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Flame_03.png"
+        },
         "location": {
             "name": "United States",
             "isCountry": true,
             "code": "US"
-        }
-    },
-    {
-        "tag": "8G9VY92",
-        "name": "上海 OP Elite",
-        "score": 55396,
-        "memberCount": 50,
-        "rank": 5,
-        "previousRank": 6,
-        "badge": 16000000,
-        "location": {
-            "name": "China",
-            "isCountry": true,
-            "code": "CN"
         }
     },
     {
         "tag": "RVL2PQQ",
         "name": "Nova l 大唐天子",
-        "score": 54413,
-        "memberCount": 46,
-        "rank": 6,
+        "score": 57723,
+        "memberCount": 50,
+        "rank": 5,
         "previousRank": 5,
-        "badge": 16000044,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
         "location": {
             "name": "China",
             "isCountry": true,
@@ -84,83 +95,37 @@
         }
     },
     {
-        "tag": "29QLGL28",
-        "name": "Mega Stars",
-        "score": 54187,
-        "memberCount": 48,
-        "rank": 7,
-        "previousRank": 7,
-        "badge": 16000020,
+        "tag": "8G9VY92",
+        "name": "上海 OP Elite",
+        "score": 56592,
+        "memberCount": 49,
+        "rank": 6,
+        "previousRank": 6,
+        "badge": {
+            "name": "Flame_01",
+            "category": "01_Symbol",
+            "id": 16000000,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Flame_01.png"
+        },
         "location": {
-            "name": "India",
+            "name": "China",
             "isCountry": true,
-            "code": "IN"
-        }
-    },
-    {
-        "tag": "88UGGYG",
-        "name": "Nova l NA",
-        "score": 53738,
-        "memberCount": 48,
-        "rank": 8,
-        "previousRank": 17,
-        "badge": 16000044,
-        "location": {
-            "name": "United States",
-            "isCountry": true,
-            "code": "US"
-        }
-    },
-    {
-        "tag": "8YGRJ8GG",
-        "name": "Nova I Iran",
-        "score": 53675,
-        "memberCount": 50,
-        "rank": 9,
-        "previousRank": 11,
-        "badge": 16000044,
-        "location": {
-            "name": "Iran",
-            "isCountry": true,
-            "code": "IR"
-        }
-    },
-    {
-        "tag": "82V9V",
-        "name": "Munich Warriors",
-        "score": 53455,
-        "memberCount": 50,
-        "rank": 10,
-        "previousRank": 9,
-        "badge": 16000004,
-        "location": {
-            "name": "Germany",
-            "isCountry": true,
-            "code": "DE"
-        }
-    },
-    {
-        "tag": "82YYQR98",
-        "name": "Sandstorm Kw",
-        "score": 53402,
-        "memberCount": 50,
-        "rank": 11,
-        "previousRank": 13,
-        "badge": 16000097,
-        "location": {
-            "name": "Kuwait",
-            "isCountry": true,
-            "code": "KW"
+            "code": "CN"
         }
     },
     {
         "tag": "90R9VPP9",
         "name": "North Rebellion",
-        "score": 53385,
-        "memberCount": 48,
-        "rank": 12,
-        "previousRank": 8,
-        "badge": 16000169,
+        "score": 56303,
+        "memberCount": 47,
+        "rank": 7,
+        "previousRank": 7,
+        "badge": {
+            "name": "Freeze_02",
+            "category": "01_Symbol",
+            "id": 16000169,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Freeze_02.png"
+        },
         "location": {
             "name": "Canada",
             "isCountry": true,
@@ -168,27 +133,18 @@
         }
     },
     {
-        "tag": "2CQQVQCU",
-        "name": "Nova l Hispania",
-        "score": 53052,
-        "memberCount": 50,
-        "rank": 13,
-        "previousRank": 23,
-        "badge": 16000044,
-        "location": {
-            "name": "Mexico",
-            "isCountry": true,
-            "code": "MX"
-        }
-    },
-    {
         "tag": "JVRPGV8",
         "name": "Nova l Brazil",
-        "score": 52808,
-        "memberCount": 46,
-        "rank": 14,
-        "previousRank": 10,
-        "badge": 16000044,
+        "score": 55625,
+        "memberCount": 49,
+        "rank": 8,
+        "previousRank": 13,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
         "location": {
             "name": "Brazil",
             "isCountry": true,
@@ -196,13 +152,75 @@
         }
     },
     {
-        "tag": "8PCCV9PQ",
-        "name": "Sandstorm Arb",
-        "score": 52737,
+        "tag": "29QLGL28",
+        "name": "Mega Stars",
+        "score": 55506,
+        "memberCount": 47,
+        "rank": 9,
+        "previousRank": 8,
+        "badge": {
+            "name": "Diamond_Star_01",
+            "category": "01_Symbol",
+            "id": 16000020,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Diamond_Star_01.png"
+        },
+        "location": {
+            "name": "India",
+            "isCountry": true,
+            "code": "IN"
+        }
+    },
+    {
+        "tag": "8G9U0PU0",
+        "name": "Sandstorm BR",
+        "score": 55419,
         "memberCount": 50,
-        "rank": 15,
-        "previousRank": 18,
-        "badge": 16000097,
+        "rank": 10,
+        "previousRank": 16,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "82V9V",
+        "name": "Munich Warriors",
+        "score": 55030,
+        "memberCount": 49,
+        "rank": 11,
+        "previousRank": 12,
+        "badge": {
+            "name": "Sword_01",
+            "category": "01_Symbol",
+            "id": 16000004,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Sword_01.png"
+        },
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "8YLJ8UL2",
+        "name": "Nova I EG",
+        "score": 54801,
+        "memberCount": 50,
+        "rank": 12,
+        "previousRank": 21,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
         "location": {
             "name": "International",
             "isCountry": false,
@@ -210,13 +228,56 @@
         }
     },
     {
-        "tag": "8V00U2RJ",
-        "name": "Star Alliance",
-        "score": 52666,
-        "memberCount": 47,
-        "rank": 16,
-        "previousRank": 12,
-        "badge": 16000040,
+        "tag": "8YGRJ8GG",
+        "name": "Nova I Iran",
+        "score": 54644,
+        "memberCount": 48,
+        "rank": 13,
+        "previousRank": 15,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "Iran",
+            "isCountry": true,
+            "code": "IR"
+        }
+    },
+    {
+        "tag": "2CPU92VC",
+        "name": "Omega Squadron",
+        "score": 54496,
+        "memberCount": 50,
+        "rank": 14,
+        "previousRank": 17,
+        "badge": {
+            "name": "A_Char_Hammer_02",
+            "category": "03_Royale",
+            "id": 16000165,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Hammer_02.png"
+        },
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "99YPJR9G",
+        "name": "jajas",
+        "score": 54435,
+        "memberCount": 48,
+        "rank": 15,
+        "previousRank": 9,
+        "badge": {
+            "name": "A_Char_King_01",
+            "category": "03_Royale",
+            "id": 16000144,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_King_01.png"
+        },
         "location": {
             "name": "Spain",
             "isCountry": true,
@@ -224,139 +285,18 @@
         }
     },
     {
-        "tag": "8VG2C9CJ",
-        "name": "Nova FrenchArmy",
-        "score": 52423,
+        "tag": "2Q9RGGVV",
+        "name": "Notorious",
+        "score": 54369,
         "memberCount": 49,
-        "rank": 17,
-        "previousRank": 15,
-        "badge": 16000044,
-        "location": {
-            "name": "France",
-            "isCountry": true,
-            "code": "FR"
-        }
-    },
-    {
-        "tag": "2CL8RCC0",
-        "name": "Orion eSports",
-        "score": 52355,
-        "memberCount": 50,
-        "rank": 18,
-        "previousRank": 29,
-        "badge": 16000023,
-        "location": {
-            "name": "Brazil",
-            "isCountry": true,
-            "code": "BR"
-        }
-    },
-    {
-        "tag": "8RJQU9CU",
-        "name": "Deep swamp",
-        "score": 52349,
-        "memberCount": 49,
-        "rank": 19,
-        "previousRank": 34,
-        "badge": 16000139,
-        "location": {
-            "name": "Japan",
-            "isCountry": true,
-            "code": "JP"
-        }
-    },
-    {
-        "tag": "8G9U0PU0",
-        "name": "Sandstorm BR",
-        "score": 52302,
-        "memberCount": 44,
-        "rank": 20,
-        "previousRank": 16,
-        "badge": 16000097,
-        "location": {
-            "name": "Brazil",
-            "isCountry": true,
-            "code": "BR"
-        }
-    },
-    {
-        "tag": "90RJGVGJ",
-        "name": "Revolution™",
-        "score": 52268,
-        "memberCount": 48,
-        "rank": 21,
-        "previousRank": 14,
-        "badge": 16000093,
-        "location": {
-            "name": "Italy",
-            "isCountry": true,
-            "code": "IT"
-        }
-    },
-    {
-        "tag": "8R2C0G9Y",
-        "name": "GloryMakersNova",
-        "score": 52207,
-        "memberCount": 49,
-        "rank": 22,
-        "previousRank": 20,
-        "badge": 16000044,
-        "location": {
-            "name": "Saudi Arabia",
-            "isCountry": true,
-            "code": "SA"
-        }
-    },
-    {
-        "tag": "8Q8R9LQ0",
-        "name": "Boréal ★ MG",
-        "score": 52207,
-        "memberCount": 50,
-        "rank": 23,
-        "previousRank": 28,
-        "badge": 16000122,
-        "location": {
-            "name": "United States",
-            "isCountry": true,
-            "code": "US"
-        }
-    },
-    {
-        "tag": "92LLJ828",
-        "name": "Nova I Korea",
-        "score": 52089,
-        "memberCount": 49,
-        "rank": 24,
-        "previousRank": 31,
-        "badge": 16000044,
-        "location": {
-            "name": "South Korea",
-            "isCountry": true,
-            "code": "KR"
-        }
-    },
-    {
-        "tag": "V0U",
-        "name": "ジェンコ・オリーブ商会",
-        "score": 52042,
-        "memberCount": 49,
-        "rank": 25,
-        "previousRank": 22,
-        "badge": 16000054,
-        "location": {
-            "name": "Japan",
-            "isCountry": true,
-            "code": "JP"
-        }
-    },
-    {
-        "tag": "8YLJ8UL2",
-        "name": "Nova I EG",
-        "score": 52041,
-        "memberCount": 46,
-        "rank": 26,
-        "previousRank": 19,
-        "badge": 16000044,
+        "rank": 16,
+        "previousRank": 18,
+        "badge": {
+            "name": "Pine_02",
+            "category": "01_Symbol",
+            "id": 16000034,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Pine_02.png"
+        },
         "location": {
             "name": "International",
             "isCountry": false,
@@ -364,153 +304,18 @@
         }
     },
     {
-        "tag": "8LQ2P0RL",
-        "name": "龍溪CR",
-        "score": 51893,
-        "memberCount": 45,
-        "rank": 27,
-        "previousRank": 21,
-        "badge": 16000012,
-        "location": {
-            "name": "China",
-            "isCountry": true,
-            "code": "CN"
-        }
-    },
-    {
-        "tag": "8CRU0LPL",
-        "name": "GulfNation™",
-        "score": 51825,
-        "memberCount": 47,
-        "rank": 28,
-        "previousRank": 33,
-        "badge": 16000043,
-        "location": {
-            "name": "United Arab Emirates",
-            "isCountry": true,
-            "code": "AE"
-        }
-    },
-    {
-        "tag": "80U9VQU8",
-        "name": "Sandstorm Ru",
-        "score": 51792,
-        "memberCount": 49,
-        "rank": 29,
-        "previousRank": 27,
-        "badge": 16000097,
-        "location": {
-            "name": "Russia",
-            "isCountry": true,
-            "code": "RU"
-        }
-    },
-    {
-        "tag": "8YYRQY8J",
-        "name": "Sandstorm IRQ",
-        "score": 51786,
-        "memberCount": 49,
-        "rank": 30,
-        "previousRank": 42,
-        "badge": 16000097,
-        "location": {
-            "name": "Iraq",
-            "isCountry": true,
-            "code": "IQ"
-        }
-    },
-    {
-        "tag": "2CCCP",
-        "name": "Reddit Alpha",
-        "score": 51779,
-        "memberCount": 47,
-        "rank": 31,
-        "previousRank": 30,
-        "badge": 16000167,
-        "location": {
-            "name": "Christmas Island",
-            "isCountry": true,
-            "code": "CX"
-        }
-    },
-    {
-        "tag": "2UP8R99Y",
-        "name": "Nova l Potenza",
-        "score": 51762,
-        "memberCount": 50,
-        "rank": 32,
-        "previousRank": 50,
-        "badge": 16000044,
-        "location": {
-            "name": "Brazil",
-            "isCountry": true,
-            "code": "BR"
-        }
-    },
-    {
-        "tag": "2CPU92VC",
-        "name": "Omega Squadron",
-        "score": 51733,
-        "memberCount": 49,
-        "rank": 33,
-        "previousRank": 26,
-        "badge": 16000165,
-        "location": {
-            "name": "Brazil",
-            "isCountry": true,
-            "code": "BR"
-        }
-    },
-    {
-        "tag": "VQ9CGR0",
-        "name": "Caju Royale",
-        "score": 51722,
-        "memberCount": 50,
-        "rank": 34,
-        "previousRank": 32,
-        "badge": 16000141,
-        "location": {
-            "name": "Brazil",
-            "isCountry": true,
-            "code": "BR"
-        }
-    },
-    {
-        "tag": "20QRPR98",
-        "name": "薛家军",
-        "score": 51640,
-        "memberCount": 47,
-        "rank": 35,
-        "previousRank": 40,
-        "badge": 16000162,
-        "location": {
-            "name": "China",
-            "isCountry": true,
-            "code": "CN"
-        }
-    },
-    {
-        "tag": "29YY8L89",
-        "name": "娱乐至上",
-        "score": 51618,
-        "memberCount": 46,
-        "rank": 36,
-        "previousRank": 25,
-        "badge": 16000128,
-        "location": {
-            "name": "China",
-            "isCountry": true,
-            "code": "CN"
-        }
-    },
-    {
-        "tag": "Y2RGQPJ",
-        "name": "Fusion™",
-        "score": 51595,
-        "memberCount": 47,
-        "rank": 37,
-        "previousRank": 43,
-        "badge": 16000164,
+        "tag": "88UGGYG",
+        "name": "Nova l NA",
+        "score": 54345,
+        "memberCount": 44,
+        "rank": 17,
+        "previousRank": 11,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
         "location": {
             "name": "United States",
             "isCountry": true,
@@ -518,83 +323,75 @@
         }
     },
     {
-        "tag": "22UYUJ9V",
-        "name": "ENIGMA",
-        "score": 51468,
+        "tag": "82YYQR98",
+        "name": "Sandstorm Kw",
+        "score": 54087,
+        "memberCount": 45,
+        "rank": 18,
+        "previousRank": 10,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
+        "location": {
+            "name": "Kuwait",
+            "isCountry": true,
+            "code": "KW"
+        }
+    },
+    {
+        "tag": "2CQQVQCU",
+        "name": "Nova l Hispania",
+        "score": 54079,
+        "memberCount": 46,
+        "rank": 19,
+        "previousRank": 23,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "8LQ2P0RL",
+        "name": "龍溪CR",
+        "score": 54047,
         "memberCount": 49,
-        "rank": 38,
-        "previousRank": 51,
-        "badge": 16000004,
+        "rank": 20,
+        "previousRank": 19,
+        "badge": {
+            "name": "Crown_01",
+            "category": "01_Symbol",
+            "id": 16000012,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Crown_01.png"
+        },
         "location": {
-            "name": "Russia",
+            "name": "China",
             "isCountry": true,
-            "code": "RU"
-        }
-    },
-    {
-        "tag": "CV0YVU",
-        "name": "大阪クラン",
-        "score": 51466,
-        "memberCount": 50,
-        "rank": 39,
-        "previousRank": 45,
-        "badge": 16000050,
-        "location": {
-            "name": "Japan",
-            "isCountry": true,
-            "code": "JP"
-        }
-    },
-    {
-        "tag": "Q0JJUQG",
-        "name": "White Waltz",
-        "score": 51408,
-        "memberCount": 47,
-        "rank": 40,
-        "previousRank": 69,
-        "badge": 16000110,
-        "location": {
-            "name": "Japan",
-            "isCountry": true,
-            "code": "JP"
-        }
-    },
-    {
-        "tag": "LQ9YR",
-        "name": "SENTRY",
-        "score": 51328,
-        "memberCount": 48,
-        "rank": 41,
-        "previousRank": 41,
-        "badge": 16000020,
-        "location": {
-            "name": "Italy",
-            "isCountry": true,
-            "code": "IT"
-        }
-    },
-    {
-        "tag": "82PPJUU8",
-        "name": "Made In Egypt ™",
-        "score": 51245,
-        "memberCount": 48,
-        "rank": 42,
-        "previousRank": 48,
-        "badge": 16000096,
-        "location": {
-            "name": "Egypt",
-            "isCountry": true,
-            "code": "EG"
+            "code": "CN"
         }
     },
     {
         "tag": "8PVYCRJR",
         "name": "Assassins Crew™",
-        "score": 51222,
-        "memberCount": 44,
-        "rank": 43,
-        "previousRank": 24,
-        "badge": 16000154,
+        "score": 54045,
+        "memberCount": 49,
+        "rank": 21,
+        "previousRank": 22,
+        "badge": {
+            "name": "A_Char_Goblin_01",
+            "category": "03_Royale",
+            "id": 16000154,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Goblin_01.png"
+        },
         "location": {
             "name": "Chile",
             "isCountry": true,
@@ -602,13 +399,37 @@
         }
     },
     {
-        "tag": "PQJ2Y",
-        "name": "RoyaleConQueso",
-        "score": 51180,
-        "memberCount": 49,
-        "rank": 44,
-        "previousRank": 35,
-        "badge": 16000013,
+        "tag": "8RJQY2P0",
+        "name": "Team Qlash",
+        "score": 53969,
+        "memberCount": 44,
+        "rank": 22,
+        "previousRank": 27,
+        "badge": {
+            "name": "Flame_04",
+            "category": "01_Symbol",
+            "id": 16000003,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Flame_04.png"
+        },
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "8V00U2RJ",
+        "name": "Star Alliance",
+        "score": 53892,
+        "memberCount": 46,
+        "rank": 23,
+        "previousRank": 20,
+        "badge": {
+            "name": "Traditional_Star_05",
+            "category": "01_Symbol",
+            "id": 16000040,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Traditional_Star_05.png"
+        },
         "location": {
             "name": "Spain",
             "isCountry": true,
@@ -616,41 +437,18 @@
         }
     },
     {
-        "tag": "989CPY8C",
-        "name": "Sandstorm PL™",
-        "score": 51164,
-        "memberCount": 47,
-        "rank": 45,
-        "previousRank": 38,
-        "badge": 16000097,
-        "location": {
-            "name": "Poland",
-            "isCountry": true,
-            "code": "PL"
-        }
-    },
-    {
-        "tag": "UU9L",
-        "name": "きくすいコーポ",
-        "score": 51153,
-        "memberCount": 50,
-        "rank": 46,
-        "previousRank": 56,
-        "badge": 16000119,
-        "location": {
-            "name": "Japan",
-            "isCountry": true,
-            "code": "JP"
-        }
-    },
-    {
-        "tag": "8QCVG8VG",
-        "name": "JSG I 廣州",
-        "score": 51124,
-        "memberCount": 50,
-        "rank": 47,
-        "previousRank": 55,
-        "badge": 16000129,
+        "tag": "20QRPR98",
+        "name": "薛家军",
+        "score": 53770,
+        "memberCount": 49,
+        "rank": 24,
+        "previousRank": 24,
+        "badge": {
+            "name": "A_Char_Pekka_01",
+            "category": "03_Royale",
+            "id": 16000162,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Pekka_01.png"
+        },
         "location": {
             "name": "China",
             "isCountry": true,
@@ -658,13 +456,56 @@
         }
     },
     {
-        "tag": "92LCY22C",
-        "name": "Sandstorm UAE",
-        "score": 51078,
-        "memberCount": 45,
-        "rank": 48,
-        "previousRank": 46,
-        "badge": 16000097,
+        "tag": "90RJGVGJ",
+        "name": "Revolution™",
+        "score": 53696,
+        "memberCount": 48,
+        "rank": 25,
+        "previousRank": 31,
+        "badge": {
+            "name": "flag_n_04",
+            "category": "02_Flag",
+            "id": 16000093,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_n_04.png"
+        },
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "V0U",
+        "name": "ジェンコ・オリーブ商会",
+        "score": 53662,
+        "memberCount": 49,
+        "rank": 26,
+        "previousRank": 78,
+        "badge": {
+            "name": "flag_c_03",
+            "category": "02_Flag",
+            "id": 16000054,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_c_03.png"
+        },
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "8CRU0LPL",
+        "name": "GulfNation™",
+        "score": 53602,
+        "memberCount": 48,
+        "rank": 27,
+        "previousRank": 29,
+        "badge": {
+            "name": "Star_Shine_02",
+            "category": "01_Symbol",
+            "id": 16000043,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_02.png"
+        },
         "location": {
             "name": "United Arab Emirates",
             "isCountry": true,
@@ -672,13 +513,132 @@
         }
     },
     {
+        "tag": "8R2C0G9Y",
+        "name": "GloryMakersNova",
+        "score": 53564,
+        "memberCount": 49,
+        "rank": 28,
+        "previousRank": 25,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "Saudi Arabia",
+            "isCountry": true,
+            "code": "SA"
+        }
+    },
+    {
+        "tag": "8VG2C9CJ",
+        "name": "Nova FrenchArmy",
+        "score": 53538,
+        "memberCount": 48,
+        "rank": 29,
+        "previousRank": 14,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "8PCCV9PQ",
+        "name": "Sandstorm Arb",
+        "score": 53488,
+        "memberCount": 46,
+        "rank": 30,
+        "previousRank": 28,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
+        "location": {
+            "name": "International",
+            "isCountry": false,
+            "code": "_INT"
+        }
+    },
+    {
+        "tag": "JQRUVYY",
+        "name": "Cgn Warriors",
+        "score": 53419,
+        "memberCount": 49,
+        "rank": 31,
+        "previousRank": 33,
+        "badge": {
+            "name": "Skull_06",
+            "category": "01_Symbol",
+            "id": 16000029,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Skull_06.png"
+        },
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "Y2RGQPJ",
+        "name": "Fusion™",
+        "score": 53386,
+        "memberCount": 49,
+        "rank": 32,
+        "previousRank": 39,
+        "badge": {
+            "name": "A_Char_Hammer_01",
+            "category": "03_Royale",
+            "id": 16000164,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Hammer_01.png"
+        },
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "2GP0L09",
+        "name": "上海 OP 千阳号",
+        "score": 53374,
+        "memberCount": 50,
+        "rank": 33,
+        "previousRank": 38,
+        "badge": {
+            "name": "Flame_01",
+            "category": "01_Symbol",
+            "id": 16000000,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Flame_01.png"
+        },
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
         "tag": "8C88C2",
         "name": "Кузькина Мать",
-        "score": 50996,
-        "memberCount": 48,
-        "rank": 49,
-        "previousRank": 37,
-        "badge": 16000077,
+        "score": 53315,
+        "memberCount": 49,
+        "rank": 34,
+        "previousRank": 35,
+        "badge": {
+            "name": "flag_j_03",
+            "category": "02_Flag",
+            "id": 16000077,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_j_03.png"
+        },
         "location": {
             "name": "Russia",
             "isCountry": true,
@@ -686,13 +646,493 @@
         }
     },
     {
+        "tag": "2CCCP",
+        "name": "Reddit Alpha",
+        "score": 53302,
+        "memberCount": 46,
+        "rank": 35,
+        "previousRank": 37,
+        "badge": {
+            "name": "A_Char_Rocket_02",
+            "category": "03_Royale",
+            "id": 16000167,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Rocket_02.png"
+        },
+        "location": {
+            "name": "Christmas Island",
+            "isCountry": true,
+            "code": "CX"
+        }
+    },
+    {
+        "tag": "VQ9CGR0",
+        "name": "Caju Royale",
+        "score": 53257,
+        "memberCount": 50,
+        "rank": 36,
+        "previousRank": 42,
+        "badge": {
+            "name": "Orange_02",
+            "category": "01_Symbol",
+            "id": 16000141,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Orange_02.png"
+        },
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "92LLJ828",
+        "name": "Nova I Korea",
+        "score": 53173,
+        "memberCount": 49,
+        "rank": 37,
+        "previousRank": 36,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "22UYUJ9V",
+        "name": "ENIGMA",
+        "score": 53120,
+        "memberCount": 49,
+        "rank": 38,
+        "previousRank": 40,
+        "badge": {
+            "name": "Sword_01",
+            "category": "01_Symbol",
+            "id": 16000004,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Sword_01.png"
+        },
+        "location": {
+            "name": "Russia",
+            "isCountry": true,
+            "code": "RU"
+        }
+    },
+    {
+        "tag": "80U9VQU8",
+        "name": "Sandstorm Ru",
+        "score": 52991,
+        "memberCount": 49,
+        "rank": 39,
+        "previousRank": 64,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
+        "location": {
+            "name": "Russia",
+            "isCountry": true,
+            "code": "RU"
+        }
+    },
+    {
+        "tag": "LYR90J2",
+        "name": "༺ᏕᏢᏐᏒᏐᎢ ᎻᎪᎳᏦ༻",
+        "score": 52968,
+        "memberCount": 48,
+        "rank": 40,
+        "previousRank": 32,
+        "badge": {
+            "name": "Arrow_01",
+            "category": "01_Symbol",
+            "id": 16000016,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Arrow_01.png"
+        },
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "8QC8YQJC",
+        "name": "Nova I ARG",
+        "score": 52918,
+        "memberCount": 50,
+        "rank": 41,
+        "previousRank": 185,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "Argentina",
+            "isCountry": true,
+            "code": "AR"
+        }
+    },
+    {
+        "tag": "LQ9YR",
+        "name": "SENTRY",
+        "score": 52881,
+        "memberCount": 48,
+        "rank": 42,
+        "previousRank": 41,
+        "badge": {
+            "name": "Diamond_Star_01",
+            "category": "01_Symbol",
+            "id": 16000020,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Diamond_Star_01.png"
+        },
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
         "tag": "GJJRJUR",
         "name": "80.90【集中赢】",
-        "score": 50940,
+        "score": 52789,
+        "memberCount": 50,
+        "rank": 43,
+        "previousRank": 52,
+        "badge": {
+            "name": "Heart_03",
+            "category": "01_Symbol",
+            "id": 16000111,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Heart_03.png"
+        },
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "8QCVG8VG",
+        "name": "JSG I 廣州",
+        "score": 52750,
+        "memberCount": 50,
+        "rank": 44,
+        "previousRank": 46,
+        "badge": {
+            "name": "Cherry_Blossom_02",
+            "category": "01_Symbol",
+            "id": 16000129,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Cherry_Blossom_02.png"
+        },
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "8V00VRU0",
+        "name": "100% VIP™",
+        "score": 52680,
+        "memberCount": 47,
+        "rank": 45,
+        "previousRank": 26,
+        "badge": {
+            "name": "Flame_03",
+            "category": "01_Symbol",
+            "id": 16000002,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Flame_03.png"
+        },
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "90PCLCUC",
+        "name": "风暴 【Destroy】",
+        "score": 52658,
+        "memberCount": 50,
+        "rank": 46,
+        "previousRank": 58,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "2CL8RCC0",
+        "name": "Orion eSports",
+        "score": 52623,
+        "memberCount": 48,
+        "rank": 47,
+        "previousRank": 112,
+        "badge": {
+            "name": "Diamond_Star_04",
+            "category": "01_Symbol",
+            "id": 16000023,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Diamond_Star_04.png"
+        },
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "82PPJUU8",
+        "name": "Made In Egypt ™",
+        "score": 52611,
         "memberCount": 49,
+        "rank": 48,
+        "previousRank": 49,
+        "badge": {
+            "name": "Twin_Peaks_01",
+            "category": "01_Symbol",
+            "id": 16000096,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_01.png"
+        },
+        "location": {
+            "name": "Egypt",
+            "isCountry": true,
+            "code": "EG"
+        }
+    },
+    {
+        "tag": "8Q8R9LQ0",
+        "name": "Boréal ★ MG",
+        "score": 52480,
+        "memberCount": 48,
+        "rank": 49,
+        "previousRank": 34,
+        "badge": {
+            "name": "Fugi_03",
+            "category": "01_Symbol",
+            "id": 16000122,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Fugi_03.png"
+        },
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "8J0PUUG9",
+        "name": "VirtualTeam",
+        "score": 52373,
+        "memberCount": 48,
         "rank": 50,
+        "previousRank": 63,
+        "badge": {
+            "name": "flag_m_03",
+            "category": "02_Flag",
+            "id": 16000089,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_m_03.png"
+        },
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "Q0JJUQG",
+        "name": "White Waltz",
+        "score": 52371,
+        "memberCount": 44,
+        "rank": 51,
+        "previousRank": 54,
+        "badge": {
+            "name": "Heart_04",
+            "category": "01_Symbol",
+            "id": 16000110,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Heart_04.png"
+        },
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "2C9P8PJ2",
+        "name": "ME ELITE",
+        "score": 52353,
+        "memberCount": 49,
+        "rank": 52,
+        "previousRank": 68,
+        "badge": {
+            "name": "Flame_04",
+            "category": "01_Symbol",
+            "id": 16000003,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Flame_04.png"
+        },
+        "location": {
+            "name": "Syria",
+            "isCountry": true,
+            "code": "SY"
+        }
+    },
+    {
+        "tag": "PGPV0GG",
+        "name": "잎새",
+        "score": 52333,
+        "memberCount": 46,
+        "rank": 53,
+        "previousRank": 59,
+        "badge": {
+            "name": "Clover_01",
+            "category": "01_Symbol",
+            "id": 16000170,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Clover_01.png"
+        },
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "89QYUP90",
+        "name": "Sandstorm Fr",
+        "score": 52318,
+        "memberCount": 46,
+        "rank": 54,
+        "previousRank": 43,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "8G0JC0GV",
+        "name": "Sandstorm KR",
+        "score": 52296,
+        "memberCount": 48,
+        "rank": 55,
+        "previousRank": 57,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "29CPJ8Y0",
+        "name": "花言葉～Momo～",
+        "score": 52259,
+        "memberCount": 50,
+        "rank": 56,
+        "previousRank": 79,
+        "badge": {
+            "name": "Cherry_Blossom_06",
+            "category": "01_Symbol",
+            "id": 16000132,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Cherry_Blossom_06.png"
+        },
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "8PLYP8V",
+        "name": "Nova I Canada",
+        "score": 52251,
+        "memberCount": 48,
+        "rank": 57,
+        "previousRank": 148,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "Canada",
+            "isCountry": true,
+            "code": "CA"
+        }
+    },
+    {
+        "tag": "V9GRG98",
+        "name": "Aura Gaming",
+        "score": 52222,
+        "memberCount": 49,
+        "rank": 58,
+        "previousRank": 107,
+        "badge": {
+            "name": "Diamond_Star_01",
+            "category": "01_Symbol",
+            "id": 16000020,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Diamond_Star_01.png"
+        },
+        "location": {
+            "name": "Singapore",
+            "isCountry": true,
+            "code": "SG"
+        }
+    },
+    {
+        "tag": "99Y09VG2",
+        "name": "Supremos™",
+        "score": 52219,
+        "memberCount": 49,
+        "rank": 59,
+        "previousRank": 60,
+        "badge": {
+            "name": "Crown_01",
+            "category": "01_Symbol",
+            "id": 16000012,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Crown_01.png"
+        },
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "8C089098",
+        "name": "X-Fun",
+        "score": 52217,
+        "memberCount": 50,
+        "rank": 60,
         "previousRank": 62,
-        "badge": 16000111,
+        "badge": {
+            "name": "Tower_02",
+            "category": "03_Royale",
+            "id": 16000113,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Tower_02.png"
+        },
         "location": {
             "name": "China",
             "isCountry": true,
@@ -702,333 +1142,35 @@
     {
         "tag": "8GUJ9J8G",
         "name": "Omega™ITLegends",
-        "score": 50940,
-        "memberCount": 50,
-        "rank": 51,
-        "previousRank": 63,
-        "badge": 16000042,
+        "score": 52197,
+        "memberCount": 48,
+        "rank": 61,
+        "previousRank": 72,
+        "badge": {
+            "name": "Star_Shine_01",
+            "category": "01_Symbol",
+            "id": 16000042,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_01.png"
+        },
         "location": {
             "name": "Italy",
             "isCountry": true,
             "code": "IT"
-        }
-    },
-    {
-        "tag": "9982P8UY",
-        "name": "PACUCO ARRIBA",
-        "score": 50931,
-        "memberCount": 50,
-        "rank": 52,
-        "previousRank": 4138,
-        "badge": 16000098,
-        "location": {
-            "name": "Spain",
-            "isCountry": true,
-            "code": "ES"
-        }
-    },
-    {
-        "tag": "YQVJ9L",
-        "name": "Die Tafelrunde",
-        "score": 50918,
-        "memberCount": 49,
-        "rank": 53,
-        "previousRank": 70,
-        "badge": 16000007,
-        "location": {
-            "name": "Germany",
-            "isCountry": true,
-            "code": "DE"
-        }
-    },
-    {
-        "tag": "8V00VRU0",
-        "name": "100% VIP™",
-        "score": 50911,
-        "memberCount": 45,
-        "rank": 54,
-        "previousRank": 39,
-        "badge": 16000002,
-        "location": {
-            "name": "Mexico",
-            "isCountry": true,
-            "code": "MX"
-        }
-    },
-    {
-        "tag": "80LC8228",
-        "name": "Les Vilains !",
-        "score": 50885,
-        "memberCount": 50,
-        "rank": 55,
-        "previousRank": 81,
-        "badge": 16000108,
-        "location": {
-            "name": "France",
-            "isCountry": true,
-            "code": "FR"
-        }
-    },
-    {
-        "tag": "LVL8GP8",
-        "name": "Munich Fighters",
-        "score": 50885,
-        "memberCount": 50,
-        "rank": 56,
-        "previousRank": 53,
-        "badge": 16000004,
-        "location": {
-            "name": "Germany",
-            "isCountry": true,
-            "code": "DE"
         }
     },
     {
         "tag": "2J8VQPLP",
         "name": "paiN Gaming",
-        "score": 50834,
+        "score": 52161,
         "memberCount": 49,
-        "rank": 57,
-        "previousRank": 61,
-        "badge": 16000015,
-        "location": {
-            "name": "Brazil",
-            "isCountry": true,
-            "code": "BR"
-        }
-    },
-    {
-        "tag": "8GG8YGP0",
-        "name": "OTK eSports",
-        "score": 50791,
-        "memberCount": 50,
-        "rank": 58,
-        "previousRank": 58,
-        "badge": 16000145,
-        "location": {
-            "name": "Guatemala",
-            "isCountry": true,
-            "code": "GT"
-        }
-    },
-    {
-        "tag": "8PLYP8V",
-        "name": "Nova I Canada",
-        "score": 50751,
-        "memberCount": 46,
-        "rank": 59,
-        "previousRank": 44,
-        "badge": 16000044,
-        "location": {
-            "name": "Canada",
-            "isCountry": true,
-            "code": "CA"
-        }
-    },
-    {
-        "tag": "2C9P8PJ2",
-        "name": "ME ELITE",
-        "score": 50745,
-        "memberCount": 50,
-        "rank": 60,
-        "previousRank": 82,
-        "badge": 16000003,
-        "location": {
-            "name": "Syria",
-            "isCountry": true,
-            "code": "SY"
-        }
-    },
-    {
-        "tag": "8QC8YQJC",
-        "name": "Nova I ARG",
-        "score": 50689,
-        "memberCount": 50,
-        "rank": 61,
-        "previousRank": 89,
-        "badge": 16000044,
-        "location": {
-            "name": "Argentina",
-            "isCountry": true,
-            "code": "AR"
-        }
-    },
-    {
-        "tag": "8LU8JUR8",
-        "name": "OldCheeseLegend",
-        "score": 50687,
-        "memberCount": 43,
         "rank": 62,
-        "previousRank": 36,
-        "badge": 16000012,
-        "location": {
-            "name": "Spain",
-            "isCountry": true,
-            "code": "ES"
-        }
-    },
-    {
-        "tag": "8G0JC0GV",
-        "name": "Sandstorm KR",
-        "score": 50647,
-        "memberCount": 48,
-        "rank": 63,
-        "previousRank": 54,
-        "badge": 16000097,
-        "location": {
-            "name": "South Korea",
-            "isCountry": true,
-            "code": "KR"
-        }
-    },
-    {
-        "tag": "8JYJC0UC",
-        "name": "Omega™PEKKATORI",
-        "score": 50637,
-        "memberCount": 47,
-        "rank": 64,
-        "previousRank": 64,
-        "badge": 16000042,
-        "location": {
-            "name": "Italy",
-            "isCountry": true,
-            "code": "IT"
-        }
-    },
-    {
-        "tag": "8L0QGGQ2",
-        "name": "Sandstorm Italy",
-        "score": 50624,
-        "memberCount": 47,
-        "rank": 65,
-        "previousRank": 103,
-        "badge": 16000097,
-        "location": {
-            "name": "Italy",
-            "isCountry": true,
-            "code": "IT"
-        }
-    },
-    {
-        "tag": "8QY2RU9G",
-        "name": "Sandstorm KSA",
-        "score": 50622,
-        "memberCount": 48,
-        "rank": 66,
-        "previousRank": 59,
-        "badge": 16000097,
-        "location": {
-            "name": "Saudi Arabia",
-            "isCountry": true,
-            "code": "SA"
-        }
-    },
-    {
-        "tag": "89QYUP90",
-        "name": "Sandstorm Fr",
-        "score": 50619,
-        "memberCount": 47,
-        "rank": 67,
-        "previousRank": 68,
-        "badge": 16000097,
-        "location": {
-            "name": "France",
-            "isCountry": true,
-            "code": "FR"
-        }
-    },
-    {
-        "tag": "2GJLCVJQ",
-        "name": "CRM eSports",
-        "score": 50570,
-        "memberCount": 50,
-        "rank": 68,
-        "previousRank": 112,
-        "badge": 16000050,
-        "location": {
-            "name": "Mexico",
-            "isCountry": true,
-            "code": "MX"
-        }
-    },
-    {
-        "tag": "V0GL8C8",
-        "name": "TeamLiquid VE",
-        "score": 50568,
-        "memberCount": 50,
-        "rank": 69,
-        "previousRank": 86,
-        "badge": 16000168,
-        "location": {
-            "name": "Venezuela",
-            "isCountry": true,
-            "code": "VE"
-        }
-    },
-    {
-        "tag": "8LG02LP2",
-        "name": "Leb Loob™",
-        "score": 50552,
-        "memberCount": 49,
-        "rank": 70,
-        "previousRank": 60,
-        "badge": 16000139,
-        "location": {
-            "name": "Lebanon",
-            "isCountry": true,
-            "code": "LB"
-        }
-    },
-    {
-        "tag": "8QQ8YRUV",
-        "name": "Phantoms Push",
-        "score": 50539,
-        "memberCount": 49,
-        "rank": 71,
-        "previousRank": 74,
-        "badge": 16000096,
-        "location": {
-            "name": "France",
-            "isCountry": true,
-            "code": "FR"
-        }
-    },
-    {
-        "tag": "22QP0LQ9",
-        "name": "Ad Astra",
-        "score": 50507,
-        "memberCount": 49,
-        "rank": 72,
-        "previousRank": 118,
-        "badge": 16000040,
-        "location": {
-            "name": "France",
-            "isCountry": true,
-            "code": "FR"
-        }
-    },
-    {
-        "tag": "V8PUJ",
-        "name": "AuRuM TV",
-        "score": 50507,
-        "memberCount": 48,
-        "rank": 73,
-        "previousRank": 80,
-        "badge": 16000012,
-        "location": {
-            "name": "Russia",
-            "isCountry": true,
-            "code": "RU"
-        }
-    },
-    {
-        "tag": "8R2LL0YJ",
-        "name": "Sandstorm BR™",
-        "score": 50500,
-        "memberCount": 48,
-        "rank": 74,
-        "previousRank": 72,
-        "badge": 16000097,
+        "previousRank": 55,
+        "badge": {
+            "name": "Crown_04",
+            "category": "01_Symbol",
+            "id": 16000015,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Crown_04.png"
+        },
         "location": {
             "name": "Brazil",
             "isCountry": true,
@@ -1038,11 +1180,16 @@
     {
         "tag": "LU0RQP8",
         "name": "トレジャーハンター",
-        "score": 50499,
-        "memberCount": 48,
-        "rank": 75,
-        "previousRank": 84,
-        "badge": 16000098,
+        "score": 52102,
+        "memberCount": 49,
+        "rank": 63,
+        "previousRank": 76,
+        "badge": {
+            "name": "Gem_01",
+            "category": "03_Royale",
+            "id": 16000098,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Gem_01.png"
+        },
         "location": {
             "name": "Japan",
             "isCountry": true,
@@ -1050,41 +1197,18 @@
         }
     },
     {
-        "tag": "88GVV0QL",
-        "name": "MANGÚ™",
-        "score": 50455,
-        "memberCount": 47,
-        "rank": 76,
-        "previousRank": 115,
-        "badge": 16000171,
-        "location": {
-            "name": "Dominican Republic",
-            "isCountry": true,
-            "code": "DO"
-        }
-    },
-    {
-        "tag": "Q8YRPV",
-        "name": "Persian.gulf",
-        "score": 50443,
-        "memberCount": 50,
-        "rank": 77,
-        "previousRank": 76,
-        "badge": 16000068,
-        "location": {
-            "name": "Iran",
-            "isCountry": true,
-            "code": "IR"
-        }
-    },
-    {
         "tag": "8GP8Y28R",
         "name": "Mega Indonesia",
-        "score": 50441,
-        "memberCount": 50,
-        "rank": 78,
-        "previousRank": 66,
-        "badge": 16000020,
+        "score": 52097,
+        "memberCount": 48,
+        "rank": 64,
+        "previousRank": 67,
+        "badge": {
+            "name": "Diamond_Star_01",
+            "category": "01_Symbol",
+            "id": 16000020,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Diamond_Star_01.png"
+        },
         "location": {
             "name": "Indonesia",
             "isCountry": true,
@@ -1092,83 +1216,18 @@
         }
     },
     {
-        "tag": "PGPV0GG",
-        "name": "잎새",
-        "score": 50432,
-        "memberCount": 46,
-        "rank": 79,
-        "previousRank": 71,
-        "badge": 16000170,
-        "location": {
-            "name": "South Korea",
-            "isCountry": true,
-            "code": "KR"
-        }
-    },
-    {
-        "tag": "8CCQ2C8U",
-        "name": "MDL #SINCLUB",
-        "score": 50423,
-        "memberCount": 50,
-        "rank": 80,
-        "previousRank": 90,
-        "badge": 16000159,
-        "location": {
-            "name": "Spain",
-            "isCountry": true,
-            "code": "ES"
-        }
-    },
-    {
-        "tag": "2VL990UL",
-        "name": "Sandstorm USA",
-        "score": 50406,
-        "memberCount": 48,
-        "rank": 81,
-        "previousRank": 52,
-        "badge": 16000097,
-        "location": {
-            "name": "United States",
-            "isCountry": true,
-            "code": "US"
-        }
-    },
-    {
-        "tag": "LYR90J2",
-        "name": "༺ᏕᏢᏐᏒᏐᎢ ᎻᎪᎳᏦ༻",
-        "score": 50400,
-        "memberCount": 44,
-        "rank": 82,
-        "previousRank": 49,
-        "badge": 16000016,
-        "location": {
-            "name": "Germany",
-            "isCountry": true,
-            "code": "DE"
-        }
-    },
-    {
-        "tag": "8RCVQ0G2",
-        "name": "Nova l Forza",
-        "score": 50391,
-        "memberCount": 50,
-        "rank": 83,
-        "previousRank": 83,
-        "badge": 16000044,
-        "location": {
-            "name": "Brazil",
-            "isCountry": true,
-            "code": "BR"
-        }
-    },
-    {
-        "tag": "2GYJL2GQ",
-        "name": "Nova l JPN",
-        "score": 50385,
-        "memberCount": 48,
-        "rank": 84,
-        "previousRank": 616,
-        "badge": 16000044,
+        "tag": "9GJ89V",
+        "name": "ウエスト98cmの会",
+        "score": 52061,
+        "memberCount": 49,
+        "rank": 65,
+        "previousRank": 51,
+        "badge": {
+            "name": "Gem_03",
+            "category": "03_Royale",
+            "id": 16000100,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Gem_03.png"
+        },
         "location": {
             "name": "Japan",
             "isCountry": true,
@@ -1176,69 +1235,18 @@
         }
     },
     {
-        "tag": "8C089098",
-        "name": "X-Fun",
-        "score": 50321,
-        "memberCount": 48,
-        "rank": 85,
-        "previousRank": 67,
-        "badge": 16000113,
-        "location": {
-            "name": "China",
-            "isCountry": true,
-            "code": "CN"
-        }
-    },
-    {
-        "tag": "2Q9RGGVV",
-        "name": "Notorious",
-        "score": 50296,
-        "memberCount": 44,
-        "rank": 86,
-        "previousRank": 75,
-        "badge": 16000113,
-        "location": {
-            "name": "International",
-            "isCountry": false,
-            "code": "_INT"
-        }
-    },
-    {
-        "tag": "8RR89PUY",
-        "name": "Nova l Swiss",
-        "score": 50292,
-        "memberCount": 46,
-        "rank": 87,
-        "previousRank": 65,
-        "badge": 16000044,
-        "location": {
-            "name": "Switzerland",
-            "isCountry": true,
-            "code": "CH"
-        }
-    },
-    {
-        "tag": "2GP0L09",
-        "name": "上海 OP 千阳号",
-        "score": 50291,
-        "memberCount": 45,
-        "rank": 88,
-        "previousRank": 78,
-        "badge": 16000000,
-        "location": {
-            "name": "China",
-            "isCountry": true,
-            "code": "CN"
-        }
-    },
-    {
         "tag": "8GG8G2RU",
         "name": "Heralds™",
-        "score": 50254,
-        "memberCount": 47,
-        "rank": 89,
-        "previousRank": 145,
-        "badge": 16000165,
+        "score": 52016,
+        "memberCount": 48,
+        "rank": 66,
+        "previousRank": 81,
+        "badge": {
+            "name": "A_Char_Hammer_02",
+            "category": "03_Royale",
+            "id": 16000165,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Hammer_02.png"
+        },
         "location": {
             "name": "Costa Rica",
             "isCountry": true,
@@ -1246,265 +1254,37 @@
         }
     },
     {
-        "tag": "PLYVU2G",
-        "name": "Nova l Germany",
-        "score": 50225,
-        "memberCount": 49,
-        "rank": 90,
-        "previousRank": 102,
-        "badge": 16000044,
-        "location": {
-            "name": "Germany",
-            "isCountry": true,
-            "code": "DE"
-        }
-    },
-    {
-        "tag": "8QRULPPC",
-        "name": "GulfNation™ ITA",
-        "score": 50212,
-        "memberCount": 48,
-        "rank": 91,
-        "previousRank": 99,
-        "badge": 16000043,
-        "location": {
-            "name": "Italy",
-            "isCountry": true,
-            "code": "IT"
-        }
-    },
-    {
-        "tag": "YLYJ8",
-        "name": "Wi and Fi",
-        "score": 50192,
-        "memberCount": 46,
-        "rank": 92,
-        "previousRank": 91,
-        "badge": 16000168,
-        "location": {
-            "name": "South Korea",
-            "isCountry": true,
-            "code": "KR"
-        }
-    },
-    {
-        "tag": "8RU0G892",
-        "name": "Brasil eSports",
-        "score": 50191,
-        "memberCount": 49,
-        "rank": 93,
-        "previousRank": 108,
-        "badge": 16000024,
-        "location": {
-            "name": "Brazil",
-            "isCountry": true,
-            "code": "BR"
-        }
-    },
-    {
-        "tag": "90PCLCUC",
-        "name": "风暴 【Destroy】",
-        "score": 50160,
-        "memberCount": 49,
-        "rank": 94,
-        "previousRank": 79,
-        "badge": 16000097,
-        "location": {
-            "name": "China",
-            "isCountry": true,
-            "code": "CN"
-        }
-    },
-    {
-        "tag": "8PQQ0RVP",
-        "name": "Arena Quesito",
-        "score": 50111,
-        "memberCount": 48,
-        "rank": 95,
-        "previousRank": 92,
-        "badge": 16000013,
-        "location": {
-            "name": "Spain",
-            "isCountry": true,
-            "code": "ES"
-        }
-    },
-    {
-        "tag": "2JYGCRLL",
-        "name": "Crema Catalana",
-        "score": 50093,
-        "memberCount": 50,
-        "rank": 96,
-        "previousRank": 100,
-        "badge": 16000000,
-        "location": {
-            "name": "Spain",
-            "isCountry": true,
-            "code": "ES"
-        }
-    },
-    {
-        "tag": "29CPJ8Y0",
-        "name": "花言葉～Momo～",
-        "score": 50079,
-        "memberCount": 49,
-        "rank": 97,
-        "previousRank": 98,
-        "badge": 16000132,
-        "location": {
-            "name": "Japan",
-            "isCountry": true,
-            "code": "JP"
-        }
-    },
-    {
-        "tag": "8L2YPVRR",
-        "name": "SandStorm Dark",
-        "score": 50066,
-        "memberCount": 47,
-        "rank": 98,
-        "previousRank": 249,
-        "badge": 16000097,
-        "location": {
-            "name": "Honduras",
-            "isCountry": true,
-            "code": "HN"
-        }
-    },
-    {
-        "tag": "8JLVR9VV",
-        "name": "Nova I C.A",
-        "score": 50064,
-        "memberCount": 41,
-        "rank": 99,
-        "previousRank": 47,
-        "badge": 16000044,
-        "location": {
-            "name": "Guatemala",
-            "isCountry": true,
-            "code": "GT"
-        }
-    },
-    {
-        "tag": "8LQLVL8P",
-        "name": "Ghost eSports",
-        "score": 49993,
-        "memberCount": 50,
-        "rank": 100,
-        "previousRank": 232,
-        "badge": 16000002,
-        "location": {
-            "name": "Panama",
-            "isCountry": true,
-            "code": "PA"
-        }
-    },
-    {
-        "tag": "80Y0U9",
-        "name": "iran tehran",
-        "score": 49990,
-        "memberCount": 48,
-        "rank": 101,
-        "previousRank": 124,
-        "badge": 16000002,
-        "location": {
-            "name": "Iran",
-            "isCountry": true,
-            "code": "IR"
-        }
-    },
-    {
-        "tag": "99Y09VG2",
-        "name": "Supremos™",
-        "score": 49957,
-        "memberCount": 50,
-        "rank": 102,
-        "previousRank": 93,
-        "badge": 16000012,
-        "location": {
-            "name": "Germany",
-            "isCountry": true,
-            "code": "DE"
-        }
-    },
-    {
-        "tag": "8RU0JYQ8",
-        "name": "ارتش امام زمان",
-        "score": 49910,
-        "memberCount": 49,
-        "rank": 103,
-        "previousRank": 85,
-        "badge": 16000101,
-        "location": {
-            "name": "Iran",
-            "isCountry": true,
-            "code": "IR"
-        }
-    },
-    {
-        "tag": "9GJ89V",
-        "name": "ウエスト98cmの会",
-        "score": 49884,
-        "memberCount": 44,
-        "rank": 104,
-        "previousRank": 206,
-        "badge": 16000100,
-        "location": {
-            "name": "Japan",
-            "isCountry": true,
-            "code": "JP"
-        }
-    },
-    {
-        "tag": "8UL9R8VR",
-        "name": "[LGN] huntters",
-        "score": 49882,
-        "memberCount": 49,
-        "rank": 105,
-        "previousRank": 96,
-        "badge": 16000064,
-        "location": {
-            "name": "Spain",
-            "isCountry": true,
-            "code": "ES"
-        }
-    },
-    {
-        "tag": "2J2V00QP",
-        "name": "WhyWorry",
-        "score": 49869,
-        "memberCount": 50,
-        "rank": 106,
-        "previousRank": 215,
-        "badge": 16000170,
-        "location": {
-            "name": "Germany",
-            "isCountry": true,
-            "code": "DE"
-        }
-    },
-    {
         "tag": "8RU0QRRC",
         "name": "Epix N Impulse",
-        "score": 49859,
-        "memberCount": 43,
-        "rank": 107,
-        "previousRank": 77,
-        "badge": 16000019,
+        "score": 51986,
+        "memberCount": 49,
+        "rank": 67,
+        "previousRank": 48,
+        "badge": {
+            "name": "Arrow_04",
+            "category": "01_Symbol",
+            "id": 16000019,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Arrow_04.png"
+        },
         "location": {
-            "name": "North America",
-            "isCountry": false,
-            "code": "_NA"
+            "name": "Canada",
+            "isCountry": true,
+            "code": "CA"
         }
     },
     {
         "tag": "2JU290L9",
         "name": "場內野豬搖滾區",
-        "score": 49854,
-        "memberCount": 47,
-        "rank": 108,
-        "previousRank": 94,
-        "badge": 16000165,
+        "score": 51980,
+        "memberCount": 49,
+        "rank": 68,
+        "previousRank": 80,
+        "badge": {
+            "name": "A_Char_Hammer_02",
+            "category": "03_Royale",
+            "id": 16000165,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Hammer_02.png"
+        },
         "location": {
             "name": "Taiwan",
             "isCountry": true,
@@ -1512,41 +1292,18 @@
         }
     },
     {
-        "tag": "2YVQ2CG0",
-        "name": "LegendaryRivals",
-        "score": 49852,
+        "tag": "CV0YVU",
+        "name": "大阪クラン",
+        "score": 51978,
         "memberCount": 48,
-        "rank": 109,
-        "previousRank": 111,
-        "badge": 16000017,
-        "location": {
-            "name": "United States",
-            "isCountry": true,
-            "code": "US"
-        }
-    },
-    {
-        "tag": "GG2V89L",
-        "name": "RomaniaWarlords",
-        "score": 49822,
-        "memberCount": 49,
-        "rank": 110,
-        "previousRank": 121,
-        "badge": 16000020,
-        "location": {
-            "name": "Romania",
-            "isCountry": true,
-            "code": "RO"
-        }
-    },
-    {
-        "tag": "RGJ0C",
-        "name": "Hello Winner",
-        "score": 49811,
-        "memberCount": 46,
-        "rank": 111,
-        "previousRank": 123,
-        "badge": 16000068,
+        "rank": 69,
+        "previousRank": 71,
+        "badge": {
+            "name": "flag_a_03",
+            "category": "02_Flag",
+            "id": 16000050,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_a_03.png"
+        },
         "location": {
             "name": "Japan",
             "isCountry": true,
@@ -1554,55 +1311,132 @@
         }
     },
     {
-        "tag": "GJGQCGU",
-        "name": "Vietnam Glory",
-        "score": 49799,
+        "tag": "2UP8R99Y",
+        "name": "Nova l Potenza",
+        "score": 51965,
         "memberCount": 45,
-        "rank": 112,
-        "previousRank": 109,
-        "badge": 16000039,
+        "rank": 70,
+        "previousRank": 53,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
         "location": {
-            "name": "Vietnam",
+            "name": "Brazil",
             "isCountry": true,
-            "code": "VN"
+            "code": "BR"
         }
     },
     {
-        "tag": "PUUL9YY",
-        "name": "Rubinho's Army",
-        "score": 49782,
+        "tag": "8JQQP8UL",
+        "name": "HK@852 l Nova",
+        "score": 51940,
         "memberCount": 49,
-        "rank": 113,
-        "previousRank": 142,
-        "badge": 16000165,
+        "rank": 71,
+        "previousRank": 96,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
         "location": {
-            "name": "Spain",
+            "name": "Hong Kong",
             "isCountry": true,
-            "code": "ES"
+            "code": "HK"
         }
     },
     {
-        "tag": "8RPPP90P",
-        "name": "COUNTING STARS",
-        "score": 49776,
-        "memberCount": 48,
-        "rank": 114,
-        "previousRank": 114,
-        "badge": 16000039,
+        "tag": "8RJQU9CU",
+        "name": "Deep swamp",
+        "score": 51936,
+        "memberCount": 40,
+        "rank": 72,
+        "previousRank": 30,
+        "badge": {
+            "name": "Bamboo_04",
+            "category": "01_Symbol",
+            "id": 16000139,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Bamboo_04.png"
+        },
         "location": {
-            "name": "Italy",
+            "name": "Japan",
             "isCountry": true,
-            "code": "IT"
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "UU9L",
+        "name": "きくすいコーポ",
+        "score": 51927,
+        "memberCount": 47,
+        "rank": 73,
+        "previousRank": 45,
+        "badge": {
+            "name": "Fan_04",
+            "category": "01_Symbol",
+            "id": 16000119,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Fan_04.png"
+        },
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "8R2LL0YJ",
+        "name": "Sandstorm BR™",
+        "score": 51925,
+        "memberCount": 50,
+        "rank": 74,
+        "previousRank": 93,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "8YYRQY8J",
+        "name": "Sandstorm IRQ",
+        "score": 51917,
+        "memberCount": 48,
+        "rank": 75,
+        "previousRank": 74,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
+        "location": {
+            "name": "Iraq",
+            "isCountry": true,
+            "code": "IQ"
         }
     },
     {
         "tag": "PP289",
         "name": "Phonecats",
-        "score": 49733,
-        "memberCount": 47,
-        "rank": 115,
-        "previousRank": 113,
-        "badge": 16000008,
+        "score": 51893,
+        "memberCount": 49,
+        "rank": 76,
+        "previousRank": 128,
+        "badge": {
+            "name": "Bolt_01",
+            "category": "01_Symbol",
+            "id": 16000008,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Bolt_01.png"
+        },
         "location": {
             "name": "International",
             "isCountry": false,
@@ -1610,55 +1444,37 @@
         }
     },
     {
-        "tag": "8L08JG2V",
-        "name": "Critical Gaming",
-        "score": 49706,
-        "memberCount": 45,
-        "rank": 116,
-        "previousRank": 120,
-        "badge": 16000165,
+        "tag": "989CPY8C",
+        "name": "Sandstorm PL™",
+        "score": 51872,
+        "memberCount": 47,
+        "rank": 77,
+        "previousRank": 66,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
         "location": {
-            "name": "Chile",
+            "name": "Poland",
             "isCountry": true,
-            "code": "CL"
+            "code": "PL"
         }
     },
     {
-        "tag": "8LLL0R2J",
-        "name": "Revolution™2.0",
-        "score": 49696,
-        "memberCount": 50,
-        "rank": 117,
-        "previousRank": 117,
-        "badge": 16000093,
-        "location": {
-            "name": "Italy",
-            "isCountry": true,
-            "code": "IT"
-        }
-    },
-    {
-        "tag": "8L8C2VJQ",
-        "name": "Karmes PDF",
-        "score": 49689,
-        "memberCount": 48,
-        "rank": 118,
-        "previousRank": 107,
-        "badge": 16000029,
-        "location": {
-            "name": "France",
-            "isCountry": true,
-            "code": "FR"
-        }
-    },
-    {
-        "tag": "9RPQU0",
-        "name": "BigDelt∆",
-        "score": 49686,
-        "memberCount": 50,
-        "rank": 119,
-        "previousRank": 138,
-        "badge": 16000051,
+        "tag": "YQVJ9L",
+        "name": "Die Tafelrunde",
+        "score": 51860,
+        "memberCount": 49,
+        "rank": 78,
+        "previousRank": 69,
+        "badge": {
+            "name": "Sword_04",
+            "category": "01_Symbol",
+            "id": 16000007,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Sword_04.png"
+        },
         "location": {
             "name": "Germany",
             "isCountry": true,
@@ -1666,111 +1482,94 @@
         }
     },
     {
-        "tag": "C0QQ22J",
-        "name": "Nova ITA",
-        "score": 49662,
-        "memberCount": 48,
-        "rank": 120,
-        "previousRank": 88,
-        "badge": 16000044,
+        "tag": "2GJLCVJQ",
+        "name": "CRM eSports",
+        "score": 51841,
+        "memberCount": 50,
+        "rank": 79,
+        "previousRank": 193,
+        "badge": {
+            "name": "flag_a_03",
+            "category": "02_Flag",
+            "id": 16000050,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_a_03.png"
+        },
+        "location": {
+            "name": "Mexico",
+            "isCountry": true,
+            "code": "MX"
+        }
+    },
+    {
+        "tag": "82CRQULY",
+        "name": "EVOLUTION",
+        "score": 51824,
+        "memberCount": 49,
+        "rank": 80,
+        "previousRank": 65,
+        "badge": {
+            "name": "Star_Shine_02",
+            "category": "01_Symbol",
+            "id": 16000043,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_02.png"
+        },
+        "location": {
+            "name": "Indonesia",
+            "isCountry": true,
+            "code": "ID"
+        }
+    },
+    {
+        "tag": "2GUPURPV",
+        "name": "Nova l Imperio",
+        "score": 51823,
+        "memberCount": 50,
+        "rank": 81,
+        "previousRank": 90,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "Mexico",
+            "isCountry": true,
+            "code": "MX"
+        }
+    },
+    {
+        "tag": "8JYJC0UC",
+        "name": "Omega™PEKKATORI",
+        "score": 51773,
+        "memberCount": 46,
+        "rank": 82,
+        "previousRank": 73,
+        "badge": {
+            "name": "Star_Shine_01",
+            "category": "01_Symbol",
+            "id": 16000042,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_01.png"
+        },
         "location": {
             "name": "Italy",
             "isCountry": true,
             "code": "IT"
-        }
-    },
-    {
-        "tag": "8Q09RJ00",
-        "name": "娱乐至巅❤️冠绝一时",
-        "score": 49658,
-        "memberCount": 49,
-        "rank": 121,
-        "previousRank": 199,
-        "badge": 16000128,
-        "location": {
-            "name": "China",
-            "isCountry": true,
-            "code": "CN"
-        }
-    },
-    {
-        "tag": "2JPPJQ",
-        "name": "Hebrew Hammer™",
-        "score": 49649,
-        "memberCount": 50,
-        "rank": 122,
-        "previousRank": 116,
-        "badge": 16000164,
-        "location": {
-            "name": "Israel",
-            "isCountry": true,
-            "code": "IL"
-        }
-    },
-    {
-        "tag": "8YLQY0",
-        "name": "The Royales",
-        "score": 49642,
-        "memberCount": 50,
-        "rank": 123,
-        "previousRank": 144,
-        "badge": 16000015,
-        "location": {
-            "name": "United States",
-            "isCountry": true,
-            "code": "US"
-        }
-    },
-    {
-        "tag": "8YVV9YUR",
-        "name": "Veterans Élite™",
-        "score": 49639,
-        "memberCount": 48,
-        "rank": 124,
-        "previousRank": 127,
-        "badge": 16000036,
-        "location": {
-            "name": "Italy",
-            "isCountry": true,
-            "code": "IT"
-        }
-    },
-    {
-        "tag": "2QG0LPRY",
-        "name": "Mega India",
-        "score": 49636,
-        "memberCount": 50,
-        "rank": 125,
-        "previousRank": 125,
-        "badge": 16000020,
-        "location": {
-            "name": "India",
-            "isCountry": true,
-            "code": "IN"
-        }
-    },
-    {
-        "tag": "89QC0GYJ",
-        "name": "Sandstorm Latam",
-        "score": 49622,
-        "memberCount": 49,
-        "rank": 126,
-        "previousRank": 173,
-        "badge": 16000097,
-        "location": {
-            "name": "Argentina",
-            "isCountry": true,
-            "code": "AR"
         }
     },
     {
         "tag": "8VJQ0U9",
         "name": "Half Baked™",
-        "score": 49582,
-        "memberCount": 42,
-        "rank": 127,
-        "previousRank": 87,
-        "badge": 16000021,
+        "score": 51764,
+        "memberCount": 49,
+        "rank": 83,
+        "previousRank": 124,
+        "badge": {
+            "name": "Diamond_Star_02",
+            "category": "01_Symbol",
+            "id": 16000021,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Diamond_Star_02.png"
+        },
         "location": {
             "name": "United States",
             "isCountry": true,
@@ -1778,41 +1577,18 @@
         }
     },
     {
-        "tag": "2LR02ULG",
-        "name": "Nova大唐 l 禁卫军",
-        "score": 49542,
-        "memberCount": 50,
-        "rank": 128,
-        "previousRank": 149,
-        "badge": 16000044,
-        "location": {
-            "name": "China",
-            "isCountry": true,
-            "code": "CN"
-        }
-    },
-    {
-        "tag": "90V02GQQ",
-        "name": "Mega l Surge",
-        "score": 49542,
-        "memberCount": 49,
-        "rank": 129,
-        "previousRank": 126,
-        "badge": 16000020,
-        "location": {
-            "name": "United States",
-            "isCountry": true,
-            "code": "US"
-        }
-    },
-    {
-        "tag": "22PGG82Q",
-        "name": "UAE LEGENDS",
-        "score": 49515,
-        "memberCount": 49,
-        "rank": 130,
-        "previousRank": 130,
-        "badge": 16000009,
+        "tag": "92LCY22C",
+        "name": "Sandstorm UAE",
+        "score": 51731,
+        "memberCount": 47,
+        "rank": 84,
+        "previousRank": 142,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
         "location": {
             "name": "United Arab Emirates",
             "isCountry": true,
@@ -1820,13 +1596,94 @@
         }
     },
     {
-        "tag": "22LCR",
-        "name": "V.N Champions",
-        "score": 49508,
+        "tag": "8LU8JUR8",
+        "name": "OldCheeseLegend",
+        "score": 51727,
+        "memberCount": 42,
+        "rank": 85,
+        "previousRank": 143,
+        "badge": {
+            "name": "Crown_01",
+            "category": "01_Symbol",
+            "id": 16000012,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Crown_01.png"
+        },
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "90V02GQQ",
+        "name": "Mega l Surge",
+        "score": 51723,
+        "memberCount": 50,
+        "rank": 86,
+        "previousRank": 104,
+        "badge": {
+            "name": "Diamond_Star_01",
+            "category": "01_Symbol",
+            "id": 16000020,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Diamond_Star_01.png"
+        },
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "8L8C2VJQ",
+        "name": "Karmes PDF",
+        "score": 51714,
         "memberCount": 47,
-        "rank": 131,
-        "previousRank": 148,
-        "badge": 16000169,
+        "rank": 87,
+        "previousRank": 75,
+        "badge": {
+            "name": "Skull_06",
+            "category": "01_Symbol",
+            "id": 16000029,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Skull_06.png"
+        },
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "8QRULPPC",
+        "name": "GulfNation™ ITA",
+        "score": 51695,
+        "memberCount": 49,
+        "rank": 88,
+        "previousRank": 77,
+        "badge": {
+            "name": "Star_Shine_02",
+            "category": "01_Symbol",
+            "id": 16000043,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_02.png"
+        },
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "GJGQCGU",
+        "name": "Vietnam Glory",
+        "score": 51655,
+        "memberCount": 48,
+        "rank": 89,
+        "previousRank": 105,
+        "badge": {
+            "name": "Traditional_Star_04",
+            "category": "01_Symbol",
+            "id": 16000039,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Traditional_Star_04.png"
+        },
         "location": {
             "name": "Vietnam",
             "isCountry": true,
@@ -1834,13 +1691,569 @@
         }
     },
     {
+        "tag": "Q8YRPV",
+        "name": "Persian.gulf",
+        "score": 51654,
+        "memberCount": 49,
+        "rank": 90,
+        "previousRank": 100,
+        "badge": {
+            "name": "flag_g_01",
+            "category": "02_Flag",
+            "id": 16000068,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_g_01.png"
+        },
+        "location": {
+            "name": "Iran",
+            "isCountry": true,
+            "code": "IR"
+        }
+    },
+    {
+        "tag": "8QLVV00V",
+        "name": "TÜRKİYE",
+        "score": 51637,
+        "memberCount": 50,
+        "rank": 91,
+        "previousRank": 85,
+        "badge": {
+            "name": "Moon_01",
+            "category": "01_Symbol",
+            "id": 16000030,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Moon_01.png"
+        },
+        "location": {
+            "name": "Turkey",
+            "isCountry": true,
+            "code": "TR"
+        }
+    },
+    {
+        "tag": "LVL8GP8",
+        "name": "Munich Fighters",
+        "score": 51629,
+        "memberCount": 46,
+        "rank": 92,
+        "previousRank": 70,
+        "badge": {
+            "name": "Sword_01",
+            "category": "01_Symbol",
+            "id": 16000004,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Sword_01.png"
+        },
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "V8PUJ",
+        "name": "AuRuM TV",
+        "score": 51614,
+        "memberCount": 46,
+        "rank": 93,
+        "previousRank": 89,
+        "badge": {
+            "name": "Crown_01",
+            "category": "01_Symbol",
+            "id": 16000012,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Crown_01.png"
+        },
+        "location": {
+            "name": "Russia",
+            "isCountry": true,
+            "code": "RU"
+        }
+    },
+    {
+        "tag": "9QJQYYYJ",
+        "name": "Gladiators™️",
+        "score": 51578,
+        "memberCount": 44,
+        "rank": 94,
+        "previousRank": 44,
+        "badge": {
+            "name": "Sword_04",
+            "category": "01_Symbol",
+            "id": 16000007,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Sword_04.png"
+        },
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "PLYVU2G",
+        "name": "Nova l Germany",
+        "score": 51567,
+        "memberCount": 49,
+        "rank": 95,
+        "previousRank": 97,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "8QY2RU9G",
+        "name": "Sandstorm KSA",
+        "score": 51563,
+        "memberCount": 45,
+        "rank": 96,
+        "previousRank": 56,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
+        "location": {
+            "name": "Saudi Arabia",
+            "isCountry": true,
+            "code": "SA"
+        }
+    },
+    {
+        "tag": "CYCJJLG",
+        "name": "Nova Turkey",
+        "score": 51527,
+        "memberCount": 49,
+        "rank": 97,
+        "previousRank": 199,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "Turkey",
+            "isCountry": true,
+            "code": "TR"
+        }
+    },
+    {
+        "tag": "8JLVR9VV",
+        "name": "Nova I C.A",
+        "score": 51515,
+        "memberCount": 45,
+        "rank": 98,
+        "previousRank": 61,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "El Salvador",
+            "isCountry": true,
+            "code": "SV"
+        }
+    },
+    {
+        "tag": "8L2YPVRR",
+        "name": "SandStorm Dark",
+        "score": 51445,
+        "memberCount": 47,
+        "rank": 99,
+        "previousRank": 189,
+        "badge": {
+            "name": "Pine_02",
+            "category": "01_Symbol",
+            "id": 16000034,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Pine_02.png"
+        },
+        "location": {
+            "name": "Honduras",
+            "isCountry": true,
+            "code": "HN"
+        }
+    },
+    {
+        "tag": "2GVJGLP0",
+        "name": "#2Fresh eSports",
+        "score": 51429,
+        "memberCount": 46,
+        "rank": 100,
+        "previousRank": 190,
+        "badge": {
+            "name": "Cherry_Blossom_05",
+            "category": "01_Symbol",
+            "id": 16000133,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Cherry_Blossom_05.png"
+        },
+        "location": {
+            "name": "International",
+            "isCountry": false,
+            "code": "_INT"
+        }
+    },
+    {
+        "tag": "22QP0LQ9",
+        "name": "Ad Astra",
+        "score": 51420,
+        "memberCount": 44,
+        "rank": 101,
+        "previousRank": 82,
+        "badge": {
+            "name": "Traditional_Star_05",
+            "category": "01_Symbol",
+            "id": 16000040,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Traditional_Star_05.png"
+        },
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "PQJ2Y",
+        "name": "RoyaleConQueso",
+        "score": 51406,
+        "memberCount": 44,
+        "rank": 102,
+        "previousRank": 50,
+        "badge": {
+            "name": "Crown_02",
+            "category": "01_Symbol",
+            "id": 16000013,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Crown_02.png"
+        },
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "8RCVQ0G2",
+        "name": "Nova l Forza",
+        "score": 51391,
+        "memberCount": 50,
+        "rank": 103,
+        "previousRank": 102,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "8L08JG2V",
+        "name": "Critical Gaming",
+        "score": 51354,
+        "memberCount": 46,
+        "rank": 104,
+        "previousRank": 103,
+        "badge": {
+            "name": "A_Char_Hammer_02",
+            "category": "03_Royale",
+            "id": 16000165,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Hammer_02.png"
+        },
+        "location": {
+            "name": "Chile",
+            "isCountry": true,
+            "code": "CL"
+        }
+    },
+    {
+        "tag": "2YVQ2CG0",
+        "name": "LegendaryRivals",
+        "score": 51350,
+        "memberCount": 49,
+        "rank": 105,
+        "previousRank": 94,
+        "badge": {
+            "name": "Arrow_02",
+            "category": "01_Symbol",
+            "id": 16000017,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Arrow_02.png"
+        },
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "8LLL0R2J",
+        "name": "Revolution™2.0",
+        "score": 51292,
+        "memberCount": 49,
+        "rank": 106,
+        "previousRank": 110,
+        "badge": {
+            "name": "flag_n_04",
+            "category": "02_Flag",
+            "id": 16000093,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_n_04.png"
+        },
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "8YVV9YUR",
+        "name": "Veterans Élite™",
+        "score": 51275,
+        "memberCount": 49,
+        "rank": 107,
+        "previousRank": 108,
+        "badge": {
+            "name": "Traditional_Star_01",
+            "category": "01_Symbol",
+            "id": 16000036,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Traditional_Star_01.png"
+        },
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "80Y0U9",
+        "name": "iran tehran",
+        "score": 51260,
+        "memberCount": 49,
+        "rank": 108,
+        "previousRank": 106,
+        "badge": {
+            "name": "Flame_03",
+            "category": "01_Symbol",
+            "id": 16000002,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Flame_03.png"
+        },
+        "location": {
+            "name": "Iran",
+            "isCountry": true,
+            "code": "IR"
+        }
+    },
+    {
+        "tag": "8RPPP90P",
+        "name": "COUNTING STARS",
+        "score": 51256,
+        "memberCount": 48,
+        "rank": 109,
+        "previousRank": 92,
+        "badge": {
+            "name": "Traditional_Star_04",
+            "category": "01_Symbol",
+            "id": 16000039,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Traditional_Star_04.png"
+        },
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "20JJCCG",
+        "name": "あかずきんのいえ",
+        "score": 51252,
+        "memberCount": 50,
+        "rank": 110,
+        "previousRank": 116,
+        "badge": {
+            "name": "A_Char_MiniPekka_02",
+            "category": "03_Royale",
+            "id": 16000161,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_MiniPekka_02.png"
+        },
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "9P80LGGG",
+        "name": "Sandstorm QTR",
+        "score": 51252,
+        "memberCount": 50,
+        "rank": 111,
+        "previousRank": 196,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
+        "location": {
+            "name": "Qatar",
+            "isCountry": true,
+            "code": "QA"
+        }
+    },
+    {
+        "tag": "20R88P",
+        "name": "INDO ROYALE",
+        "score": 51229,
+        "memberCount": 50,
+        "rank": 112,
+        "previousRank": 153,
+        "badge": {
+            "name": "Crown_01",
+            "category": "01_Symbol",
+            "id": 16000012,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Crown_01.png"
+        },
+        "location": {
+            "name": "Indonesia",
+            "isCountry": true,
+            "code": "ID"
+        }
+    },
+    {
+        "tag": "8LG02LP2",
+        "name": "Leb Loob™",
+        "score": 51216,
+        "memberCount": 47,
+        "rank": 113,
+        "previousRank": 117,
+        "badge": {
+            "name": "Bamboo_04",
+            "category": "01_Symbol",
+            "id": 16000139,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Bamboo_04.png"
+        },
+        "location": {
+            "name": "Lebanon",
+            "isCountry": true,
+            "code": "LB"
+        }
+    },
+    {
+        "tag": "2JYY2GR8",
+        "name": "Emporio eSports",
+        "score": 51209,
+        "memberCount": 50,
+        "rank": 114,
+        "previousRank": 140,
+        "badge": {
+            "name": "flag_j_03",
+            "category": "02_Flag",
+            "id": 16000077,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_j_03.png"
+        },
+        "location": {
+            "name": "Mexico",
+            "isCountry": true,
+            "code": "MX"
+        }
+    },
+    {
+        "tag": "8QQ8YRUV",
+        "name": "Phantoms Push",
+        "score": 51206,
+        "memberCount": 46,
+        "rank": 115,
+        "previousRank": 126,
+        "badge": {
+            "name": "Twin_Peaks_01",
+            "category": "01_Symbol",
+            "id": 16000096,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_01.png"
+        },
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "QLJU8G",
+        "name": "29.10.1923",
+        "score": 51200,
+        "memberCount": 46,
+        "rank": 116,
+        "previousRank": 130,
+        "badge": {
+            "name": "flag_f_02",
+            "category": "02_Flag",
+            "id": 16000067,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_f_02.png"
+        },
+        "location": {
+            "name": "Turkey",
+            "isCountry": true,
+            "code": "TR"
+        }
+    },
+    {
+        "tag": "92C82CRR",
+        "name": "SAMURAI™",
+        "score": 51192,
+        "memberCount": 49,
+        "rank": 117,
+        "previousRank": 352,
+        "badge": {
+            "name": "Fan_02",
+            "category": "01_Symbol",
+            "id": 16000117,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Fan_02.png"
+        },
+        "location": {
+            "name": "Paraguay",
+            "isCountry": true,
+            "code": "PY"
+        }
+    },
+    {
+        "tag": "LGPC2UR",
+        "name": "winchesters",
+        "score": 51179,
+        "memberCount": 49,
+        "rank": 118,
+        "previousRank": 127,
+        "badge": {
+            "name": "A_Char_King_01",
+            "category": "03_Royale",
+            "id": 16000144,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_King_01.png"
+        },
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
         "tag": "2JVJRYP",
         "name": "Nova l UK",
-        "score": 49500,
-        "memberCount": 46,
-        "rank": 132,
-        "previousRank": 119,
-        "badge": 16000044,
+        "score": 51171,
+        "memberCount": 50,
+        "rank": 119,
+        "previousRank": 131,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
         "location": {
             "name": "United Kingdom",
             "isCountry": true,
@@ -1848,13 +2261,132 @@
         }
     },
     {
-        "tag": "CYCJJLG",
-        "name": "Nova Turkey",
-        "score": 49496,
-        "memberCount": 45,
-        "rank": 133,
-        "previousRank": 110,
-        "badge": 16000044,
+        "tag": "8YLQY0",
+        "name": "The Royales",
+        "score": 51152,
+        "memberCount": 50,
+        "rank": 120,
+        "previousRank": 114,
+        "badge": {
+            "name": "Crown_04",
+            "category": "01_Symbol",
+            "id": 16000015,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Crown_04.png"
+        },
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "88GVV0QL",
+        "name": "MANGÚ™",
+        "score": 51139,
+        "memberCount": 43,
+        "rank": 121,
+        "previousRank": 87,
+        "badge": {
+            "name": "Pine_02",
+            "category": "01_Symbol",
+            "id": 16000034,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Pine_02.png"
+        },
+        "location": {
+            "name": "Dominican Republic",
+            "isCountry": true,
+            "code": "DO"
+        }
+    },
+    {
+        "tag": "8RU0JYQ8",
+        "name": "ارتش امام زمان",
+        "score": 51139,
+        "memberCount": 49,
+        "rank": 122,
+        "previousRank": 118,
+        "badge": {
+            "name": "Gem_04",
+            "category": "03_Royale",
+            "id": 16000101,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Gem_04.png"
+        },
+        "location": {
+            "name": "Iran",
+            "isCountry": true,
+            "code": "IR"
+        }
+    },
+    {
+        "tag": "2U2GGQJ",
+        "name": "Reddit Bravo",
+        "score": 51119,
+        "memberCount": 50,
+        "rank": 123,
+        "previousRank": 157,
+        "badge": {
+            "name": "A_Char_Rocket_02",
+            "category": "03_Royale",
+            "id": 16000167,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Rocket_02.png"
+        },
+        "location": {
+            "name": "Christmas Island",
+            "isCountry": true,
+            "code": "CX"
+        }
+    },
+    {
+        "tag": "YLYJ8",
+        "name": "Wi and Fi",
+        "score": 51116,
+        "memberCount": 46,
+        "rank": 124,
+        "previousRank": 83,
+        "badge": {
+            "name": "Freeze_01",
+            "category": "01_Symbol",
+            "id": 16000168,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Freeze_01.png"
+        },
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "C0QQ22J",
+        "name": "Nova ITA",
+        "score": 51111,
+        "memberCount": 49,
+        "rank": 125,
+        "previousRank": 119,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "8G2RU2P2",
+        "name": "Made in TURKEY",
+        "score": 51102,
+        "memberCount": 48,
+        "rank": 126,
+        "previousRank": 168,
+        "badge": {
+            "name": "Moon_01",
+            "category": "01_Symbol",
+            "id": 16000030,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Moon_01.png"
+        },
         "location": {
             "name": "Turkey",
             "isCountry": true,
@@ -1864,11 +2396,16 @@
     {
         "tag": "P9QRRCG",
         "name": "CLASH CHAMPIONS",
-        "score": 49478,
-        "memberCount": 48,
-        "rank": 134,
-        "previousRank": 135,
-        "badge": 16000007,
+        "score": 51094,
+        "memberCount": 50,
+        "rank": 127,
+        "previousRank": 147,
+        "badge": {
+            "name": "Sword_04",
+            "category": "01_Symbol",
+            "id": 16000007,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Sword_04.png"
+        },
         "location": {
             "name": "North America",
             "isCountry": false,
@@ -1876,251 +2413,18 @@
         }
     },
     {
-        "tag": "929092",
-        "name": "RoyaleSinQueso",
-        "score": 49460,
-        "memberCount": 48,
-        "rank": 135,
-        "previousRank": 128,
-        "badge": 16000013,
-        "location": {
-            "name": "Spain",
-            "isCountry": true,
-            "code": "ES"
-        }
-    },
-    {
-        "tag": "2JYY2GR8",
-        "name": "Emporio eSports",
-        "score": 49451,
-        "memberCount": 48,
-        "rank": 136,
-        "previousRank": 137,
-        "badge": 16000077,
-        "location": {
-            "name": "Mexico",
-            "isCountry": true,
-            "code": "MX"
-        }
-    },
-    {
-        "tag": "2GUPURPV",
-        "name": "Nova l Imperio",
-        "score": 49434,
-        "memberCount": 43,
-        "rank": 137,
-        "previousRank": 175,
-        "badge": 16000044,
-        "location": {
-            "name": "Mexico",
-            "isCountry": true,
-            "code": "MX"
-        }
-    },
-    {
-        "tag": "8JQQP8UL",
-        "name": "HK@852 l Nova",
-        "score": 49422,
-        "memberCount": 46,
-        "rank": 138,
-        "previousRank": 172,
-        "badge": 16000044,
-        "location": {
-            "name": "Hong Kong",
-            "isCountry": true,
-            "code": "HK"
-        }
-    },
-    {
-        "tag": "8QLVV00V",
-        "name": "TÜRKİYE",
-        "score": 49420,
-        "memberCount": 46,
-        "rank": 139,
-        "previousRank": 73,
-        "badge": 16000030,
-        "location": {
-            "name": "Turkey",
-            "isCountry": true,
-            "code": "TR"
-        }
-    },
-    {
-        "tag": "922VCJ",
-        "name": "Orange Juice",
-        "score": 49416,
-        "memberCount": 48,
-        "rank": 140,
-        "previousRank": 97,
-        "badge": 16000140,
-        "location": {
-            "name": "Canada",
-            "isCountry": true,
-            "code": "CA"
-        }
-    },
-    {
-        "tag": "VJYGYL",
-        "name": "Golems Vendetta",
-        "score": 49406,
-        "memberCount": 46,
-        "rank": 141,
-        "previousRank": 166,
-        "badge": 16000176,
-        "location": {
-            "name": "Colombia",
-            "isCountry": true,
-            "code": "CO"
-        }
-    },
-    {
-        "tag": "8ULG9JCR",
-        "name": "Killer Clowns™",
-        "score": 49398,
+        "tag": "99PJ8VQ0",
+        "name": "Dark Alliance",
+        "score": 51073,
         "memberCount": 49,
-        "rank": 142,
-        "previousRank": 237,
-        "badge": 16000169,
-        "location": {
-            "name": "Mexico",
-            "isCountry": true,
-            "code": "MX"
-        }
-    },
-    {
-        "tag": "LGPC2UR",
-        "name": "winchesters",
-        "score": 49396,
-        "memberCount": 46,
-        "rank": 143,
-        "previousRank": 104,
-        "badge": 16000144,
-        "location": {
-            "name": "Brazil",
-            "isCountry": true,
-            "code": "BR"
-        }
-    },
-    {
-        "tag": "29LPY",
-        "name": "WoT",
-        "score": 49393,
-        "memberCount": 47,
-        "rank": 144,
-        "previousRank": 139,
-        "badge": 16000008,
-        "location": {
-            "name": "France",
-            "isCountry": true,
-            "code": "FR"
-        }
-    },
-    {
-        "tag": "9Q2R0C0V",
-        "name": "Rising Night",
-        "score": 49389,
-        "memberCount": 50,
-        "rank": 145,
-        "previousRank": 159,
-        "badge": 16000122,
-        "location": {
-            "name": "Belgium",
-            "isCountry": true,
-            "code": "BE"
-        }
-    },
-    {
-        "tag": "2GRG0YR9",
-        "name": "UNITS",
-        "score": 49376,
-        "memberCount": 47,
-        "rank": 146,
-        "previousRank": 280,
-        "badge": 16000008,
-        "location": {
-            "name": "South Korea",
-            "isCountry": true,
-            "code": "KR"
-        }
-    },
-    {
-        "tag": "CCUQ",
-        "name": "Husaria Polska",
-        "score": 49370,
-        "memberCount": 49,
-        "rank": 147,
-        "previousRank": 133,
-        "badge": 16000067,
-        "location": {
-            "name": "Poland",
-            "isCountry": true,
-            "code": "PL"
-        }
-    },
-    {
-        "tag": "82LQRL",
-        "name": "FiringRange",
-        "score": 49367,
-        "memberCount": 49,
-        "rank": 148,
-        "previousRank": 140,
-        "badge": 16000016,
-        "location": {
-            "name": "United Kingdom",
-            "isCountry": true,
-            "code": "GB"
-        }
-    },
-    {
-        "tag": "2U2GGQJ",
-        "name": "Reddit Bravo",
-        "score": 49349,
-        "memberCount": 47,
-        "rank": 149,
+        "rank": 128,
         "previousRank": 129,
-        "badge": 16000167,
-        "location": {
-            "name": "Christmas Island",
-            "isCountry": true,
-            "code": "CX"
-        }
-    },
-    {
-        "tag": "J2Y98VL",
-        "name": "Pagoli",
-        "score": 49342,
-        "memberCount": 50,
-        "rank": 150,
-        "previousRank": 158,
-        "badge": 16000085,
-        "location": {
-            "name": "Iran",
-            "isCountry": true,
-            "code": "IR"
-        }
-    },
-    {
-        "tag": "2J2UYJG",
-        "name": "무궁화",
-        "score": 49325,
-        "memberCount": 48,
-        "rank": 151,
-        "previousRank": 176,
-        "badge": 16000132,
-        "location": {
-            "name": "South Korea",
-            "isCountry": true,
-            "code": "KR"
-        }
-    },
-    {
-        "tag": "PGJUU9",
-        "name": "ARTIFICIEROSTOP",
-        "score": 49315,
-        "memberCount": 47,
-        "rank": 152,
-        "previousRank": 160,
-        "badge": 16000077,
+        "badge": {
+            "name": "Twin_Peaks_01",
+            "category": "01_Symbol",
+            "id": 16000096,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_01.png"
+        },
         "location": {
             "name": "Spain",
             "isCountry": true,
@@ -2128,251 +2432,18 @@
         }
     },
     {
-        "tag": "QLJU8G",
-        "name": "29.10.1923",
-        "score": 49308,
-        "memberCount": 45,
-        "rank": 153,
-        "previousRank": 152,
-        "badge": 16000032,
-        "location": {
-            "name": "Turkey",
-            "isCountry": true,
-            "code": "TR"
-        }
-    },
-    {
-        "tag": "9PP29CJ2",
-        "name": "Vivo Keyd",
-        "score": 49303,
-        "memberCount": 49,
-        "rank": 154,
-        "previousRank": 106,
-        "badge": 16000162,
-        "location": {
-            "name": "Brazil",
-            "isCountry": true,
-            "code": "BR"
-        }
-    },
-    {
-        "tag": "LG0CC98",
-        "name": "VantaBlack",
-        "score": 49293,
-        "memberCount": 50,
-        "rank": 155,
-        "previousRank": 209,
-        "badge": 16000089,
-        "location": {
-            "name": "Germany",
-            "isCountry": true,
-            "code": "DE"
-        }
-    },
-    {
-        "tag": "2RYG90QL",
-        "name": "Tactical Tilt",
-        "score": 49290,
-        "memberCount": 50,
-        "rank": 156,
-        "previousRank": 171,
-        "badge": 16000096,
-        "location": {
-            "name": "United States",
-            "isCountry": true,
-            "code": "US"
-        }
-    },
-    {
-        "tag": "G2JR2QR",
-        "name": "白银帝国",
-        "score": 49289,
-        "memberCount": 50,
-        "rank": 157,
-        "previousRank": 157,
-        "badge": 16000029,
-        "location": {
-            "name": "China",
-            "isCountry": true,
-            "code": "CN"
-        }
-    },
-    {
-        "tag": "2QPGU2GG",
-        "name": "Syndikaatti",
-        "score": 49278,
-        "memberCount": 49,
-        "rank": 158,
-        "previousRank": 146,
-        "badge": 16000063,
-        "location": {
-            "name": "Finland",
-            "isCountry": true,
-            "code": "FI"
-        }
-    },
-    {
-        "tag": "8C09UVUL",
-        "name": "100% Puro Gofio",
-        "score": 49270,
-        "memberCount": 50,
-        "rank": 159,
-        "previousRank": 132,
-        "badge": 16000040,
-        "location": {
-            "name": "Spain",
-            "isCountry": true,
-            "code": "ES"
-        }
-    },
-    {
-        "tag": "LVUUY0J",
-        "name": "AK Gaming",
-        "score": 49263,
+        "tag": "2QG0LPRY",
+        "name": "Mega India",
+        "score": 51061,
         "memberCount": 47,
-        "rank": 160,
-        "previousRank": 105,
-        "badge": 16000177,
-        "location": {
-            "name": "United States",
-            "isCountry": true,
-            "code": "US"
-        }
-    },
-    {
-        "tag": "YU2RQG9",
-        "name": "PandaScheme",
-        "score": 49258,
-        "memberCount": 50,
-        "rank": 161,
-        "previousRank": 167,
-        "badge": 16000139,
-        "location": {
-            "name": "United States",
-            "isCountry": true,
-            "code": "US"
-        }
-    },
-    {
-        "tag": "82PPURGV",
-        "name": "BrengiTitans",
-        "score": 49252,
-        "memberCount": 50,
-        "rank": 162,
-        "previousRank": 220,
-        "badge": 16000012,
-        "location": {
-            "name": "Israel",
-            "isCountry": true,
-            "code": "IL"
-        }
-    },
-    {
-        "tag": "P0Y9PJJ",
-        "name": "Munich Brawlers",
-        "score": 49240,
-        "memberCount": 49,
-        "rank": 163,
-        "previousRank": 134,
-        "badge": 16000004,
-        "location": {
-            "name": "Germany",
-            "isCountry": true,
-            "code": "DE"
-        }
-    },
-    {
-        "tag": "20JJCCG",
-        "name": "あかずきんのいえ",
-        "score": 49221,
-        "memberCount": 48,
-        "rank": 164,
-        "previousRank": 184,
-        "badge": 16000161,
-        "location": {
-            "name": "Japan",
-            "isCountry": true,
-            "code": "JP"
-        }
-    },
-    {
-        "tag": "8P9UV",
-        "name": "PH Alliance",
-        "score": 49220,
-        "memberCount": 50,
-        "rank": 165,
-        "previousRank": 178,
-        "badge": 16000087,
-        "location": {
-            "name": "Philippines",
-            "isCountry": true,
-            "code": "PH"
-        }
-    },
-    {
-        "tag": "8RYP2J",
-        "name": "대한민국•KOREA",
-        "score": 49201,
-        "memberCount": 49,
-        "rank": 166,
-        "previousRank": 183,
-        "badge": 16000126,
-        "location": {
-            "name": "South Korea",
-            "isCountry": true,
-            "code": "KR"
-        }
-    },
-    {
-        "tag": "8QL99QYC",
-        "name": "Shorys Gaming",
-        "score": 49185,
-        "memberCount": 44,
-        "rank": 167,
-        "previousRank": 101,
-        "badge": 16000171,
-        "location": {
-            "name": "Guatemala",
-            "isCountry": true,
-            "code": "GT"
-        }
-    },
-    {
-        "tag": "28RLRYC",
-        "name": "SUPREMACIA BR",
-        "score": 49153,
-        "memberCount": 49,
-        "rank": 168,
-        "previousRank": 169,
-        "badge": 16000139,
-        "location": {
-            "name": "Brazil",
-            "isCountry": true,
-            "code": "BR"
-        }
-    },
-    {
-        "tag": "9GP09",
-        "name": "シュテルンリッター",
-        "score": 49150,
-        "memberCount": 47,
-        "rank": 169,
-        "previousRank": 122,
-        "badge": 16000044,
-        "location": {
-            "name": "Japan",
-            "isCountry": true,
-            "code": "JP"
-        }
-    },
-    {
-        "tag": "8GGC990V",
-        "name": "Nova l India",
-        "score": 49149,
-        "memberCount": 44,
-        "rank": 170,
-        "previousRank": 170,
-        "badge": 16000044,
+        "rank": 129,
+        "previousRank": 201,
+        "badge": {
+            "name": "Diamond_Star_01",
+            "category": "01_Symbol",
+            "id": 16000020,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Diamond_Star_01.png"
+        },
         "location": {
             "name": "India",
             "isCountry": true,
@@ -2380,237 +2451,37 @@
         }
     },
     {
-        "tag": "V9GRG98",
-        "name": "Aura Gaming",
-        "score": 49147,
-        "memberCount": 44,
-        "rank": 171,
-        "previousRank": 193,
-        "badge": 16000020,
-        "location": {
-            "name": "Singapore",
-            "isCountry": true,
-            "code": "SG"
-        }
-    },
-    {
-        "tag": "JJCGC09",
-        "name": "朋友•皇族",
-        "score": 49134,
-        "memberCount": 50,
-        "rank": 172,
-        "previousRank": 156,
-        "badge": 16000171,
-        "location": {
-            "name": "China",
-            "isCountry": true,
-            "code": "CN"
-        }
-    },
-    {
-        "tag": "9RY2R2",
-        "name": "Sentry 1.0",
-        "score": 49131,
-        "memberCount": 49,
-        "rank": 173,
-        "previousRank": 179,
-        "badge": 16000020,
-        "location": {
-            "name": "Italy",
-            "isCountry": true,
-            "code": "IT"
-        }
-    },
-    {
-        "tag": "9P80LGGG",
-        "name": "Sandstorm QTR",
-        "score": 49130,
-        "memberCount": 45,
-        "rank": 174,
-        "previousRank": 143,
-        "badge": 16000097,
-        "location": {
-            "name": "Qatar",
-            "isCountry": true,
-            "code": "QA"
-        }
-    },
-    {
-        "tag": "809JYLUP",
-        "name": "Latine eSports",
-        "score": 49127,
+        "tag": "22PGG82Q",
+        "name": "UAE LEGENDS",
+        "score": 51014,
         "memberCount": 48,
-        "rank": 175,
-        "previousRank": 189,
-        "badge": 16000167,
-        "location": {
-            "name": "Bolivia",
-            "isCountry": true,
-            "code": "BO"
-        }
-    },
-    {
-        "tag": "2PGCQV0L",
-        "name": "DESTROY",
-        "score": 49123,
-        "memberCount": 49,
-        "rank": 176,
-        "previousRank": 214,
-        "badge": 16000139,
-        "location": {
-            "name": "Russia",
-            "isCountry": true,
-            "code": "RU"
-        }
-    },
-    {
-        "tag": "2VQCY29G",
-        "name": "Nova l Nuggets",
-        "score": 49119,
-        "memberCount": 47,
-        "rank": 177,
-        "previousRank": 174,
-        "badge": 16000044,
-        "location": {
-            "name": "United States",
-            "isCountry": true,
-            "code": "US"
-        }
-    },
-    {
-        "tag": "8GV8GQGC",
-        "name": "x-GAME-OVER",
-        "score": 49116,
-        "memberCount": 49,
-        "rank": 178,
-        "previousRank": 163,
-        "badge": 16000096,
-        "location": {
-            "name": "Honduras",
-            "isCountry": true,
-            "code": "HN"
-        }
-    },
-    {
-        "tag": "Y0V2CV",
-        "name": "kuaizero_com",
-        "score": 49109,
-        "memberCount": 50,
-        "rank": 179,
-        "previousRank": 181,
-        "badge": 16000029,
-        "location": {
-            "name": "Japan",
-            "isCountry": true,
-            "code": "JP"
-        }
-    },
-    {
-        "tag": "8Y0LR8GU",
-        "name": "Nova I Iran 2",
-        "score": 49078,
-        "memberCount": 50,
-        "rank": 180,
-        "previousRank": 168,
-        "badge": 16000044,
-        "location": {
-            "name": "Iran",
-            "isCountry": true,
-            "code": "IR"
-        }
-    },
-    {
-        "tag": "92C82CRR",
-        "name": "SAMURAI™",
-        "score": 49077,
-        "memberCount": 47,
-        "rank": 181,
-        "previousRank": 305,
-        "badge": 16000117,
-        "location": {
-            "name": "Paraguay",
-            "isCountry": true,
-            "code": "PY"
-        }
-    },
-    {
-        "tag": "8LRG8UCQ",
-        "name": "яeвorn",
-        "score": 49074,
-        "memberCount": 50,
-        "rank": 182,
+        "rank": 130,
         "previousRank": 186,
-        "badge": 16000036,
+        "badge": {
+            "name": "Bolt_02",
+            "category": "01_Symbol",
+            "id": 16000009,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Bolt_02.png"
+        },
         "location": {
-            "name": "France",
+            "name": "United Arab Emirates",
             "isCountry": true,
-            "code": "FR"
+            "code": "AE"
         }
     },
     {
-        "tag": "8GC288R2",
-        "name": "ODF Team",
-        "score": 49061,
-        "memberCount": 49,
-        "rank": 183,
-        "previousRank": 191,
-        "badge": 16000176,
-        "location": {
-            "name": "Brazil",
-            "isCountry": true,
-            "code": "BR"
-        }
-    },
-    {
-        "tag": "9V0GJ",
-        "name": "Realeza Latina",
-        "score": 49054,
+        "tag": "2LR02ULG",
+        "name": "Nova大唐 l 禁卫军",
+        "score": 51006,
         "memberCount": 50,
-        "rank": 184,
-        "previousRank": 410,
-        "badge": 16000006,
-        "location": {
-            "name": "Mexico",
-            "isCountry": true,
-            "code": "MX"
-        }
-    },
-    {
-        "tag": "YVGRPQ8",
-        "name": "Kings Of IRAN",
-        "score": 49045,
-        "memberCount": 47,
-        "rank": 185,
-        "previousRank": 162,
-        "badge": 16000034,
-        "location": {
-            "name": "Iran",
-            "isCountry": true,
-            "code": "IR"
-        }
-    },
-    {
-        "tag": "2YUYU00P",
-        "name": "S.T.A.R.S.",
-        "score": 49025,
-        "memberCount": 48,
-        "rank": 186,
-        "previousRank": 239,
-        "badge": 16000040,
-        "location": {
-            "name": "Puerto Rico",
-            "isCountry": true,
-            "code": "PR"
-        }
-    },
-    {
-        "tag": "8QGV9Y9",
-        "name": "⚡️ C.N.A ⚡️",
-        "score": 49009,
-        "memberCount": 49,
-        "rank": 187,
-        "previousRank": 151,
-        "badge": 16000132,
+        "rank": 131,
+        "previousRank": 115,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
         "location": {
             "name": "China",
             "isCountry": true,
@@ -2618,111 +2489,113 @@
         }
     },
     {
-        "tag": "8Y22C298",
-        "name": "9DontKnow8",
-        "score": 48993,
-        "memberCount": 50,
-        "rank": 188,
-        "previousRank": 177,
-        "badge": 16000135,
-        "location": {
-            "name": "Hong Kong",
-            "isCountry": true,
-            "code": "HK"
-        }
-    },
-    {
-        "tag": "QG8CG8Q",
-        "name": "风林火山",
-        "score": 48976,
-        "memberCount": 49,
-        "rank": 189,
-        "previousRank": 241,
-        "badge": 16000125,
-        "location": {
-            "name": "China",
-            "isCountry": true,
-            "code": "CN"
-        }
-    },
-    {
-        "tag": "J8PL90P",
-        "name": "パリピジョンST",
-        "score": 48971,
+        "tag": "20R2GJ92",
+        "name": "Nova l PH",
+        "score": 50983,
         "memberCount": 48,
-        "rank": 190,
-        "previousRank": 201,
-        "badge": 16000077,
+        "rank": 132,
+        "previousRank": 109,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
         "location": {
-            "name": "Japan",
+            "name": "Philippines",
             "isCountry": true,
-            "code": "JP"
+            "code": "PH"
         }
     },
     {
-        "tag": "GG8P9",
-        "name": "D.N.A. ITALY",
-        "score": 48971,
-        "memberCount": 48,
-        "rank": 191,
-        "previousRank": 150,
-        "badge": 16000081,
-        "location": {
-            "name": "Italy",
-            "isCountry": true,
-            "code": "IT"
-        }
-    },
-    {
-        "tag": "2GVJGLP0",
-        "name": "#2Fresh eSports",
-        "score": 48971,
-        "memberCount": 42,
-        "rank": 192,
+        "tag": "8RR89PUY",
+        "name": "Nova l Swiss",
+        "score": 50919,
+        "memberCount": 43,
+        "rank": 133,
         "previousRank": 95,
-        "badge": 16000133,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
         "location": {
-            "name": "United Kingdom",
+            "name": "Switzerland",
             "isCountry": true,
-            "code": "GB"
+            "code": "CH"
         }
     },
     {
-        "tag": "2GYLR",
-        "name": "Top Clan",
-        "score": 48969,
+        "tag": "GG2V89L",
+        "name": "RomaniaWarlords",
+        "score": 50908,
+        "memberCount": 50,
+        "rank": 134,
+        "previousRank": 134,
+        "badge": {
+            "name": "Diamond_Star_01",
+            "category": "01_Symbol",
+            "id": 16000020,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Diamond_Star_01.png"
+        },
+        "location": {
+            "name": "Romania",
+            "isCountry": true,
+            "code": "RO"
+        }
+    },
+    {
+        "tag": "PUUL9YY",
+        "name": "Rubinho's Army",
+        "score": 50904,
+        "memberCount": 46,
+        "rank": 135,
+        "previousRank": 99,
+        "badge": {
+            "name": "A_Char_Hammer_02",
+            "category": "03_Royale",
+            "id": 16000165,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Hammer_02.png"
+        },
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "8V80JCR8",
+        "name": "Dynamite™",
+        "score": 50887,
         "memberCount": 49,
-        "rank": 193,
-        "previousRank": 164,
-        "badge": 16000020,
+        "rank": 136,
+        "previousRank": 121,
+        "badge": {
+            "name": "A_Char_Bomb_02",
+            "category": "03_Royale",
+            "id": 16000179,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Bomb_02.png"
+        },
         "location": {
-            "name": "Italy",
+            "name": "Lebanon",
             "isCountry": true,
-            "code": "IT"
+            "code": "LB"
         }
     },
     {
-        "tag": "2C9Q0L90",
-        "name": "Aura.Nefarious",
-        "score": 48967,
-        "memberCount": 47,
-        "rank": 194,
-        "previousRank": 180,
-        "badge": 16000020,
-        "location": {
-            "name": "Malaysia",
-            "isCountry": true,
-            "code": "MY"
-        }
-    },
-    {
-        "tag": "8UVGQ8UQ",
-        "name": "Head of Büschel",
-        "score": 48962,
-        "memberCount": 49,
-        "rank": 195,
-        "previousRank": 222,
-        "badge": 16000142,
+        "tag": "9RPQU0",
+        "name": "BigDelt∆",
+        "score": 50882,
+        "memberCount": 48,
+        "rank": 137,
+        "previousRank": 125,
+        "badge": {
+            "name": "flag_b_01",
+            "category": "02_Flag",
+            "id": 16000051,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_b_01.png"
+        },
         "location": {
             "name": "Germany",
             "isCountry": true,
@@ -2730,55 +2603,94 @@
         }
     },
     {
-        "tag": "8UP0L9R",
-        "name": "若水千秋",
-        "score": 48950,
-        "memberCount": 48,
-        "rank": 196,
-        "previousRank": 281,
-        "badge": 16000140,
+        "tag": "2VL990UL",
+        "name": "Sandstorm USA",
+        "score": 50880,
+        "memberCount": 45,
+        "rank": 138,
+        "previousRank": 91,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
         "location": {
-            "name": "Asia",
-            "isCountry": false,
-            "code": "_AS"
-        }
-    },
-    {
-        "tag": "8J9QJGYG",
-        "name": "Bm eSports™",
-        "score": 48946,
-        "memberCount": 46,
-        "rank": 197,
-        "previousRank": 271,
-        "badge": 16000165,
-        "location": {
-            "name": "Puerto Rico",
+            "name": "United States",
             "isCountry": true,
-            "code": "PR"
+            "code": "US"
         }
     },
     {
-        "tag": "82CRQULY",
-        "name": "EVOLUTION",
-        "score": 48946,
-        "memberCount": 47,
-        "rank": 198,
-        "previousRank": 154,
-        "badge": 16000043,
-        "location": {
-            "name": "Indonesia",
-            "isCountry": true,
-            "code": "ID"
-        }
-    },
-    {
-        "tag": "8CPP8YQV",
-        "name": "Code In",
-        "score": 48912,
+        "tag": "2PGCQV0L",
+        "name": "DESTROY",
+        "score": 50876,
         "memberCount": 50,
-        "rank": 199,
-        "previousRank": 190,
-        "badge": 16000155,
+        "rank": 139,
+        "previousRank": 204,
+        "badge": {
+            "name": "Bamboo_04",
+            "category": "01_Symbol",
+            "id": 16000139,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Bamboo_04.png"
+        },
+        "location": {
+            "name": "Russia",
+            "isCountry": true,
+            "code": "RU"
+        }
+    },
+    {
+        "tag": "V0GL8C8",
+        "name": "TeamLiquid VE",
+        "score": 50870,
+        "memberCount": 45,
+        "rank": 140,
+        "previousRank": 84,
+        "badge": {
+            "name": "flag_d_04",
+            "category": "02_Flag",
+            "id": 16000063,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_d_04.png"
+        },
+        "location": {
+            "name": "Venezuela",
+            "isCountry": true,
+            "code": "VE"
+        }
+    },
+    {
+        "tag": "2J2UYJG",
+        "name": "무궁화",
+        "score": 50867,
+        "memberCount": 49,
+        "rank": 141,
+        "previousRank": 150,
+        "badge": {
+            "name": "Cherry_Blossom_06",
+            "category": "01_Symbol",
+            "id": 16000132,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Cherry_Blossom_06.png"
+        },
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "9PP29CJ2",
+        "name": "Vivo Keyd",
+        "score": 50858,
+        "memberCount": 45,
+        "rank": 142,
+        "previousRank": 122,
+        "badge": {
+            "name": "A_Char_Pekka_01",
+            "category": "03_Royale",
+            "id": 16000162,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Pekka_01.png"
+        },
         "location": {
             "name": "Brazil",
             "isCountry": true,
@@ -2786,17 +2698,1105 @@
         }
     },
     {
-        "tag": "2VJYY82P",
-        "name": "MAD Lions E.C.",
-        "score": 48911,
-        "memberCount": 50,
-        "rank": 200,
-        "previousRank": 242,
-        "badge": 16000172,
+        "tag": "80LC8228",
+        "name": "Les Vilains !",
+        "score": 50850,
+        "memberCount": 45,
+        "rank": 143,
+        "previousRank": 98,
+        "badge": {
+            "name": "Heart_01",
+            "category": "01_Symbol",
+            "id": 16000108,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Heart_01.png"
+        },
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "PGJUU9",
+        "name": "ARTIFICIEROSTOP",
+        "score": 50850,
+        "memberCount": 48,
+        "rank": 144,
+        "previousRank": 262,
+        "badge": {
+            "name": "flag_j_03",
+            "category": "02_Flag",
+            "id": 16000077,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_j_03.png"
+        },
         "location": {
             "name": "Spain",
             "isCountry": true,
             "code": "ES"
+        }
+    },
+    {
+        "tag": "8Q09RJ00",
+        "name": "娱乐至巅❤️冠绝一时",
+        "score": 50847,
+        "memberCount": 49,
+        "rank": 145,
+        "previousRank": 136,
+        "badge": {
+            "name": "Cherry_Blossom_01",
+            "category": "01_Symbol",
+            "id": 16000128,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Cherry_Blossom_01.png"
+        },
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "8RU0G892",
+        "name": "Brasil eSports",
+        "score": 50843,
+        "memberCount": 48,
+        "rank": 146,
+        "previousRank": 120,
+        "badge": {
+            "name": "Skull_01",
+            "category": "01_Symbol",
+            "id": 16000024,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Skull_01.png"
+        },
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "22LCR",
+        "name": "V.N Champions",
+        "score": 50820,
+        "memberCount": 47,
+        "rank": 147,
+        "previousRank": 208,
+        "badge": {
+            "name": "Freeze_02",
+            "category": "01_Symbol",
+            "id": 16000169,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Freeze_02.png"
+        },
+        "location": {
+            "name": "Vietnam",
+            "isCountry": true,
+            "code": "VN"
+        }
+    },
+    {
+        "tag": "2LURJLYY",
+        "name": "レモンサワー好きです",
+        "score": 50813,
+        "memberCount": 50,
+        "rank": 148,
+        "previousRank": 180,
+        "badge": {
+            "name": "Bolt_03",
+            "category": "01_Symbol",
+            "id": 16000010,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Bolt_03.png"
+        },
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "VJYGYL",
+        "name": "Golems Vendetta",
+        "score": 50809,
+        "memberCount": 50,
+        "rank": 149,
+        "previousRank": 145,
+        "badge": {
+            "name": "A_Char_Barbarian_03",
+            "category": "03_Royale",
+            "id": 16000176,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Barbarian_03.png"
+        },
+        "location": {
+            "name": "Colombia",
+            "isCountry": true,
+            "code": "CO"
+        }
+    },
+    {
+        "tag": "YU2RQG9",
+        "name": "PandaScheme",
+        "score": 50805,
+        "memberCount": 50,
+        "rank": 150,
+        "previousRank": 132,
+        "badge": {
+            "name": "Bamboo_04",
+            "category": "01_Symbol",
+            "id": 16000139,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Bamboo_04.png"
+        },
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "2YUYU00P",
+        "name": "S.T.A.R.S.",
+        "score": 50783,
+        "memberCount": 49,
+        "rank": 151,
+        "previousRank": 172,
+        "badge": {
+            "name": "Traditional_Star_01",
+            "category": "01_Symbol",
+            "id": 16000036,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Traditional_Star_01.png"
+        },
+        "location": {
+            "name": "Puerto Rico",
+            "isCountry": true,
+            "code": "PR"
+        }
+    },
+    {
+        "tag": "L0QPV",
+        "name": "UNAUFHALTSAM",
+        "score": 50764,
+        "memberCount": 48,
+        "rank": 152,
+        "previousRank": 161,
+        "badge": {
+            "name": "Flame_03",
+            "category": "01_Symbol",
+            "id": 16000002,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Flame_03.png"
+        },
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "2GRG0YR9",
+        "name": "UNITS",
+        "score": 50728,
+        "memberCount": 43,
+        "rank": 153,
+        "previousRank": 151,
+        "badge": {
+            "name": "Bolt_01",
+            "category": "01_Symbol",
+            "id": 16000008,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Bolt_01.png"
+        },
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "YVGRPQ8",
+        "name": "Kings Of IRAN",
+        "score": 50727,
+        "memberCount": 50,
+        "rank": 154,
+        "previousRank": 164,
+        "badge": {
+            "name": "Pine_02",
+            "category": "01_Symbol",
+            "id": 16000034,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Pine_02.png"
+        },
+        "location": {
+            "name": "Iran",
+            "isCountry": true,
+            "code": "IR"
+        }
+    },
+    {
+        "tag": "89R2PVG",
+        "name": "High Voltage™",
+        "score": 50727,
+        "memberCount": 49,
+        "rank": 155,
+        "previousRank": 242,
+        "badge": {
+            "name": "Bolt_01",
+            "category": "01_Symbol",
+            "id": 16000008,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Bolt_01.png"
+        },
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "8CRP2C92",
+        "name": "Hashtag Gaming",
+        "score": 50718,
+        "memberCount": 49,
+        "rank": 156,
+        "previousRank": 743,
+        "badge": {
+            "name": "Traditional_Star_03",
+            "category": "01_Symbol",
+            "id": 16000038,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Traditional_Star_03.png"
+        },
+        "location": {
+            "name": "International",
+            "isCountry": false,
+            "code": "_INT"
+        }
+    },
+    {
+        "tag": "2C9Q0L90",
+        "name": "Aura.Nefarious",
+        "score": 50715,
+        "memberCount": 48,
+        "rank": 157,
+        "previousRank": 225,
+        "badge": {
+            "name": "Diamond_Star_01",
+            "category": "01_Symbol",
+            "id": 16000020,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Diamond_Star_01.png"
+        },
+        "location": {
+            "name": "Malaysia",
+            "isCountry": true,
+            "code": "MY"
+        }
+    },
+    {
+        "tag": "G2JR2QR",
+        "name": "白银帝国",
+        "score": 50715,
+        "memberCount": 50,
+        "rank": 158,
+        "previousRank": 167,
+        "badge": {
+            "name": "Skull_06",
+            "category": "01_Symbol",
+            "id": 16000029,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Skull_06.png"
+        },
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "2JPPJQ",
+        "name": "Hebrew Hammer™",
+        "score": 50677,
+        "memberCount": 49,
+        "rank": 159,
+        "previousRank": 178,
+        "badge": {
+            "name": "A_Char_Hammer_01",
+            "category": "03_Royale",
+            "id": 16000164,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Hammer_01.png"
+        },
+        "location": {
+            "name": "Israel",
+            "isCountry": true,
+            "code": "IL"
+        }
+    },
+    {
+        "tag": "LVUUY0J",
+        "name": "AK Gaming",
+        "score": 50674,
+        "memberCount": 50,
+        "rank": 160,
+        "previousRank": 163,
+        "badge": {
+            "name": "A_Char_Prince_03",
+            "category": "03_Royale",
+            "id": 16000177,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Prince_03.png"
+        },
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "R2GUP0",
+        "name": "赤尾赤色之尾",
+        "score": 50673,
+        "memberCount": 50,
+        "rank": 161,
+        "previousRank": 200,
+        "badge": {
+            "name": "Fan_02",
+            "category": "01_Symbol",
+            "id": 16000117,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Fan_02.png"
+        },
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "922VCJ",
+        "name": "Orange Juice",
+        "score": 50668,
+        "memberCount": 48,
+        "rank": 162,
+        "previousRank": 182,
+        "badge": {
+            "name": "Orange_01",
+            "category": "01_Symbol",
+            "id": 16000140,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Orange_01.png"
+        },
+        "location": {
+            "name": "Canada",
+            "isCountry": true,
+            "code": "CA"
+        }
+    },
+    {
+        "tag": "J8PL90P",
+        "name": "パリピジョンST",
+        "score": 50664,
+        "memberCount": 47,
+        "rank": 163,
+        "previousRank": 135,
+        "badge": {
+            "name": "flag_j_03",
+            "category": "02_Flag",
+            "id": 16000077,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_j_03.png"
+        },
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "82PPURGV",
+        "name": "BrengiTitans",
+        "score": 50636,
+        "memberCount": 50,
+        "rank": 164,
+        "previousRank": 174,
+        "badge": {
+            "name": "Crown_01",
+            "category": "01_Symbol",
+            "id": 16000012,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Crown_01.png"
+        },
+        "location": {
+            "name": "Israel",
+            "isCountry": true,
+            "code": "IL"
+        }
+    },
+    {
+        "tag": "8R909QUY",
+        "name": "個室を求める泥酔者の忘年会会場",
+        "score": 50634,
+        "memberCount": 49,
+        "rank": 165,
+        "previousRank": 270,
+        "badge": {
+            "name": "Cherry_Blossom_06",
+            "category": "01_Symbol",
+            "id": 16000132,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Cherry_Blossom_06.png"
+        },
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "LULGR",
+        "name": "廃人会",
+        "score": 50621,
+        "memberCount": 47,
+        "rank": 166,
+        "previousRank": 177,
+        "badge": {
+            "name": "Skull_06",
+            "category": "01_Symbol",
+            "id": 16000029,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Skull_06.png"
+        },
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "8L0QGGQ2",
+        "name": "Sandstorm Italy",
+        "score": 50619,
+        "memberCount": 41,
+        "rank": 167,
+        "previousRank": 47,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "8ULG9JCR",
+        "name": "Killer Clowns™",
+        "score": 50617,
+        "memberCount": 48,
+        "rank": 168,
+        "previousRank": 209,
+        "badge": {
+            "name": "Moon_03",
+            "category": "01_Symbol",
+            "id": 16000032,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Moon_03.png"
+        },
+        "location": {
+            "name": "Mexico",
+            "isCountry": true,
+            "code": "MX"
+        }
+    },
+    {
+        "tag": "CJ2PPUR",
+        "name": "chaos",
+        "score": 50614,
+        "memberCount": 48,
+        "rank": 169,
+        "previousRank": 139,
+        "badge": {
+            "name": "Orange_01",
+            "category": "01_Symbol",
+            "id": 16000140,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Orange_01.png"
+        },
+        "location": {
+            "name": "Netherlands",
+            "isCountry": true,
+            "code": "NL"
+        }
+    },
+    {
+        "tag": "28RLRYC",
+        "name": "SUPREMACIA BR",
+        "score": 50613,
+        "memberCount": 48,
+        "rank": 170,
+        "previousRank": 138,
+        "badge": {
+            "name": "Bamboo_04",
+            "category": "01_Symbol",
+            "id": 16000139,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Bamboo_04.png"
+        },
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "89VVG2C8",
+        "name": "Pride Elite",
+        "score": 50597,
+        "memberCount": 48,
+        "rank": 171,
+        "previousRank": 249,
+        "badge": {
+            "name": "Star_Shine_02",
+            "category": "01_Symbol",
+            "id": 16000043,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_02.png"
+        },
+        "location": {
+            "name": "Saudi Arabia",
+            "isCountry": true,
+            "code": "SA"
+        }
+    },
+    {
+        "tag": "8GG8YGP0",
+        "name": "OTK eSports",
+        "score": 50589,
+        "memberCount": 44,
+        "rank": 172,
+        "previousRank": 166,
+        "badge": {
+            "name": "A_Char_King_02",
+            "category": "03_Royale",
+            "id": 16000145,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_King_02.png"
+        },
+        "location": {
+            "name": "Guatemala",
+            "isCountry": true,
+            "code": "GT"
+        }
+    },
+    {
+        "tag": "8J2LU880",
+        "name": "Nova I Korea",
+        "score": 50573,
+        "memberCount": 44,
+        "rank": 173,
+        "previousRank": 86,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "8J9QJGYG",
+        "name": "Bm eSports™",
+        "score": 50564,
+        "memberCount": 49,
+        "rank": 174,
+        "previousRank": 219,
+        "badge": {
+            "name": "A_Char_Hammer_02",
+            "category": "03_Royale",
+            "id": 16000165,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Hammer_02.png"
+        },
+        "location": {
+            "name": "Puerto Rico",
+            "isCountry": true,
+            "code": "PR"
+        }
+    },
+    {
+        "tag": "9Q2R0C0V",
+        "name": "Rising Night",
+        "score": 50561,
+        "memberCount": 48,
+        "rank": 175,
+        "previousRank": 156,
+        "badge": {
+            "name": "Fugi_03",
+            "category": "01_Symbol",
+            "id": 16000122,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Fugi_03.png"
+        },
+        "location": {
+            "name": "Belgium",
+            "isCountry": true,
+            "code": "BE"
+        }
+    },
+    {
+        "tag": "CCUQ",
+        "name": "Husaria Polska",
+        "score": 50545,
+        "memberCount": 48,
+        "rank": 176,
+        "previousRank": 241,
+        "badge": {
+            "name": "flag_f_02",
+            "category": "02_Flag",
+            "id": 16000067,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_f_02.png"
+        },
+        "location": {
+            "name": "Poland",
+            "isCountry": true,
+            "code": "PL"
+        }
+    },
+    {
+        "tag": "8GGC990V",
+        "name": "Nova l India",
+        "score": 50543,
+        "memberCount": 45,
+        "rank": 177,
+        "previousRank": 146,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "India",
+            "isCountry": true,
+            "code": "IN"
+        }
+    },
+    {
+        "tag": "2R0GR8",
+        "name": "Hellas",
+        "score": 50542,
+        "memberCount": 48,
+        "rank": 178,
+        "previousRank": 211,
+        "badge": {
+            "name": "Pine_01",
+            "category": "01_Symbol",
+            "id": 16000033,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Pine_01.png"
+        },
+        "location": {
+            "name": "Greece",
+            "isCountry": true,
+            "code": "GR"
+        }
+    },
+    {
+        "tag": "929092",
+        "name": "RoyaleSinQueso",
+        "score": 50514,
+        "memberCount": 48,
+        "rank": 179,
+        "previousRank": 197,
+        "badge": {
+            "name": "Crown_02",
+            "category": "01_Symbol",
+            "id": 16000013,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Crown_02.png"
+        },
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "GGLV2CL",
+        "name": "21 Legend",
+        "score": 50514,
+        "memberCount": 50,
+        "rank": 180,
+        "previousRank": 228,
+        "badge": {
+            "name": "Flame_02",
+            "category": "01_Symbol",
+            "id": 16000001,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Flame_02.png"
+        },
+        "location": {
+            "name": "Mexico",
+            "isCountry": true,
+            "code": "MX"
+        }
+    },
+    {
+        "tag": "QG8CG8Q",
+        "name": "风林火山",
+        "score": 50493,
+        "memberCount": 50,
+        "rank": 181,
+        "previousRank": 176,
+        "badge": {
+            "name": "YingYang_02",
+            "category": "01_Symbol",
+            "id": 16000125,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/YingYang_02.png"
+        },
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "2RYG90QL",
+        "name": "Tactical Tilt",
+        "score": 50483,
+        "memberCount": 50,
+        "rank": 182,
+        "previousRank": 217,
+        "badge": {
+            "name": "Twin_Peaks_01",
+            "category": "01_Symbol",
+            "id": 16000096,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_01.png"
+        },
+        "location": {
+            "name": "Isle of Man",
+            "isCountry": true,
+            "code": "IM"
+        }
+    },
+    {
+        "tag": "8RYP2J",
+        "name": "대한민국•KOREA",
+        "score": 50483,
+        "memberCount": 49,
+        "rank": 183,
+        "previousRank": 159,
+        "badge": {
+            "name": "flag_c_01",
+            "category": "02_Flag",
+            "id": 16000126,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_c_01.png"
+        },
+        "location": {
+            "name": "South Korea",
+            "isCountry": true,
+            "code": "KR"
+        }
+    },
+    {
+        "tag": "8Y22C298",
+        "name": "9DontKnow8",
+        "score": 50468,
+        "memberCount": 50,
+        "rank": 184,
+        "previousRank": 239,
+        "badge": {
+            "name": "Cherry_Blossom_08",
+            "category": "01_Symbol",
+            "id": 16000135,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Cherry_Blossom_08.png"
+        },
+        "location": {
+            "name": "Hong Kong",
+            "isCountry": true,
+            "code": "HK"
+        }
+    },
+    {
+        "tag": "L9VRJ",
+        "name": "Calalas España",
+        "score": 50457,
+        "memberCount": 50,
+        "rank": 185,
+        "previousRank": 187,
+        "badge": {
+            "name": "A_Char_MiniPekka_02",
+            "category": "03_Royale",
+            "id": 16000161,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_MiniPekka_02.png"
+        },
+        "location": {
+            "name": "Spain",
+            "isCountry": true,
+            "code": "ES"
+        }
+    },
+    {
+        "tag": "29LPY",
+        "name": "WoT",
+        "score": 50447,
+        "memberCount": 48,
+        "rank": 186,
+        "previousRank": 152,
+        "badge": {
+            "name": "Bolt_01",
+            "category": "01_Symbol",
+            "id": 16000008,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Bolt_01.png"
+        },
+        "location": {
+            "name": "France",
+            "isCountry": true,
+            "code": "FR"
+        }
+    },
+    {
+        "tag": "JJCGC09",
+        "name": "朋友•皇族",
+        "score": 50429,
+        "memberCount": 49,
+        "rank": 187,
+        "previousRank": 194,
+        "badge": {
+            "name": "Clover_02",
+            "category": "01_Symbol",
+            "id": 16000171,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Clover_02.png"
+        },
+        "location": {
+            "name": "China",
+            "isCountry": true,
+            "code": "CN"
+        }
+    },
+    {
+        "tag": "2VQJY9VV",
+        "name": "ロワキチの集会所",
+        "score": 50424,
+        "memberCount": 49,
+        "rank": 188,
+        "previousRank": 192,
+        "badge": {
+            "name": "A_Char_King_01",
+            "category": "03_Royale",
+            "id": 16000144,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_King_01.png"
+        },
+        "location": {
+            "name": "Japan",
+            "isCountry": true,
+            "code": "JP"
+        }
+    },
+    {
+        "tag": "9RY2R2",
+        "name": "Sentry 1.0",
+        "score": 50417,
+        "memberCount": 49,
+        "rank": 189,
+        "previousRank": 162,
+        "badge": {
+            "name": "Diamond_Star_01",
+            "category": "01_Symbol",
+            "id": 16000020,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Diamond_Star_01.png"
+        },
+        "location": {
+            "name": "Italy",
+            "isCountry": true,
+            "code": "IT"
+        }
+    },
+    {
+        "tag": "2VQCY29G",
+        "name": "Nova l Nuggets",
+        "score": 50390,
+        "memberCount": 48,
+        "rank": 190,
+        "previousRank": 123,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "United States",
+            "isCountry": true,
+            "code": "US"
+        }
+    },
+    {
+        "tag": "2J2V00QP",
+        "name": "WhyWorry",
+        "score": 50355,
+        "memberCount": 47,
+        "rank": 191,
+        "previousRank": 133,
+        "badge": {
+            "name": "Clover_01",
+            "category": "01_Symbol",
+            "id": 16000170,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Clover_01.png"
+        },
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "R808",
+        "name": "Шайтаны",
+        "score": 50346,
+        "memberCount": 48,
+        "rank": 192,
+        "previousRank": 184,
+        "badge": {
+            "name": "A_Char_Hammer_01",
+            "category": "03_Royale",
+            "id": 16000164,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Hammer_01.png"
+        },
+        "location": {
+            "name": "Russia",
+            "isCountry": true,
+            "code": "RU"
+        }
+    },
+    {
+        "tag": "89UJ8J2J",
+        "name": "RoyalFlush™",
+        "score": 50333,
+        "memberCount": 44,
+        "rank": 193,
+        "previousRank": 88,
+        "badge": {
+            "name": "flag_j_03",
+            "category": "02_Flag",
+            "id": 16000077,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/flag_j_03.png"
+        },
+        "location": {
+            "name": "International",
+            "isCountry": false,
+            "code": "_INT"
+        }
+    },
+    {
+        "tag": "8RVCL2V0",
+        "name": "Team White",
+        "score": 50325,
+        "memberCount": 49,
+        "rank": 194,
+        "previousRank": 202,
+        "badge": {
+            "name": "Bamboo_04",
+            "category": "01_Symbol",
+            "id": 16000139,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Bamboo_04.png"
+        },
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "GRYC8J2",
+        "name": "BLACK EMPIRE",
+        "score": 50296,
+        "memberCount": 49,
+        "rank": 195,
+        "previousRank": 335,
+        "badge": {
+            "name": "A_Char_Hammer_02",
+            "category": "03_Royale",
+            "id": 16000165,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Hammer_02.png"
+        },
+        "location": {
+            "name": "Germany",
+            "isCountry": true,
+            "code": "DE"
+        }
+    },
+    {
+        "tag": "80JJP9GG",
+        "name": "Sandstorm JO",
+        "score": 50296,
+        "memberCount": 44,
+        "rank": 196,
+        "previousRank": 111,
+        "badge": {
+            "name": "Twin_Peaks_02",
+            "category": "01_Symbol",
+            "id": 16000097,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+        },
+        "location": {
+            "name": "Jordan",
+            "isCountry": true,
+            "code": "JO"
+        }
+    },
+    {
+        "tag": "8PGCC989",
+        "name": "Brazil Gaming",
+        "score": 50275,
+        "memberCount": 49,
+        "rank": 197,
+        "previousRank": 469,
+        "badge": {
+            "name": "Crown_02",
+            "category": "01_Symbol",
+            "id": 16000013,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Crown_02.png"
+        },
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
+        }
+    },
+    {
+        "tag": "8G988R8Y",
+        "name": "MegaSuperiority",
+        "score": 50267,
+        "memberCount": 47,
+        "rank": 198,
+        "previousRank": 252,
+        "badge": {
+            "name": "Diamond_Star_01",
+            "category": "01_Symbol",
+            "id": 16000020,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Diamond_Star_01.png"
+        },
+        "location": {
+            "name": "Chile",
+            "isCountry": true,
+            "code": "CL"
+        }
+    },
+    {
+        "tag": "L0RYGQ9",
+        "name": "Nova l Aus",
+        "score": 50258,
+        "memberCount": 48,
+        "rank": 199,
+        "previousRank": 173,
+        "badge": {
+            "name": "Star_Shine_03",
+            "category": "01_Symbol",
+            "id": 16000044,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Star_Shine_03.png"
+        },
+        "location": {
+            "name": "Australia",
+            "isCountry": true,
+            "code": "AU"
+        }
+    },
+    {
+        "tag": "8UGVU8PL",
+        "name": "GanG Brasil PRO",
+        "score": 50245,
+        "memberCount": 50,
+        "rank": 200,
+        "previousRank": 170,
+        "badge": {
+            "name": "Flame_04",
+            "category": "01_Symbol",
+            "id": 16000003,
+            "image": "https://cr-api.github.io/cr-api-assets/badges/Flame_04.png"
+        },
+        "location": {
+            "name": "Brazil",
+            "isCountry": true,
+            "code": "BR"
         }
     }
 ]
