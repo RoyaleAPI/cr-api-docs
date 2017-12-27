@@ -76,7 +76,7 @@ request('http://api.cr-api.com/clan/2cccp', {headers: {auth: 'a123b4567'}})
 ### PHP
 
 ```php
-$token = "a1234567890z"
+$token = "a1234567890z";
 $opts = [
     "http" => [
         "header" => "auth:" . $token
