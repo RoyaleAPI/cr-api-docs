@@ -1,0 +1,9 @@
+- Social
+    - [Discord](http://discord.me/cr_api)
+    - [Github](https://github.com/cr-api/cr-api)
+    - [Twitter](https://twitter.com/CRPublicAPI)
+- Repos
+    - [cr-api](https://github.com/cr-api/cr-api)
+    - [cr-api-assets](https://github.com/cr-api/cr-api-assets)
+    - [cr-api-data](https://github.com/cr-api/cr-api-data)
+    - [cr-api-docs](https://github.com/cr-api/cr-api-docs)
