@@ -10,6 +10,7 @@
 - Leaderboard
     - [Top Players](/leaderboard/top_players.md)
     - [Top Clans](/leaderboard/top_clans.md)
+- [Tournaments](/tournaments/tournaments)
 - Info
     - [Constants](/info/constants.md)
     - [Endpoints](/info/endpoints)

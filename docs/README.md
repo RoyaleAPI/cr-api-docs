@@ -12,15 +12,29 @@ You can see implementations of this API in [Showcase](showcase.md) by third-part
 
 ## Documentation
 
-Endpoint | Example API URL | Example Implementation
---- | --- | ---
-[Profile](/profile/profile.md) | http://api.cr-api.com/profile/Y99YRPYG | http://cr-api.com/profile/Y99YRPYG
-[Top Clans](/clans/top_clans.md) | http://api.cr-api.com/top/clans | http://cr-api.com/clans
-[Single Clan](/clans/single_clan.md) | http://api.cr-api.com/clan/2CCCP | http://cr-api.com/clan/2CCCP
-[Multiple Clans](/clans/multiple_clans.md) | http://api.cr-api.com/clan/2CCCP,2U2GGQJ | http://cr-api.com/clan/family/racf
-[Top Players](/leaderboard/top_players.md) | http://api.cr-api.com/top/players |
-[Constants](/info/constants.md) | http://api.cr-api.com/constants | API constants
-[Version](/info/version.md) | http://api.cr-api.com/version | API version
+- [Introduction](/README.md)
+- [Authentication](/authentication.md)
+- Player
+    - [Player](/player/player.md)
+    - [Multiple Players](/player/multiple_players.md)
+- Clan
+    - [Single Clan](/clans/single_clan.md)
+    - [Multiple Clans](/clans/multiple_clans.md)
+    - [Clan Search](/clans/clan_search.md)
+- Leaderboard
+    - [Top Players](/leaderboard/top_players.md)
+    - [Top Clans](/leaderboard/top_clans.md)
+- [Tournaments](/tournaments/tournaments)
+- Info
+    - [Constants](/info/constants.md)
+    - [Endpoints](/info/endpoints)
+    - [Popular Clans](/info/popular_clans)
+    - [Popular Players](/info/popular_players)
+    - [Version](/info/version.md)
+- [Errors](/errors.md)
+- [Showcase](/showcase.md)
+- [FAQ](/faq.md)
+
 
 ## Support + Feature Requests
 
