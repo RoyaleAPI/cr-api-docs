@@ -1,6 +1,6 @@
-# Multiple Profiles
+# Multiple Players
 
-This endpoint retrieves multiple profiles. You can request up to 5 profiles in each request.
+This endpoint retrieves multiple player profiles. You can request up to 5 profiles in each request.
 
 ## HTTP Request
 

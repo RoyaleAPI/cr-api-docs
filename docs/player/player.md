@@ -1,6 +1,6 @@
-# Profile
+# Player
 
-This endpoint retrieves a specific profile, with player information, card collection and battle logs. Some fields that were previously available has been removed, e.g. seasons, shop offers and experience.
+This endpoint retrieves a specific player profile, with basic stats, card collection and battle logs. Some fields that were previously available has been removed, e.g. seasons, shop offers and experience.
 
 ## HTTP Request
 
