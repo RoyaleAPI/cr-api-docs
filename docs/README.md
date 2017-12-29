@@ -4,36 +4,33 @@
 
 Welcome to the Clash Royale API! You can use our API to access Clash Royale API endpoints, which can get information about Clash Royale.
 
-You can see implementations of this API in [Showcase](showcase.md) by third-party developers and on our web site: http://cr-api.com
+You can see implementations of this API in [Showcase](/showcase) by third-party developers and on our web site: http://cr-api.com
 
-[Wrappers](showcase.md?id=wrapper) in multiple languages are also available.
+[Wrappers](/wrappers) in multiple languages are also available.
 
-!> We are currently in alpha pre-release. The JSON structure may change over time. Please follow our [Twitter](http://twitter.com/CRPublicAPI) or join our [Discord](http://discord.me/cr_api) server for important updates.
+!> We are currently in alpha pre-release. The JSON structure may change over time. Please follow our [Twitter @CRPublicAPI](http://twitter.com/CRPublicAPI) or join our [Discord](http://discord.me/cr_api) server for important updates.
 
 ## Documentation
 
-- [Introduction](/README.md)
-- [Authentication](/authentication.md)
-- Player
-    - [Player](/player/player.md)
-    - [Multiple Players](/player/multiple_players.md)
-- Clan
-    - [Single Clan](/clans/single_clan.md)
-    - [Multiple Clans](/clans/multiple_clans.md)
-    - [Clan Search](/clans/clan_search.md)
-- Leaderboard
-    - [Top Players](/leaderboard/top_players.md)
-    - [Top Clans](/leaderboard/top_clans.md)
-- [Tournaments](/tournaments/tournaments)
-- Info
-    - [Constants](/info/constants.md)
-    - [Endpoints](/info/endpoints)
-    - [Popular Clans](/info/popular_clans)
-    - [Popular Players](/info/popular_players)
-    - [Version](/info/version.md)
-- [Errors](/errors.md)
-- [Showcase](/showcase.md)
-- [FAQ](/faq.md)
+- Getting Started
+    - [Introduction](/)
+    - [Authentication](/authentication)
+    - [Errors](/errors)
+    - [Showcase](/showcase)
+    - [Wrappers](/wrappers)
+    - [FAQ](/faq)
+- Endpoints
+    - [Player](/endpoints/player)
+    - [Clan](/endpoints/clan)
+    - [Clan Search](/endpoints/clan_search)
+    - [Top Players](/endpoints/top_players)
+    - [Top Clans](/endpoints/top_clans)
+    - [Tournaments](/endpoints/tournaments)
+    - [Popular Clans](/endpoints/popular_clans)
+    - [Popular Players](/endpoints/popular_players)
+    - [Endpoints](/endpoints/endpoints)
+    - [Version](/endpoints/version)
+    - [Constants](/endpoints/constants)
 
 
 ## Support + Feature Requests
