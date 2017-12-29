@@ -1,0 +1,1961 @@
+[
+    {
+        "popularity": {
+            "hits": "35",
+            "hitsPerDayAvg": 11.67
+        },
+        "tag": "20LLGRLC",
+        "type": "passwordProtected",
+        "status": "ended",
+        "name": "Reddit Alpha Clan Family",
+        "description": "brought to you by sml to test features. just play at least one game and youre good. thanks. discord.gg/racf",
+        "capacity": 46,
+        "maxCapacity": 50,
+        "preparationDuration": 7200,
+        "duration": 3600,
+        "endedTime": "20171229T005055.000Z",
+        "startTime": 1514505055,
+        "createTime": 1514504131,
+        "creator": {
+            "tag": "C0G20PR2",
+            "name": "SML",
+            "score": 63
+        },
+        "members": [
+            {
+                "tag": "29L2Y9CY",
+                "name": "VenomGT183",
+                "score": 207
+            },
+            {
+                "tag": "VJLLPPC",
+                "name": "Alberto1",
+                "score": 201
+            },
+            {
+                "tag": "2YQGVJCC",
+                "name": "Snafu",
+                "score": 175
+            },
+            {
+                "tag": "9LL0VQ8L",
+                "name": "John",
+                "score": 164
+            },
+            {
+                "tag": "9GGC2CUQ",
+                "name": "ThatRainbowGuy",
+                "score": 154
+            },
+            {
+                "tag": "9RCVPQ0",
+                "name": "Niall",
+                "score": 149
+            },
+            {
+                "tag": "YCP22PGP",
+                "name": "Murrumbidgee",
+                "score": 134
+            },
+            {
+                "tag": "8C20QY2RU",
+                "name": "Gabriel Sk",
+                "score": 131
+            },
+            {
+                "tag": "2Q98RC0JQ",
+                "name": "^Daniel^",
+                "score": 128
+            },
+            {
+                "tag": "LVJCL0",
+                "name": "Z3RO",
+                "score": 116
+            },
+            {
+                "tag": "92RR0QGJ",
+                "name": "jonathan",
+                "score": 116
+            },
+            {
+                "tag": "800GG0QY2",
+                "name": "WinterSong",
+                "score": 107
+            },
+            {
+                "tag": "9QJUQG88",
+                "name": "Predator",
+                "score": 106
+            },
+            {
+                "tag": "VGRCVGCP",
+                "name": "(~•_•~)! : )",
+                "score": 87
+            },
+            {
+                "tag": "2LGV98LQV",
+                "name": "Yoshua (^-')",
+                "score": 86
+            },
+            {
+                "tag": "8LL802LJ",
+                "name": "Rodri_720",
+                "score": 86
+            },
+            {
+                "tag": "2JG0Y0GY",
+                "name": "nOhMak",
+                "score": 82
+            },
+            {
+                "tag": "8U2R9PLL9",
+                "name": "( っ'-')╮ =͟͟͞͞",
+                "score": 71
+            },
+            {
+                "tag": "C0G20PR2",
+                "name": "SML",
+                "score": 63
+            },
+            {
+                "tag": "8CVLRP02",
+                "name": "Jairdelaluz",
+                "score": 62
+            },
+            {
+                "tag": "9QLCJUGQ",
+                "name": "DerschLauch",
+                "score": 57
+            },
+            {
+                "tag": "89VPV9LLJ",
+                "name": "mauricio",
+                "score": 52
+            },
+            {
+                "tag": "2RJPG9LY",
+                "name": "Lord Helm",
+                "score": 40
+            },
+            {
+                "tag": "PY9VC98C",
+                "name": "Selfish",
+                "score": 39
+            },
+            {
+                "tag": "9PVV2882",
+                "name": "gibbo",
+                "score": 38
+            },
+            {
+                "tag": "8YV0LYLG",
+                "name": "Texas",
+                "score": 36
+            },
+            {
+                "tag": "28PVUU2CR",
+                "name": "AndyDufrane",
+                "score": 32
+            },
+            {
+                "tag": "VJVVCQU",
+                "name": "XpertGH",
+                "score": 30
+            },
+            {
+                "tag": "GUC0J0YU",
+                "name": "Stiv3nw0nder",
+                "score": 30
+            },
+            {
+                "tag": "9JQ0VPRP",
+                "name": "不是好名字",
+                "score": 30
+            },
+            {
+                "tag": "2CVLLUV2Y",
+                "name": "rocker13",
+                "score": 24
+            },
+            {
+                "tag": "JLV080VU",
+                "name": "Trainer Gump",
+                "score": 22
+            },
+            {
+                "tag": "2ULLVJRGR",
+                "name": "Fernando",
+                "score": 21
+            },
+            {
+                "tag": "PR22RPG0",
+                "name": "will",
+                "score": 21
+            },
+            {
+                "tag": "22CGC982",
+                "name": "kaushik",
+                "score": 21
+            },
+            {
+                "tag": "G0PCRVQR",
+                "name": "greymouser",
+                "score": 14
+            },
+            {
+                "tag": "228PQRUJR",
+                "name": "Fxck",
+                "score": 10
+            },
+            {
+                "tag": "2GRV2U200",
+                "name": "Rodolfo",
+                "score": 9
+            },
+            {
+                "tag": "2L2VGJGCV",
+                "name": "DarkTower21",
+                "score": 0
+            },
+            {
+                "tag": "2YP8Y88J9",
+                "name": "比叡",
+                "score": 0
+            },
+            {
+                "tag": "8LG2LV2UR",
+                "name": "xkL1BuR",
+                "score": 0
+            },
+            {
+                "tag": "2C8RUV08J",
+                "name": "Mario",
+                "score": 0
+            },
+            {
+                "tag": "2CCPRQUJQ",
+                "name": "daniela",
+                "score": 0
+            },
+            {
+                "tag": "9P08GVYUU",
+                "name": "supercell",
+                "score": 0
+            },
+            {
+                "tag": "8YV08CLCV",
+                "name": "josegames758",
+                "score": 0
+            },
+            {
+                "tag": "2LG0GJGP0",
+                "name": "ShaharElma",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "popularity": {
+            "hits": "2",
+            "hitsPerDayAvg": 0.67
+        },
+        "tag": "CGCGY2Y",
+        "type": "passwordProtected",
+        "status": "ended",
+        "name": "crtop",
+        "capacity": 11,
+        "maxCapacity": 50,
+        "preparationDuration": 7200,
+        "duration": 3600,
+        "endedTime": "20171229T110132.000Z",
+        "startTime": 1514541692,
+        "createTime": 1514541688,
+        "creator": {
+            "tag": "RP209YUU",
+            "name": "Brave",
+            "score": 0
+        },
+        "members": [
+            {
+                "tag": "28V9Q0",
+                "name": "AliReza",
+                "score": 208
+            },
+            {
+                "tag": "RP209YUU",
+                "name": "Brave",
+                "score": 0
+            },
+            {
+                "tag": "GPULRPVQ",
+                "name": "Prince",
+                "score": 0
+            },
+            {
+                "tag": "GPJ98CLL",
+                "name": "Ehsan",
+                "score": 0
+            },
+            {
+                "tag": "R2JG8RUP",
+                "name": "IMAGINE",
+                "score": 0
+            },
+            {
+                "tag": "GPRYYRGG",
+                "name": "Oryad",
+                "score": 0
+            },
+            {
+                "tag": "G9GU8U09",
+                "name": "Asadi",
+                "score": 0
+            },
+            {
+                "tag": "C8PU2P2Y",
+                "name": "Knight",
+                "score": 0
+            },
+            {
+                "tag": "PCLGVG2P",
+                "name": "Robotnico",
+                "score": 0
+            },
+            {
+                "tag": "PRLJJUJL",
+                "name": "Warrior",
+                "score": 0
+            },
+            {
+                "tag": "PGRR2J9R",
+                "name": "dSorrow",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "popularity": {
+            "hits": "1",
+            "hitsPerDayAvg": 0.33
+        },
+        "tag": "20L8QLCU",
+        "type": "passwordProtected",
+        "status": "ended",
+        "name": "OSR YT",
+        "description": "youtube.com/c/oreosinrelleno - contraseña en la descripcion",
+        "capacity": 63,
+        "maxCapacity": 100,
+        "preparationDuration": 7200,
+        "duration": 3600,
+        "endedTime": "20171228T030550.000Z",
+        "startTime": 1514426750,
+        "createTime": 1514423547,
+        "creator": {
+            "tag": "QJ0G9YV9",
+            "name": "OreoSinRelleno",
+            "score": 64
+        },
+        "members": [
+            {
+                "tag": "RUR2Y2PY",
+                "name": "NekoCr",
+                "score": 276
+            },
+            {
+                "tag": "CQ2GGUJJ",
+                "name": "mat1464",
+                "score": 258
+            },
+            {
+                "tag": "82VYL9998",
+                "name": "ItsRicardoV",
+                "score": 204
+            },
+            {
+                "tag": "290UR9YRC",
+                "name": "☆Damian☆",
+                "score": 174
+            },
+            {
+                "tag": "J9LRQVL",
+                "name": "Csikszentmihaly",
+                "score": 162
+            },
+            {
+                "tag": "22R9L2Q9U",
+                "name": "starleth",
+                "score": 151
+            },
+            {
+                "tag": "2U09RR08",
+                "name": "WILIWALAS_YOUTB",
+                "score": 146
+            },
+            {
+                "tag": "20LCJYJ8",
+                "name": "TODDY✌",
+                "score": 143
+            },
+            {
+                "tag": "GPPL9CV",
+                "name": "༄Killer Chapin༄",
+                "score": 138
+            },
+            {
+                "tag": "2LLC8YU2C",
+                "name": "monoztr",
+                "score": 135
+            },
+            {
+                "tag": "GLYCCL08",
+                "name": "skrillex",
+                "score": 133
+            },
+            {
+                "tag": "2VLV98G0C",
+                "name": "Go Surrender",
+                "score": 130
+            },
+            {
+                "tag": "2VCLJGJJP",
+                "name": "TsG_Armando CC",
+                "score": 129
+            },
+            {
+                "tag": "2C90LP82U",
+                "name": "Vega I William™",
+                "score": 124
+            },
+            {
+                "tag": "QVVYC2U",
+                "name": "Solo Roy",
+                "score": 114
+            },
+            {
+                "tag": "2GP2LRQ09",
+                "name": "maclein",
+                "score": 109
+            },
+            {
+                "tag": "2LJ9YL2L",
+                "name": "Franco_Cherep",
+                "score": 98
+            },
+            {
+                "tag": "90GYRUUQ",
+                "name": "pum4_pl4t3ad0",
+                "score": 91
+            },
+            {
+                "tag": "V9PRULV",
+                "name": "Nahuel",
+                "score": 81
+            },
+            {
+                "tag": "RJYRQ2YV",
+                "name": "ManuRoyal_YT",
+                "score": 79
+            },
+            {
+                "tag": "JYYGYPV",
+                "name": "Maury Cirna!!",
+                "score": 77
+            },
+            {
+                "tag": "2802QYCUV",
+                "name": "RicardoRosas",
+                "score": 76
+            },
+            {
+                "tag": "29GRLQU9Y",
+                "name": "AniKilo",
+                "score": 70
+            },
+            {
+                "tag": "QJ0G9YV9",
+                "name": "OreoSinRelleno",
+                "score": 64
+            },
+            {
+                "tag": "8908YQ0GY",
+                "name": "XxSin_IDxX",
+                "score": 61
+            },
+            {
+                "tag": "Q2PCCU08",
+                "name": "keegan",
+                "score": 59
+            },
+            {
+                "tag": "PYP2GRJG",
+                "name": "Billyy",
+                "score": 56
+            },
+            {
+                "tag": "8PY8LVRGY",
+                "name": "pejelagarto7u7",
+                "score": 53
+            },
+            {
+                "tag": "2U8PLU00Y",
+                "name": "yondi",
+                "score": 49
+            },
+            {
+                "tag": "2PP2GCUC9",
+                "name": "frachlitz",
+                "score": 44
+            },
+            {
+                "tag": "29J82YGJL",
+                "name": "Eduardo",
+                "score": 35
+            },
+            {
+                "tag": "82GRRRL2L",
+                "name": "Dario Myers",
+                "score": 34
+            },
+            {
+                "tag": "2GY08J9Y",
+                "name": "PablOh3nOcieDYT",
+                "score": 32
+            },
+            {
+                "tag": "2JGPU8989",
+                "name": "josue",
+                "score": 30
+            },
+            {
+                "tag": "8GQUJVUU8",
+                "name": "Desiigner",
+                "score": 30
+            },
+            {
+                "tag": "2VJ09YU9",
+                "name": "beto-akd",
+                "score": 27
+            },
+            {
+                "tag": "YJ2JVLJY",
+                "name": "QUOC TRUNG",
+                "score": 27
+            },
+            {
+                "tag": "8RCCGV982",
+                "name": "maximus_youtube",
+                "score": 22
+            },
+            {
+                "tag": "R2QC2CQQ",
+                "name": "John",
+                "score": 19
+            },
+            {
+                "tag": "8CPQ00YU",
+                "name": "EDUARDO_XD",
+                "score": 18
+            },
+            {
+                "tag": "Q8U0YLGP",
+                "name": "Criss",
+                "score": 16
+            },
+            {
+                "tag": "VUR9PL8L",
+                "name": "Brayan",
+                "score": 15
+            },
+            {
+                "tag": "2CJCPLQRG",
+                "name": "ketchup2.0",
+                "score": 12
+            },
+            {
+                "tag": "2UGLPGGV2",
+                "name": "uchiha itachi",
+                "score": 3
+            },
+            {
+                "tag": "8PVGJJR28",
+                "name": "miguel:'v",
+                "score": 0
+            },
+            {
+                "tag": "22C9GYYPL",
+                "name": "是不是",
+                "score": 0
+            },
+            {
+                "tag": "88GVJ8CY9",
+                "name": "M'KINGS",
+                "score": 0
+            },
+            {
+                "tag": "89YCQU9P",
+                "name": "CesarAle_18:)",
+                "score": 0
+            },
+            {
+                "tag": "8Y92YR0Y2",
+                "name": "brayan",
+                "score": 0
+            },
+            {
+                "tag": "20YU0VQVP",
+                "name": "Alejandro P.A",
+                "score": 0
+            },
+            {
+                "tag": "QVG92GP0",
+                "name": "Guinetto",
+                "score": 0
+            },
+            {
+                "tag": "89U88JJC",
+                "name": "Edgar",
+                "score": 0
+            },
+            {
+                "tag": "2V8CGJR2",
+                "name": "Gabriel_/XD",
+                "score": 0
+            },
+            {
+                "tag": "2RY8GLGU",
+                "name": "anwar :)",
+                "score": 0
+            },
+            {
+                "tag": "2Q2JLR8G",
+                "name": "Pablo",
+                "score": 0
+            },
+            {
+                "tag": "P98UVVU",
+                "name": "Alan",
+                "score": 0
+            },
+            {
+                "tag": "VG0L98GU",
+                "name": "Dmojica",
+                "score": 0
+            },
+            {
+                "tag": "9PJC9PUVU",
+                "name": "jayren44",
+                "score": 0
+            },
+            {
+                "tag": "GJYJVJJ9",
+                "name": "STRIKER",
+                "score": 0
+            },
+            {
+                "tag": "8JG8PLL8L",
+                "name": "El Wason BB",
+                "score": 0
+            },
+            {
+                "tag": "8C8LYUUUP",
+                "name": "♧♡■Jeiner■♡♧",
+                "score": 0
+            },
+            {
+                "tag": "2J0CY0RLP",
+                "name": "richgamer",
+                "score": 0
+            },
+            {
+                "tag": "2R9V228PJ",
+                "name": "benelli m4",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "popularity": {
+            "hits": "1",
+            "hitsPerDayAvg": 0.33
+        },
+        "tag": "C00LCRL",
+        "type": "passwordProtected",
+        "status": "ended",
+        "name": "choirul nafi",
+        "description": "bodoh hhh h",
+        "capacity": 39,
+        "maxCapacity": 50,
+        "preparationDuration": 7200,
+        "duration": 3600,
+        "endedTime": "20171229T075403.000Z",
+        "startTime": 1514530443,
+        "createTime": 1514530426,
+        "creator": {
+            "tag": "2GYRL980Y",
+            "name": "KHOIRUN NISA",
+            "score": 0
+        },
+        "members": [
+            {
+                "tag": "2G20P2R0V",
+                "name": "[B.E.N]",
+                "score": 321
+            },
+            {
+                "tag": "2YCCLVV8",
+                "name": "OFF WHITE",
+                "score": 202
+            },
+            {
+                "tag": "GQCCL0",
+                "name": "carliy",
+                "score": 175
+            },
+            {
+                "tag": "99QQ8QRP",
+                "name": "用传奇的都是朋友",
+                "score": 170
+            },
+            {
+                "tag": "209GPVLPG",
+                "name": "Gman",
+                "score": 164
+            },
+            {
+                "tag": "R09PLYCG",
+                "name": "Nova I Rk",
+                "score": 156
+            },
+            {
+                "tag": "U20G8R08",
+                "name": "hcai",
+                "score": 155
+            },
+            {
+                "tag": "2VJ8U099J",
+                "name": "宇智波鼬",
+                "score": 149
+            },
+            {
+                "tag": "2980V0G28",
+                "name": "Trainer Noob",
+                "score": 139
+            },
+            {
+                "tag": "G0VQYQLG",
+                "name": "SWAGAT",
+                "score": 127
+            },
+            {
+                "tag": "UJU9UG9J",
+                "name": "Rodrigo D.",
+                "score": 125
+            },
+            {
+                "tag": "2YLR2J8R",
+                "name": "PHONE MYAT MIN",
+                "score": 118
+            },
+            {
+                "tag": "20V9VUL8Q",
+                "name": "yoga_aria21",
+                "score": 113
+            },
+            {
+                "tag": "CJRQ08LY",
+                "name": "Aayush",
+                "score": 76
+            },
+            {
+                "tag": "Y8Y900RJ",
+                "name": "REGAN",
+                "score": 68
+            },
+            {
+                "tag": "2QU09C0R0",
+                "name": "Gold berg",
+                "score": 65
+            },
+            {
+                "tag": "RY2VCQGG",
+                "name": "DiamondMartinXx",
+                "score": 56
+            },
+            {
+                "tag": "R8JY8GJ8",
+                "name": "abusamra",
+                "score": 54
+            },
+            {
+                "tag": "2Y0QYY99Y",
+                "name": "Chief youtube**",
+                "score": 53
+            },
+            {
+                "tag": "2LC9LJVYL",
+                "name": "dicelyfe",
+                "score": 51
+            },
+            {
+                "tag": "UCURY898",
+                "name": "B.G",
+                "score": 50
+            },
+            {
+                "tag": "888LVL0YL",
+                "name": "微風吹",
+                "score": 46
+            },
+            {
+                "tag": "20J92J8PY",
+                "name": "HectorCamacho",
+                "score": 46
+            },
+            {
+                "tag": "82QV9CLVR",
+                "name": "TincapDad",
+                "score": 44
+            },
+            {
+                "tag": "LJULUJGV",
+                "name": "zae,L'A",
+                "score": 43
+            },
+            {
+                "tag": "8CR8PGVJU",
+                "name": "MAFIÝA",
+                "score": 37
+            },
+            {
+                "tag": "2V0PC88QQ",
+                "name": "✨MARS✨",
+                "score": 32
+            },
+            {
+                "tag": "89P8RLQUY",
+                "name": "Whaxymoro",
+                "score": 28
+            },
+            {
+                "tag": "U8U29QQJ",
+                "name": "Юля",
+                "score": 27
+            },
+            {
+                "tag": "828G9J8Y8",
+                "name": "soy puto",
+                "score": 18
+            },
+            {
+                "tag": "8LL28VLC9",
+                "name": "leonid",
+                "score": 13
+            },
+            {
+                "tag": "2PU8C809L",
+                "name": "Felipe",
+                "score": 11
+            },
+            {
+                "tag": "8V9GQQUP2",
+                "name": "QORI F@L4TEHAN",
+                "score": 5
+            },
+            {
+                "tag": "2GYRL980Y",
+                "name": "KHOIRUN NISA",
+                "score": 0
+            },
+            {
+                "tag": "8J2PUPJ8L",
+                "name": "PotatoMan",
+                "score": 0
+            },
+            {
+                "tag": "2JVRC8LLL",
+                "name": "Abilash001",
+                "score": 0
+            },
+            {
+                "tag": "8PP8V00J9",
+                "name": "enzo",
+                "score": 0
+            },
+            {
+                "tag": "2JJUVJRP8",
+                "name": "Mr Blue",
+                "score": 0
+            },
+            {
+                "tag": "88VV09U9R",
+                "name": "Yusuf Can",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "popularity": {
+            "hits": "1",
+            "hitsPerDayAvg": 0.33
+        },
+        "tag": "CGU0Q9R",
+        "type": "passwordProtected",
+        "status": "ended",
+        "name": "better late then never",
+        "description": "sorry i fell asleep 😂",
+        "capacity": 85,
+        "maxCapacity": 100,
+        "preparationDuration": 7200,
+        "duration": 3600,
+        "endedTime": "20171229T032724.000Z",
+        "startTime": 1514514444,
+        "createTime": 1514512500,
+        "creator": {
+            "tag": "YLVJJ29U",
+            "name": "Cdplayer",
+            "score": 0
+        },
+        "members": [
+            {
+                "tag": "9GR2GGUC",
+                "name": "ℬⓨ:ωιℓιⓧs̾",
+                "score": 226
+            },
+            {
+                "tag": "2PVJGRCCR",
+                "name": "LeoThugg™",
+                "score": 212
+            },
+            {
+                "tag": "28UJ2GVJ8",
+                "name": "tobyy9",
+                "score": 176
+            },
+            {
+                "tag": "2VPLLPLRR",
+                "name": "leighpot",
+                "score": 151
+            },
+            {
+                "tag": "PQC8U8LY",
+                "name": "j0rg3x",
+                "score": 151
+            },
+            {
+                "tag": "R8VPPPR0",
+                "name": "Ismael",
+                "score": 150
+            },
+            {
+                "tag": "29U2UPQUC",
+                "name": "jos",
+                "score": 137
+            },
+            {
+                "tag": "2JUUYPUL2",
+                "name": "Rubén",
+                "score": 136
+            },
+            {
+                "tag": "8LGYJ292C",
+                "name": "Fer06",
+                "score": 132
+            },
+            {
+                "tag": "PLQQ92P8",
+                "name": "xXRedSlashXx",
+                "score": 124
+            },
+            {
+                "tag": "2G20LPLL",
+                "name": "Delfin",
+                "score": 122
+            },
+            {
+                "tag": "8JV08RJCR",
+                "name": "Got Rocket Fuel",
+                "score": 122
+            },
+            {
+                "tag": "92VUUYGQL",
+                "name": "Javier SCNYLJSC",
+                "score": 117
+            },
+            {
+                "tag": "PLUJQU8V",
+                "name": "《KUZEY》⛽《IRAN》",
+                "score": 101
+            },
+            {
+                "tag": "288G0JJV8",
+                "name": "byTARIFA",
+                "score": 100
+            },
+            {
+                "tag": "2QRYCVY8V",
+                "name": "SchweizeR",
+                "score": 91
+            },
+            {
+                "tag": "2GYLUJ0U9",
+                "name": "pacholoco1",
+                "score": 89
+            },
+            {
+                "tag": "2980V0G28",
+                "name": "Trainer Noob",
+                "score": 88
+            },
+            {
+                "tag": "CJCVVJVL",
+                "name": "yosoi☆PACMAN☆:V",
+                "score": 87
+            },
+            {
+                "tag": "2V2L22RL",
+                "name": "RAeVEN",
+                "score": 84
+            },
+            {
+                "tag": "2LC9LJVYL",
+                "name": "dicelyfe",
+                "score": 82
+            },
+            {
+                "tag": "QCRL0RCY",
+                "name": "⭐♦Josef♦⭐",
+                "score": 80
+            },
+            {
+                "tag": "C2Y89VUP",
+                "name": "Javi 10",
+                "score": 80
+            },
+            {
+                "tag": "2Q0PQRCUP",
+                "name": "Darkstar",
+                "score": 70
+            },
+            {
+                "tag": "82VPP8JCP",
+                "name": "camilo",
+                "score": 64
+            },
+            {
+                "tag": "8Q2GYV899",
+                "name": "kalredford",
+                "score": 58
+            },
+            {
+                "tag": "2RQ22J9LR",
+                "name": "Steve",
+                "score": 57
+            },
+            {
+                "tag": "CRCP0Q2P",
+                "name": "GUSTAVO",
+                "score": 57
+            },
+            {
+                "tag": "LQ0YJQGJ",
+                "name": "PareiDeJogar",
+                "score": 56
+            },
+            {
+                "tag": "28JQYRPJQ",
+                "name": "MR KAINAN",
+                "score": 47
+            },
+            {
+                "tag": "2QRJ98Y9Q",
+                "name": "YANGAME_YT",
+                "score": 46
+            },
+            {
+                "tag": "9Q99VGR2",
+                "name": "Dxd 1",
+                "score": 40
+            },
+            {
+                "tag": "V02Q9LRV",
+                "name": "Igor™",
+                "score": 35
+            },
+            {
+                "tag": "8JVPYR88P",
+                "name": "Timberwolf",
+                "score": 35
+            },
+            {
+                "tag": "8PJ0P9V9G",
+                "name": "kaneki",
+                "score": 30
+            },
+            {
+                "tag": "29UYC20VR",
+                "name": "M∆NU£L Light",
+                "score": 27
+            },
+            {
+                "tag": "292CUCCCR",
+                "name": "Antrax",
+                "score": 25
+            },
+            {
+                "tag": "90CVGVGJ",
+                "name": "Brian 1709",
+                "score": 24
+            },
+            {
+                "tag": "2YV2LR88V",
+                "name": "JULIO S.",
+                "score": 22
+            },
+            {
+                "tag": "2LUCVPJ9L",
+                "name": "batman",
+                "score": 22
+            },
+            {
+                "tag": "90Q228V0V",
+                "name": "athena",
+                "score": 15
+            },
+            {
+                "tag": "8QQUYUQ02",
+                "name": "diego mars",
+                "score": 14
+            },
+            {
+                "tag": "YLVJJ29U",
+                "name": "Cdplayer",
+                "score": 0
+            },
+            {
+                "tag": "2RVQ0Y0C0",
+                "name": "sub-zero",
+                "score": 0
+            },
+            {
+                "tag": "89Q2C0Q0P",
+                "name": "aopr",
+                "score": 0
+            },
+            {
+                "tag": "GGYJUQP2",
+                "name": "ZzGABRIELzZ",
+                "score": 0
+            },
+            {
+                "tag": "8CC9YYU2J",
+                "name": "Hassan",
+                "score": 0
+            },
+            {
+                "tag": "28RGR88LJ",
+                "name": "brayan",
+                "score": 0
+            },
+            {
+                "tag": "2JL8CP0YC",
+                "name": "Enzo",
+                "score": 0
+            },
+            {
+                "tag": "8J8QYJ9G",
+                "name": "Adonis",
+                "score": 0
+            },
+            {
+                "tag": "8YG8VPCVQ",
+                "name": "@naidy.com",
+                "score": 0
+            },
+            {
+                "tag": "9PLYQY8UL",
+                "name": "★♧MD:ANAM♧★",
+                "score": 0
+            },
+            {
+                "tag": "8LUYUV9LJ",
+                "name": "Maestro 7",
+                "score": 0
+            },
+            {
+                "tag": "VPQJJ0UG",
+                "name": "Tukiman",
+                "score": 0
+            },
+            {
+                "tag": "8PGVJJJ0",
+                "name": "David",
+                "score": 0
+            },
+            {
+                "tag": "CGP9QQC8",
+                "name": "DARK WOLF",
+                "score": 0
+            },
+            {
+                "tag": "28R9YVG8",
+                "name": "STAR-LORD",
+                "score": 0
+            },
+            {
+                "tag": "9PL2JJUVV",
+                "name": "isnoel the king",
+                "score": 0
+            },
+            {
+                "tag": "8QUYRYR88",
+                "name": "deva",
+                "score": 0
+            },
+            {
+                "tag": "Q2LGJGQ0",
+                "name": "LamboGod",
+                "score": 0
+            },
+            {
+                "tag": "8QRPLVP8Y",
+                "name": "mia y maykol",
+                "score": 0
+            },
+            {
+                "tag": "8PCU0JJ2P",
+                "name": "alextrem",
+                "score": 0
+            },
+            {
+                "tag": "2922Y2Q2Q",
+                "name": "mateoo5",
+                "score": 0
+            },
+            {
+                "tag": "2G8UJV8UU",
+                "name": "ulidavidjere",
+                "score": 0
+            },
+            {
+                "tag": "2JPP0Q99L",
+                "name": "pupy234",
+                "score": 0
+            },
+            {
+                "tag": "28GRYC2YV",
+                "name": "lois",
+                "score": 0
+            },
+            {
+                "tag": "828R9YYUL",
+                "name": "burritobetch",
+                "score": 0
+            },
+            {
+                "tag": "8928YVLYP",
+                "name": "JARLYSSON",
+                "score": 0
+            },
+            {
+                "tag": "2L0UPRUU2",
+                "name": "MR.MANFINFLA3.0",
+                "score": 0
+            },
+            {
+                "tag": "2CVYVUPJY",
+                "name": "Camp Royale209",
+                "score": 0
+            },
+            {
+                "tag": "2CY92LYRL",
+                "name": "SschweizerR",
+                "score": 0
+            },
+            {
+                "tag": "8U8RPQPQY",
+                "name": "Angel",
+                "score": 0
+            },
+            {
+                "tag": "2P2G8P8QJ",
+                "name": "«« jean »»",
+                "score": 0
+            },
+            {
+                "tag": "8QGGJQGVP",
+                "name": "Edwin",
+                "score": 0
+            },
+            {
+                "tag": "LRQUU2J9",
+                "name": "Elias xd",
+                "score": 0
+            },
+            {
+                "tag": "8U9L80LGQ",
+                "name": "maman jaelani",
+                "score": 0
+            },
+            {
+                "tag": "CCYPUGRV",
+                "name": "maman46",
+                "score": 0
+            },
+            {
+                "tag": "99RV8LPRY",
+                "name": "fer",
+                "score": 0
+            },
+            {
+                "tag": "82UQLGVQP",
+                "name": "hyper0234",
+                "score": 0
+            },
+            {
+                "tag": "2Q8QCVLYG",
+                "name": "ROMAN REIGNS",
+                "score": 0
+            },
+            {
+                "tag": "29RJLPRLV",
+                "name": "Wshn",
+                "score": 0
+            },
+            {
+                "tag": "282V9U0CC",
+                "name": "DAVID_GAMERT",
+                "score": 0
+            },
+            {
+                "tag": "2VGGVVRU",
+                "name": "髑髏饅頭4号",
+                "score": 0
+            },
+            {
+                "tag": "2RGY220GL",
+                "name": "BONEK",
+                "score": 0
+            },
+            {
+                "tag": "2QRQPURJP",
+                "name": "FR33ZeR-C.Royal",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "popularity": {
+            "hits": "1",
+            "hitsPerDayAvg": 0.33
+        },
+        "tag": "CGU0RUP",
+        "type": "open",
+        "status": "ended",
+        "name": "Los pro-gamers",
+        "description": "Esto es un clan solo para aficionados de Clash Royale.Que gane el mejor por esas 25 cartas ;)",
+        "capacity": 50,
+        "maxCapacity": 50,
+        "preparationDuration": 7200,
+        "duration": 3600,
+        "endedTime": "20171229T044823.000Z",
+        "startTime": 1514519303,
+        "createTime": 1514518319,
+        "creator": {
+            "tag": "2VPGVLC82",
+            "name": "Fabscool",
+            "score": 32
+        },
+        "members": [
+            {
+                "tag": "2Y9VCR0C",
+                "name": "Jastino",
+                "score": 240
+            },
+            {
+                "tag": "2RQ08U8UP",
+                "name": "stefano",
+                "score": 201
+            },
+            {
+                "tag": "LQGP9R2C",
+                "name": "KING GHOUL",
+                "score": 184
+            },
+            {
+                "tag": "8LUU20VCP",
+                "name": "el pret",
+                "score": 181
+            },
+            {
+                "tag": "8JGPJGVYC",
+                "name": "carlosmv",
+                "score": 179
+            },
+            {
+                "tag": "2PRJJRYY9",
+                "name": "Richard YT",
+                "score": 175
+            },
+            {
+                "tag": "8GCQCGPUQ",
+                "name": "el papu",
+                "score": 144
+            },
+            {
+                "tag": "9YQ8U0GPV",
+                "name": "Farnam",
+                "score": 135
+            },
+            {
+                "tag": "8PCRLUC0G",
+                "name": "alberto",
+                "score": 131
+            },
+            {
+                "tag": "2Q9UVJYRY",
+                "name": "ignacio",
+                "score": 120
+            },
+            {
+                "tag": "8JPJGCJLV",
+                "name": "Roddy.J.P",
+                "score": 113
+            },
+            {
+                "tag": "2GY8URU8",
+                "name": "El pro :v",
+                "score": 97
+            },
+            {
+                "tag": "8080Q9JYC",
+                "name": "NLPGA⚡",
+                "score": 96
+            },
+            {
+                "tag": "9YLVP0YJ",
+                "name": "l)13G()",
+                "score": 87
+            },
+            {
+                "tag": "Q8CYGU8C",
+                "name": "Mr. Chris❤️™",
+                "score": 75
+            },
+            {
+                "tag": "8JGY2CGJC",
+                "name": "SuperCell",
+                "score": 60
+            },
+            {
+                "tag": "8Y0RGRJ00",
+                "name": "yoelson",
+                "score": 60
+            },
+            {
+                "tag": "QJL8CYP",
+                "name": "▫◽gerardo◽▫",
+                "score": 57
+            },
+            {
+                "tag": "2JU9GUVG2",
+                "name": "franck",
+                "score": 53
+            },
+            {
+                "tag": "88Y90PG8C",
+                "name": "Dark Wizard™",
+                "score": 48
+            },
+            {
+                "tag": "88JP0UPQY",
+                "name": "REME",
+                "score": 44
+            },
+            {
+                "tag": "22JL2VJVQ",
+                "name": "Tomodachy",
+                "score": 43
+            },
+            {
+                "tag": "2CCRQLJJ8",
+                "name": "MAXIROME523",
+                "score": 42
+            },
+            {
+                "tag": "2CPCR9RGR",
+                "name": "josias MC crrak",
+                "score": 41
+            },
+            {
+                "tag": "89QYG8RCR",
+                "name": "maicol",
+                "score": 38
+            },
+            {
+                "tag": "8982JVLVU",
+                "name": "nxking",
+                "score": 37
+            },
+            {
+                "tag": "29VU022L9",
+                "name": "EL PRO",
+                "score": 34
+            },
+            {
+                "tag": "2VPGVLC82",
+                "name": "Fabscool",
+                "score": 32
+            },
+            {
+                "tag": "8C8PU0CLY",
+                "name": "Frank.lml.",
+                "score": 30
+            },
+            {
+                "tag": "8YLPC0008",
+                "name": "veggeta. 777",
+                "score": 24
+            },
+            {
+                "tag": "89Q8QLLUV",
+                "name": "maestro joel",
+                "score": 23
+            },
+            {
+                "tag": "2UYUP8Q9C",
+                "name": "enzotroy 1.25.6",
+                "score": 20
+            },
+            {
+                "tag": "9PJVVVV92",
+                "name": "Destructor",
+                "score": 12
+            },
+            {
+                "tag": "8RJ089GC9",
+                "name": "supercell",
+                "score": 0
+            },
+            {
+                "tag": "8RP980CR2",
+                "name": "Enzo",
+                "score": 0
+            },
+            {
+                "tag": "PULQY9J0",
+                "name": "COOL_GAMER_99",
+                "score": 0
+            },
+            {
+                "tag": "8V9U9JJYG",
+                "name": "dilan",
+                "score": 0
+            },
+            {
+                "tag": "RJG0UVGP",
+                "name": "benja_gm",
+                "score": 0
+            },
+            {
+                "tag": "88QRCULJJ",
+                "name": "alexis4748",
+                "score": 0
+            },
+            {
+                "tag": "2VUYP90",
+                "name": "ESTUARDITO RC7",
+                "score": 0
+            },
+            {
+                "tag": "2JL0RGQ09",
+                "name": "⚡HARRY POTTER1⚡",
+                "score": 0
+            },
+            {
+                "tag": "89YCLYUC0",
+                "name": "Gisselitha03",
+                "score": 0
+            },
+            {
+                "tag": "8CYVJRJYY",
+                "name": "Yoel",
+                "score": 0
+            },
+            {
+                "tag": "8PRRYYQUQ",
+                "name": "CR7 Ronaldo",
+                "score": 0
+            },
+            {
+                "tag": "9GR0YU0J",
+                "name": "Angel a.m.a™",
+                "score": 0
+            },
+            {
+                "tag": "8GYJG8P2Y",
+                "name": "arhoom",
+                "score": 0
+            },
+            {
+                "tag": "8R0022GCU",
+                "name": "GonzaloKrnal:/",
+                "score": 0
+            },
+            {
+                "tag": "889YYLVGR",
+                "name": "Xavier",
+                "score": 0
+            },
+            {
+                "tag": "2G0QCY20R",
+                "name": "santiagoss",
+                "score": 0
+            },
+            {
+                "tag": "8JVVQR9LL",
+                "name": "pablo",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "popularity": {
+            "hits": "1",
+            "hitsPerDayAvg": 0.33
+        },
+        "tag": "JCLJ2JR",
+        "type": "open",
+        "status": "ended",
+        "name": "состязание",
+        "description": "1 против1",
+        "capacity": 63,
+        "maxCapacity": 100,
+        "preparationDuration": 7200,
+        "duration": 3600,
+        "endedTime": "20171227T155741.000Z",
+        "startTime": 1514386661,
+        "createTime": 1514385946,
+        "creator": {
+            "tag": "GQ2LR800",
+            "name": "oleg",
+            "score": 0
+        },
+        "members": [
+            {
+                "tag": "2020YP89J",
+                "name": "ronaldo :v",
+                "score": 297
+            },
+            {
+                "tag": "2CRULP0C9",
+                "name": "Sanya I Шайтаны",
+                "score": 231
+            },
+            {
+                "tag": "YJCP22",
+                "name": "ARMIN",
+                "score": 206
+            },
+            {
+                "tag": "JCP2LLP",
+                "name": "A.Y.E",
+                "score": 154
+            },
+            {
+                "tag": "YGPPQ28R",
+                "name": "Happy NooB",
+                "score": 150
+            },
+            {
+                "tag": "8RVJR0P20",
+                "name": "Skofild",
+                "score": 148
+            },
+            {
+                "tag": "2JPQJGC8J",
+                "name": "Møŋşŧęŗ",
+                "score": 142
+            },
+            {
+                "tag": "L2CR2290",
+                "name": "GHASEM141",
+                "score": 142
+            },
+            {
+                "tag": "VV8RQCUG",
+                "name": "Dims 2",
+                "score": 127
+            },
+            {
+                "tag": "9CVGUVYQ",
+                "name": "spaceman",
+                "score": 108
+            },
+            {
+                "tag": "990RG0G0",
+                "name": "Fil:)",
+                "score": 108
+            },
+            {
+                "tag": "22G0PGPGR",
+                "name": "ImpeRaTor",
+                "score": 105
+            },
+            {
+                "tag": "CCYVC8P2",
+                "name": "ДедПихто",
+                "score": 102
+            },
+            {
+                "tag": "PQ9CRQ",
+                "name": "toxa",
+                "score": 89
+            },
+            {
+                "tag": "YL0LJ9L0",
+                "name": "багач",
+                "score": 68
+            },
+            {
+                "tag": "2C08G9U2J",
+                "name": "Volk_OПG",
+                "score": 65
+            },
+            {
+                "tag": "2VC2V2VJ9",
+                "name": "Азгард\\±",
+                "score": 62
+            },
+            {
+                "tag": "8G008VQY9",
+                "name": "jostkipacan",
+                "score": 60
+            },
+            {
+                "tag": "JJC089L9",
+                "name": "YoutubeFireBoy",
+                "score": 59
+            },
+            {
+                "tag": "2C2PLVLC2",
+                "name": "boda",
+                "score": 57
+            },
+            {
+                "tag": "8Y8QJJV92",
+                "name": "Vlad",
+                "score": 51
+            },
+            {
+                "tag": "82VRL8C9U",
+                "name": "•ШыҢҒыС ХаН•",
+                "score": 47
+            },
+            {
+                "tag": "U28U9YQY",
+                "name": "mori.ru",
+                "score": 43
+            },
+            {
+                "tag": "20VLJJQQ8",
+                "name": "Заур",
+                "score": 42
+            },
+            {
+                "tag": "80PQRVCVP",
+                "name": "ser bar",
+                "score": 35
+            },
+            {
+                "tag": "2Q2PYPL02",
+                "name": "БОРЕЦ",
+                "score": 33
+            },
+            {
+                "tag": "RL02C2QU",
+                "name": "PINPOLLO",
+                "score": 32
+            },
+            {
+                "tag": "2QQ0J99VU",
+                "name": "проиграй",
+                "score": 30
+            },
+            {
+                "tag": "2QLPC99R0",
+                "name": "NooBas",
+                "score": 29
+            },
+            {
+                "tag": "VPJ2R0R",
+                "name": "NaGiB228",
+                "score": 29
+            },
+            {
+                "tag": "8C0YYGYQG",
+                "name": "мани",
+                "score": 26
+            },
+            {
+                "tag": "2UJV8UQ9Q",
+                "name": "рома",
+                "score": 22
+            },
+            {
+                "tag": "20U0PCLLC",
+                "name": "Kirill",
+                "score": 22
+            },
+            {
+                "tag": "2PPVGGQ9Y",
+                "name": "marianna",
+                "score": 21
+            },
+            {
+                "tag": "88LVU0VJP",
+                "name": "Dauletzhan",
+                "score": 18
+            },
+            {
+                "tag": "2CVC8UQV8",
+                "name": "gubka bob",
+                "score": 17
+            },
+            {
+                "tag": "8G2V9J022",
+                "name": "Nika",
+                "score": 15
+            },
+            {
+                "tag": "82Q8YCRQ",
+                "name": "NE T4WERKA",
+                "score": 14
+            },
+            {
+                "tag": "RLG9CP0L",
+                "name": "Наско",
+                "score": 13
+            },
+            {
+                "tag": "82RL9YC02",
+                "name": "RoSanist",
+                "score": 13
+            },
+            {
+                "tag": "2JGRLQJ80",
+                "name": "цска",
+                "score": 12
+            },
+            {
+                "tag": "2V9PC0CPQ",
+                "name": "лорд",
+                "score": 9
+            },
+            {
+                "tag": "GQ2LR800",
+                "name": "oleg",
+                "score": 0
+            },
+            {
+                "tag": "2LJC0PCCU",
+                "name": "супер игрок",
+                "score": 0
+            },
+            {
+                "tag": "99PRVRGY",
+                "name": "Mуса",
+                "score": 0
+            },
+            {
+                "tag": "889GJP8R",
+                "name": "Mutnei Guse",
+                "score": 0
+            },
+            {
+                "tag": "2828RGJ8G",
+                "name": "Wind",
+                "score": 0
+            },
+            {
+                "tag": "80PJCUQCL",
+                "name": "Cristi King's",
+                "score": 0
+            },
+            {
+                "tag": "2Y8QYYYYV",
+                "name": "Супер Батя",
+                "score": 0
+            },
+            {
+                "tag": "Q2UULGY",
+                "name": "никита",
+                "score": 0
+            },
+            {
+                "tag": "8QCRPJ0R0",
+                "name": "valera",
+                "score": 0
+            },
+            {
+                "tag": "99GJGQYRG",
+                "name": "Starck",
+                "score": 0
+            },
+            {
+                "tag": "8R8GLCL8Y",
+                "name": "юрка",
+                "score": 0
+            },
+            {
+                "tag": "RUU80R90",
+                "name": "Барсук",
+                "score": 0
+            },
+            {
+                "tag": "80QJGPP8R",
+                "name": "маклх леха",
+                "score": 0
+            },
+            {
+                "tag": "8U0QQ9JUG",
+                "name": "Андрей@$",
+                "score": 0
+            },
+            {
+                "tag": "9PLV9JCGY",
+                "name": "Бека",
+                "score": 0
+            },
+            {
+                "tag": "8GRJRP89U",
+                "name": "gnel",
+                "score": 0
+            },
+            {
+                "tag": "8U2YP2C8P",
+                "name": "inferno Dragan",
+                "score": 0
+            },
+            {
+                "tag": "2Q2P0G089",
+                "name": "Kirill K",
+                "score": 0
+            },
+            {
+                "tag": "GVVVJYJG",
+                "name": "коля325",
+                "score": 0
+            },
+            {
+                "tag": "8LRP90YQQ",
+                "name": "Стеран",
+                "score": 0
+            },
+            {
+                "tag": "8C8YVP2LY",
+                "name": "Мухамедали",
+                "score": 0
+            }
+        ]
+    }
+]
