@@ -95,6 +95,14 @@ Discord Bot to track statistics for a clan family.
 - Author: 4JR (fourjr)
     - Github: http://github.com/fourjr
 
+### The Brews clan website
+
+This website is a homepage for "the brews" clan. This is a very basic example of cr-api usage in a basic clan website that is mobile friendly.
+
+- Website: http://thebrews.tommaus.com/
+- Author: Qubit
+    - Web: http://thebrews.tommaus.com/player.php?player=PRQJVPCR
+
 
 ### Ultimate Clash Royale Tracker
 
