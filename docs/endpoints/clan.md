@@ -22,17 +22,21 @@ The above command returns JSON structured like this:
 {
     "tag": "2CCCP",
     "name": "Reddit Alpha",
-    "description": "Minimum 5100🏆to join. When full, #50/50 sent to Reddit Bravo #2U2GGQJ 🚀http://discord.gg/RACF 🚀http://twitch.tv/woody",
+    "description": "Minimum 5200🏆to join. When full, #50/50 sent to Reddit Bravo #2U2GGQJ 🚀http://discord.gg/RACF 🚀http://twitch.tv/woody",
     "type": "invite only",
-    "score": 51337,
-    "memberCount": 44,
+    "score": 53310,
+    "memberCount": 46,
     "requiredScore": 4600,
-    "donations": 29100,
+    "donations": 13910,
     "clanChest": {
-        "crowns": 1187,
-        "status": "completed"
+        "status": "inactive"
     },
-    "badge": 16000167,
+    "badge": {
+        "name": "A_Char_Rocket_02",
+        "category": "03_Royale",
+        "id": 16000167,
+        "image": "https://cr-api.github.io/cr-api-assets/badges/A_Char_Rocket_02.png"
+    },
     "location": {
         "name": "Christmas Island",
         "isCountry": true,
@@ -40,44 +44,43 @@ The above command returns JSON structured like this:
     },
     "members": [
         {
-            "name": "dharanikota",
-            "tag": "88L8Q8UJ",
+            "name": "Nicki Bey",
+            "tag": "Q8JGYLCY",
             "rank": 1,
+            "previousRank": 1,
             "role": "elder",
             "expLevel": 13,
-            "trophies": 5538,
-            "clanChestCrowns": 0,
-            "clanChestCrownsPercent": 0,
+            "trophies": 5817,
+            "clanChestCrowns": 47,
             "donations": 0,
-            "donationsReceived": 0,
-            "donationsDelta": 0,
+            "donationsReceived": 360,
+            "donationsDelta": -360,
             "donationsPercent": 0,
             "arena": {
-                "name": "Master III",
-                "arena": "League 6",
-                "arenaID": 17,
-                "trophyLimit": 5500
+                "name": "Champion",
+                "arena": "League 7",
+                "arenaID": 19,
+                "trophyLimit": 5800
             }
         },
         {
-            "name": "Nicki Bey",
-            "tag": "Q8JGYLCY",
+            "name": "John™",
+            "tag": "PL22YQUY",
             "rank": 2,
-            "previousRank": 2,
+            "previousRank": 4,
             "role": "elder",
             "expLevel": 13,
-            "trophies": 5439,
-            "clanChestCrowns": 47,
-            "clanChestCrownsPercent": 0.04,
-            "donations": 0,
-            "donationsReceived": 720,
-            "donationsDelta": -720,
-            "donationsPercent": 0,
+            "trophies": 5677,
+            "clanChestCrowns": 110,
+            "donations": 348,
+            "donationsReceived": 320,
+            "donationsDelta": 28,
+            "donationsPercent": 1.25,
             "arena": {
-                "name": "Master II",
-                "arena": "League 5",
-                "arenaID": 16,
-                "trophyLimit": 5200
+                "name": "Master III",
+                "arena": "League 6",
+                "arenaID": 18,
+                "trophyLimit": 5500
             }
         },
     ]
