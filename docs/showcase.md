@@ -6,6 +6,19 @@ Here are some applications which use our API. Want to get your app listed here? 
 
 ## Third-party Applications
 
+### BarrePolice Telegram Bot
+
+A powerful Telegram bot with access to ClashRoyale stats with the `/cr` command. You can access to player information, clan information or clan search. Just start it and get fun!
+
+- App: https://t.me/BarrePolice_Bot
+- Repo: https://github.com/barreeeiroo/BarrePolice/blob/beta/plugins/clashroyale.mattata
+- Language: Lua
+- Author: Diego Barreiro
+    - Telegram: https://t.me/Barreeeiroo
+    - Github: https://github.com/barreeeiroo
+
+![](/img/showcase/barrepolice.png)
+
 ### cr-selfstats
 
 Clash Royale selfbot dedicated to getting your CR stats
