@@ -116,6 +116,14 @@ This website is a homepage for "the brews" clan. This is a very basic example of
 - Author: Qubit
     - Web: http://thebrews.tommaus.com/player.php?player=PRQJVPCR
 
+### Top Ricarditos Clan Website
+
+This web page was created in order to show the clan roster "Top Ricarditos", inspired by your web site (clan view) structure but in Spanish language.
+
+- Website: https://luisramirez.me/topricarditos/
+- Author: Luis Ramirez
+    - Github: https://github.com/luisramirez-m
+
 
 ### Ultimate Clash Royale Tracker
 
