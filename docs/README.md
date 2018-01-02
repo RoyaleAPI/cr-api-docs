@@ -51,13 +51,25 @@ We are also available as [@CRPublicAPI](http://twitter.com/CRPublicAPI) on Twitt
 
 ## Authors
 
-<table>
-<tr>
-<td><a target="_blank" href="https://github.com/selfish"><img src="https://avatars0.githubusercontent.com/u/7327741" height=80px"></a></td>
-<td><a target="_blank" href="https://github.com/smlbiobot"><img src="https://avatars1.githubusercontent.com/u/25040297" height=80px"></a></td>
-</tr>
-<tr>
-<td align="center"><a target="_blank" href="https://github.com/selfish">Selfish</a></td>
-<td align="center"><a target="_blank" href="https://github.com/smlbiobot">smlbiobot</a></td>
-</tr>
-</table>
+&nbsp; | Selfish | SML
+--- | :---: | :---: |
+&nbsp; | <img src="https://avatars0.githubusercontent.com/u/7327741" height=80> | <img src="https://avatars1.githubusercontent.com/u/25040297" height=80>
+Github | [Selfish](https://github.com/selfish) | [smlbiobot](https://github.com/smlbiobot)
+Twitter | [@selfishio](https://twitter.com/selfishio) | [@smlbiobot](https://twitter.com/smlbiobot)
+
+## Repositories
+
+Name | URL | Description
+--- | --- | ---
+Main | https://github.com/cr-api/cr-api | Feature requests, bug reports, etc.
+Assets | https://github.com/cr-api/cr-api-assets | Image assets for cards, arenas, etc.
+Data | https://github.com/cr-api/cr-api-data | Constants as JSON.
+Docs | https://github.com/cr-api/cr-api-docs | Documentation.
+
+## Social
+
+Name | URL | Description
+--- | --- | ---
+Discord | http://discord.me/cr_api | Community support and status updates
+Facebook | https://facebook.com/crpublicapi | Fan page.
+Twitter | https://twitter.com/CRPublicAPI | Status updates.
