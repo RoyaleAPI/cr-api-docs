@@ -1,0 +1,808 @@
+{
+    "2018-01-01-20-00": {
+        "donations": 4070,
+        "memberCount": 50,
+        "members": [
+            {
+                "clanRank": 1,
+                "crowns": 0,
+                "donations": 58,
+                "name": "Min",
+                "tag": "L88P2282",
+                "trophies": 4610
+            },
+            {
+                "clanRank": 2,
+                "crowns": 0,
+                "donations": 76,
+                "name": "matiz",
+                "tag": "G0JVYY0",
+                "trophies": 4443
+            },
+            {
+                "clanRank": 3,
+                "crowns": 43,
+                "donations": 86,
+                "name": "pwncake",
+                "tag": "9V9G9008",
+                "trophies": 4442
+            },
+            {
+                "clanRank": 4,
+                "crowns": 26,
+                "donations": 104,
+                "name": "Alpha Faded",
+                "tag": "YQ8YY2R",
+                "trophies": 4440
+            },
+            {
+                "clanRank": 5,
+                "crowns": 49,
+                "donations": 101,
+                "name": "MCBC45",
+                "tag": "9QYC2P0R",
+                "trophies": 4419
+            },
+            {
+                "clanRank": 6,
+                "crowns": 0,
+                "donations": 78,
+                "name": "kbsjedi",
+                "tag": "2ULRGJYY",
+                "trophies": 4413
+            },
+            {
+                "clanRank": 7,
+                "crowns": 66,
+                "donations": 102,
+                "name": "Hector Tatto",
+                "tag": "2LJUQC0V",
+                "trophies": 4389
+            },
+            {
+                "clanRank": 8,
+                "crowns": 71,
+                "donations": 100,
+                "name": "HW4",
+                "tag": "PG2CV0P8",
+                "trophies": 4386
+            },
+            {
+                "clanRank": 9,
+                "crowns": 44,
+                "donations": 86,
+                "name": "kelso",
+                "tag": "Y0RLLLC",
+                "trophies": 4362
+            },
+            {
+                "clanRank": 10,
+                "crowns": 38,
+                "donations": 0,
+                "name": "twizms",
+                "tag": "JJQY9V2P",
+                "trophies": 4359
+            },
+            {
+                "clanRank": 11,
+                "crowns": 20,
+                "donations": 24,
+                "name": "Dirty Italian",
+                "tag": "P2Y0J92",
+                "trophies": 4357
+            },
+            {
+                "clanRank": 12,
+                "crowns": 9,
+                "donations": 30,
+                "name": "Sandstorm™",
+                "tag": "PJ80CGVL",
+                "trophies": 4356
+            },
+            {
+                "clanRank": 13,
+                "crowns": 27,
+                "donations": 122,
+                "name": "VenomGT183",
+                "tag": "29L2Y9CY",
+                "trophies": 4354
+            },
+            {
+                "clanRank": 14,
+                "crowns": 1,
+                "donations": 262,
+                "name": "cjp",
+                "tag": "2YGQRRJJ",
+                "trophies": 4346
+            },
+            {
+                "clanRank": 15,
+                "crowns": 20,
+                "donations": 124,
+                "name": "mhuzak",
+                "tag": "22VJLQ099",
+                "trophies": 4332
+            },
+            {
+                "clanRank": 16,
+                "crowns": 79,
+                "donations": 16,
+                "name": "dred",
+                "tag": "29RUYGPCU",
+                "trophies": 4330
+            },
+            {
+                "clanRank": 17,
+                "crowns": 27,
+                "donations": 38,
+                "name": "Prof X",
+                "tag": "2JQ2JL2R",
+                "trophies": 4330
+            },
+            {
+                "clanRank": 18,
+                "crowns": 41,
+                "donations": 78,
+                "name": "FayJai",
+                "tag": "JQRYVPUR",
+                "trophies": 4329
+            },
+            {
+                "clanRank": 19,
+                "crowns": 0,
+                "donations": 118,
+                "name": "GazzaPear",
+                "tag": "20RJC0GL8",
+                "trophies": 4326
+            },
+            {
+                "clanRank": 20,
+                "crowns": 21,
+                "donations": 150,
+                "name": "ThorOMGitsHuge",
+                "tag": "YJYYG9LU",
+                "trophies": 4323
+            },
+            {
+                "clanRank": 21,
+                "crowns": 33,
+                "donations": 70,
+                "name": "Esef",
+                "tag": "P29PCUL",
+                "trophies": 4318
+            },
+            {
+                "clanRank": 22,
+                "crowns": 16,
+                "donations": 168,
+                "name": "UltimateHunter",
+                "tag": "2URVYU2Q",
+                "trophies": 4302
+            },
+            {
+                "clanRank": 23,
+                "crowns": 12,
+                "donations": 118,
+                "name": "ragen",
+                "tag": "LCUPCVCC",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 24,
+                "crowns": 11,
+                "donations": 38,
+                "name": "XpertGH",
+                "tag": "VJVVCQU",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 25,
+                "crowns": 37,
+                "donations": 64,
+                "name": "Carlos",
+                "tag": "PRLLUPC",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 26,
+                "crowns": 26,
+                "donations": 40,
+                "name": "ThatRainbowGuy",
+                "tag": "9GGC2CUQ",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 27,
+                "crowns": 30,
+                "donations": 0,
+                "name": "RIP The Dream",
+                "tag": "88YYVPQC",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 28,
+                "crowns": 35,
+                "donations": 0,
+                "name": "jonathan",
+                "tag": "92RR0QGJ",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 29,
+                "crowns": 31,
+                "donations": 84,
+                "name": "bigzuke2",
+                "tag": "JUG0Q2P8",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 30,
+                "crowns": 19,
+                "donations": 10,
+                "name": "Kenuru ",
+                "tag": "8LR2YCJQ",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 31,
+                "crowns": 22,
+                "donations": 192,
+                "name": "•~şųŋd̾ǫwŋęŗ~•",
+                "tag": "2G8LPPGG",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 32,
+                "crowns": 49,
+                "donations": 252,
+                "name": "J-Dog_Squad",
+                "tag": "2GCG0JVJ",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 33,
+                "crowns": 21,
+                "donations": 56,
+                "name": "mic333",
+                "tag": "2UGJRPQ2",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 34,
+                "crowns": 0,
+                "donations": 0,
+                "name": "Domo",
+                "tag": "PCY9PY0G",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 35,
+                "crowns": 16,
+                "donations": 60,
+                "name": "Mirko",
+                "tag": "8QP0U8CV",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 36,
+                "crowns": 35,
+                "donations": 58,
+                "name": "Kdabra",
+                "tag": "2LL2G000",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 37,
+                "crowns": 54,
+                "donations": 48,
+                "name": "Sr. Bombastico",
+                "tag": "L2R8YVYQ",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 38,
+                "crowns": 0,
+                "donations": 56,
+                "name": "cheekysob",
+                "tag": "2000P0VP",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 39,
+                "crowns": 32,
+                "donations": 20,
+                "name": "JHMark",
+                "tag": "2G9P0GCP",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 40,
+                "crowns": 24,
+                "donations": 158,
+                "name": "Stiv3nw0nder",
+                "tag": "GUC0J0YU",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 41,
+                "crowns": 3,
+                "donations": 0,
+                "name": "Dryaan",
+                "tag": "VPQCRJUJ",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 42,
+                "crowns": 0,
+                "donations": 66,
+                "name": "Lord Cthulhu",
+                "tag": "2Q2R2JG8Q",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 43,
+                "crowns": 35,
+                "donations": 61,
+                "name": "SML",
+                "tag": "C0G20PR2",
+                "trophies": 4299
+            },
+            {
+                "clanRank": 44,
+                "crowns": 0,
+                "donations": 144,
+                "name": "BennAndTheJets",
+                "tag": "PU8JQPCL",
+                "trophies": 4297
+            },
+            {
+                "clanRank": 45,
+                "crowns": 19,
+                "donations": 30,
+                "name": "Alejandro",
+                "tag": "P8Y2CPP8",
+                "trophies": 4296
+            },
+            {
+                "clanRank": 46,
+                "crowns": 36,
+                "donations": 36,
+                "name": "Rapaz",
+                "tag": "C0PPV",
+                "trophies": 4265
+            },
+            {
+                "clanRank": 47,
+                "crowns": 49,
+                "donations": 50,
+                "name": "Snafu",
+                "tag": "2YQGVJCC",
+                "trophies": 4264
+            },
+            {
+                "clanRank": 48,
+                "crowns": 18,
+                "donations": 70,
+                "name": "BufareteYouTube",
+                "tag": "8899YJG9",
+                "trophies": 4237
+            },
+            {
+                "clanRank": 49,
+                "crowns": 63,
+                "donations": 50,
+                "name": "Jerry",
+                "tag": "8VU9929P",
+                "trophies": 4234
+            },
+            {
+                "clanRank": 50,
+                "crowns": 39,
+                "donations": 210,
+                "name": "Dirk Diggler",
+                "tag": "UGYG2PR",
+                "trophies": 4204
+            }
+        ],
+        "score": 43709
+    },
+    "2018-01-02-00-00": {
+        "donations": 4830,
+        "memberCount": 49,
+        "members": [
+            {
+                "clanRank": 1,
+                "crowns": 0,
+                "donations": 58,
+                "name": "Min",
+                "tag": "L88P2282",
+                "trophies": 4610
+            },
+            {
+                "clanRank": 2,
+                "crowns": 0,
+                "donations": 0,
+                "name": "Jo͛hͥn̽",
+                "tag": "8L9L9GL",
+                "trophies": 4501
+            },
+            {
+                "clanRank": 3,
+                "crowns": 0,
+                "donations": 0,
+                "name": "pwncake",
+                "tag": "9V9G9008",
+                "trophies": 4445
+            },
+            {
+                "clanRank": 4,
+                "crowns": 0,
+                "donations": 114,
+                "name": "matiz",
+                "tag": "G0JVYY0",
+                "trophies": 4444
+            },
+            {
+                "clanRank": 5,
+                "crowns": 0,
+                "donations": 108,
+                "name": "kbsjedi",
+                "tag": "2ULRGJYY",
+                "trophies": 4443
+            },
+            {
+                "clanRank": 6,
+                "crowns": 49,
+                "donations": 101,
+                "name": "MCBC45",
+                "tag": "9QYC2P0R",
+                "trophies": 4419
+            },
+            {
+                "clanRank": 7,
+                "crowns": 26,
+                "donations": 104,
+                "name": "Alpha Faded",
+                "tag": "YQ8YY2R",
+                "trophies": 4409
+            },
+            {
+                "clanRank": 8,
+                "crowns": 27,
+                "donations": 180,
+                "name": "VenomGT183",
+                "tag": "29L2Y9CY",
+                "trophies": 4409
+            },
+            {
+                "clanRank": 9,
+                "crowns": 79,
+                "donations": 16,
+                "name": "dred",
+                "tag": "29RUYGPCU",
+                "trophies": 4391
+            },
+            {
+                "clanRank": 10,
+                "crowns": 66,
+                "donations": 102,
+                "name": "Hector Tatto",
+                "tag": "2LJUQC0V",
+                "trophies": 4389
+            },
+            {
+                "clanRank": 11,
+                "crowns": 9,
+                "donations": 38,
+                "name": "Sandstorm™",
+                "tag": "PJ80CGVL",
+                "trophies": 4388
+            },
+            {
+                "clanRank": 12,
+                "crowns": 71,
+                "donations": 116,
+                "name": "HW4",
+                "tag": "PG2CV0P8",
+                "trophies": 4386
+            },
+            {
+                "clanRank": 13,
+                "crowns": 1,
+                "donations": 270,
+                "name": "cjp",
+                "tag": "2YGQRRJJ",
+                "trophies": 4375
+            },
+            {
+                "clanRank": 14,
+                "crowns": 44,
+                "donations": 86,
+                "name": "kelso",
+                "tag": "Y0RLLLC",
+                "trophies": 4362
+            },
+            {
+                "clanRank": 15,
+                "crowns": 38,
+                "donations": 0,
+                "name": "twizms",
+                "tag": "JJQY9V2P",
+                "trophies": 4359
+            },
+            {
+                "clanRank": 16,
+                "crowns": 12,
+                "donations": 172,
+                "name": "ragen",
+                "tag": "LCUPCVCC",
+                "trophies": 4358
+            },
+            {
+                "clanRank": 17,
+                "crowns": 37,
+                "donations": 92,
+                "name": "Carlos",
+                "tag": "PRLLUPC",
+                "trophies": 4352
+            },
+            {
+                "clanRank": 18,
+                "crowns": 41,
+                "donations": 106,
+                "name": "FayJai",
+                "tag": "JQRYVPUR",
+                "trophies": 4348
+            },
+            {
+                "clanRank": 19,
+                "crowns": 20,
+                "donations": 132,
+                "name": "mhuzak",
+                "tag": "22VJLQ099",
+                "trophies": 4332
+            },
+            {
+                "clanRank": 20,
+                "crowns": 35,
+                "donations": 69,
+                "name": "SML",
+                "tag": "C0G20PR2",
+                "trophies": 4332
+            },
+            {
+                "clanRank": 21,
+                "crowns": 21,
+                "donations": 64,
+                "name": "mic333",
+                "tag": "2UGJRPQ2",
+                "trophies": 4331
+            },
+            {
+                "clanRank": 22,
+                "crowns": 24,
+                "donations": 236,
+                "name": "Stiv3nw0nder",
+                "tag": "GUC0J0YU",
+                "trophies": 4331
+            },
+            {
+                "clanRank": 23,
+                "crowns": 49,
+                "donations": 280,
+                "name": "J-Dog_Squad",
+                "tag": "2GCG0JVJ",
+                "trophies": 4330
+            },
+            {
+                "clanRank": 24,
+                "crowns": 27,
+                "donations": 48,
+                "name": "Prof X",
+                "tag": "2JQ2JL2R",
+                "trophies": 4330
+            },
+            {
+                "clanRank": 25,
+                "crowns": 0,
+                "donations": 92,
+                "name": "cheekysob",
+                "tag": "2000P0VP",
+                "trophies": 4329
+            },
+            {
+                "clanRank": 26,
+                "crowns": 0,
+                "donations": 182,
+                "name": "BennAndTheJets",
+                "tag": "PU8JQPCL",
+                "trophies": 4328
+            },
+            {
+                "clanRank": 27,
+                "crowns": 19,
+                "donations": 38,
+                "name": "Alejandro",
+                "tag": "P8Y2CPP8",
+                "trophies": 4325
+            },
+            {
+                "clanRank": 28,
+                "crowns": 21,
+                "donations": 150,
+                "name": "ThorOMGitsHuge",
+                "tag": "YJYYG9LU",
+                "trophies": 4323
+            },
+            {
+                "clanRank": 29,
+                "crowns": 33,
+                "donations": 80,
+                "name": "Esef",
+                "tag": "P29PCUL",
+                "trophies": 4318
+            },
+            {
+                "clanRank": 30,
+                "crowns": 31,
+                "donations": 128,
+                "name": "bigzuke2",
+                "tag": "JUG0Q2P8",
+                "trophies": 4304
+            },
+            {
+                "clanRank": 31,
+                "crowns": 16,
+                "donations": 168,
+                "name": "UltimateHunter",
+                "tag": "2URVYU2Q",
+                "trophies": 4302
+            },
+            {
+                "clanRank": 32,
+                "crowns": 11,
+                "donations": 38,
+                "name": "XpertGH",
+                "tag": "VJVVCQU",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 33,
+                "crowns": 26,
+                "donations": 48,
+                "name": "ThatRainbowGuy",
+                "tag": "9GGC2CUQ",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 34,
+                "crowns": 30,
+                "donations": 0,
+                "name": "RIP The Dream",
+                "tag": "88YYVPQC",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 35,
+                "crowns": 35,
+                "donations": 0,
+                "name": "jonathan",
+                "tag": "92RR0QGJ",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 36,
+                "crowns": 19,
+                "donations": 20,
+                "name": "Kenuru ",
+                "tag": "8LR2YCJQ",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 37,
+                "crowns": 22,
+                "donations": 200,
+                "name": "•~şųŋd̾ǫwŋęŗ~•",
+                "tag": "2G8LPPGG",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 38,
+                "crowns": 0,
+                "donations": 0,
+                "name": "Domo",
+                "tag": "PCY9PY0G",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 39,
+                "crowns": 16,
+                "donations": 60,
+                "name": "Mirko",
+                "tag": "8QP0U8CV",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 40,
+                "crowns": 0,
+                "donations": 10,
+                "name": "ubaldo96 Mexico",
+                "tag": "Q99P0CL",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 41,
+                "crowns": 35,
+                "donations": 58,
+                "name": "Kdabra",
+                "tag": "2LL2G000",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 42,
+                "crowns": 32,
+                "donations": 30,
+                "name": "JHMark",
+                "tag": "2G9P0GCP",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 43,
+                "crowns": 3,
+                "donations": 0,
+                "name": "Dryaan",
+                "tag": "VPQCRJUJ",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 44,
+                "crowns": 0,
+                "donations": 84,
+                "name": "Lord Cthulhu",
+                "tag": "2Q2R2JG8Q",
+                "trophies": 4300
+            },
+            {
+                "clanRank": 45,
+                "crowns": 0,
+                "donations": 118,
+                "name": "GazzaPear",
+                "tag": "20RJC0GL8",
+                "trophies": 4296
+            },
+            {
+                "clanRank": 46,
+                "crowns": 36,
+                "donations": 46,
+                "name": "Rapaz",
+                "tag": "C0PPV",
+                "trophies": 4265
+            },
+            {
+                "clanRank": 47,
+                "crowns": 49,
+                "donations": 50,
+                "name": "Snafu",
+                "tag": "2YQGVJCC",
+                "trophies": 4264
+            },
+            {
+                "clanRank": 48,
+                "crowns": 18,
+                "donations": 78,
+                "name": "BufareteYouTube",
+                "tag": "8899YJG9",
+                "trophies": 4237
+            },
+            {
+                "clanRank": 49,
+                "crowns": 39,
+                "donations": 260,
+                "name": "Dirk Diggler",
+                "tag": "UGYG2PR",
+                "trophies": 4204
+            }
+        ],
+        "score": 43757
+    }
+}
