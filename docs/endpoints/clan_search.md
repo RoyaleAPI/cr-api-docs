@@ -74,3 +74,7 @@ http://api.cr-api.com/clan/search?name=abc
     },
 ]
 ```
+
+## Implementations
+
+http://cr-api.com/clans/search
