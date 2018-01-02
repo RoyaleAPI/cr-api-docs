@@ -8,6 +8,7 @@
 - Endpoints
     - [Player](/endpoints/player)
     - [Clan](/endpoints/clan)
+    - [Clan Battles](/endpoints/clan_battles)
     - [Clan Search](/endpoints/clan_search)
     - [Top Players](/endpoints/top_players)
     - [Top Clans](/endpoints/top_clans)

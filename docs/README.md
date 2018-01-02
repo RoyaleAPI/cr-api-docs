@@ -22,6 +22,7 @@ You can see implementations of this API in [Showcase](/showcase) by third-party 
 - Endpoints
     - [Player](/endpoints/player)
     - [Clan](/endpoints/clan)
+    - [Clan Battles](/endpoints/clan_battles)
     - [Clan Search](/endpoints/clan_search)
     - [Top Players](/endpoints/top_players)
     - [Top Clans](/endpoints/top_clans)
@@ -32,6 +33,7 @@ You can see implementations of this API in [Showcase](/showcase) by third-party 
     - [Endpoints](/endpoints/endpoints)
     - [Version](/endpoints/version)
     - [Constants](/endpoints/constants)
+
 
 
 ## Support + Feature Requests
