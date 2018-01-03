@@ -79,6 +79,15 @@ An app and website that shows the trophies ranking for the clan family, and the 
 - Author: Vitor Hugo Welzel]
     - Github: https://github.com/welzel855
 
+### Road21 clan website
+
+Keeps track of member stats, especially member activity (last battle time, last donate time).
+
+- Language: Hungarian. No translation as the clan has only hungarian members.
+- Written in PHP + mysql
+- Author: Taky
+- No link on the web: author has specifically asked us to not post the link on the public web but it is available on our Discord server.
+
 ### RoyaleStats
 
 Can info logging.
