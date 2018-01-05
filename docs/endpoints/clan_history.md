@@ -4,7 +4,7 @@ This endpoint returns a time series of member stats. Clan stats are updated ever
 
 ## How to be included
 
-To enable stats for your clan, add our URL `royaleapi.com` in your clan description and make a request to this endpoint. t first, you will not get any data but you should start seeing history data rolling in. Logging interval is set to once every 4 hours.
+To enable stats for your clan, add our URL `royaleapi.com` in your clan description and make a request to this endpoint. t first, you will not get any data but you should start seeing history data rolling in. 
 
 !> This domain currently only works for our web implementation. For API requests, you should continue to use the `cr-api.com` domain.
 
