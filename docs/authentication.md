@@ -45,7 +45,7 @@ Here are some code fragments on how to add custom headers in different languages
 | --- | --- | --- |
 | clan | http://api.cr-api.com/clan/2CCCP | `a123b4567` |
 
-### Bash (Shell)
+### cURL
 
 ```bash
 curl --header "auth: a123b4567" http://api.cr-api.com/clan/2CCCP
@@ -77,6 +77,57 @@ public string Get(string url)
 }
 ```
 
+### C# RestSharp #
+
+```csharp
+var client = new RestClient("http://api.cr-api.com/clan/2CCCP");
+var request = new RestRequest(Method.GET);
+request.AddHeader("auth", "a123b4567");
+IRestResponse response = client.Execute(request);
+```
+
+### Java OK HTTP
+
+```java
+OkHttpClient client = new OkHttpClient();
+
+Request request = new Request.Builder()
+  .url("http://api.cr-api.com/clan/2CCCP")
+  .get()
+  .addHeader("auth", "a123b4567")
+  .build();
+
+Response response = client.newCall(request).execute();
+```
+
+### Java Unirest
+
+```java
+HttpResponse<String> response = Unirest.get("http://api.cr-api.com/clan/2CCCP")
+  .header("auth", "a123b4567")
+  .asString();
+```
+
+### Javascript jQuery AJAX
+
+We don’t recommend that you access the API on the client side as you will be exposing your token publicly. However, this is how you would do it with [jQuery](http://api.jquery.com/):
+
+```javascript
+var settings = {
+  "async": true,
+  "crossDomain": true,
+  "url": "http://api.cr-api.com/clan/2CCCP",
+  "method": "GET",
+  "headers": {
+    "auth": "a123b4567"
+  }
+}
+
+$.ajax(settings).done(function (response) {
+  console.log(response);
+});
+```
+
 ### Node.js
 
 ```javascript
@@ -99,7 +150,68 @@ $context = stream_context_create($opts);
 $test = file_get_contents("http://api.cr-api.com/clan/2CCCP",true, $context);
 ```
 
-### Python: Asynchronous
+### PHP HttpRequest
+
+```php
+<?php
+
+$request = new HttpRequest();
+$request->setUrl('http://api.cr-api.com/clan/2CCCP');
+$request->setMethod(HTTP_METH_GET);
+
+$request->setHeaders(array(
+  'auth' => 'a123b4567'
+));
+
+try {
+  $response = $request->send();
+
+  echo $response->getBody();
+} catch (HttpException $ex) {
+  echo $ex;
+}
+```
+
+### PHP pecl_http
+
+```php
+<?php
+
+$client = new http\Client;
+$request = new http\Client\Request;
+
+$request->setRequestUrl('http://api.cr-api.com/clan/2CCCP');
+$request->setRequestMethod('GET');
+$request->setHeaders(array(
+  'auth' => 'a123b4567'
+));
+
+$client->enqueue($request)->send();
+$response = $client->getResponse();
+
+echo $response->getBody();
+```
+
+### Python http.client (Python 3)
+
+```python
+import http.client
+
+conn = http.client.HTTPConnection("api,cr-api,com")
+
+headers = {
+    'auth': "a123b4567",
+    }
+
+conn.request("GET", "clan,2CCCP", headers=headers)
+
+res = conn.getresponse()
+data = res.read()
+
+print(data.decode("utf-8"))
+```
+
+### Python aiohttp
 
 Asynchronous python using the [aiohttp](http://aiohttp.readthedocs.io/) library.
 
@@ -112,35 +224,67 @@ async with aiohttp.ClientSession() as session:
         data = await resp.json()
 ```
 
-### Python: Synchronous
+### Python requests
 
 Synchronous (blocking) Python using the [requests](http://docs.python-requests.org) library.
 
 ```python
 import requests
-headers = {"auth": "a123b4567"}
+
 url = "http://api.cr-api.com/clan/2CCCP"
-r = requests.get(url, headers=headers)
-data = r.json()
+
+headers = {
+    'auth': "a123b4567"
+    }
+
+response = requests.request("GET", url, headers=headers)
+
+data = response.json()
 ```
 
-### Javascript (Client-Side)
+### Ruby (NET::Http)
 
-We don’t generally recommend that you access the API on the client side as you will be exposing your token publicly. However, this is how you would do it with [jQuery](http://api.jquery.com/):
+```ruby
 
-```javascript
-$.ajax({
-    url: 'http://api.cr-api.com/clan/2CCCP',
-    headers: {auth: 'a123b4567'}
-});
+require 'uri'
+require 'net/http'
+
+url = URI("http://api.cr-api.com/clan/2CCCP")
+
+http = Net::HTTP.new(url.host, url.port)
+
+request = Net::HTTP::Get.new(url)
+request["auth"] = 'a123b4567'
+
+response = http.request(request)
+puts response.read_body
 ```
 
-Better:
+### Swift
 
-```javascript
-// Once:
-$.ajaxSetup({ headers: {auth: 'a123b4567'}});
+```swift
+import Foundation
 
-// Request with header:
-$.ajax({ url: 'http://api.cr-api.com/clan/2CCCP' });
+let headers = [
+  "auth": "a123b4567",
+  "Cache-Control": "no-cache",
+]
+
+let request = NSMutableURLRequest(url: NSURL(string: "http://api.cr-api.com/clan/2CCCP")! as URL,
+                                        cachePolicy: .useProtocolCachePolicy,
+                                    timeoutInterval: 10.0)
+request.httpMethod = "GET"
+request.allHTTPHeaderFields = headers
+
+let session = URLSession.shared
+let dataTask = session.dataTask(with: request as URLRequest, completionHandler: { (data, response, error) -> Void in
+  if (error != nil) {
+    print(error)
+  } else {
+    let httpResponse = response as? HTTPURLResponse
+    print(httpResponse)
+  }
+})
+
+dataTask.resume()
 ```
