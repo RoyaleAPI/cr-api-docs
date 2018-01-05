@@ -211,7 +211,7 @@ data = res.read()
 print(data.decode("utf-8"))
 ```
 
-### Python aiohttp
+### Python (aiohttp)
 
 Asynchronous python using the [aiohttp](http://aiohttp.readthedocs.io/) library.
 
@@ -224,7 +224,7 @@ async with aiohttp.ClientSession() as session:
         data = await resp.json()
 ```
 
-### Python requests
+### Python (requests)
 
 Synchronous (blocking) Python using the [requests](http://docs.python-requests.org) library.
 
@@ -260,7 +260,7 @@ response = http.request(request)
 puts response.read_body
 ```
 
-### Swift
+### Swift (NSURL)
 
 ```swift
 import Foundation
