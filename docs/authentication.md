@@ -135,6 +135,23 @@ const request = require("request");
 request('http://api.cr-api.com/clan/2CCCP', {headers: {auth: 'a123b4567'}})
 ```
 
+Detail example:
+
+```javascript
+var request = require("request");
+
+var options = { method: 'GET',
+  url: 'http://api.cr-api.com/clan/2CCCP',
+  headers: { auth: 'a123b4567' }
+};
+
+request(options, function (error, response, body) {
+  if (error) throw new Error(error);
+
+  console.log(body);
+});
+```
+
 ### PHP
 
 ```php
