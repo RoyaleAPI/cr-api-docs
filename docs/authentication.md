@@ -17,7 +17,7 @@ Additionally, we support **Bearer Token** authorization. Bearer tokens use a fie
 3. We reserve the right to permanently blacklist keys / developers who have been shown to abuse the API with requests.
 
 
-###  Generating new keys
+### Generating new keys
 
 You can obtain and manage your developer key on [our discord server](http://discord.me/cr_api).
 
@@ -25,7 +25,7 @@ You can obtain and manage your developer key on [our discord server](http://disc
 2. Type `!crapikey get`
 3. The bot will send you a DM (direct message) with your key.
 
-###  Forgotten keys
+### Forgotten keys
 
 To get a reminder of your developer key, visit the Discord channel above and type `!crapikey get` again and the bot will remind you a DM again.
 
@@ -33,6 +33,9 @@ To get a reminder of your developer key, visit the Discord channel above and typ
 
 If you feel that your key may have been compromised, please contact open an issue on [Github](http://github.com/cr-api/cr-api) and we will create a new one for you.
 
+### Key Statistics
+
+You can receive request statistics of your key on our Discord server. Go to the `#developer-key` channel and type `!crapikey stats`. Your stats will be visible to everyone else in the channel.
 
 ## Code examples
 
@@ -40,12 +43,12 @@ Here are some code fragments on how to add custom headers in different languages
 
 | Endpoint | URL | token |
 | --- | --- | --- |
-| clan | http://api.cr-api.com/clan/2cccp | `a123b4567` |
+| clan | http://api.cr-api.com/clan/2CCCP | `a123b4567` |
 
 ### Bash (Shell)
 
 ```bash
-curl --header "auth: a123b4567" http://api.cr-api.com/clan/2cccp
+curl --header "auth: a123b4567" http://api.cr-api.com/clan/2CCCP
 ```
 
 ### C# #
@@ -72,7 +75,7 @@ public string Get(string url)
 
 ```javascript
 const request = require("request");
-request('http://api.cr-api.com/clan/2cccp', {headers: {auth: 'a123b4567'}})
+request('http://api.cr-api.com/clan/2CCCP', {headers: {auth: 'a123b4567'}})
 ```
 
 ### PHP
@@ -87,7 +90,7 @@ $opts = [
 
 $context = stream_context_create($opts);
 
-$test = file_get_contents("http://api.cr-api.com/clan/2cccp",true, $context);
+$test = file_get_contents("http://api.cr-api.com/clan/2CCCP",true, $context);
 ```
 
 ### Python: Asynchronous
@@ -97,7 +100,7 @@ Asynchronous python using the [aiohttp](http://aiohttp.readthedocs.io/) library.
 ```python
 import aiohttp
 headers = {"auth": "a123b4567"}
-url = "http://api.cr-api.com/clan/2cccp"
+url = "http://api.cr-api.com/clan/2CCCP"
 async with aiohttp.ClientSession() as session:
     async with session.get(url, headers=headers) as resp:
         data = await resp.json()
@@ -110,7 +113,7 @@ Synchronous (blocking) Python using the [requests](http://docs.python-requests.o
 ```python
 import requests
 headers = {"auth": "a123b4567"}
-url = "http://api.cr-api.com/clan/2cccp"
+url = "http://api.cr-api.com/clan/2CCCP"
 r = requests.get(url, headers=headers)
 data = r.json()
 ```
@@ -121,7 +124,7 @@ We don’t generally recommend that you access the API on the client side as you
 
 ```javascript
 $.ajax({
-    url: 'http://api.cr-api.com/clan/2cccp',
+    url: 'http://api.cr-api.com/clan/2CCCP',
     headers: {auth: 'a123b4567'}
 });
 ```
@@ -133,5 +136,5 @@ Better:
 $.ajaxSetup({ headers: {auth: 'a123b4567'}});
 
 // Request with header:
-$.ajax({ url: 'http://api.cr-api.com/clan/2cccp' });
+$.ajax({ url: 'http://api.cr-api.com/clan/2CCCP' });
 ```
