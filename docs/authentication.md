@@ -4,7 +4,9 @@ All API requests must be accompanied by a developer key. This key is a unique id
 
 ## Authenticated Requests
 
-You must authenticate your requests using custom headers. Add a key named `auth` with value `<token>` to your header when you make your requests.
+You must authenticate your requests using **custom headers**. Add a key named `auth` with value `<token>` to your header when you make your requests.
+
+Additionally, we support **Bearer Token** authorization. Bearer tokens use a field named `Authorization` with value `Bearer <token>` in the header.
 
 !> Query string `auth=<token>` authentication no longer works. Please use custom headers instead.
 
