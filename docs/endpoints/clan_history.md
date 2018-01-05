@@ -2,6 +2,12 @@
 
 This endpoint returns a time series of member stats. Clan stats are updated every 4 hours using UTC timezone. Currently it is enabled for a selected set of clans which meet our internal criteria.
 
+## How to be included
+
+To enable stats for your clan, add our URL `royaleapi.com` in your clan description and make a request to this endpoint. t first, you will not get any data but you should start seeing history data rolling in. Logging interval is set to once every 4 hours.
+
+!> This domain currently only works for our web implementation. For API requests, you should continue to use the `cr-api.com` domain.
+
 ## HTTP Request
 
 `GET http://api.cr-api.com/clan/<TAG>/history`
@@ -53,11 +59,3 @@ http://api.cr-api.com/clan/2U2GGQJ/history
     },
 }
 ```
-
-## How to be included
-
-If you would like to enable stats for your clan, you will need to include our URL `royaleapi.com` in your clan description.
-
-!> We will make an announcement when we have verified that this method is functional.
-
-!> This domain currently only works for our web implementation. For API requests, you should continue to use the `cr-api.com` domain.
