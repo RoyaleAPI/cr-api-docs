@@ -6,18 +6,18 @@ This endpoint return battles played by people in your clan. Internally, the serv
 
 `GET http://api.cr-api.com/clan/<TAG>/battles`
 
-Name | Method | Description
---- | --- | ---
-/clan/search | GET | Clan search
-
 ### URL Parameters
 
 Name | Data Type | Required / Optional | Description
 --- | --- | --- | ---
 `<TAG>` | string | required | Clan tag.
 
-
-
 ## Response
 
 http://api.cr-api.com/clan/2CCCP/battles
+
+<a href="/json/clan_battles_2CCCP.json">Full JSON Response</a>
+
+## Implementation
+
+http://cr-api.com/clan/2CCCP/battles
