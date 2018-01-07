@@ -15,6 +15,7 @@ You can see implementations of this API in [Showcase](/showcase) by third-party 
 - Getting Started
     - [Introduction](/)
     - [Authentication](/authentication)
+    - [Field Filter](/field_filter)
     - [Errors](/errors)
     - [Showcase](/showcase)
     - [Wrappers](/wrappers)
@@ -33,6 +34,7 @@ You can see implementations of this API in [Showcase](/showcase) by third-party 
     - [Popular Players](/endpoints/popular_players)
     - [Popular Tournaments](/endpoints/popular_tournaments)
     - [Endpoints](/endpoints/endpoints)
+
 
 
 ## Support + Feature Requests
