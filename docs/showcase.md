@@ -6,6 +6,20 @@ Here are some applications which use our API. Want to get your app listed here? 
 
 ## Third-party Applications
 
+### AppRoyale
+
+App Royale contains tools to control and facilitate your game in Clash Royale.
+
+Features:
+
+- Deck organizer: with it you can save and quickly restore all your decks to never lose them and not depend on the limit of 5 that the game has.
+- Profile data: with it you can manage multiple accounts and see your profile data, included your next chests and number of chest to get every special chest.
+- Android app: https://play.google.com/store/apps/details?id=com.underlegendz.chesttracker
+- Author: Ydrojen
+    - Github: https://github.com/ydrojen
+
+![](/img/showcase/approyale.png)
+
 ### BarrePolice Telegram Bot
 
 A powerful Telegram bot with access to ClashRoyale stats with the `/cr` command. You can access to player information, clan information or clan search. Just start it and get fun!
