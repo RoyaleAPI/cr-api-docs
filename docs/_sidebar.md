@@ -6,6 +6,7 @@
     - [Showcase](/showcase)
     - [Wrappers](/wrappers)
     - [FAQ](/faq)
+    - [Donate](/donate)
 - Endpoints
     - [Version](/endpoints/version)
     - [Player](/endpoints/player)
