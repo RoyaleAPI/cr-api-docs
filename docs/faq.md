@@ -10,7 +10,7 @@ Yes and no. The way rate limits work is that there is a timebox and a count. You
 
 If one community member is abusive, they are blocked. But there is no hard number. Everyone is welcome to play ball, and the rate currently stands on **1 req/sec/user** (ballpark figure).
 
-To reiterate, as long as your requests are **properly spaced and spread out**, we are good. We want to avoid hard limitations, because if we enabled those (and they have already implemented — it’s a switch that we simply need to turn on), everyone’s max rate will decrease significantly.
+To reiterate, as long as your requests are **properly spaced and spread out**, we are good. We want to avoid hard limitations, because if we enabled those (and they have already been implemented — it’s a switch that we simply need to turn on), everyone’s max rate will decrease significantly.
 
 Since we are covering all the costs to operate this API and provide it freely to the community, we would not increase our current spending to allow overuse.
 
