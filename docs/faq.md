@@ -16,7 +16,7 @@ Since we are covering all the costs to operate this API and provide it freely to
 
 ## How can my clan family be listed on the website?
 
-Please read the [family configuration](https://github.com/cr-api/cr-api/wiki/Family-Config) documentation on our Github wiki and [open an issue](https://github.com/cr-api/cr-api/issues) with the completed YAML configuration.
+Please read the [family configuration](https://github.com/cr-api/cr-api-ux/wiki/Family-Config) documentation on our UX Github wiki and [open an issue](https://github.com/cr-api/cr-api-ux/issues) with the completed YAML configuration.
 
 ## How do I report bugs?
 
