@@ -159,24 +159,48 @@ Android chest tracker
 
 ## Our proof-of-concepts
 
-- Author: SML
+### Author: Selfish
+- Github: http://github.com/selfish
+- Twitter: http://twitter.com/selfishio
+
+#### Player Tracker Google Sheet
+
+Card count and upgrade spreadsheet. See reddit post for usage instructions.
+
+- Google Sheet: https://docs.google.com/spreadsheets/d/1DEn1R1ctwNg5dJegGwg_6k7WqFuIBkTiYms07qu4wx4/edit?usp=sharing
+- Reddit Post: https://www.reddit.com/r/ClashRoyale/comments/7rtzkf/card_count_and_upgrade_spreadsheet_updated/
+
+![](/img/showcase/crapi-player-tracker-0.png)
+
+![](/img/showcase/crapi-player-tracker-1.png)
+
+![](/img/showcase/crapi-player-tracker-2.png)
+
+![](/img/showcase/crapi-player-tracker-3.png)
+
+![](/img/showcase/crapi-player-tracker-4.png)
+
+![](/img/showcase/crapi-player-tracker-5.png)
+
+### Author: SML
+
     - Github: http://github.com/smlbiobot
     - Twitter: http://twitter.com/smlbiobot
     - Discord: http://discord.me/sml
 
-### cr-api.com
+#### cr-api.com
 
 Web applications implementing all the API endpoints.
 
 - Website: http://cr-api.com
 
-### CRProfile
+#### CRProfile
 
 Clash Royale profile cog for the Red Discord Bot.
 
 - Repo: https://github.com/smlbiobot/SML-Cogs/tree/master/crprofile
 
-### CRClan
+#### CRClan
 
 Clash Royale clan cog for the Red Discord Bot.
 
