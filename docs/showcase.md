@@ -20,16 +20,6 @@ Features:
 
 ![](/img/showcase/approyale.png)
 
-### Bad Stats Royale
-
-A quick website to calculate the amount of gold, gems, money it will cost you to perform all the upgrades you can, based on the amount of cards you have. It will also tell you the max level you can reach for each card you have.
-
-For example, if you have a level 10 knight, with 3500 spare cards, it will tell you that you can upgrade it to a level 12 knight, and that it will cost you 70k gold, and you'll need 4500 to get it to the next level (13).
-
-- Website: http://cr.maxime-dechalendar.com/
-- Reddit post: https://www.reddit.com/r/ClashRoyale/comments/7seoy8/strategy_introducing_sad_stats_royale_a_website/
-- Author: m-de-chalendar-betclic
-    - Github: https://github.com/m-de-chalendar-betclic
 
 ### BarrePolice Telegram Bot
 
@@ -120,6 +110,17 @@ Can info logging.
 - Repo: https://github.com/akaminetzkyp/RoyaleStats
 - Author: akaminetzkyp
     - Github: https://github.com/akaminetzkyp)
+
+### Sad Stats Royale
+
+A quick website to calculate the amount of gold, gems, money it will cost you to perform all the upgrades you can, based on the amount of cards you have. It will also tell you the max level you can reach for each card you have.
+
+For example, if you have a level 10 knight, with 3500 spare cards, it will tell you that you can upgrade it to a level 12 knight, and that it will cost you 70k gold, and you'll need 4500 to get it to the next level (13).
+
+- Website: http://cr.maxime-dechalendar.com/
+- Reddit post: https://www.reddit.com/r/ClashRoyale/comments/7seoy8/strategy_introducing_sad_stats_royale_a_website/
+- Author: m-de-chalendar-betclic
+    - Github: https://github.com/m-de-chalendar-betclic
 
 ### Statsy
 
