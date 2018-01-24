@@ -169,9 +169,10 @@ Android chest tracker
 
 
 
-## Our proof-of-concepts
+## Our apps
 
 ### Author: Selfish
+
 - Github: http://github.com/selfish
 - Twitter: http://twitter.com/selfishio
 
@@ -194,15 +195,16 @@ Card count and upgrade spreadsheet. See reddit post for usage instructions.
 
 ![](/img/showcase/crapi-player-tracker-5.png)
 
+
 ### Author: SML
 
-    - Github: http://github.com/smlbiobot
-    - Twitter: http://twitter.com/smlbiobot
-    - Discord: http://discord.me/sml
+- Github: http://github.com/smlbiobot
+- Twitter: http://twitter.com/smlbiobot
+- Discord: http://discord.me/sml
 
 #### cr-api.com
 
-Web applications implementing all the API endpoints.
+Web application implementing all the API endpoints.
 
 - Website: http://cr-api.com
 
