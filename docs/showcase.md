@@ -159,6 +159,26 @@ This web page was created in order to show the clan roster "Top Ricarditos", ins
 - Author: Luis Ramirez
     - Github: https://github.com/luisramirez-m
 
+### Track Royale
+
+Track Royale provide tools to help you get more fun while playing Clash Royale. You will get all of these feature:
+
+★ See your upcoming chest
+
+★ See the queue of special chest including legendary chest
+
+★ Clan member score, so you can easily find an active or inactive member
+
+★ Look at your battle and account statistic
+
+- Google Play: https://play.google.com/store/apps/details?id=com.anksite.trackroyale
+- Author: anksite
+    - Github: https://github.com/anksite
+
+![](/img/showcase/trackroyale1.png)
+
+![](/img/showcase/trackroyale2.png)
+
 
 ### Ultimate Clash Royale Tracker
 
@@ -166,6 +186,8 @@ Android chest tracker
 
 - Android app: https://play.google.com/store/apps/details?id=eu.tudor.ultimatechesttrackerforclash
 - Author: Tudorr (XDDK)
+
+![](/img/showcase/ultimate-clash-royale-tracker.png)
 
 
 
@@ -201,6 +223,7 @@ Card count and upgrade spreadsheet. See reddit post for usage instructions.
 - Github: http://github.com/smlbiobot
 - Twitter: http://twitter.com/smlbiobot
 - Discord: http://discord.me/sml
+
 
 #### cr-api.com
 
