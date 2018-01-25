@@ -119,8 +119,8 @@ For example, if you have a level 10 knight, with 3500 spare cards, it will tell 
 
 - Website: http://cr.maxime-dechalendar.com/
 - Reddit post: https://www.reddit.com/r/ClashRoyale/comments/7seoy8/strategy_introducing_sad_stats_royale_a_website/
-- Author: m-de-chalendar-betclic
-    - Github: https://github.com/m-de-chalendar-betclic
+- Author: DCMaxxx
+    - Github: https://github.com/DCMaxxx
 
 ### Statsy
 
