@@ -69,6 +69,6 @@ The above command returns JSON structured as below. In the actual response, ther
 
 ## Implementation
 
-- http://cr-api.com/top/clans
-- http://cr-api.com/top/clans/_eu
-- http://cr-api.com/top/clans/us
+- http://cr-api.com/clans/leaderboard
+- http://cr-api.com/clans/leaderboard/us
+- http://cr-api.com/clans/leaderboard/_as
