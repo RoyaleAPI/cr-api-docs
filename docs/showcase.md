@@ -143,6 +143,15 @@ Discord Bot to track statistics for a clan family.
 - Author: 4JR (fourjr)
     - Github: http://github.com/fourjr
 
+### Team CMC website
+
+Website for Team CMC, a Singapore-based clan family. Utilizes cr-api for clan management, tracking members' movement and clan recruitment.
+
+- Website: https://www.teamcmc.pro
+- Author: ZeNeLLiE
+    - Github: https://github.com/ZeNeLLiE
+
+
 ### The Brews clan website
 
 This website is a homepage for "the brews" clan. This is a very basic example of cr-api usage in a basic clan website that is mobile friendly.
