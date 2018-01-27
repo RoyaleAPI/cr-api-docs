@@ -80,6 +80,5 @@ The above command returns JSON structured like this:
 
 ## Implementation
 
-- http://cr-api.com/top/players
-- http://cr-api.com/top/players/_eu
-- http://cr-api.com/top/players/us
+- http://cr-api.com/players/leaderboard
+- http://cr-api.com/players/leaderboard/us
