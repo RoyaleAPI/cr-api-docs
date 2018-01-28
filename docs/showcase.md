@@ -135,13 +135,6 @@ Clash Royale Stats Discord Bot - Written in python using discord.py and cr-api.c
     - fourjr
         - Github: https://github.com/fourjr
 
-### stusarmybot
-
-Discord Bot to track statistics for a clan family.
-
-- Repo: https://github.com/fourjr/stusarmybot
-- Author: 4JR (fourjr)
-    - Github: http://github.com/fourjr
 
 ### Team CMC website
 
