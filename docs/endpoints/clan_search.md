@@ -19,8 +19,9 @@ Name | Data Type | Required / Optional | Description
 --- | --- | --- | ---
 name | string | optional | Clan name text search.
 score | number | optional | Minimum clan score.
-minMembers | number | optional | Minimum number of members. 0-50
-maxMembers | number | optional | Maximum number of members. 0-60
+minMembers | number | optional | Minimum number of members. 2-50
+maxMembers | number | optional | Maximum number of members. 2-50
+locationId | number | optional | Location ID. See [regions.json](https://github.com/cr-api/cr-api-data/blob/master/json/regions.json) for accepted values.
 
 
 ## Response
