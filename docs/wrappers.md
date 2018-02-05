@@ -40,6 +40,14 @@ Asynchronous Node.js wrapper
 - Author: madebyKAI (affinix)
     - Github: https://github.com/madebyKA
 
+### croyale
+
+Croyale is a powerful node.js module that allows you to interact with the cr-api very easily.
+
+- Repo: https://github.com/TheLearneer/croyale
+- Author: Froosty
+    - Github: https://github.com/TheLearneer
+
 ## PHP   
 
 ### clash-royale-php
