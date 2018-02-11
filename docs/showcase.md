@@ -34,6 +34,17 @@ A powerful Telegram bot with access to ClashRoyale stats with the `/cr` command.
 
 ![](/img/showcase/barrepolice.png)
 
+
+### Clash Royale Charts
+
+ A site to track clan participation each week to determine who should be kicked and promoted. Clan chest crowns and card donations are tracked each week and can be viewed with filterable charts. Still a work in progress, but is stable.
+
+ - Website: https://crcharts.org/
+ - Author: adhdavis
+    - Github: https://github.com/ahdavis
+
+![](/img/showcase/clash-royale-charts.png)
+
 ### cr-selfstats
 
 Clash Royale selfbot dedicated to getting your CR stats
