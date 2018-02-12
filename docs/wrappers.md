@@ -60,14 +60,6 @@ Python Async + Sync wrapper
 - Author: kyb3r
     - Github: https://github.com/kyb3r
 
-### cr-py
-
-Synchoronous Python wrapper
-
-- Repo: https://github.com/kwugfighter/cr.py
-- Author: kwugfigher
-    - Github: http://github.com/kwugfighter
-
 ## Retired / Invalid /  No longer maintained
 
 Listed here are a list of wrappers that are no longer maintained and in fact no longer works with the latest version of the API. They are included here as our thanks for being an early supporter.
@@ -79,3 +71,11 @@ Asynchronous Node.js wrapper
 - Repo: https://github.com/madebyKAI/cr.js
 - Author: madebyKAI (affinix)
     - Github: https://github.com/madebyKA
+
+### cr-py
+
+Synchoronous Python wrapper
+
+- Repo: https://github.com/kwugfighter/cr.py
+- Author: kwugfigher
+    - Github: http://github.com/kwugfighter
