@@ -4,14 +4,6 @@
 
 ## C\# #
 
-### CrApiCsharp   
-
-A C\# wrapper
-
-- Repo: http://github.com/Mahi-Uddin/CrApiCsharp/
-- Author: Mahi-Uddin Zihad
-    - Github: http://github.com/Mahi-Uddin/
-
 ### crapi-csharp-wrapper
 
 C\# wrapper (both async and sync)
@@ -64,6 +56,14 @@ Python Async + Sync wrapper
 
 Listed here are a list of wrappers that are no longer maintained and in fact no longer works with the latest version of the API. They are included here as our thanks for being an early supporter.
 
+### CrApiCsharp   
+
+A C\# wrapper
+
+- Repo: http://github.com/Mahi-Uddin/CrApiCsharp/
+- Author: Mahi-Uddin Zihad
+    - Github: http://github.com/Mahi-Uddin/
+    
 ### cr.js
 
 Asynchronous Node.js wrapper
