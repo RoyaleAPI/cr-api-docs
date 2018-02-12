@@ -32,14 +32,6 @@ Java wrapper
 
 ## Node.js  
 
-### cr.js
-
-Asynchronous Node.js wrapper
-
-- Repo: https://github.com/madebyKAI/cr.js
-- Author: madebyKAI (affinix)
-    - Github: https://github.com/madebyKA
-
 ### croyale
 
 Croyale is a powerful node.js module that allows you to interact with the cr-api very easily.
@@ -75,3 +67,15 @@ Synchoronous Python wrapper
 - Repo: https://github.com/kwugfighter/cr.py
 - Author: kwugfigher
     - Github: http://github.com/kwugfighter
+
+## Retired / Invalid /  No longer maintained
+
+Listed here are a list of wrappers that are no longer maintained and in fact no longer works with the latest version of the API. They are included here as our thanks for being an early supporter.
+
+### cr.js
+
+Asynchronous Node.js wrapper
+
+- Repo: https://github.com/madebyKAI/cr.js
+- Author: madebyKAI (affinix)
+    - Github: https://github.com/madebyKA
