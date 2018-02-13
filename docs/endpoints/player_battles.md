@@ -73,8 +73,7 @@ The above command returns JSON structured like this. In the actual response, the
                         "arena": 8,
                         "description": "Summons Bats to do her bidding, even after death! If you get too close, she isn't afraid of pitching in with her mean-looking battle staff.",
                         "id": 26000048
-                    },
-                    {}
+                    }
                 ]
             }
         ],
@@ -109,8 +108,7 @@ The above command returns JSON structured like this. In the actual response, the
                         "arena": 4,
                         "description": "The Lava Hound is a majestic flying beast that attacks buildings. The Lava Pups are less majestic angry babies that attack anything.",
                         "id": 26000029
-                    },
-                    {}
+                    }
                 ]
             }
         ],

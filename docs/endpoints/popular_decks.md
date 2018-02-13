@@ -29,9 +29,8 @@ The above command returns JSON structured like this. In the actual response, the
                 "name": "Golem",
                 "rarity": "Epic",
                 "type": "Troop"
-            },
-            {}
-        ]
+            }
+        ],
         "decklink":"https://link.clashroyale.com/deck/en?deck=26000009;26000015;26000016;26000027;26000039;27000007;28000008;28000012",
         "popularity": 12
     }
