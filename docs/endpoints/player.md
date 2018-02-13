@@ -29,11 +29,11 @@ You can see an implementation of this at http://cr-api.com/profile/8L9L9GL
 ### Multiple Players
 
 
-http://api.cr-api.com/player/L88P2282,9CQ2U8QJ,8L9L9GL
+http://api.cr-api.com/player/8L9L9GL,L88P2282,9CQ2U8QJ
 
 The above command returns JSON structured like this, where `{}` denotes a single player response.
 
-<a href="/json/player_L88P2282,9CQ2U8QJ,8L9L9GL.json">Full JSON response</a>
+<a href="/json/player_8L9L9GL,L88P2282,9CQ2U8QJ.json">Full JSON response</a>
 
 ```json
 [
