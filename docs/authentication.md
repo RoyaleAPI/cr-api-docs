@@ -214,13 +214,13 @@ echo $response->getBody();
 ```python
 import http.client
 
-conn = http.client.HTTPConnection("api,cr-api,com")
+conn = http.client.HTTPConnection("api.cr-api.com")
 
 headers = {
     'auth': "a123b4567",
     }
 
-conn.request("GET", "clan,2CCCP", headers=headers)
+conn.request("GET", "/clan/2CCCP", headers=headers)
 
 res = conn.getresponse()
 data = res.read()
