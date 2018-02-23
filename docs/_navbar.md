@@ -1,7 +1,8 @@
 - Social
     - [Discord](http://discord.me/cr_api)
     - [Github](https://github.com/cr-api/cr-api)
-    - [Twitter](https://twitter.com/CRPublicAPI)
+    - [Twitter](https://twitter.com/RoyaleAPI)
+    - [Facebook](https://facebook.com/RoyaleAPI)
 - Repos
     - [cr-api](https://github.com/cr-api/cr-api)
     - [cr-api-assets](https://github.com/cr-api/cr-api-assets)

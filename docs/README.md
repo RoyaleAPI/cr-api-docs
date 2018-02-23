@@ -8,7 +8,7 @@ You can see implementations of this API in [Showcase](/showcase) by third-party 
 
 [Wrappers](/wrappers) in multiple languages are also available.
 
-!> We are currently in alpha pre-release. The JSON structure may change over time. Please follow our [Twitter @CRPublicAPI](http://twitter.com/CRPublicAPI) or join our [Discord](http://discord.me/cr_api) server for important updates.
+!> We are currently in alpha pre-release. The JSON structure may change over time. Please follow our [Twitter @RoyaleAPI](http://twitter.com/RoyaleAPI) or join our [Discord](http://discord.me/cr_api) server for important updates.
 
 ## Documentation
 
@@ -49,7 +49,7 @@ If you are interested in talking to the team, we are there on Discord. Feel free
 
 Join our Discord Server at: http://discord.me/cr_api.
 
-We are also available as [@CRPublicAPI](http://twitter.com/CRPublicAPI) on Twitter. Feel free to drop in a line wherever it is easiest for you. Twitter would be the best place for you to stay updated with latest news, features and releases regarding cr-api.
+We are also available as [@RoyaleAPI](http://twitter.com/RoyaleAPI) on Twitter. Feel free to drop in a line wherever it is easiest for you. Twitter would be the best place for you to stay updated with latest news, features and releases regarding cr-api.
 
 ## Authors
 
@@ -74,4 +74,4 @@ Name | URL | Description
 --- | --- | ---
 Discord | http://discord.me/cr_api | Community support and status updates
 Facebook | https://facebook.com/crpublicapi | Fan page.
-Twitter | https://twitter.com/CRPublicAPI | Status updates.
+Twitter | https://twitter.com/RoyaleAPI | Status updates.
