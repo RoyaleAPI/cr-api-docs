@@ -20,22 +20,28 @@ You can see implementations of this API in [Showcase](/showcase) by third-party 
     - [Showcase](/showcase)
     - [Wrappers](/wrappers)
     - [FAQ](/faq)
+    - [Donate](/donate)
 - Endpoints
     - [Version](/endpoints/version)
     - [Player](/endpoints/player)
+    - [Player Battles](/endpoints/player_battles)
+    - [Player Chests](/endpoints/player_chests)
     - [Clan Search](/endpoints/clan_search)
     - [Clan](/endpoints/clan)
     - [Clan Battles](/endpoints/clan_battles)
     - [Clan History](/endpoints/clan_history)
+    - [Clan Tracking](/endpoints/clan_tracking)
+    - [Open Tournaments](/endpoints/tournaments_open)
+    - [Known Tournaments](/endpoints/tournaments_known)
     - [Tournaments](/endpoints/tournaments)
     - [Top Clans](/endpoints/top_clans)
     - [Top Players](/endpoints/top_players)
     - [Popular Clans](/endpoints/popular_clans)
     - [Popular Players](/endpoints/popular_players)
     - [Popular Tournaments](/endpoints/popular_tournaments)
+    - [Popular Decks](/endpoints/popular_decks)
+    - [API Key Stats](/endpoints/auth_stats)
     - [Endpoints](/endpoints/endpoints)
-
-
 
 ## Support + Feature Requests
 
