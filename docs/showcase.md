@@ -197,11 +197,30 @@ Track Royale provide tools to help you get more fun while playing Clash Royale. 
 
 Android chest tracker
 
-- Android app: https://play.google.com/store/apps/details?id=eu.tudor.ultimatechesttrackerforclash
+- Google Play: https://play.google.com/store/apps/details?id=eu.tudor.ultimatechesttrackerforclash
 - Author: Tudorr (XDDK)
 
 ![](/img/showcase/ultimate-clash-royale-tracker.png)
 
+
+### Clash Royale Dicas Stats
+
+Profile statistics tool for the Brazilian Clash Royale community
+
+- Website: https://www.clashroyaledicas.com/stats/
+- Google Play: https://play.google.com/store/apps/details?id=com.clashdicas.clashroyaledicas
+- Authors:
+    - Lucas Felix
+        - Twitter: https://twitter.com/ClashDicas
+    - Reginaldo P.
+
+### Clash Royale Chest Tracker
+
+Simple way to keep tracking of the next chests.
+
+- Google Play: https://play.google.com/store/apps/details?id=com.nelsonalmendra.clashroyalechesttracker
+- Author: Nelson Almendra
+    - Twitter: https://twitter.com/NelsonAlmendra
 
 
 ## Our apps
