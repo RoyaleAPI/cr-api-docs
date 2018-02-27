@@ -11,6 +11,12 @@ Name | Method | Description
 --- | --- | ---
 /popular/tournaments | GET | Most requested tournament
 
+### Query String Parameters
+
+Name | Data Type | Required / Optional | Description
+--- | --- | --- | ---
+`max` | number | optional | A single digit to indicate the maximum amount of results the API should return
+
 This returns a list of [tournaments](/endpoints/tournaments) add add the `popularity` field to the response.
 
 <a href="/json/popular_tournaments.json">Full JSON response</a>
