@@ -46,4 +46,4 @@ You should pick the library on your own. Wrappers that appear in our [Showcase](
 
 ## There is a wrapper available for my language already, can I write another one?
 
-Yes, you are free to write additional wrappers and we will put it on the list when it is availble.
+Yes, you are free to write additional wrappers and we will put it on the list when it is available.
