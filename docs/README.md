@@ -73,11 +73,12 @@ Main | https://github.com/cr-api/cr-api | Feature requests, bug reports, etc.
 Assets | https://github.com/cr-api/cr-api-assets | Image assets for cards, arenas, etc.
 Data | https://github.com/cr-api/cr-api-data | Constants as JSON.
 Docs | https://github.com/cr-api/cr-api-docs | Documentation.
+UX | https://github.com/cr-api/cr-api-docs | User experience, website feature request, family configs.
 
 ## Social
 
 Name | URL | Description
 --- | --- | ---
 Discord | http://discord.me/cr_api | Community support and status updates
-Facebook | https://facebook.com/crpublicapi | Fan page.
+Facebook | https://facebook.com/RoyaleAPI | Fan page.
 Twitter | https://twitter.com/RoyaleAPI | Status updates.

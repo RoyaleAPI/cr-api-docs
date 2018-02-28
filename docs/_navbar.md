@@ -8,3 +8,4 @@
     - [cr-api-assets](https://github.com/cr-api/cr-api-assets)
     - [cr-api-data](https://github.com/cr-api/cr-api-data)
     - [cr-api-docs](https://github.com/cr-api/cr-api-docs)
+    - [cr-api-ux](https://github.com/cr-api/cr-api-ux)
