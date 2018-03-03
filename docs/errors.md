@@ -20,7 +20,7 @@ All the error responses come in this format:
 {
     "error": true,
     "status": 404,
-    "message": "Not found | Additional information and support: http://discord.me/cr_api"
+    "message": "Not found | Additional information and support: http://discord.me/RoyaleAPI"
 }
 ```
 

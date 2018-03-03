@@ -19,7 +19,7 @@ Additionally, we support **Bearer Token** authorization. Bearer tokens use a fie
 
 ### Generating new keys
 
-You can obtain and manage your developer key on [our discord server](http://discord.me/cr_api).
+You can obtain and manage your developer key on [our discord server](http://discord.me/RoyaleAPI).
 
 1. Go to the #developer-key channel.
 2. Type `!crapikey get`

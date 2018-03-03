@@ -1,5 +1,5 @@
 {
     "error": true,
     "status": 500,
-    "message": "Cannot read property 'tag' of null | Additional information and support: http://discord.me/cr_api | Mention error ID f0ffb51059f04925a7a1a8db4022b28a"
+    "message": "Cannot read property 'tag' of null | Additional information and support: http://discord.me/RoyaleAPI | Mention error ID f0ffb51059f04925a7a1a8db4022b28a"
 }
