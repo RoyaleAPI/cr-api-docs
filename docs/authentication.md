@@ -43,17 +43,17 @@ Here are some code fragments on how to add custom headers in different languages
 
 | Endpoint | URL | token |
 | --- | --- | --- |
-| clan | https://api.cr-api.com/clan/2CCCP | `a123b4567` |
+| clan | https://api.royaleapi.com/clan/2CCCP | `a123b4567` |
 
 ### cURL
 
 ```bash
-curl --header "auth: a123b4567" https://api.cr-api.com/clan/2CCCP
+curl --header "auth: a123b4567" https://api.royaleapi.com/clan/2CCCP
 ```
 
 ```bash
 curl -X GET \
-  https://api.cr-api.com/clan/2CCCP \
+  https://api.royaleapi.com/clan/2CCCP \
   -H 'Authorization: Bearer a123b4567' \
 ```
 
@@ -80,7 +80,7 @@ public string Get(string url)
 ### C# RestSharp #
 
 ```csharp
-var client = new RestClient("https://api.cr-api.com/clan/2CCCP");
+var client = new RestClient("https://api.royaleapi.com/clan/2CCCP");
 var request = new RestRequest(Method.GET);
 request.AddHeader("auth", "a123b4567");
 IRestResponse response = client.Execute(request);
@@ -92,7 +92,7 @@ IRestResponse response = client.Execute(request);
 OkHttpClient client = new OkHttpClient();
 
 Request request = new Request.Builder()
-  .url("https://api.cr-api.com/clan/2CCCP")
+  .url("https://api.royaleapi.com/clan/2CCCP")
   .get()
   .addHeader("auth", "a123b4567")
   .build();
@@ -103,7 +103,7 @@ Response response = client.newCall(request).execute();
 ### Java Unirest
 
 ```java
-HttpResponse<String> response = Unirest.get("https://api.cr-api.com/clan/2CCCP")
+HttpResponse<String> response = Unirest.get("https://api.royaleapi.com/clan/2CCCP")
   .header("auth", "a123b4567")
   .asString();
 ```
@@ -116,7 +116,7 @@ We don’t recommend that you access the API on the client side as you will be e
 var settings = {
   "async": true,
   "crossDomain": true,
-  "url": "https://api.cr-api.com/clan/2CCCP",
+  "url": "https://api.royaleapi.com/clan/2CCCP",
   "method": "GET",
   "headers": {
     "auth": "a123b4567"
@@ -132,7 +132,7 @@ $.ajax(settings).done(function (response) {
 
 ```javascript
 const request = require("request");
-request('https://api.cr-api.com/clan/2CCCP', {headers: {auth: 'a123b4567'}})
+request('https://api.royaleapi.com/clan/2CCCP', {headers: {auth: 'a123b4567'}})
 ```
 
 Detail example:
@@ -141,7 +141,7 @@ Detail example:
 var request = require("request");
 
 var options = { method: 'GET',
-  url: 'https://api.cr-api.com/clan/2CCCP',
+  url: 'https://api.royaleapi.com/clan/2CCCP',
   headers: { auth: 'a123b4567' }
 };
 
@@ -164,7 +164,7 @@ $opts = [
 
 $context = stream_context_create($opts);
 
-$test = file_get_contents("https://api.cr-api.com/clan/2CCCP",true, $context);
+$test = file_get_contents("https://api.royaleapi.com/clan/2CCCP",true, $context);
 ```
 
 ### PHP HttpRequest
@@ -173,7 +173,7 @@ $test = file_get_contents("https://api.cr-api.com/clan/2CCCP",true, $context);
 <?php
 
 $request = new HttpRequest();
-$request->setUrl('https://api.cr-api.com/clan/2CCCP');
+$request->setUrl('https://api.royaleapi.com/clan/2CCCP');
 $request->setMethod(HTTP_METH_GET);
 
 $request->setHeaders(array(
@@ -197,7 +197,7 @@ try {
 $client = new http\Client;
 $request = new http\Client\Request;
 
-$request->setRequestUrl('https://api.cr-api.com/clan/2CCCP');
+$request->setRequestUrl('https://api.royaleapi.com/clan/2CCCP');
 $request->setRequestMethod('GET');
 $request->setHeaders(array(
   'auth' => 'a123b4567'
@@ -214,7 +214,7 @@ echo $response->getBody();
 ```python
 import http.client
 
-conn = http.client.HTTPConnection("api.cr-api.com")
+conn = http.client.HTTPConnection("api.royaleapi.com")
 
 headers = {
     'auth': "a123b4567",
@@ -235,7 +235,7 @@ Asynchronous python using the [aiohttp](https://aiohttp.readthedocs.io/) library
 ```python
 import aiohttp
 headers = {"auth": "a123b4567"}
-url = "https://api.cr-api.com/clan/2CCCP"
+url = "https://api.royaleapi.com/clan/2CCCP"
 async with aiohttp.ClientSession() as session:
     async with session.get(url, headers=headers) as resp:
         data = await resp.json()
@@ -248,7 +248,7 @@ Synchronous (blocking) Python using the [requests](https://docs.python-requests.
 ```python
 import requests
 
-url = "https://api.cr-api.com/clan/2CCCP"
+url = "https://api.royaleapi.com/clan/2CCCP"
 
 headers = {
     'auth': "a123b4567"
@@ -266,7 +266,7 @@ data = response.json()
 require 'uri'
 require 'net/http'
 
-url = URI("https://api.cr-api.com/clan/2CCCP")
+url = URI("https://api.royaleapi.com/clan/2CCCP")
 
 http = Net::HTTP.new(url.host, url.port)
 
@@ -287,7 +287,7 @@ let headers = [
   "Cache-Control": "no-cache",
 ]
 
-let request = NSMutableURLRequest(url: NSURL(string: "https://api.cr-api.com/clan/2CCCP")! as URL,
+let request = NSMutableURLRequest(url: NSURL(string: "https://api.royaleapi.com/clan/2CCCP")! as URL,
                                         cachePolicy: .useProtocolCachePolicy,
                                     timeoutInterval: 10.0)
 request.httpMethod = "GET"

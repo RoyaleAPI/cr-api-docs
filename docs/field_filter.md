@@ -13,7 +13,7 @@ Only top-level fields are supported at the moment, but filtering lower-level fie
 
 If you just want the name and tag of a player, you may request the following:
 
-`https://api.cr-api.com/player/C0G20PR2?keys=name,tag`
+`https://api.royaleapi.com/player/C0G20PR2?keys=name,tag`
 
 Response:
 
@@ -26,7 +26,7 @@ Response:
 
 If you want to get the clan information without loading the member list:
 
-`https://api.cr-api.com/clan/2CCCP?exclude=members`
+`https://api.royaleapi.com/clan/2CCCP?exclude=members`
 
 Response:
 

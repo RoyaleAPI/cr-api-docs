@@ -4,7 +4,7 @@ This endpoint retrieves a specific clan.
 
 ## HTTP Request
 
-`GET https://api.cr-api.com/clan/<TAG>`
+`GET https://api.royaleapi.com/clan/<TAG>`
 
 Parameter | Description
 --- | ---
@@ -12,7 +12,7 @@ TAG | The clan tag of the clan to retrieve
 
 ### Single Clan
 
-https://api.cr-api.com/clan/2CCCP
+https://api.royaleapi.com/clan/2CCCP
 
 <a href="/json/clan_2CCCP.json">Full JSON response</a>
 
@@ -87,11 +87,11 @@ The above command returns JSON structured like this:
 }
 ```
 
-You can see an example of this at https://cr-api.com/clan/2CCCP
+You can see an example of this at https://royaleapi.com/clan/2CCCP
 
 ### Multiple Clans
 
-https://api.cr-api.com/clan/2CCCP,2U2GGQJ
+https://api.royaleapi.com/clan/2CCCP,2U2GGQJ
 
 <a href="/json/clan_2CCCP,2U2GGQJ.json">Full JSON response</a> with the two clans above.
 
@@ -104,4 +104,4 @@ The above command returns JSON structured as follows, where `{}` denotes a full 
 ]
 ```
 
-You can see an example of this at https://cr-api.com/clan/family/racf/members
+You can see an example of this at https://royaleapi.com/clan/family/racf/members

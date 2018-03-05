@@ -4,10 +4,10 @@ This endpoint returns the current version of the API. Unlike the other endpoints
 
 ## HTTP Request
 
-`https://api.cr-api.com/version`
+`https://api.royaleapi.com/version`
 
 ## Response
 
-https://api.cr-api.com/version
+https://api.royaleapi.com/version
 
 ```7.5.2```

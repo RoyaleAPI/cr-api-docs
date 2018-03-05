@@ -4,7 +4,7 @@ This endpoint returns statistics about how often a deck's data has been requeste
 
 ## HTTP Request
 
-`GET https://api.cr-api.com/popular/decks`
+`GET https://api.royaleapi.com/popular/decks`
 
 Name | Method | Description
 --- | --- | ---

@@ -135,7 +135,7 @@ For example, if you have a level 10 knight, with 3500 spare cards, it will tell 
 
 ### Statsy
 
-Clash Royale Stats Discord Bot - Written in python using discord.py and cr-api.com.
+Clash Royale Stats Discord Bot - Written in python using discord.py and royaleapi.com.
 
 - Website: http://statsy.ml/
 - Authors:
@@ -257,11 +257,11 @@ Card count and upgrade spreadsheet. See reddit post for usage instructions.
 - Discord: https://discord.me/sml
 
 
-#### cr-api.com
+#### royaleapi.com
 
 Web application implementing all the API endpoints.
 
-- Website: https://cr-api.com
+- Website: https://royaleapi.com
 
 #### CRProfile
 

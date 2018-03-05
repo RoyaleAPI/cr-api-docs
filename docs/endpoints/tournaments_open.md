@@ -3,10 +3,10 @@
 This endpoint returns a list of open tournaments.
 
 ## HTTP Request
-`GET https://api.cr-api.com/tournaments/open`
+`GET https://api.royaleapi.com/tournaments/open`
 
 ## Response
-https://api.cr-api.com/tournaments/open
+https://api.royaleapi.com/tournaments/open
 
 The above command returns JSON structured like this. In the actual response, there will be a maximum of 100 tournaments:
 

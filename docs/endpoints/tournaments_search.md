@@ -4,7 +4,7 @@ This endpoint allows you to search for a tournament given the name.
 
 ## HTTP Request
 
-`GET https://api.cr-api.com/clan/search?name=<NAME>`
+`GET https://api.royaleapi.com/clan/search?name=<NAME>`
 
 Name | Method | Description
 --- | --- | ---
@@ -21,7 +21,7 @@ Name | Data Type | Required / Optional | Description
 
 ## Response
 
-https://api.cr-api.com/tournaments/search?name=a
+https://api.royaleapi.com/tournaments/search?name=a
 
 <a href="/json/tournaments_search_a.json">Full JSON response</a>
 

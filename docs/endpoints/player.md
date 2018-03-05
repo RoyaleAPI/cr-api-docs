@@ -7,8 +7,8 @@ This endpoint retrieves one or more player profiles, with basic stats, card coll
 ## HTTP Request
 
 ```
-GET https://api.cr-api.com/player/<TAG>
-GET https://api.cr-api.com/player/<TAG>,<TAG>,<TAG>
+GET https://api.royaleapi.com/player/<TAG>
+GET https://api.royaleapi.com/player/<TAG>,<TAG>,<TAG>
 ```
 
 Parameter | Description
@@ -19,17 +19,17 @@ TAG | The player tag of the user to retrieve
 
 ### Single Player
 
-https://api.cr-api.com/player/8L9L9GL
+https://api.royaleapi.com/player/8L9L9GL
 
 <a href="/json/player_8L9L9GL.json">Full JSON response</a>
 
-You can see an implementation of this at https://cr-api.com/profile/8L9L9GL
+You can see an implementation of this at https://royaleapi.com/profile/8L9L9GL
 
 
 ### Multiple Players
 
 
-https://api.cr-api.com/player/8L9L9GL,L88P2282,9CQ2U8QJ
+https://api.royaleapi.com/player/8L9L9GL,L88P2282,9CQ2U8QJ
 
 The above command returns JSON structured like this, where `{}` denotes a single player response.
 
@@ -42,4 +42,4 @@ The above command returns JSON structured like this, where `{}` denotes a single
 ]
 ```
 
-You can see an example of this at https://cr-api.com/profile/L88P2282,9CQ2U8QJ,8L9L9GL
+You can see an example of this at https://royaleapi.com/profile/L88P2282,9CQ2U8QJ,8L9L9GL

@@ -2,10 +2,10 @@
 This endpoint returns information about the currently authenticated token.
 
 ## HTTP Request
-`GET https://api.cr-api.com/auth/stats`
+`GET https://api.royaleapi.com/auth/stats`
 
 ## Response
-https://api.cr-api.com/auth/stats
+https://api.royaleapi.com/auth/stats
 
 <a href="/json/auth_stats.json">Full JSON Response</a>
 

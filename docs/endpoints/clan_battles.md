@@ -4,7 +4,7 @@ This endpoint return battles played by people in your clan. Internally, the serv
 
 ## HTTP Request
 
-`GET https://api.cr-api.com/clan/<TAG>/battles`
+`GET https://api.royaleapi.com/clan/<TAG>/battles`
 
 ### URL Parameters
 
@@ -14,10 +14,10 @@ Name | Data Type | Required / Optional | Description
 
 ## Response
 
-https://api.cr-api.com/clan/2CCCP/battles
+https://api.royaleapi.com/clan/2CCCP/battles
 
 <a href="/json/clan_battles_2CCCP.json">Full JSON Response</a>
 
 ## Implementation
 
-https://cr-api.com/clan/2CCCP/battles
+https://royaleapi.com/clan/2CCCP/battles

@@ -4,7 +4,7 @@
 
 Welcome to the Clash Royale API! You can use our API to access Clash Royale API endpoints, which can get information about Clash Royale.
 
-You can see implementations of this API in [Showcase](/showcase) by third-party developers and on our web site: https://cr-api.com
+You can see implementations of this API in [Showcase](/showcase) by third-party developers and on our web site: https://royaleapi.com
 
 [Wrappers](/wrappers) in multiple languages are also available.
 
