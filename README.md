@@ -1,3 +1,3 @@
 # cr-api-docs
 
-Documentation project for CR-API
+Documentation project for RoyaleAPI
