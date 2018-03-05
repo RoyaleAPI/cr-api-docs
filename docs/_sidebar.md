@@ -1,3 +1,12 @@
+- Getting Started
+    - [Introduction](/)
+    - [Authentication](/authentication)
+    - [Field Filter](/field_filter)
+    - [Errors](/errors)
+    - [Showcase](/showcase)
+    - [Wrappers](/wrappers)
+    - [FAQ](/faq)
+    - [Donate](/donate)
 - Endpoints
     - [Version](/endpoints/version)
     - [Player](/endpoints/player)
