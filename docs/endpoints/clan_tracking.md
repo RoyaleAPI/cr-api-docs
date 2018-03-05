@@ -4,7 +4,7 @@ This endpoint returns very basic data on whether a clan is included in the [Clan
 
 ## HTTP Request
 
-`GET http://api.cr-api.com/clan/<TAG>/tracking`
+`GET https://api.cr-api.com/clan/<TAG>/tracking`
 
 ### URL Parameters
 
@@ -15,7 +15,7 @@ TAG | The clan tag of the clan to retrieve
 ## Response
 
 ### Included in the tracking
-http://api.cr-api.com/clan/2CCCP/tracking
+https://api.cr-api.com/clan/2CCCP/tracking
 
 Below is the full JSON Response
 ```json

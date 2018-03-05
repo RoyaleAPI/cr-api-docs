@@ -4,7 +4,7 @@ This endpoint retrieves the Global 200 top clans on the leaderboard.
 
 ## HTTP Request
 
-`http://api.cr-api.com/top/clans/<LOCATION_KEY>`
+`https://api.cr-api.com/top/clans/<LOCATION_KEY>`
 
 ### URL Parameters
 
@@ -16,9 +16,9 @@ LOCATION_KEY | two-letter code of the location. Omit the LOCATION_KEY to get the
 
 ## Response
 
-- http://api.cr-api.com/top/clans
-- http://api.cr-api.com/top/clans/_eu
-- http://api.cr-api.com/top/clans/us
+- https://api.cr-api.com/top/clans
+- https://api.cr-api.com/top/clans/_eu
+- https://api.cr-api.com/top/clans/us
 
 The above command returns JSON structured as below. In the actual response, there will be 200 clans total.
 
@@ -69,6 +69,6 @@ The above command returns JSON structured as below. In the actual response, ther
 
 ## Implementation
 
-- http://cr-api.com/clans/leaderboard
-- http://cr-api.com/clans/leaderboard/us
-- http://cr-api.com/clans/leaderboard/_as
+- https://cr-api.com/clans/leaderboard
+- https://cr-api.com/clans/leaderboard/us
+- https://cr-api.com/clans/leaderboard/_as

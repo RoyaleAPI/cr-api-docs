@@ -5,7 +5,7 @@ This endpoint returns statistics about how often a player’s data has been requ
 
 ## HTTP Request
 
-`GET http://api.cr-api.com/popular/players`
+`GET https://api.cr-api.com/popular/players`
 
 Name | Method | Description
 --- | --- | ---

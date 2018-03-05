@@ -6,7 +6,7 @@ You can see information about the tournament before it has started and after it 
 
 ## HTTP Request
 
-`GET http://api.cr-api.com/tournaments/<TAG>`
+`GET https://api.cr-api.com/tournaments/<TAG>`
 
 
 ### URL Parameters
@@ -17,7 +17,7 @@ TAG | Tournament tag
 
 ## Response
 
-http://api.cr-api.com/tournaments/20YU0VJ9
+https://api.cr-api.com/tournaments/20YU0VJ9
 
 <a href="/json/tournaments_20YU0VJ9.json">Full JSON Response</a>
 

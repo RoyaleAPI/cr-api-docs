@@ -4,10 +4,10 @@ This endpoint returns the current version of the API. Unlike the other endpoints
 
 ## HTTP Request
 
-`http://api.cr-api.com/version`
+`https://api.cr-api.com/version`
 
 ## Response
 
-http://api.cr-api.com/version
+https://api.cr-api.com/version
 
 ```7.5.2```

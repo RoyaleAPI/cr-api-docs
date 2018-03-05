@@ -13,7 +13,7 @@ Only top-level fields are supported at the moment, but filtering lower-level fie
 
 If you just want the name and tag of a player, you may request the following:
 
-`http://api.cr-api.com/player/C0G20PR2?keys=name,tag`
+`https://api.cr-api.com/player/C0G20PR2?keys=name,tag`
 
 Response:
 
@@ -26,7 +26,7 @@ Response:
 
 If you want to get the clan information without loading the member list:
 
-`http://api.cr-api.com/clan/2CCCP?exclude=members`
+`https://api.cr-api.com/clan/2CCCP?exclude=members`
 
 Response:
 
@@ -34,7 +34,7 @@ Response:
 {
     "tag": "2CCCP",
     "name": "Reddit Alpha",
-    "description": "5500🏆 PB to join. When full, #50/50 sent to Reddit Bravo #2U2GGQJ 🚀http://discord.gg/RACF 🚀http://twitch.tv/woody",
+    "description": "5500🏆 PB to join. When full, #50/50 sent to Reddit Bravo #2U2GGQJ 🚀https://discord.gg/RACF 🚀https://twitch.tv/woody",
     "type": "invite only",
     "score": 47682,
     "memberCount": 49,

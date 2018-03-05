@@ -10,7 +10,7 @@ To enable stats for your clan, add our URL `royaleapi.com` or `cr-api.com` in yo
 
 ## HTTP Request
 
-`GET http://api.cr-api.com/clan/<TAG>/history`
+`GET https://api.cr-api.com/clan/<TAG>/history`
 
 Name | Method | Description
 --- | --- | ---
@@ -26,7 +26,7 @@ Name | Data Type | Required / Optional | Description
 
 ## Response
 
-http://api.cr-api.com/clan/2U2GGQJ/history
+https://api.cr-api.com/clan/2U2GGQJ/history
 
 <a href="/json/clan_history_2U2GGQJ.json">Full JSON Response</a>
 

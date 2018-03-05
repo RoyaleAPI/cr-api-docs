@@ -4,8 +4,8 @@ This endpoint return battles played by one or more player profiles.
 
 ## HTTP Request
 
-`GET http://api.cr-api.com/player/<TAG>/battles`    
-`GET http://api.cr-api.com/player/<TAG>,<TAG>,<TAG>/battles`
+`GET https://api.cr-api.com/player/<TAG>/battles`    
+`GET https://api.cr-api.com/player/<TAG>,<TAG>,<TAG>/battles`
 
 ### URL Parameters
 
@@ -16,7 +16,7 @@ TAG | The player tag of the user to retrieve
 ## Response
 
 ### Single Player
-http://api.cr-api.com/player/L88P2282/battles
+https://api.cr-api.com/player/L88P2282/battles
 
 The above command returns JSON structured like this. In the actual response, there will be 25 battles:
 
@@ -121,7 +121,7 @@ The above command returns JSON structured like this. In the actual response, the
     }
 ]
 ```
-You can see an implementation of this at http://cr-api.com/player/L88P2282/battles
+You can see an implementation of this at https://cr-api.com/player/L88P2282/battles
 
 ### Multiple Tags
 https://api.cr-api.com/player/8L9L9GL,L88P2282,9CQ2U8QJ/battles

@@ -3,10 +3,10 @@
 This endpoint returns a list of tournaments people have used the [/tournaments](/endpoint/tournaments) endpoint to search for.
 
 ## HTTP Request
-`GET http://api.cr-api.com/tournaments/known`
+`GET https://api.cr-api.com/tournaments/known`
 
 ## Response
-http://api.cr-api.com/tournaments/known
+https://api.cr-api.com/tournaments/known
 
 The above command returns JSON structured like this. In the actual response, there will be a maximum of 100 tournaments:
 

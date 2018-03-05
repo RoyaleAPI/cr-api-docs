@@ -55,23 +55,23 @@ This endpoint returns constants returned by the API. Top level objects include:
 
 ## HTTP Request
 
-`http://api.cr-api.com/constants`
+`https://api.cr-api.com/constants`
 
 ### Params
 
 Add keys to get specific sections:
 
-- http://api.cr-api.com/constants/alliance/
-- http://api.cr-api.com/constants/arenas/
-- http://api.cr-api.com/constants/badges/
-- http://api.cr-api.com/constants/chestCycle/
-- http://api.cr-api.com/constants/countryCodes/
-- http://api.cr-api.com/constants/rarities/
-- http://api.cr-api.com/constants/cards/
+- https://api.cr-api.com/constants/alliance/
+- https://api.cr-api.com/constants/arenas/
+- https://api.cr-api.com/constants/badges/
+- https://api.cr-api.com/constants/chestCycle/
+- https://api.cr-api.com/constants/countryCodes/
+- https://api.cr-api.com/constants/rarities/
+- https://api.cr-api.com/constants/cards/
 
 ## Response
 
-http://api.cr-api.com/constants
+https://api.cr-api.com/constants
 
 ```json
 {

@@ -5,7 +5,7 @@ This endpoint returns statistics about how often a clan’s data has been reques
 
 ## HTTP Request
 
-`GET http://api.cr-api.com/popular/clans`
+`GET https://api.cr-api.com/popular/clans`
 
 Name | Method | Description
 --- | --- | ---

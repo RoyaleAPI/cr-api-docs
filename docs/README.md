@@ -4,11 +4,11 @@
 
 Welcome to the Clash Royale API! You can use our API to access Clash Royale API endpoints, which can get information about Clash Royale.
 
-You can see implementations of this API in [Showcase](/showcase) by third-party developers and on our web site: http://cr-api.com
+You can see implementations of this API in [Showcase](/showcase) by third-party developers and on our web site: https://cr-api.com
 
 [Wrappers](/wrappers) in multiple languages are also available.
 
-!> We are currently in alpha pre-release. The JSON structure may change over time. Please follow our [Twitter @RoyaleAPI](http://twitter.com/RoyaleAPI) or join our [Discord](http://discord.me/RoyaleAPI) server for important updates.
+!> We are currently in alpha pre-release. The JSON structure may change over time. Please follow our [Twitter @RoyaleAPI](https://twitter.com/RoyaleAPI) or join our [Discord](https://discord.me/RoyaleAPI) server for important updates.
 
 ## Documentation
 
@@ -54,9 +54,9 @@ If you are adding a bug report, please add steps to reproduce the bug, exact req
 
 If you are interested in talking to the team, we are there on Discord. Feel free to drop by and say hello. Our upcoming features and beta releases are discussed here along with deck advice and Die Hard quotes.
 
-Join our Discord Server at: http://discord.me/RoyaleAPI.
+Join our Discord Server at: https://discord.me/RoyaleAPI.
 
-We are also available as [@RoyaleAPI](http://twitter.com/RoyaleAPI) on Twitter. Feel free to drop in a line wherever it is easiest for you. Twitter would be the best place for you to stay updated with latest news, features and releases regarding cr-api.
+We are also available as [@RoyaleAPI](https://twitter.com/RoyaleAPI) on Twitter. Feel free to drop in a line wherever it is easiest for you. Twitter would be the best place for you to stay updated with latest news, features and releases regarding cr-api.
 
 ## Authors
 
@@ -80,6 +80,6 @@ UX | https://github.com/cr-api/cr-api-docs | User experience, website feature re
 
 Name | URL | Description
 --- | --- | ---
-Discord | http://discord.me/RoyaleAPI | Community support and status updates
+Discord | https://discord.me/RoyaleAPI | Community support and status updates
 Facebook | https://facebook.com/RoyaleAPI | Fan page.
 Twitter | https://twitter.com/RoyaleAPI | Status updates.

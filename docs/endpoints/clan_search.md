@@ -4,7 +4,7 @@ This endpoint allows you to search for a clan.
 
 ## HTTP Request
 
-`GET http://api.cr-api.com/clan/search?name=<NAME>&score=<SCORE>&minMembers=<MIN_MEMBERS>&maxMembers=<MAX_MEMBERS>&locationId=<LOCATION_ID>`
+`GET https://api.cr-api.com/clan/search?name=<NAME>&score=<SCORE>&minMembers=<MIN_MEMBERS>&maxMembers=<MAX_MEMBERS>&locationId=<LOCATION_ID>`
 
 Name | Method | Description
 --- | --- | ---
@@ -26,7 +26,7 @@ Name | Data Type | Required / Optional | Description
 
 ## Response
 
-http://api.cr-api.com/clan/search?name=abc
+https://api.cr-api.com/clan/search?name=abc
 
 <a href="/json/clan_search_abc.json">Full JSON response</a>
 
@@ -78,4 +78,4 @@ http://api.cr-api.com/clan/search?name=abc
 
 ## Implementations
 
-http://cr-api.com/clans/search
+https://cr-api.com/clans/search

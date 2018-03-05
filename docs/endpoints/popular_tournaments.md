@@ -5,7 +5,7 @@ This endpoint returns statistics about how often a tournament has been requested
 
 ## HTTP Request
 
-`GET http://api.cr-api.com/popular/tournaments`
+`GET https://api.cr-api.com/popular/tournaments`
 
 Name | Method | Description
 --- | --- | ---

@@ -1,6 +1,6 @@
 # Showcase
 
-Here are some applications which use our API. Want to get your app listed here? Open an issue on our [issue tracker](https://github.com/cr-api/cr-api/issues) or let us know about it on [our Discord server](http://discord.me/RoyaleAPI)
+Here are some applications which use our API. Want to get your app listed here? Open an issue on our [issue tracker](https://github.com/cr-api/cr-api/issues) or let us know about it on [our Discord server](https://discord.me/RoyaleAPI)
 
 !> Unless otherwise noted, this is not an official endorsement.
 
@@ -49,9 +49,9 @@ A powerful Telegram bot with access to ClashRoyale stats with the `/cr` command.
 
 Clash Royale selfbot dedicated to getting your CR stats
 
-- Repo: http://github.com/kwugfighter/cr-selfstats
+- Repo: https://github.com/kwugfighter/cr-selfstats
 - Author: kwugfigher
-	- Github: http://github.com/kwugfighter
+	- Github: https://github.com/kwugfighter
 
 ### crclanstats
 
@@ -59,7 +59,7 @@ Tracking of clan and alliance stats. Listings of top Australian clans (to be exp
 
 - Website: http://crclanstats.com/
 - Author: Jimmy
-    - Github: http://github.com/jimmyk3008
+    - Github: https://github.com/jimmyk3008
 
 ### Crown Stats (Bot)
 
@@ -86,13 +86,13 @@ A French Discord bot with many features (e.g. moderation, utilities) as well as 
 
 - Website: http://www.fayssalbot.ml/
 - Author: FayssalZ
-    - Github: http://github.com/fayssalz59
+    - Github: https://github.com/fayssalz59
 
 ### Gearz
 
 A multipurpose bot with music, fun, moderation, and many more things, and especially Clash Royale commands.
 
-- Repo: http://github.com/Innovative-creators/Gearz
+- Repo: https://github.com/Innovative-creators/Gearz
 - Author: Froosty Aka TheLearneer
     - Github: https://github.com/TheLearneer
 
@@ -101,7 +101,7 @@ A multipurpose bot with music, fun, moderation, and many more things, and especi
 An app and website that shows the trophies ranking for the clan family, and the interim season prizes.
 
 - Website: http://orionesportsbr.com/ranking/raw-leaderboard/mobile-ranking
-- Android App: http://play.google.com/store/apps/details?id=com.wOrioneSports
+- Android App: https://play.google.com/store/apps/details?id=com.wOrioneSports
 - Author: Vitor Hugo Welzel]
     - Github: https://github.com/welzel855
 
@@ -151,7 +151,7 @@ Clash Royale Stats Discord Bot - Written in python using discord.py and cr-api.c
 
 Website for Team CMC, a Singapore-based clan family. Utilizes cr-api for clan management, tracking members' movement and clan recruitment.
 
-- Website: https://www.teamcmc.pro
+- Website: http://www.teamcmc.pro
 - Author: ZeNeLLiE
     - Github: https://github.com/ZeNeLLiE
 
@@ -162,13 +162,13 @@ This website is a homepage for "the brews" clan. This is a very basic example of
 
 - Website: http://thebrews.tommaus.com/
 - Author: Qubit
-    - Web: http://thebrews.tommaus.com/player.php?player=PRQJVPCR
+    - Web: https://thebrews.tommaus.com/player.php?player=PRQJVPCR
 
 ### Top Ricarditos Clan Website
 
 This web page was created in order to show the clan roster "Top Ricarditos", inspired by your web site (clan view) structure but in Spanish language.
 
-- Website: https://luisramirez.me/topricarditos/
+- Website: http://luisramirez.me/topricarditos/
 - Author: Luis Ramirez
     - Github: https://github.com/luisramirez-m
 
@@ -207,7 +207,7 @@ Android chest tracker
 
 Profile statistics tool for the Brazilian Clash Royale community
 
-- Website: https://www.clashroyaledicas.com/stats/
+- Website: http://www.clashroyaledicas.com/stats/
 - Google Play: https://play.google.com/store/apps/details?id=com.clashdicas.clashroyaledicas
 - Authors:
     - Lucas Felix
@@ -227,8 +227,8 @@ Simple way to keep tracking of the next chests.
 
 ### Author: Selfish
 
-- Github: http://github.com/selfish
-- Twitter: http://twitter.com/selfishio
+- Github: https://github.com/selfish
+- Twitter: https://twitter.com/selfishio
 
 #### Player Tracker Google Sheet
 
@@ -252,16 +252,16 @@ Card count and upgrade spreadsheet. See reddit post for usage instructions.
 
 ### Author: SML
 
-- Github: http://github.com/smlbiobot
-- Twitter: http://twitter.com/smlbiobot
-- Discord: http://discord.me/sml
+- Github: https://github.com/smlbiobot
+- Twitter: https://twitter.com/smlbiobot
+- Discord: https://discord.me/sml
 
 
 #### cr-api.com
 
 Web application implementing all the API endpoints.
 
-- Website: http://cr-api.com
+- Website: https://cr-api.com
 
 #### CRProfile
 

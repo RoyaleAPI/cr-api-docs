@@ -10,7 +10,7 @@ C\# wrapper (both async and sync)
 
 - Repo: https://github.com/SoptikHa2/crapi-csharp-wrapper/)
 - Author: SoptikHa2
-    - Github: http://github.com/SoptikHa2
+    - Github: https://github.com/SoptikHa2
 
 ## Java  
 
@@ -20,7 +20,7 @@ Java wrapper
 
 - Repo: https://github.com/mlieshoff/jcrapi
 - Author: mlieshoff (micah)
-    - Github: http://github.com/mlieshoff
+    - Github: https://github.com/mlieshoff
 
 ## Node.js  
 
@@ -60,9 +60,9 @@ Listed here are a list of wrappers that are no longer maintained and in fact no 
 
 A C\# wrapper
 
-- Repo: http://github.com/Mahi-Uddin/CrApiCsharp/
+- Repo: https://github.com/Mahi-Uddin/CrApiCsharp/
 - Author: Mahi-Uddin Zihad
-    - Github: http://github.com/Mahi-Uddin/
+    - Github: https://github.com/Mahi-Uddin/
     
 ### cr.js
 
@@ -78,4 +78,4 @@ Synchoronous Python wrapper
 
 - Repo: https://github.com/kwugfighter/cr.py
 - Author: kwugfigher
-    - Github: http://github.com/kwugfighter
+    - Github: https://github.com/kwugfighter

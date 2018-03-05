@@ -4,7 +4,7 @@ This endpoint retrieves the Global 200 top players on the leaderboard. Data is c
 
 ## HTTP Request
 
-`http://api.cr-api.com/top/players/<LOCATION_KEY>`
+`https://api.cr-api.com/top/players/<LOCATION_KEY>`
 
 ### URL Parameters
 
@@ -18,7 +18,7 @@ LOCATION_KEY | two-letter code of the location. Omit the LOCATION_KEY to get the
 
 ## Response
 
-http://api.cr-api.com/top/players
+https://api.cr-api.com/top/players
 
 <a href="/json/top_players.json">Full JSON response</a>
 
@@ -82,5 +82,5 @@ The above command returns JSON structured like this:
 
 ## Implementation
 
-- http://cr-api.com/players/leaderboard
-- http://cr-api.com/players/leaderboard/us
+- https://cr-api.com/players/leaderboard
+- https://cr-api.com/players/leaderboard/us

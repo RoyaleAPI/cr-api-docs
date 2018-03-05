@@ -4,7 +4,7 @@ This endpoint retrieves a specific clan.
 
 ## HTTP Request
 
-`GET http://api.cr-api.com/clan/<TAG>`
+`GET https://api.cr-api.com/clan/<TAG>`
 
 Parameter | Description
 --- | ---
@@ -12,7 +12,7 @@ TAG | The clan tag of the clan to retrieve
 
 ### Single Clan
 
-http://api.cr-api.com/clan/2CCCP
+https://api.cr-api.com/clan/2CCCP
 
 <a href="/json/clan_2CCCP.json">Full JSON response</a>
 
@@ -22,7 +22,7 @@ The above command returns JSON structured like this:
 {
     "tag": "2CCCP",
     "name": "Reddit Alpha",
-    "description": "Minimum 5200🏆to join. When full, #50/50 sent to Reddit Bravo #2U2GGQJ 🚀http://discord.gg/RACF 🚀http://twitch.tv/woody",
+    "description": "Minimum 5200🏆to join. When full, #50/50 sent to Reddit Bravo #2U2GGQJ 🚀https://discord.gg/RACF 🚀https://twitch.tv/woody",
     "type": "invite only",
     "score": 53310,
     "memberCount": 46,
@@ -87,11 +87,11 @@ The above command returns JSON structured like this:
 }
 ```
 
-You can see an example of this at http://cr-api.com/clan/2CCCP
+You can see an example of this at https://cr-api.com/clan/2CCCP
 
 ### Multiple Clans
 
-http://api.cr-api.com/clan/2CCCP,2U2GGQJ
+https://api.cr-api.com/clan/2CCCP,2U2GGQJ
 
 <a href="/json/clan_2CCCP,2U2GGQJ.json">Full JSON response</a> with the two clans above.
 
@@ -104,4 +104,4 @@ The above command returns JSON structured as follows, where `{}` denotes a full 
 ]
 ```
 
-You can see an example of this at http://cr-api.com/clan/family/racf/members
+You can see an example of this at https://cr-api.com/clan/family/racf/members

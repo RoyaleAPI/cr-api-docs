@@ -4,11 +4,11 @@ This endpoint returns all the available endpoints from the API.
 
 ## HTTP Request
 
-`http://api.cr-api.com/endpoints`
+`https://api.cr-api.com/endpoints`
 
 ## Response
 
-http://api.cr-api.com/endpoints
+https://api.cr-api.com/endpoints
 
 ```json
 [
