@@ -33,6 +33,7 @@ You can see implementations of this API in [Showcase](/showcase) by third-party 
     - [Clan Tracking](/endpoints/clan_tracking)
     - [Open Tournaments](/endpoints/tournaments_open)
     - [Known Tournaments](/endpoints/tournaments_known)
+    - [Tournaments Search](/endpoints/tournaments_search)
     - [Tournaments](/endpoints/tournaments)
     - [Top Clans](/endpoints/top_clans)
     - [Top Players](/endpoints/top_players)

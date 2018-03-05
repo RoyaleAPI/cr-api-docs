@@ -1,12 +1,3 @@
-- Getting Started
-    - [Introduction](/)
-    - [Authentication](/authentication)
-    - [Field Filter](/field_filter)
-    - [Errors](/errors)
-    - [Showcase](/showcase)
-    - [Wrappers](/wrappers)
-    - [FAQ](/faq)
-    - [Donate](/donate)
 - Endpoints
     - [Version](/endpoints/version)
     - [Player](/endpoints/player)
@@ -19,6 +10,7 @@
     - [Clan Tracking](/endpoints/clan_tracking)
     - [Open Tournaments](/endpoints/tournaments_open)
     - [Known Tournaments](/endpoints/tournaments_known)
+    - [Tournaments Search](/endpoints/tournaments_search)
     - [Tournaments](/endpoints/tournaments)
     - [Top Clans](/endpoints/top_clans)
     - [Top Players](/endpoints/top_players)
