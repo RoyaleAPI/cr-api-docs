@@ -13,7 +13,7 @@ You can see information about the tournament before it has started and after it 
 
 Parameter | Description
 --- | ---
-TAG | Tournament tag
+`TAG` | The tournament tag to retrieve
 
 ## Response
 

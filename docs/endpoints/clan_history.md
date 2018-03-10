@@ -18,11 +18,9 @@ Name | Method | Description
 
 ### URL Parameters
 
-Name | Data Type | Required / Optional | Description
---- | --- | --- | ---
-`<TAG>` | string | required | Clan tag.
-
-
+Parameter | Description
+--- | ---
+`TAG` | The clan tag of the clan to retrieve
 
 ## Response
 

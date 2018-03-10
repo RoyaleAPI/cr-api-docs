@@ -42,7 +42,7 @@ You can ask your questions on Discord, however, without tagging us specifically.
 
 ## There are multiple wrappers available for (insert language here), which one should I use?
 
-You should pick the library on your own. Wrappers that appear in our [Showcase](/showcase) are not official endorsements by the team. Use your own judgement.
+You should pick the library on your own. Wrappers that appear in our [wrapper list](/wrappers.md) are not official endorsements by the team. Use your own judgement.
 
 ## There is a wrapper available for my language already, can I write another one?
 

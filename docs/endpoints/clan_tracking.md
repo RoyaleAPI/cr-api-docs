@@ -10,7 +10,7 @@ This endpoint returns very basic data on whether a clan is included in the [Clan
 
 Parameter | Description
 --- | ---
-TAG | The clan tag of the clan to retrieve
+`TAG` | The clan tag of the clan to retrieve
 
 ## Response
 

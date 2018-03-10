@@ -11,7 +11,7 @@ This endpoint return battles played by one or more player profiles.
 
 Parameter | Description
 --- | ---
-TAG | The player tag of the user to retrieve
+`TAG` | The player tag of the user to retrieve
 
 ## Response
 

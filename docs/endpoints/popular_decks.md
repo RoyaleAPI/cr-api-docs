@@ -6,15 +6,13 @@ This endpoint returns statistics about how often a deck's data has been requeste
 
 `GET https://api.royaleapi.com/popular/decks`
 
-Name | Method | Description
---- | --- | ---
-/popular/decks | GET | Most requested decks and stats
-
 ### Query String Parameters
 
 Name | Data Type | Required / Optional | Description
 --- | --- | --- | ---
 `max` | number | optional | A single digit to indicate the maximum amount of results the API should return
+
+## Response
 
 The above command returns JSON structured like this. In the actual response, there will be more decks:
 

@@ -1,6 +1,6 @@
 # Showcase
 
-Here are some applications which use our API. Want to get your app listed here? Open an issue on our [issue tracker](https://github.com/cr-api/cr-api/issues) or let us know about it on [our Discord server](https://discord.me/RoyaleAPI)
+Here are some applications which use our API. Want to get your app listed here? Open an issue on our [docs issue tracker](https://github.com/cr-api/cr-api-docs/issues) or let us know about it on [our Discord server](https://discord.me/RoyaleAPI)
 
 !> Unless otherwise noted, this is not an official endorsement.
 
@@ -14,7 +14,8 @@ Features:
 
 - Deck organizer: with it you can save and quickly restore all your decks to never lose them and not depend on the limit of 5 that the game has.
 - Profile data: with it you can manage multiple accounts and see your profile data, included your next chests and number of chest to get every special chest.
-- Android app: https://play.google.com/store/apps/details?id=com.underlegendz.chesttracker
+
+- Play Store: https://play.google.com/store/apps/details?id=com.underlegendz.chesttracker
 - Author: Ydrojen
     - Github: https://github.com/ydrojen
 
@@ -25,7 +26,7 @@ Features:
 
 A powerful Telegram bot with access to ClashRoyale stats with the `/cr` command. You can access to player information, clan information or clan search. Just start it and get fun!
 
-- App: https://t.me/BarrePolice_Bot
+- Invite: https://t.me/BarrePolice_Bot
 - Repo: https://github.com/barreeeiroo/BarrePolice/blob/beta/plugins/clashroyale.mattata
 - Language: Lua
 - Author: Diego Barreiro
@@ -39,8 +40,8 @@ A powerful Telegram bot with access to ClashRoyale stats with the `/cr` command.
 
  A site to track clan participation each week to determine who should be kicked and promoted. Clan chest crowns and card donations are tracked each week and can be viewed with filterable charts. Still a work in progress, but is stable.
 
- - Website: https://crcharts.org/
- - Author: adhdavis
+- Website: https://crcharts.org/
+- Author: adhdavis
     - Github: https://github.com/ahdavis
 
 ![](/img/showcase/clash-royale-charts.png)
@@ -65,7 +66,7 @@ Tracking of clan and alliance stats. Listings of top Australian clans (to be exp
 
 A Clash Royale Statistics bot for Facebook Messenger Platform.
 
-- Website: https://m.me/CrownStats
+- Invite: https://m.me/CrownStats
 - Author: kamaelxiii
 
 ### Deck Bandit
@@ -75,7 +76,7 @@ Deck Bandit is a unique tool to find the best & highest ranked Clash Royale ladd
 Deck Bandit also lists the top players & decks for a predefined list of card levels. The data is gathered daily and provides great insight into the different "metas" in trophy ranges from 3000 to the elite players at 6000 trophies and above.
 
 - Website: https://deckbandit.com
-- Android App: https://play.google.com/store/apps/details?id=com.deckbandit.deckbanditapp
+- Play Store: https://play.google.com/store/apps/details?id=com.deckbandit.deckbanditapp
 - Author: Jan Ole Suhr
     - Email: [ole@mobileways.de](mailto:ole@mobileways.de)
     - Twitter: https://twitter.com/janole
@@ -101,22 +102,20 @@ A multipurpose bot with music, fun, moderation, and many more things, and especi
 An app and website that shows the trophies ranking for the clan family, and the interim season prizes.
 
 - Website: http://orionesportsbr.com/ranking/raw-leaderboard/mobile-ranking
-- Android App: https://play.google.com/store/apps/details?id=com.wOrioneSports
+- Play Store: https://play.google.com/store/apps/details?id=com.wOrioneSports
 - Author: Vitor Hugo Welzel]
     - Github: https://github.com/welzel855
 
 ### Road21 clan website
 
-Keeps track of member stats, especially member activity (last battle time, last donate time).
+Keeps track of member stats, especially member activity (last battle time, last donate time) in Hungarian.
 
-- Language: Hungarian. No translation as the clan has only hungarian members.
-- Written in PHP + mysql
+- Website: Author has specifically asked us to not post the link on the public web but it is available on our Discord server.
 - Author: Taky
-- No link on the web: author has specifically asked us to not post the link on the public web but it is available on our Discord server.
 
 ### RoyaleStats
 
-Can info logging.
+Clan info logging.
 
 - Repo: https://github.com/akaminetzkyp/RoyaleStats
 - Author: akaminetzkyp
@@ -129,21 +128,22 @@ A quick website to calculate the amount of gold, gems, money it will cost you to
 For example, if you have a level 10 knight, with 3500 spare cards, it will tell you that you can upgrade it to a level 12 knight, and that it will cost you 70k gold, and you'll need 4500 to get it to the next level (13).
 
 - Website: http://cr.maxime-dechalendar.com/
-- Reddit post: https://www.reddit.com/r/ClashRoyale/comments/7seoy8/strategy_introducing_sad_stats_royale_a_website/
+- Reddit: https://www.reddit.com/r/ClashRoyale/comments/7seoy8/strategy_introducing_sad_stats_royale_a_website/
 - Author: DCMaxxx
     - Github: https://github.com/DCMaxxx
 
 ### Statsy
 
-Clash Royale Stats Discord Bot - Written in python using discord.py and royaleapi.com.
+Clash Royale Stats Discord Bot - Written in python using discord.py and royaleapi.
 
 - Website: http://statsy.ml/
+- Invite: https://bot.discord.io/statsy
 - Authors:
     - kyb3r
         - Github: https://github.com/kyb3r
     - kwugfighter
         - Github: https://github.com/kwugfighter
-    - fourjr
+    - 4JR
         - Github: https://github.com/fourjr
 
 
@@ -265,7 +265,7 @@ If you're not in the Chapsters clan, consider checking it out or check back in a
 Card count and upgrade spreadsheet. See reddit post for usage instructions.
 
 - Google Sheet: https://docs.google.com/spreadsheets/d/1DEn1R1ctwNg5dJegGwg_6k7WqFuIBkTiYms07qu4wx4/edit?usp=sharing
-- Reddit Post: https://www.reddit.com/r/ClashRoyale/comments/7rtzkf/card_count_and_upgrade_spreadsheet_updated/
+- Reddit: https://www.reddit.com/r/ClashRoyale/comments/7rtzkf/card_count_and_upgrade_spreadsheet_updated/
 
 ![](/img/showcase/crapi-player-tracker-0.png)
 

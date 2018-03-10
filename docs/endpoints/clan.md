@@ -6,9 +6,13 @@ This endpoint retrieves a specific clan.
 
 `GET https://api.royaleapi.com/clan/<TAG>`
 
+### URL Parameters
+
 Parameter | Description
 --- | ---
-TAG | The clan tag of the clan to retrieve
+`TAG` | The clan tag of the clan to retrieve
+
+## Response
 
 ### Single Clan
 

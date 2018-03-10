@@ -11,6 +11,7 @@ Error Code| Meaning
 404	| Not Found -- The specified player / clan cannot be found. Could be invalid tags.
 500	| Internal Server Error -- We had a problem with our server. Try again later.
 503	| Service Unavailable -- We're temporarily offline for maintenance. Please try again later.
+522 | Service Unavailable -- We're temporarily offline. Please try again later.
 
 ## Error response
 

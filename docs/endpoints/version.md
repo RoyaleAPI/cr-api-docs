@@ -1,6 +1,6 @@
 # Version
 
-This endpoint returns the current version of the API. Unlike the other endpoints, the response is in text an not JSON.
+This endpoint returns the current version of the API. Unlike the other endpoints, the response is in text and not JSON.
 
 ## HTTP Request
 

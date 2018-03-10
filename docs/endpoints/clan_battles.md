@@ -8,9 +8,9 @@ This endpoint return battles played by people in your clan. Internally, the serv
 
 ### URL Parameters
 
-Name | Data Type | Required / Optional | Description
---- | --- | --- | ---
-`<TAG>` | string | required | Clan tag.
+Parameter | Description
+--- | ---
+`TAG` | The clan tag of the clan to retrieve
 
 ## Response
 

@@ -1,6 +1,6 @@
 # Constants
 
-!> IMPORTANT: This endpoint has been removed since the latest update, but we will add it back soon. If you need to get to these right now, you can use https://github.com/cr-api/cr-api-data for JSON data and https://github.com/cr-api/cr-api-assets for image assets. Both repos are also hosted by Github pages so you can load these files directly as a URL. See respective repos for instructions. 
+!> This documentation is outdated.
 
 This endpoint returns constants returned by the API. Top level objects include:
 
@@ -56,18 +56,6 @@ This endpoint returns constants returned by the API. Top level objects include:
 ## HTTP Request
 
 `https://api.royaleapi.com/constants`
-
-### Params
-
-Add keys to get specific sections:
-
-- https://api.royaleapi.com/constants/alliance/
-- https://api.royaleapi.com/constants/arenas/
-- https://api.royaleapi.com/constants/badges/
-- https://api.royaleapi.com/constants/chestCycle/
-- https://api.royaleapi.com/constants/countryCodes/
-- https://api.royaleapi.com/constants/rarities/
-- https://api.royaleapi.com/constants/cards/
 
 ## Response
 

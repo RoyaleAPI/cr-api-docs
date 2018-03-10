@@ -8,26 +8,24 @@ You must authenticate your requests using **custom headers**. Add a key named `a
 
 Additionally, we support **Bearer Token** authorization. Bearer tokens use a field named `Authorization` with value `Bearer <token>` in the header.
 
-!> Query string `auth=<token>` authentication no longer works. Please use custom headers instead.
-
 ## Key Management
 
 1. Once issued, your key will be active.
 2. Your developer key will remain active as long as you remain a user on our Discord server. Your key will be automatically disabled once you have left the server.
 3. We reserve the right to permanently blacklist keys / developers who have been shown to abuse the API with requests.
 
-
 ### Generating new keys
 
 You can obtain and manage your developer key on [our discord server](https://discord.me/RoyaleAPI).
 
-1. Go to the #developer-key channel.
-2. Type `!crapikey get`
-3. The bot will send you a DM (direct message) with your key.
+1. Ensure you have the `Allow Direct Messages from server members` option in `Privacy Settings` checked.
+2. Go to the #developer-key channel.
+3. Type `!crapikey get`
+4. The bot will send you a DM (direct message) with your key.
 
 ### Forgotten keys
 
-To get a reminder of your developer key, visit the Discord channel above and type `!crapikey get` again and the bot will remind you a DM again.
+To get a reminder of your developer key, visit the Discord channel above and type `!crapikey get` again and the bot will remind you with a DM again.
 
 ### Removing keys
 
@@ -39,7 +37,7 @@ You can receive request statistics of your key on our Discord server. Go to the 
 
 ## Code examples
 
-Here are some code fragments on how to add custom headers in different languages.
+Here are some code snippets on how to add custom headers in different languages.
 
 | Endpoint | URL | token |
 | --- | --- | --- |
@@ -135,7 +133,7 @@ const request = require("request");
 request('https://api.royaleapi.com/clan/2CCCP', {headers: {auth: 'a123b4567'}})
 ```
 
-Detail example:
+Detailed example:
 
 ```javascript
 var request = require("request");

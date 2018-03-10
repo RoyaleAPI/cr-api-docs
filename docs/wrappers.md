@@ -54,7 +54,7 @@ Python Async + Sync wrapper
 
 ## Retired / Invalid /  No longer maintained
 
-Listed here are a list of wrappers that are no longer maintained and in fact no longer works with the latest version of the API. They are included here as our thanks for being an early supporter.
+Listed here are a list of wrappers that are no longer maintained and in fact no longer work with the latest version of the API. They are included here as our thanks for being an early supporter.
 
 ### CrApiCsharp   
 

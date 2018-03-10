@@ -10,7 +10,7 @@ This endpoint retrieves the Global 200 top players on the leaderboard. Data is c
 
 Parameter | Description
 --- | ---
-LOCATION_KEY | two-letter code of the location. Omit the LOCATION_KEY to get the global leaderboard.
+`LOCATION_KEY` | two-letter code of the location. Omit the `LOCATION_KEY` to get the global leaderboard.
 
  See [cr-api-data/json/regions.json](https://github.com/cr-api/cr-api-data/blob/master/json/regions.json) for the full list of acceptable keys.
 

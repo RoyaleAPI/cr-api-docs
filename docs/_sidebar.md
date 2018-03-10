@@ -9,6 +9,7 @@
     - [Donate](/donate)
 - Endpoints
     - [Version](/endpoints/version)
+    - [Constants](/endpoints/constants)
     - [Player](/endpoints/player)
     - [Player Battles](/endpoints/player_battles)
     - [Player Chests](/endpoints/player_chests)

@@ -1,19 +1,17 @@
 # Player(s)
 
-This endpoint retrieves one or more player profiles, with basic stats, card collection and battle logs. Some fields that were previously available has been removed, e.g. seasons, shop offers and experience.
-
-!> Note: in our earlier iteration, the endpoint is called `profile`, it is now `player`
+This endpoint retrieves one or more player profiles, with basic stats and card collection.
 
 ## HTTP Request
 
-```
-GET https://api.royaleapi.com/player/<TAG>
-GET https://api.royaleapi.com/player/<TAG>,<TAG>,<TAG>
-```
+`GET https://api.royaleapi.com/player/<TAG>`
+`GET https://api.royaleapi.com/player/<TAG>,<TAG>,<TAG>`
+
+### URL Parameters
 
 Parameter | Description
 --- | ---
-TAG | The player tag of the user to retrieve
+`TAG` | The player tag of the user to retrieve
 
 ## Response
 
