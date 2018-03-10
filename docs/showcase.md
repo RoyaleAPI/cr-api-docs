@@ -222,6 +222,36 @@ Simple way to keep tracking of the next chests.
 - Author: Nelson Almendra
     - Twitter: https://twitter.com/NelsonAlmendra
 
+### CR Tracker for Chests
+A simple app to help you know about your upcoming and special chests
+
+- Google Play: https://play.google.com/store/apps/details?id=com.abhiinteractive.crtrackerforchests
+- Author: Abhi Interactive
+    - Github: https://github.com/Abhijeet589
+
+### Clanstats
+
+Features of this website for the clan "Chapsters", Includes:
+
+Graphs of users combined stats,
+Clickable user names to see stats of specific user,
+Utilities for members of the clan,
+Leader board on the front page.
+
+[All Stats are updated every 5 minutes and are stored in a database so if the API isn't working the latest data will be shown.]
+
+Graphs example:
+http://samisage.com/u/15.50.20-06.03.18.leader
+http://samisage.com/u/15.50.34-06.03.18.timeline
+
+If you're not in the Chapsters clan, consider checking it out or check back in a while to see if we've changed the way the website works.
+
+- Website: http://samisage.com/app/clanstats/
+- Authors:
+    - Samisage
+        - Website: http://samisage.com/
+    - bobbob (aka. Ujimaflip)
+    - ma
 
 ## Our apps
 
