@@ -47,7 +47,7 @@ You can see implementations of this API in [Showcase](/showcase) by third-party 
 
 ## Support + Feature Requests
 
-If you have a suggestion or an issue to report, please use the [issue tracker](https://github.com/cr-api/cr-api/issues). We recommend that you search the issue tracker to check if someone else has already reported the issue and whether there is a known solution that you can use. This probably is the fastest way for you to find a solution to any issue that you are facing.
+If you have a suggestion or an issue to report, please use the [issue tracker](https://github.com/RoyaleAPI/cr-api/issues). We recommend that you search the issue tracker to check if someone else has already reported the issue and whether there is a known solution that you can use. This probably is the fastest way for you to find a solution to any issue that you are facing.
 
 If you are adding a bug report, please add steps to reproduce the bug, exact request (method and URL) and response (including response code). Any additional information (console errors, screenshots) would be helpful.
 
@@ -71,11 +71,11 @@ Twitter | [@selfishio](https://twitter.com/selfishio) | [@smlbiobot](https://twi
 
 Name | URL | Description
 --- | --- | ---
-Main | https://github.com/cr-api/cr-api | Feature requests, bug reports, etc.
-Assets | https://github.com/cr-api/cr-api-assets | Image assets for cards, arenas, etc.
-Data | https://github.com/cr-api/cr-api-data | Constants as JSON.
-Docs | https://github.com/cr-api/cr-api-docs | Documentation.
-UX | https://github.com/cr-api/cr-api-docs | User experience, website feature request, family configs.
+Main | https://github.com/RoyaleAPI/cr-api | Feature requests, bug reports, etc.
+Assets | https://github.com/RoyaleAPI/cr-api-assets | Image assets for cards, arenas, etc.
+Data | https://github.com/RoyaleAPI/cr-api-data | Constants as JSON.
+Docs | https://github.com/RoyaleAPI/cr-api-docs | Documentation.
+UX | https://github.com/RoyaleAPI/cr-api-docs | User experience, website feature request, family configs.
 
 ## Social
 

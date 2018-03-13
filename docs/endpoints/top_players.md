@@ -12,7 +12,7 @@ Parameter | Description
 --- | ---
 `LOCATION_KEY` | two-letter code of the location. Omit the `LOCATION_KEY` to get the global leaderboard.
 
- See [cr-api-data/json/regions.json](https://github.com/cr-api/cr-api-data/blob/master/json/regions.json) for the full list of acceptable keys.
+ See [cr-api-data/json/regions.json](https://github.com/RoyaleAPI/cr-api-data/blob/master/json/regions.json) for the full list of acceptable keys.
 
  !> Unlike clans, players do not belong to regions (denoted by `_` underscore prefix). Players only belong to a country. Clans can be set to a region because it is a clan setting.
 

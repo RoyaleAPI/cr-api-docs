@@ -1,6 +1,6 @@
 # Showcase
 
-Here are some applications which use our API. Want to get your app listed here? Open an issue on our [docs issue tracker](https://github.com/cr-api/cr-api-docs/issues) or let us know about it on [our Discord server](https://discord.me/RoyaleAPI)
+Here are some applications which use our API. Want to get your app listed here? Open an issue on our [docs issue tracker](https://github.com/RoyaleAPI/cr-api-docs/issues) or let us know about it on [our Discord server](https://discord.me/RoyaleAPI)
 
 !> Unless otherwise noted, this is not an official endorsement.
 
