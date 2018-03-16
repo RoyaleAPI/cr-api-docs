@@ -26,7 +26,7 @@ Java wrapper
 
 ### croyale
 
-Croyale is a powerful node.js module that allows you to interact with the cr-api very easily.
+Croyale is a powerful node.js module that allows you to interact with the RoyaleAPI very easily.
 
 - Repo: https://github.com/TheLearneer/croyale
 - Author: Froosty

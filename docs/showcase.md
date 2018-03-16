@@ -149,7 +149,7 @@ Clash Royale Stats Discord Bot - Written in python using discord.py and royaleap
 
 ### Team CMC website
 
-Website for Team CMC, a Singapore-based clan family. Utilizes cr-api for clan management, tracking members' movement and clan recruitment.
+Website for Team CMC, a Singapore-based clan family. Utilizes RoyaleAPI for clan management, tracking members' movement and clan recruitment.
 
 - Website: http://www.teamcmc.pro
 - Author: ZeNeLLiE
@@ -158,7 +158,7 @@ Website for Team CMC, a Singapore-based clan family. Utilizes cr-api for clan ma
 
 ### The Brews clan website
 
-This website is a homepage for "the brews" clan. This is a very basic example of cr-api usage in a basic clan website that is mobile friendly.
+This website is a homepage for "the brews" clan. This is a very basic example of RoyaleAPI usage in a basic clan website that is mobile friendly.
 
 - Website: http://thebrews.tommaus.com/
 - Author: Qubit
