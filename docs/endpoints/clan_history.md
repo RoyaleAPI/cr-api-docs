@@ -4,9 +4,8 @@ This endpoint returns a time series of member stats. Clan stats are updated ever
 
 ## How to be included
 
-To enable stats for your clan, add our URL `royaleapi.com` or `royaleapi.com` in your clan description and make a request to this endpoint and we will start tracking it once we have detected it. You can verify that it has started if you visit [this endpoint](/endpoints/clan_tracking.md)
+To enable stats for your clan, add our URL `royaleapi.com` or `cr-api.com` in your clan description and make a request to this endpoint and we will start tracking it once we have detected it. You can verify that it has started if you visit [this endpoint](/endpoints/clan_tracking.md)
 
-!> The `royaleapi.com` domain currently only works for our web implementation. For API requests, you should continue to use the `royaleapi.com` domain.
 
 ## HTTP Request
 
