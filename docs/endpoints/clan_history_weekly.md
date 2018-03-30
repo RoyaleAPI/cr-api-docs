@@ -1,4 +1,4 @@
-# Clan History
+# Clan Weekly History
 
 This endpoint returns a time series of member stats. This is similar to [Clan History](/endpoints/clan_history.md) but has weekly statistics. Currently it is enabled for a selected set of clans which meet our internal criteria.
 

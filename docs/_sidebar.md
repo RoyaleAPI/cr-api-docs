@@ -17,6 +17,7 @@
     - [Clan](/endpoints/clan)
     - [Clan Battles](/endpoints/clan_battles)
     - [Clan History](/endpoints/clan_history)
+    - [Clan Weekly History](/endpoints/clan_history_weekly)
     - [Clan Tracking](/endpoints/clan_tracking)
     - [Open Tournaments](/endpoints/tournaments_open)
     - [Known Tournaments](/endpoints/tournaments_known)
