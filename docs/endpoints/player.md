@@ -26,6 +26,7 @@ You can see an implementation of this at https://royaleapi.com/profile/8L9L9GL
 
 ### Multiple Players
 
+!> Using this endpoint would make the server do the requests for you. Therefore, if you include more than 7 tags in a request, it might take an indefinite amount of time for the API to respond to you.
 
 https://api.royaleapi.com/player/8L9L9GL,L88P2282,9CQ2U8QJ
 
