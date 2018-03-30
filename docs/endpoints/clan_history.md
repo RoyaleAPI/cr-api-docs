@@ -21,6 +21,13 @@ Parameter | Description
 --- | ---
 `TAG` | The clan tag of the clan to retrieve
 
+
+### Query String Parameters
+
+Name | Data Type | Required / Optional | Description
+--- | --- | --- | ---
+`days` | number | Optional, default to 7 | This takes today's data + specified days
+
 ## Response
 
 https://api.royaleapi.com/clan/2U2GGQJ/history
