@@ -42,7 +42,7 @@ The above command returns JSON structured like this:
     "giant": 94
 }
 ```
-You can see an implementation of this at https://royaleapi.com/player/L88P2282/chests
+You can see an implementation of this at https://royaleapi.com/player/L88P2282
 
 ### Multiple Players
 https://api.royaleapi.com/player/8L9L9GL,L88P2282,9CQ2U8QJ/chests
