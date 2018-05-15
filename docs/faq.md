@@ -25,7 +25,7 @@ Please [open an issue](https://github.com/RoyaleAPI/cr-api/issues).
 
 ## How do I request a feature?
 
-Please [open an issue](https://github.com/RoyaleAPI/cr-api/issues).
+There is a very high chance that if you don’t see a specific feature, it is because we aren’t able to get those data, or we are limited by Supercell guidelines on what we can show you publicly. If the data is public and you feel that it is missing, please [open an issue](https://github.com/RoyaleAPI/cr-api/issues).
 
 ## My developer key is not working, can you help me?
 
@@ -51,4 +51,4 @@ Yes, you are free to write additional wrappers and we will put it on the list wh
 
 ## Will shop offers / clan war card collection / … be added to the API?
 
-Supercell considers many of the things that a player can see in-game to be private. With the exception of the battle logs, which can be accessed via the API, these other private data will probably never appear on our endpoints. 
+Supercell considers many of the things that a player can see in-game to be private. With the exception of the battle logs, which can be accessed via the API, these other private data will probably never appear on our endpoints.
