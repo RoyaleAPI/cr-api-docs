@@ -48,3 +48,7 @@ You should pick the library on your own. Wrappers that appear in our [wrapper li
 ## There is a wrapper available for my language already, can I write another one?
 
 Yes, you are free to write additional wrappers and we will put it on the list when it is available.
+
+## Will shop offers / clan war card collection / … be added to the API?
+
+Supercell considers many of the things that a player can see in-game to be private. With the exception of the battle logs, which can be accessed via the API, these other private data will probably never appear on our endpoints. 
