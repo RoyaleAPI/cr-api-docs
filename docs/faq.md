@@ -25,7 +25,7 @@ Please [open an issue](https://github.com/RoyaleAPI/cr-api/issues).
 
 ## How do I request a feature?
 
-There is a very high chance that if you don’t see a specific feature, it is because we aren’t able to get those data, or we are limited by Supercell guidelines on what we can show you publicly. If the data is public and you feel that it is missing, please [open an issue](https://github.com/RoyaleAPI/cr-api/issues).
+If you don’t see a specific feature, it is most likely because we aren’t able to get those data, or we are limited by Supercell guidelines on what we can show you publicly. If the data is public and you feel that it is missing, please [open an issue](https://github.com/RoyaleAPI/cr-api/issues).
 
 ## My developer key is not working, can you help me?
 
