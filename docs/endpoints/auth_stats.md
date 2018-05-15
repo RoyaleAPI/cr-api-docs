@@ -1,6 +1,8 @@
 # Auth Stats
 This endpoint returns information about the currently authenticated token.
 
+!> This endpoint is temporarily disabled.
+
 ## HTTP Request
 `GET https://api.royaleapi.com/auth/stats`
 

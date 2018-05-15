@@ -23,6 +23,12 @@ Name | Data Type | Required / Optional | Description
 https://api.royaleapi.com/clan/2CCCP/battles
 
 <a href="/json/clan_battles_2CCCP.json">Full JSON Response</a>
+```json
+[
+    {},
+    {},
+    {}
+]
 
 ## Implementation
 
