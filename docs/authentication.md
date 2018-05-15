@@ -41,18 +41,18 @@ Here are some code snippets on how to add custom headers in different languages.
 
 | Endpoint | URL | token |
 | --- | --- | --- |
-| clan | https://api.royaleapi.com/clan/2CCCP | `a123b4567` |
+| clan | https://api.royaleapi.com/clan/2CCCP | `a1234.567.890` |
 
 ### cURL
 
 ```bash
-curl --header "auth: a123b4567" https://api.royaleapi.com/clan/2CCCP
+curl --header "auth: a1234.567.890" https://api.royaleapi.com/clan/2CCCP
 ```
 
 ```bash
 curl -X GET \
   https://api.royaleapi.com/clan/2CCCP \
-  -H 'Authorization: Bearer a123b4567' \
+  -H 'Authorization: Bearer a1234.567.890' \
 ```
 
 ### C# #
@@ -80,7 +80,7 @@ public string Get(string url)
 ```csharp
 var client = new RestClient("https://api.royaleapi.com/clan/2CCCP");
 var request = new RestRequest(Method.GET);
-request.AddHeader("auth", "a123b4567");
+request.AddHeader("auth", "a1234.567.890");
 IRestResponse response = client.Execute(request);
 ```
 
@@ -92,7 +92,7 @@ OkHttpClient client = new OkHttpClient();
 Request request = new Request.Builder()
   .url("https://api.royaleapi.com/clan/2CCCP")
   .get()
-  .addHeader("auth", "a123b4567")
+  .addHeader("auth", "a1234.567.890")
   .build();
 
 Response response = client.newCall(request).execute();
@@ -102,7 +102,7 @@ Response response = client.newCall(request).execute();
 
 ```java
 HttpResponse<String> response = Unirest.get("https://api.royaleapi.com/clan/2CCCP")
-  .header("auth", "a123b4567")
+  .header("auth", "a1234.567.890")
   .asString();
 ```
 
@@ -117,7 +117,7 @@ var settings = {
   "url": "https://api.royaleapi.com/clan/2CCCP",
   "method": "GET",
   "headers": {
-    "auth": "a123b4567"
+    "auth": "a1234.567.890"
   }
 }
 
@@ -130,7 +130,7 @@ $.ajax(settings).done(function (response) {
 
 ```javascript
 const request = require("request");
-request('https://api.royaleapi.com/clan/2CCCP', {headers: {auth: 'a123b4567'}})
+request('https://api.royaleapi.com/clan/2CCCP', {headers: {auth: 'a1234.567.890'}})
 ```
 
 Detailed example:
@@ -140,7 +140,7 @@ var request = require("request");
 
 var options = { method: 'GET',
   url: 'https://api.royaleapi.com/clan/2CCCP',
-  headers: { auth: 'a123b4567' }
+  headers: { auth: 'a1234.567.890' }
 };
 
 request(options, function (error, response, body) {
@@ -153,7 +153,7 @@ request(options, function (error, response, body) {
 ### PHP
 
 ```php
-$token = "a1234567890z";
+$token = "a1234.567.890";
 $opts = [
     "http" => [
         "header" => "auth:" . $token
@@ -175,7 +175,7 @@ $request->setUrl('https://api.royaleapi.com/clan/2CCCP');
 $request->setMethod(HTTP_METH_GET);
 
 $request->setHeaders(array(
-  'auth' => 'a123b4567'
+  'auth' => 'a1234.567.890'
 ));
 
 try {
@@ -198,7 +198,7 @@ $request = new http\Client\Request;
 $request->setRequestUrl('https://api.royaleapi.com/clan/2CCCP');
 $request->setRequestMethod('GET');
 $request->setHeaders(array(
-  'auth' => 'a123b4567'
+  'auth' => 'a1234.567.890'
 ));
 
 $client->enqueue($request)->send();
@@ -215,7 +215,7 @@ import http.client
 conn = http.client.HTTPConnection("api.royaleapi.com")
 
 headers = {
-    'auth': "a123b4567",
+    'auth': "a1234.567.890",
     }
 
 conn.request("GET", "/clan/2CCCP", headers=headers)
@@ -232,7 +232,7 @@ Asynchronous python using the [aiohttp](https://aiohttp.readthedocs.io/) library
 
 ```python
 import aiohttp
-headers = {"auth": "a123b4567"}
+headers = {"auth": "a1234.567.890"}
 url = "https://api.royaleapi.com/clan/2CCCP"
 async with aiohttp.ClientSession() as session:
     async with session.get(url, headers=headers) as resp:
@@ -249,7 +249,7 @@ import requests
 url = "https://api.royaleapi.com/clan/2CCCP"
 
 headers = {
-    'auth': "a123b4567"
+    'auth': "a1234.567.890"
     }
 
 response = requests.request("GET", url, headers=headers)
@@ -269,7 +269,7 @@ url = URI("https://api.royaleapi.com/clan/2CCCP")
 http = Net::HTTP.new(url.host, url.port)
 
 request = Net::HTTP::Get.new(url)
-request["auth"] = 'a123b4567'
+request["auth"] = 'a1234.567.890'
 
 response = http.request(request)
 puts response.read_body
@@ -281,7 +281,7 @@ puts response.read_body
 import Foundation
 
 let headers = [
-  "auth": "a123b4567",
+  "auth": "a1234.567.890",
   "Cache-Control": "no-cache",
 ]
 

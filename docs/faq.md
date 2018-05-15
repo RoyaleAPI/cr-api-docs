@@ -29,10 +29,10 @@ Please [open an issue](https://github.com/RoyaleAPI/cr-api/issues).
 
 ## My developer key is not working, can you help me?
 
-It is highly unusual that your key will not work. Before asking us for help, first try to do a request with cURL and verify that you are in fact getting the same error message. For example, if your token is `a123b4567`, run the following command and see if you can get a response. If the cURL works and your code does not, it means that there is something wrong with your code and not with our API nor your developer key.
+It is highly unusual that your key will not work. Before asking us for help, first try to do a request with cURL and verify that you are in fact getting the same error message. For example, if your token is `a1234.567.890`, run the following command and see if you can get a response. If the cURL works and your code does not, it means that there is something wrong with your code and not with our API nor your developer key.
 
 ```bash
-curl --header "auth: a123b4567" https://api.royaleapi.com/clan/2CCCP
+curl --header "auth: a1234.567.890" https://api.royaleapi.com/clan/2CCCP
 ```
 
 ## Should I mention or DM Selfish / SML on Discord if I have a problem?
