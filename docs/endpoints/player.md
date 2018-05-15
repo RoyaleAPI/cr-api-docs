@@ -2,9 +2,13 @@
 
 This endpoint retrieves one or more player profiles, with basic stats and card collection.
 
+!> Previously, the `/player` endpoint also returns battles and chest cycle. This is no longer the case. Please use the [Player Battles](endpoints/player_battles) and [Player Chests](endpoints/player_chests) endpoints to access them. This counts as 3 separate requests.
+
+
 ## HTTP Request
 
 `GET https://api.royaleapi.com/player/<TAG>`
+
 `GET https://api.royaleapi.com/player/<TAG>,<TAG>,<TAG>`
 
 ### URL Parameters
