@@ -12,6 +12,12 @@ Parameter | Description
 --- | ---
 `TAG` | The clan tag of the clan to retrieve
 
+### Query String Parameters
+
+Name | Data Type | Required / Optional | Description
+--- | --- | --- | ---
+`type` | string | optional (default to `clanMate`) | Type of clan battles to filter (`all` or `clanMate`)
+
 ## Response
 
 https://api.royaleapi.com/clan/2CCCP/battles
