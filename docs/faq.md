@@ -6,13 +6,14 @@ All the tags used in Supercell games (Clash Royale, Clash of Clans, etc) are mad
 
 ## Is there a rate limit for the API requests?
 
-Yes and no. The way rate limits work is that there is a timebox and a count. You can do whatever you want within that range, so if we allow 10 requests per hour (just a random number of course), we are saying that we don’t mind if you perform 10 requests in parallel once an hour, or once every 6 minutes. That’s on you to decide and limit. In our case, we don’t limit by user, but we try to balance the whole community. The end result is that nobody is hurt as long as we don’t have to pay for extra servers.
+Yes. There is a fixed ratelimit per second that you can check by looking at the `Response Headers` returned by the API and the value of `x-ratelimit-limit` header.
 
-If one community member is abusive, they are blocked. But there is no hard number. Everyone is welcome to play ball, and the rate currently stands on **1 req/sec/user** (ballpark figure).
-
-To reiterate, as long as your requests are **properly spaced and spread out**, we are good. We want to avoid hard limitations, because if we enabled those (and they have already been implemented — it’s a switch that we simply need to turn on), everyone’s max rate will decrease significantly.
-
-Since we are covering all the costs to operate this API and provide it freely to the community, we would not increase our current spending to allow overuse.
+## What headers are returned by the API?
+Name | Type | Description
+--- | --- | ---
+`x-ratelimit-limit` | number | Total amount of requests you can make to the API per second
+`x-ratelimit-remaining` | number | Number of requests remaining for that time window
+`x-ratelimit-reset` | number | Time in unix milliseconds when your ratelimit time window will reset
 
 ## How can my clan family be listed on the website?
 
