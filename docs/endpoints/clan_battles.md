@@ -16,7 +16,7 @@ Parameter | Description
 
 Name | Data Type | Required / Optional | Description
 --- | --- | --- | ---
-`type` | string | optional (default to `clanMate`) | Type of clan battles to filter (`all`, `waror `clanMate`)
+`type` | string | optional (default to `clanMate`) | Type of clan battles to filter (`all`, `war` or `clanMate`)
 
 ## Response
 
