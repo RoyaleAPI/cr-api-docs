@@ -29,6 +29,7 @@ https://api.royaleapi.com/clan/9PJ82CRC/battles
     {},
     {}
 ]
+```
 
 ## Implementation
 
