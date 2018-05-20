@@ -16,15 +16,15 @@ Parameter | Description
 
 ### Single Clan
 
-https://api.royaleapi.com/clan/2CCCP
+https://api.royaleapi.com/clan/9PJ82CRC
 
-<a href="/json/clan_2CCCP.json">Full JSON response</a>
+<a href="/json/clan_9PJ82CRC.json">Full JSON response</a>
 
 The above command returns JSON structured like this:
 
 ```json
 {
-    "tag": "2CCCP",
+    "tag": "9PJ82CRC",
     "name": "Reddit Alpha",
     "description": "Minimum 5200🏆to join. When full, #50/50 sent to Reddit Bravo #2U2GGQJ 🚀https://discord.gg/RACF 🚀https://twitch.tv/woody",
     "type": "invite only",
@@ -91,13 +91,13 @@ The above command returns JSON structured like this:
 }
 ```
 
-You can see an example of this at https://royaleapi.com/clan/2CCCP
+You can see an example of this at https://royaleapi.com/clan/9PJ82CRC
 
 ### Multiple Clans
 
-https://api.royaleapi.com/clan/2CCCP,2U2GGQJ
+https://api.royaleapi.com/clan/9PJ82CRC,2U2GGQJ
 
-<a href="/json/clan_2CCCP,2U2GGQJ.json">Full JSON response</a> with the two clans above.
+<a href="/json/clan_9PJ82CRC,2U2GGQJ.json">Full JSON response</a> with the two clans above.
 
 The above command returns JSON structured as follows, where `{}` denotes a full JSON response from a [single clan request](/clans/single_clan)
 

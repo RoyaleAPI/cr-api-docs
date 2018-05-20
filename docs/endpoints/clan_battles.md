@@ -20,9 +20,9 @@ Name | Data Type | Required / Optional | Description
 
 ## Response
 
-https://api.royaleapi.com/clan/2CCCP/battles
+https://api.royaleapi.com/clan/9PJ82CRC/battles
 
-<a href="/json/clan_battles_2CCCP.json">Full JSON Response</a>
+<a href="/json/clan_battles_9PJ82CRC.json">Full JSON Response</a>
 ```json
 [
     {},
@@ -32,4 +32,4 @@ https://api.royaleapi.com/clan/2CCCP/battles
 
 ## Implementation
 
-https://royaleapi.com/clan/2CCCP/battles
+https://royaleapi.com/clan/9PJ82CRC/battles
