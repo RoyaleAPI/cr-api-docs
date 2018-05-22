@@ -30,6 +30,8 @@ You can see implementations of this API in [Showcase](/showcase) by third-party 
     - [Clan Search](/endpoints/clan_search)
     - [Clan](/endpoints/clan)
     - [Clan Battles](/endpoints/clan_battles)
+    - [Clan War](/endpoints/clan_war)
+    - [Clan War Log](/endpoints/clan_warlog)
     - [Clan History](/endpoints/clan_history)
     - [Clan Weekly History](/endpoints/clan_history_weekly)
     - [Clan Tracking](/endpoints/clan_tracking)

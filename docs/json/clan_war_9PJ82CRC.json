@@ -1,0 +1,356 @@
+{
+    "state": "collectionDay",
+    "clan": {
+        "tag": "9PJ82CRC",
+        "name": "100T Alpha",
+        "participants": 48,
+        "battlesPlayed": 144,
+        "wins": 90,
+        "crowns": 0,
+        "warTrophies": 1347,
+        "badge": {
+            "name": "A_Char_Rocket_02",
+            "category": "03_Royale",
+            "id": 16000167,
+            "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Rocket_02.png"
+        }
+    },
+    "participants": [
+        {
+            "tag": "8L9L9GL",
+            "name": "Jo\u035bh\u0365n\u033d",
+            "cardsEarned": 1020,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "9CQ2U8QJ",
+            "name": "phuie024",
+            "cardsEarned": 1020,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "LG9G28U9",
+            "name": "meridian",
+            "cardsEarned": 1020,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "8P2YR9",
+            "name": "whit3\u2122",
+            "cardsEarned": 1020,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "29RGGUGV",
+            "name": "alpe123",
+            "cardsEarned": 1020,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "RVJLGLV",
+            "name": "Alonso23",
+            "cardsEarned": 1020,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "L88P2282",
+            "name": "Min",
+            "cardsEarned": 1020,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "P09C8929",
+            "name": "mizz",
+            "cardsEarned": 1020,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "2982RJG",
+            "name": "Bazenmaker",
+            "cardsEarned": 1020,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "2Y29GRU9",
+            "name": "Bdubs",
+            "cardsEarned": 980,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "UL28JC8",
+            "name": "GILGAMESH",
+            "cardsEarned": 960,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "Y29UL9LV",
+            "name": "ilke\u00e4 koiraaja",
+            "cardsEarned": 960,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "PYP2C",
+            "name": "Metetin",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "QYQ8V0V",
+            "name": "DarkestHour\u2122",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "R02RCLJL",
+            "name": "Change Name\u2122",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "R90LR28J",
+            "name": "Gus",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "2Q0RV9V",
+            "name": "Clark Kent",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "8P8JQPJ0",
+            "name": "Lewganito",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "20PV900V",
+            "name": "yo mama",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "8QYCV9JY",
+            "name": "chuzyu",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "8RYR9L2J",
+            "name": "Rayghar",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "29QGJVCQ8",
+            "name": "-The Duke",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "2VYUCUPG0",
+            "name": "Kinski",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "PL22YQUY",
+            "name": "John\u2122",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "80LJ2GLL",
+            "name": "Nova l Mystic",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "L89QCL0Y",
+            "name": "mattyramrods",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "PU8JQPCL",
+            "name": "BennAndTheJets",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "YV9PC9PU",
+            "name": "ApocD21",
+            "cardsEarned": 850,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "JQRYVPUR",
+            "name": "FayJai",
+            "cardsEarned": 800,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "Q9LGLCYC",
+            "name": "DividedByZer0",
+            "cardsEarned": 800,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "8QP0U8CV",
+            "name": "Mirko",
+            "cardsEarned": 800,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "2222UUJC",
+            "name": "tatsu",
+            "cardsEarned": 800,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "JPJPUQ8G",
+            "name": "Grimear",
+            "cardsEarned": 800,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "8L9J29",
+            "name": "Woody",
+            "cardsEarned": 680,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "98JUYJPR",
+            "name": "Popcorn",
+            "cardsEarned": 680,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "8YRVRPJ8",
+            "name": "Arjun",
+            "cardsEarned": 680,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "2VYVG0LQ",
+            "name": "schmanik",
+            "cardsEarned": 680,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "2URVYU2Q",
+            "name": "UltimateHunter",
+            "cardsEarned": 680,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "G0C2VJLR",
+            "name": "Donkey punch",
+            "cardsEarned": 680,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "9LL0VQ8L",
+            "name": "John",
+            "cardsEarned": 680,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "Y09Y9YUQ",
+            "name": "Slephnir",
+            "cardsEarned": 680,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "QVYVU0JP",
+            "name": "Nasty Nate",
+            "cardsEarned": 680,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "2JPPLY8",
+            "name": "RacetheAce",
+            "cardsEarned": 640,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "9UPCL2C",
+            "name": "darthjarjar",
+            "cardsEarned": 640,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "VLLPRGC",
+            "name": "Sam PS",
+            "cardsEarned": 640,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "G0JVYY0",
+            "name": "matiz",
+            "cardsEarned": 510,
+            "battlesPlayed": 3,
+            "wins": 0
+        },
+        {
+            "tag": "QVCQGUQ9",
+            "name": "BrianJarett",
+            "cardsEarned": 510,
+            "battlesPlayed": 3,
+            "wins": 0
+        },
+        {
+            "tag": "88LG82JY",
+            "name": "TimothyN",
+            "cardsEarned": 480,
+            "battlesPlayed": 3,
+            "wins": 0
+        }
+    ]
+}

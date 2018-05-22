@@ -1,18 +1,18 @@
 {
     "upcoming": [
-        "gold",
         "silver",
         "silver",
         "silver",
+        "giant",
         "silver",
-        "gold",
+        "silver",
         "silver",
         "silver",
         "gold"
     ],
-    "superMagical": 331,
-    "magical": 45,
-    "legendary": 353,
-    "epic": 261,
-    "giant": 24
+    "superMagical": 310,
+    "magical": 24,
+    "legendary": 332,
+    "epic": 240,
+    "giant": 3
 }
