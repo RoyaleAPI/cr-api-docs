@@ -1,0 +1,216 @@
+{
+    "state": "warDay",
+    "clan": {
+        "tag": "9LPVG9UC",
+        "name": "100T Zen",
+        "participants": 17,
+        "battlesPlayed": 10,
+        "wins": 3,
+        "crowns": 8,
+        "warTrophies": 810,
+        "badge": {
+            "name": "A_Char_Rocket_02",
+            "category": "03_Royale",
+            "id": 16000167,
+            "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Rocket_02.png"
+        }
+    },
+    "participants": [
+        {
+            "tag": "J2CYGP8V",
+            "name": "Mystic",
+            "cardsEarned": 750,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "VYUV9CJ8",
+            "name": "SML Jr II",
+            "cardsEarned": 560,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "2PJ0YCVR0",
+            "name": "SML Jr",
+            "cardsEarned": 560,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "UGYG2PR",
+            "name": "Dirk Diggler",
+            "cardsEarned": 960,
+            "battlesPlayed": 1,
+            "wins": 0
+        },
+        {
+            "tag": "RP9R88GQ",
+            "name": "dawa",
+            "cardsEarned": 800,
+            "battlesPlayed": 1,
+            "wins": 0
+        },
+        {
+            "tag": "208R0V8VU",
+            "name": "smlbiobot",
+            "cardsEarned": 600,
+            "battlesPlayed": 1,
+            "wins": 0
+        },
+        {
+            "tag": "2UV8PLQP8",
+            "name": "HELLSING",
+            "cardsEarned": 600,
+            "battlesPlayed": 1,
+            "wins": 0
+        },
+        {
+            "tag": "2CLQ0VCPP",
+            "name": "Maki",
+            "cardsEarned": 480,
+            "battlesPlayed": 1,
+            "wins": 0
+        },
+        {
+            "tag": "PUJR0GU0",
+            "name": "Bill4FirstLady",
+            "cardsEarned": 480,
+            "battlesPlayed": 1,
+            "wins": 0
+        },
+        {
+            "tag": "9UUJC0VVQ",
+            "name": "Orange Whisper",
+            "cardsEarned": 330,
+            "battlesPlayed": 1,
+            "wins": 0
+        },
+        {
+            "tag": "8LPYL2VU",
+            "name": "Terd Ferguson",
+            "cardsEarned": 960,
+            "battlesPlayed": 0,
+            "wins": 0
+        },
+        {
+            "tag": "YV08P0LY",
+            "name": "Dave",
+            "cardsEarned": 800,
+            "battlesPlayed": 0,
+            "wins": 0
+        },
+        {
+            "tag": "8P088PYG9",
+            "name": "BlurTheBeaver",
+            "cardsEarned": 700,
+            "battlesPlayed": 0,
+            "wins": 0
+        },
+        {
+            "tag": "UJQ9CGLG",
+            "name": "bloody^Rock",
+            "cardsEarned": 650,
+            "battlesPlayed": 0,
+            "wins": 0
+        },
+        {
+            "tag": "GQ2R9UC0",
+            "name": "freek24",
+            "cardsEarned": 640,
+            "battlesPlayed": 0,
+            "wins": 0
+        },
+        {
+            "tag": "QQJP28JQ",
+            "name": "TheSmallGuy :P",
+            "cardsEarned": 560,
+            "battlesPlayed": 0,
+            "wins": 0
+        },
+        {
+            "tag": "2YR8QQP2R",
+            "name": "Justin Beaver",
+            "cardsEarned": 450,
+            "battlesPlayed": 0,
+            "wins": 0
+        }
+    ],
+    "standings": [
+        {
+            "tag": "Y2QJQ0G",
+            "name": "Bolivia",
+            "participants": 15,
+            "battlesPlayed": 8,
+            "wins": 6,
+            "crowns": 11,
+            "warTrophies": 808,
+            "badge": {
+                "name": "Sword_01",
+                "category": "01_Symbol",
+                "id": 16000004,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_01.png"
+            }
+        },
+        {
+            "tag": "29G9V2RR",
+            "name": "BaiaBaia :v",
+            "participants": 15,
+            "battlesPlayed": 5,
+            "wins": 4,
+            "crowns": 5,
+            "warTrophies": 653,
+            "badge": {
+                "name": "Bolt_01",
+                "category": "01_Symbol",
+                "id": 16000008,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Bolt_01.png"
+            }
+        },
+        {
+            "tag": "LYYR2C",
+            "name": "CAC 4 Life",
+            "participants": 13,
+            "battlesPlayed": 12,
+            "wins": 3,
+            "crowns": 12,
+            "warTrophies": 617,
+            "badge": {
+                "name": "A_Char_King_03",
+                "category": "03_Royale",
+                "id": 16000146,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_King_03.png"
+            }
+        },
+        {
+            "tag": "9LPVG9UC",
+            "name": "100T Zen",
+            "participants": 17,
+            "battlesPlayed": 10,
+            "wins": 3,
+            "crowns": 8,
+            "warTrophies": 810,
+            "badge": {
+                "name": "A_Char_Rocket_02",
+                "category": "03_Royale",
+                "id": 16000167,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Rocket_02.png"
+            }
+        },
+        {
+            "tag": "9C0LQ2UU",
+            "name": "FATALITY WAR",
+            "participants": 12,
+            "battlesPlayed": 11,
+            "wins": 3,
+            "crowns": 8,
+            "warTrophies": 703,
+            "badge": {
+                "name": "Skull_03",
+                "category": "01_Symbol",
+                "id": 16000026,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Skull_03.png"
+            }
+        }
+    ]
+}

@@ -29,5 +29,10 @@ Different responses might be provided if the clan is on different `state`s (`war
 
 
 ### Full JSON Responses
-https://api.royaleapi.com/clan/9PJ82CRC/war <a href="/json/clan_war_9PJ82CRC.json">100T Alpha (#9PJ82CRC)</a>    
-https://api.royaleapi.com/clan/9LPVG9UC/war <a href="/json/clan_war_9LPVG9UC.json">100T Zen (#9LPVG9UC)</a>
+
+- Collection Day
+    - https://api.royaleapi.com/clan/9PJ82CRC/war
+    - <a href="/json/clan_war_9PJ82CRC.json">100T Alpha (#9PJ82CRC)</a>  
+- War Day  
+    - https://api.royaleapi.com/clan/9LPVG9UC/war
+    - <a href="/json/clan_war_9LPVG9UC.json">100T Zen (#9LPVG9UC)</a>
