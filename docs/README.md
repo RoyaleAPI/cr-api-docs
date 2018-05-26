@@ -8,7 +8,9 @@ You can see implementations of this API in [Showcase](/showcase) by third-party 
 
 [Wrappers](/wrappers) in multiple languages are also available.
 
-If you are new to development using REST APIs, we recommend that you try out [Postman](https://www.getpostman.com/), which provides many userful tools for your daily development needs.
+If you are new to development using REST APIs, we recommend that you try out [Postman](https://www.getpostman.com/), which provides many useful tools for your daily development needs.
+
+If you find this API useful, please consider [donating](/donate) so we can continue to provide this service free of charge to everyone. 
 
 !> We are currently in alpha pre-release. The JSON structure may change over time. Please follow our [Twitter @RoyaleAPI](https://twitter.com/RoyaleAPI) or join our [Discord](https://discord.me/RoyaleAPI) server for important updates.
 
