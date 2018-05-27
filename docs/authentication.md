@@ -22,12 +22,12 @@ You can obtain and manage your developer key on [our discord server](https://dis
 
 1. Ensure you have the `Allow Direct Messages from server members` option in `Privacy Settings` checked.
 2. Go to the #developer-key channel.
-3. Type `~~crapikey get`
+3. Type `?crapikey get`
 4. The bot will send you a DM (direct message) with your key.
 
 ### Forgotten keys
 
-To get a reminder of your developer key, visit the Discord channel above and type `~~crapikey get` again and the bot will remind you with a DM again.
+To get a reminder of your developer key, visit the Discord channel above and type `?crapikey get` again and the bot will remind you with a DM again.
 
 ### Removing keys
 
@@ -37,7 +37,7 @@ If you feel that your key may have been compromised, please contact open an issu
 
 >! Key Stat has been temporarily disabled.
 
-You can receive request statistics of your key on our Discord server. Go to the `#developer-key` channel and type `~~crapikey stats`. Your stats will be visible to everyone else in the channel.
+You can receive request statistics of your key on our Discord server. Go to the `#developer-key` channel and type `?crapikey stats`. Your stats will be visible to everyone else in the channel.
 
 ## Code examples
 
