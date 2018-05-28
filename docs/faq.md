@@ -32,7 +32,7 @@ If you don’t see a specific feature, it is most likely because we aren’t abl
 It is highly unusual that your key will not work. Before asking us for help, first try to do a request with cURL and verify that you are in fact getting the same error message. For example, if your token is `a1234.567.890`, run the following command and see if you can get a response. If the cURL works and your code does not, it means that there is something wrong with your code and not with our API nor your developer key.
 
 ```bash
-curl --header "auth: a1234.567.890" https://api.royaleapi.com/clan/2CCCP
+curl --header "auth: a1234.567.890" https://api.royaleapi.com/clan/9PJ82CRC
 ```
 
 ## Should I mention or DM Selfish / SML on Discord if I have a problem?
