@@ -19,6 +19,7 @@ Different responses might be provided if the clan is on different `state`s (`war
 ```json
 {
   "state": "warDay or collectionDay",
+  "warEndTime or collectionEndTime": number,
   "clan": {
     ...
     "badge": {...}

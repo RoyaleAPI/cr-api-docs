@@ -18,6 +18,7 @@ Parameter | Description
 
 ```json
 [
+    "createdDate": number,
     {"participants": ...},
     {"standings": ...},
     {"seasonNumber": number}
