@@ -7,12 +7,6 @@ This endpoint returns statistics about how often a tournament has been requested
 
 `GET https://api.royaleapi.com/popular/tournaments`
 
-### Query String Parameters
-
-Name | Data Type | Required / Optional | Description
---- | --- | --- | ---
-`max` | number | optional | A single digit to indicate the maximum amount of results the API should return
-
 ## Response
 
 This returns a list of [tournaments](/endpoints/tournaments) add add the `popularity` field to the response.

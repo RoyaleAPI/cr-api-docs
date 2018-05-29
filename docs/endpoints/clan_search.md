@@ -22,7 +22,6 @@ Name | Data Type | Required / Optional | Description
 `minMembers` | number | optional | Minimum number of members. 2-50
 `maxMembers` | number | optional | Maximum number of members. 2-50
 `locationId` | number | optional | Location ID. See [regions.json](https://github.com/RoyaleAPI/cr-api-data/blob/master/json/regions.json) for accepted values.
-`max` | number | optional | A single digit to indicate the maximum amount of results the API should return
 
 ## Response
 

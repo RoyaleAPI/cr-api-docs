@@ -15,9 +15,6 @@ Name | Method | Description
 Name | Data Type | Required / Optional | Description
 --- | --- | --- | ---
 `name` | string | required | Tournament name text search
-<!--
-`max` | number | optional | A single digit to indicate the maximum amount of results the API should return
---->
 
 ## Response
 

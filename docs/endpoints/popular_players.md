@@ -6,12 +6,6 @@ This endpoint returns statistics about how often a player’s data has been requ
 
 `GET https://api.royaleapi.com/popular/players`
 
-### Query String Parameters
-
-Name | Data Type | Required / Optional | Description
---- | --- | --- | ---
-`max` | number | optional | A single digit to indicate the maximum amount of results the API should return
-
 ## Response
 
 It gives the same response from [multiple players](/endpoints/player?id=multiple-players) except that it also adds a field called `popularity` with hits and average hits per day with the clan results.
