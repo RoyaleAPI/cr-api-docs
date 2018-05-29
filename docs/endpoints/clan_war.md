@@ -18,7 +18,7 @@ Different responses might be provided if the clan is on different `state`s (`war
 
 ```json
 {
-  "state": "warDay or collectionDay",
+  "state": "look below for possible states",
   "warEndTime or collectionEndTime": number,
   "clan": {
     ...
@@ -31,6 +31,15 @@ Different responses might be provided if the clan is on different `state`s (`war
 
 ### Full JSON Responses
 
+- Not In War
+    ```json
+    {
+        "state": "notInWar"
+    }
+    ```
+- Matchmaking
+    - https://api.royaleapi.com/clan/80LCC09P/war
+    - <a href="/json/clan_war_80LCC09P.json">Nova l Ger 4 (#80LCC09P)</a>
 - Collection Day
     - https://api.royaleapi.com/clan/9PJ82CRC/war
     - <a href="/json/clan_war_9PJ82CRC.json">100T Alpha (#9PJ82CRC)</a>  

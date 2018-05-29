@@ -5,17 +5,17 @@
             "silver",
             "silver",
             "silver",
+            "silver",
             "gold",
             "silver",
-            "silver",
-            "silver",
+            "gold",
             "silver"
         ],
-        "superMagical": 283,
-        "magical": 69,
-        "legendary": 305,
-        "epic": 213,
-        "giant": 37
+        "superMagical": 279,
+        "magical": 65,
+        "legendary": 301,
+        "epic": 209,
+        "giant": 33
     },
     {
         "upcoming": [
@@ -37,7 +37,6 @@
     },
     {
         "upcoming": [
-            "gold",
             "silver",
             "silver",
             "gold",
@@ -45,12 +44,13 @@
             "silver",
             "silver",
             "silver",
-            "magical"
+            "magical",
+            "silver"
         ],
-        "superMagical": 62,
-        "magical": 8,
-        "legendary": 300,
-        "epic": 182,
-        "giant": 48
+        "superMagical": 61,
+        "magical": 7,
+        "legendary": 299,
+        "epic": 181,
+        "giant": 47
     }
 ]
