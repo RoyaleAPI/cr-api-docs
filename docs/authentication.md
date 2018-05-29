@@ -35,7 +35,7 @@ If you feel that your key may have been compromised, please contact open an issu
 
 ### Key Statistics
 
->! Key Stat has been temporarily disabled.
+!> Key Stats has been temporarily disabled.
 
 You can receive request statistics of your key on our Discord server. Go to the `#developer-key` channel and type `?crapikey stats`. Your stats will be visible to everyone else in the channel.
 
