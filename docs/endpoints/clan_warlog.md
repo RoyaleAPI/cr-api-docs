@@ -1,4 +1,4 @@
-# Clan War
+# Clan War Log
 
 This endpoint returns data about the past clan wars. [/clan/:tag/war](/endpoints/clan_war.md) will return data about the current clan war and [/clan/:tag/battles](/endpoints/clan_battles.md?id=query-string-parameters) will return battles of the last few wars with the use of `war` set as the `type`.
 
@@ -13,8 +13,7 @@ Parameter | Description
 `TAG` | The clan tag of the clan to retrieve
 
 ## Response
-
-<a href="/json/clan_war_9PJ82CRC.json">Full JSON Response</a>
+<a href="/json/clan_warlog_9PJ82CRC.json">Full JSON Response</a>
 
 ```json
 [
