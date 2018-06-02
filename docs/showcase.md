@@ -134,9 +134,11 @@ For example, if you have a level 10 knight, with 3500 spare cards, it will tell 
 
 ### Statsy
 
-Clash Royale Stats Discord Bot - Written in python using discord.py and royaleapi.
+Statsy provides realtime statistics about your game profiles!
+![Player command](https://i.imgur.com/zUYhapA.png)
+![Friend link](https://i.imgur.com/aMO9QWN.png)
 
-- Website: http://statsy.ml/
+- Twitter: https://twitter.com/StatsyBot
 - Invite: https://bot.discord.io/statsy
 - Authors:
     - kyb3r
@@ -252,6 +254,17 @@ If you're not in the Chapsters clan, consider checking it out or check back in a
         - Website: http://samisage.com/
     - bobbob (aka. Ujimaflip)
     - ma
+
+### Stu's Army! Bot
+
+Stu's Army! Bot is a private bot made for a clan family, it features an always-updating #clan-stats channel and a robust welcome system which recommends clans to players given their player tag.
+
+![#clan-stats](https://i.imgur.com/pohqjfg.png)
+
+- Github: https://github.com/fourjr/stusarmybot
+- Author: 4JR
+    - Github: https://github.com/fourjr
+
 
 ## Our apps
 
