@@ -2,6 +2,8 @@
 
 This endpoint return battles played by people in your clan. Internally, the server fetches player profiles for everyone who are members. As it is an expensive request, you may wish to lengthen your timeout param in your request as it may take some time for you to receive your response.
 
+You may want to use [pagination](pagination) for this request.
+
 ## HTTP Request
 
 `GET https://api.royaleapi.com/clan/<TAG>/battles`

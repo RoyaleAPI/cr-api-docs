@@ -1,10 +1,10 @@
 # Clan Weekly History
 
-This endpoint returns a time series of member stats. This is similar to [Clan History](/endpoints/clan_history.md) but has weekly statistics. Currently it is enabled for a selected set of clans which meet our internal criteria.
+This endpoint returns a time series of member stats. This is similar to [Clan History](/endpoints/clan_history) but has weekly statistics. Currently it is enabled for a selected set of clans which meet our internal criteria.
 
 ## How to be included
 
-To enable stats for your clan, add our URL `royaleapi.com` or `cr-api.com` in your clan description and make a request to the [/clan/<TAG>/track](/endpoints/clan_track.md) endpoint and we will start tracking it once we have detected it. You can verify that it has started if you visit the [clan tracking](/endpoints/clan_tracking.md). You may also visit the web site. If clan tracking is enabled, you should see the default message be replaced by the chart view with empty graphs.
+To enable stats for your clan, add our URL `royaleapi.com` or `cr-api.com` in your clan description and make a request to the [/clan/<TAG>/track](/endpoints/clan_track) endpoint and we will start tracking it once we have detected it. You can verify that it has started if you visit the [clan tracking](/endpoints/clan_tracking). You may also visit the web site. If clan tracking is enabled, you should see the default message be replaced by the chart view with empty graphs.
 
 
 ## HTTP Request

@@ -2,6 +2,8 @@
 
 This endpoint return battles played by one or more player profiles.
 
+You may want to use [pagination](pagination) for this request.
+
 ## HTTP Request
 
 `GET https://api.royaleapi.com/player/<TAG>/battles`    

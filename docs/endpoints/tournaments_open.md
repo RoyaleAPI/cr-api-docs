@@ -2,6 +2,8 @@
 
 This endpoint returns a list of open tournaments.
 
+You may want to use [pagination](pagination) for this request.
+
 ## HTTP Request
 `GET https://api.royaleapi.com/tournaments/open`
 

@@ -2,6 +2,8 @@
 
 This endpoint retrieves the Global 200 top players on the leaderboard. Data is cached and currently set to update every 10 minutes.
 
+You may want to use [pagination](pagination) for this request.
+
 ## HTTP Request
 
 `https://api.royaleapi.com/top/players/<LOCATION_KEY>`

@@ -2,6 +2,8 @@
 
 This endpoint allows you to search for a clan.
 
+You may want to use [pagination](pagination) for this request.
+
 ## HTTP Request
 
 `GET https://api.royaleapi.com/clan/search?name=<NAME>&score=<SCORE>&minMembers=<MIN_MEMBERS>&maxMembers=<MAX_MEMBERS>&locationId=<LOCATION_ID>`

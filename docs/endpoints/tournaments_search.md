@@ -2,6 +2,8 @@
 
 This endpoint allows you to search for a tournament given the name.
 
+You may want to use [pagination](pagination) for this request.
+
 ## HTTP Request
 
 `GET https://api.royaleapi.com/tournaments/search?name=<NAME>`

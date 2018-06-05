@@ -1,6 +1,6 @@
 # Clan Tracking
 
-This endpoint returns very basic data on whether a clan is included in the [Clan History Tracking](/endpoints/clan_history.md)
+This endpoint returns very basic data on whether a clan is included in the [Clan History Tracking](/endpoints/clan_history)
 
 ## HTTP Request
 

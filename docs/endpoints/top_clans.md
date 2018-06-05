@@ -2,6 +2,8 @@
 
 This endpoint retrieves the Global 200 top clans on the leaderboard.
 
+You may want to use [pagination](pagination) for this request.
+
 ## HTTP Request
 
 `https://api.royaleapi.com/top/clans/<LOCATION_KEY>`

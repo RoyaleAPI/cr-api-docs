@@ -2,6 +2,7 @@
 
 This endpoint returns statistics about how often a tournament has been requested from the API.
 
+You may want to use [pagination](pagination) for this request.
 
 ## HTTP Request
 

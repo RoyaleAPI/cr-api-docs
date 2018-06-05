@@ -1,6 +1,8 @@
 # Known Tournaments
 
-This endpoint returns a list of tournaments people have used the [/tournaments](/endpoint/tournaments) endpoint to search for.
+This endpoint returns a list of tournaments people have used the [/tournaments](/endpoints/tournaments) endpoint to search for.
+
+You may want to use [pagination](pagination) for this request.
 
 ## HTTP Request
 `GET https://api.royaleapi.com/tournaments/known`

@@ -1,4 +1,4 @@
-# Get Single Clan
+# Clan(s)
 
 This endpoint retrieves a specific clan.
 
@@ -95,11 +95,11 @@ You can see an example of this at https://royaleapi.com/clan/9PJ82CRC
 
 ### Multiple Clans
 
-https://api.royaleapi.com/clan/9PJ82CRC,2U2GGQJ
+https://api.royaleapi.com/clan/9PJ82CRC,9UQJUJC9
 
-<a href="/json/clan_9PJ82CRC,2U2GGQJ.json">Full JSON response</a> with the two clans above.
+The above command returns JSON structured as follows, where `{}` denotes a full JSON response.
 
-The above command returns JSON structured as follows, where `{}` denotes a full JSON response from a [single clan request](/clans/single_clan)
+<a href="/json/clan_9PJ82CRC,9UQJUJC9.json">Full JSON response</a>
 
 ```json
 [

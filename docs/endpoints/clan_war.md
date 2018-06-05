@@ -1,6 +1,6 @@
 # Clan War
 
-This endpoint returns data about the current clan war. [/clan/:tag/warlog](/endpoints/clan_warlog.md) will return data about the previous clan wars and [/clan/:tag/battles](/endpoints/clan_battles.md?id=query-string-parameters) will return battles of the last few wars with the use of `war` set as the `type`.
+This endpoint returns data about the current clan war. [/clan/:tag/warlog](/endpoints/clan_warlog) will return data about the previous clan wars and [/clan/:tag/battles](/endpoints/clan_battles?id=query-string-parameters) will return battles of the last few wars with the use of `war` set as the `type`.
 
 ## HTTP Request
 

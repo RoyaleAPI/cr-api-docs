@@ -1,12 +1,12 @@
-# Tournaments
+# Tournament(s)
 
-The tournaments endpoint is not overly useful unless you know the tournament tags already. It is not possible to search for tournaments nor see a list of open tournaments at the moment. Please don’t storm our Github and Discord to ask for them.
+The tournaments endpoint is not overly useful unless you know the tournament tags already. You can use [/tournaments/known](/endpoints/tournaments_known) or [/tournaments/open](/endpoints/tournaments_open) to find new tournaments.
 
 You can see information about the tournament before it has started and after it has ended.
 
 ## HTTP Request
 
-`GET https://api.royaleapi.com/tournaments/<TAG>`
+`GET https://api.royaleapi.com/tournament/<TAG>,<TAG>`
 
 
 ### URL Parameters
@@ -17,9 +17,11 @@ Parameter | Description
 
 ## Response
 
-https://api.royaleapi.com/tournaments/20YU0VJ9
+### Single Tournament
 
-<a href="/json/tournaments_20YU0VJ9.json">Full JSON Response</a>
+https://api.royaleapi.com/tournament/20YU0VJ9
+
+<a href="/json/tournament_20YU0VJ9.json">Full JSON Response</a>
 
 ```json
 {
@@ -53,4 +55,21 @@ https://api.royaleapi.com/tournaments/20YU0VJ9
         },
     ]
 }
+```
+
+You can see an example of this at https://royaleapi.com/tournament/20YU0VJ9
+
+### Multiple Tournaments
+
+https://api.royaleapi.com/tournament/CJYU0JQ,CJLPYQU
+
+The above command returns JSON structured as follows, where `{}` denotes a full JSON response.
+
+<a href="/json/tournament_CJYU0JQ,CJLPYQU.json">Full JSON response</a> with the two tournaments above.
+
+```json
+[
+    {},
+    {}
+]
 ```

@@ -2,6 +2,7 @@
 
 This endpoint returns statistics about how often a clan’s data has been requested from the API.
 
+You may want to use [pagination](pagination) for this request.
 
 ## HTTP Request
 
