@@ -1,6 +1,6 @@
 # Player Chests
 
-This endpoint return battles played by one or more player profiles.
+This endpoint return upcoming chests for one or more player profiles.
 
 ## HTTP Request
 
