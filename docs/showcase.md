@@ -265,6 +265,30 @@ Stu's Army! Bot is a private bot made for a clan family, it features an always-u
 - Author: 4JR
     - Github: https://github.com/fourjr
 
+### Clan Activity Statistics
+
+A tiny fiddle that shows 10 best & worst members of a clan based on war wins & war participation in the last 10 wars, and donations in the last 2 weeks. You can use it for suggestions on who to promote or demote.
+
+- Website: https://jsfiddle.net/wbcf8jz3/17
+- Author: haulin
+    - Github: https://github.com/haulin
+
+### Clash Royale Clan War Tracker
+
+Track and analyze all of your clan wars! Identify your clan MVPs!
+
+- Website: http://royalewartracker.com/
+- Author: Brian Kates
+    - Github: https://github.com/briankates816
+    - Linkedin: https://www.linkedin.com/in/briankates/
+
+### Royale War Stats
+
+Access quick visualizations of your clan and member activity regarding the clan war as well as other battles played. Quickly identify who contributes and who should be kicked.
+
+- Website: https://royalewarstats.com/
+- Author: Munsterlander
+    - Github: https://github.com/munsterlander
 
 ## Our apps
 
