@@ -7,6 +7,22 @@ You may want to use [pagination](pagination) for this request.
 ## HTTP Request
 `GET https://api.royaleapi.com/tournaments/known`
 
+Name | Method | Description
+--- | --- | ---
+/tournaments/known | GET | List of known tournaments
+
+## Query String Parameters
+
+All query string parameters default to `0`, set the value to `1` for it to be active
+
+Name | Data Type | Required / Optional | Description
+---  | --- | --- | ---
+1k   | number | optional | Filters out only 1k tournaments
+open |  number | optional | Filters out only open tournaments
+prep | number | optional | Filters out only tournaments in preperation
+
+[/tournaments/open](/endpoints/tournaments_open), [/tournaments/1k](/endpoints/tournaments_1k) and [/tournaments/prep](/endpoints/tournaments_prep) already implement some of these filters. However, you can still mix and match!
+
 ## Response
 https://api.royaleapi.com/tournaments/known
 

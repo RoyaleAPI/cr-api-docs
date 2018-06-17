@@ -1,15 +1,15 @@
-# Open Tournaments
+# Tournaments in Preperation
 
-This endpoint returns a list of tournaments that are open.
+This endpoint returns a list of tournaments in preperation
 
 You may want to use [pagination](pagination) for this request.
 
 ## HTTP Request
-`GET https://api.royaleapi.com/tournaments/open`
+`GET https://api.royaleapi.com/tournaments/prep`
 
 Name | Method | Description
 --- | --- | ---
-/tournaments/open | GET | List of open tournaments
+/tournaments/prep | GET | List of open tournaments
 
 ## Query String Parameters
 
@@ -24,11 +24,11 @@ prep | number | optional | Filters out only tournaments in preperation
 [/tournaments/open](/endpoints/tournaments_open), [/tournaments/1k](/endpoints/tournaments_1k) and [/tournaments/prep](/endpoints/tournaments_prep) already implement some of these filters. However, you can still mix and match!
 
 ## Response
-https://api.royaleapi.com/tournaments/open
+https://api.royaleapi.com/tournaments/prep
 
 The above command returns JSON structured like this. In the actual response, there will be a maximum of 100 tournaments:
 
-<a href="/json/tournaments_open.json">Full JSON response</a>
+<a href="/json/tournaments_prep.json">Full JSON response</a>
 
 ```json
 [

@@ -1,15 +1,15 @@
-# Open Tournaments
+# 1k Tournaments
 
-This endpoint returns a list of tournaments that are open.
+This endpoint returns a list of tournaments that have 1000 max players.
 
 You may want to use [pagination](pagination) for this request.
 
 ## HTTP Request
-`GET https://api.royaleapi.com/tournaments/open`
+`GET https://api.royaleapi.com/tournaments/1k`
 
 Name | Method | Description
 --- | --- | ---
-/tournaments/open | GET | List of open tournaments
+/tournaments/1k | GET | List of 1k tournaments
 
 ## Query String Parameters
 
@@ -24,27 +24,32 @@ prep | number | optional | Filters out only tournaments in preperation
 [/tournaments/open](/endpoints/tournaments_open), [/tournaments/1k](/endpoints/tournaments_1k) and [/tournaments/prep](/endpoints/tournaments_prep) already implement some of these filters. However, you can still mix and match!
 
 ## Response
-https://api.royaleapi.com/tournaments/open
+https://api.royaleapi.com/tournaments/1k
 
 The above command returns JSON structured like this. In the actual response, there will be a maximum of 100 tournaments:
 
-<a href="/json/tournaments_open.json">Full JSON response</a>
+<a href="/json/tournaments_1k.json">Full JSON response</a>
 
 ```json
 [
     {
-        "tag": "CUUVGVP",
-        "type": "open",
-        "status": "inPreparation",
-        "name": "hola",
-        "capacity": 50,
-        "playerCount": 50,
-        "maxCapacity": 50,
-        "preparationDuration": 7200,
-        "duration": 3600,
-        "createTime": 1518090895,
+        "tag": "CQVCRRC",
+        "name": "Nova SG Monthly Cup",
+        "open": false,
+        "maxPlayers": 1000,
+        "currentPlayers": 44,
+        "status": "inProgress",
+        "createTime": 1529145581,
+        "prepTime": 7200,
         "startTime": null,
-        "endTime": null
+        "endTime": null,
+        "duration": 3600,
+        "description": "good luck to SG Branch! #NovaStrong #AyisGOD",
+        "updatedAt": 1529156328,
+        "maxCapacity": 1000,
+        "playerCount": 44,
+        "preparationDuration": 7200,
+        "type": "passwordProtected"
     }
 ]
 ```
