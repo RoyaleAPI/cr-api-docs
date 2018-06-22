@@ -1,22 +1,22 @@
-# Known Tournaments
+# Joinable Tournaments
 
-This endpoint returns a list of tournaments people have used the [/tournaments](/endpoints/tournaments) endpoint to search for.
+This endpoint returns a list of tournaments that are joinable.
 
 You may want to use [pagination](pagination) for this request.
 
 ## HTTP Request
-`GET https://api.royaleapi.com/tournaments/known`
+`GET https://api.royaleapi.com/tournaments/joinable`
 
 Name | Method | Description
 --- | --- | ---
-/tournaments/known | GET | List of known tournaments
+/tournaments/joinable | GET | List of joinable tournaments
 
 ## Query String Parameters
 
 All query string parameters default to `0`, set the value to `1` for it to be active
 
-Name     | Data Type | Required / Optional | Description
--------- | --- | --- | ---
+Name | Data Type | Required / Optional | Description
+---  | --- | --- | ---
 1k       | number | optional | Filters out only 1k tournaments
 open     | number | optional | Filters out only open tournaments
 full     | number | optional | Filters out only full tournaments
@@ -26,11 +26,11 @@ joinable | number | optional | Filters out only joinable tournaments
 [/tournaments/open](/endpoints/tournaments_open), [/tournaments/1k](/endpoints/tournaments_1k), [/tournaments/prep](/endpoints/tournaments_prep), [/tournaments/full](/endpoints/tournaments_full) and [/tournaments/joinable](/endpoints/tournaments_joinable) already implement some of these filters. However, you can still mix and match!
 
 ## Response
-https://api.royaleapi.com/tournaments/known
+https://api.royaleapi.com/tournaments/joinable
 
 The above command returns JSON structured like this. In the actual response, there will be a maximum of 100 tournaments:
 
-<a href="/json/tournaments_known.json">Full JSON response</a>
+<a href="/json/tournaments_joinable.json">Full JSON response</a>
 
 ```json
 [
@@ -40,7 +40,7 @@ The above command returns JSON structured like this. In the actual response, the
         "status": "inPreparation",
         "name": "hola",
         "capacity": 50,
-        "playerCount": 50,
+        "playerCount": 20,
         "maxCapacity": 50,
         "preparationDuration": 7200,
         "duration": 3600,

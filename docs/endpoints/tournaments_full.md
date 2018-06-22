@@ -1,15 +1,15 @@
-# Known Tournaments
+# Full Tournaments
 
-This endpoint returns a list of tournaments people have used the [/tournaments](/endpoints/tournaments) endpoint to search for.
+This endpoint returns a list of tournaments that are full.
 
 You may want to use [pagination](pagination) for this request.
 
 ## HTTP Request
-`GET https://api.royaleapi.com/tournaments/known`
+`GET https://api.royaleapi.com/tournaments/full`
 
 Name | Method | Description
 --- | --- | ---
-/tournaments/known | GET | List of known tournaments
+/tournaments/full | GET | List of full tournaments
 
 ## Query String Parameters
 
@@ -26,11 +26,11 @@ joinable | number | optional | Filters out only joinable tournaments
 [/tournaments/open](/endpoints/tournaments_open), [/tournaments/1k](/endpoints/tournaments_1k), [/tournaments/prep](/endpoints/tournaments_prep), [/tournaments/full](/endpoints/tournaments_full) and [/tournaments/joinable](/endpoints/tournaments_joinable) already implement some of these filters. However, you can still mix and match!
 
 ## Response
-https://api.royaleapi.com/tournaments/known
+https://api.royaleapi.com/tournaments/full
 
 The above command returns JSON structured like this. In the actual response, there will be a maximum of 100 tournaments:
 
-<a href="/json/tournaments_known.json">Full JSON response</a>
+<a href="/json/tournaments_full.json">Full JSON response</a>
 
 ```json
 [
@@ -40,7 +40,7 @@ The above command returns JSON structured like this. In the actual response, the
         "status": "inPreparation",
         "name": "hola",
         "capacity": 50,
-        "playerCount": 50,
+        "playerCount": 20,
         "maxCapacity": 50,
         "preparationDuration": 7200,
         "duration": 3600,

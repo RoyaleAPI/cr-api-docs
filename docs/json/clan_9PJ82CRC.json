@@ -1,12 +1,12 @@
 {
     "tag": "9PJ82CRC",
     "name": "100T Alpha",
-    "description": "Announcement coming? \ud83d\udcafLowest war performer to 100T Bravo \ud83d\udcafMinimum 4800\ud83c\udfc6to join and 18 war wins min \ud83d\udcafdiscord.gg/100T",
+    "description": "Announcement coming? \ud83d\udcafLowest war performer to 100T Bravo \ud83d\udcafMinimum 5000\ud83c\udfc6to join and 20 war wins min \ud83d\udcafdiscord.gg/100T",
     "type": "invite only",
-    "score": 49472,
+    "score": 51354,
     "memberCount": 50,
     "requiredScore": 4600,
-    "donations": 28498,
+    "donations": 18246,
     "clanChest": {
         "status": "inactive",
         "crowns": null,
@@ -20,62 +20,558 @@
         "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Rocket_02.png"
     },
     "location": {
-        "name": "Finland",
+        "name": "North Korea",
         "isCountry": true,
-        "code": "FI"
+        "code": "KP"
     },
     "members": [
         {
-            "name": "Blaze",
-            "tag": "YJLJ98U",
+            "name": "Au revoir",
+            "tag": "2RYP0VUC",
             "rank": 1,
-            "role": "elder",
+            "previousRank": 1,
+            "role": "member",
             "expLevel": 13,
-            "trophies": 5225,
+            "trophies": 5485,
             "clanChestCrowns": 0,
-            "donations": 30,
-            "donationsReceived": 40,
-            "donationsDelta": -10,
+            "donations": 330,
+            "donationsReceived": 165,
+            "donationsDelta": 165,
             "arena": {
                 "name": "Master II",
                 "arena": "League 5",
                 "arenaID": 17,
                 "trophyLimit": 5200
             },
-            "donationsPercent": 0.05
+            "donationsPercent": 0.9
         },
         {
-            "name": "ApocD21",
-            "tag": "YV9PC9PU",
+            "name": "Blaze",
+            "tag": "YJLJ98U",
             "rank": 2,
             "previousRank": 2,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 5414,
+            "clanChestCrowns": 0,
+            "donations": 110,
+            "donationsReceived": 160,
+            "donationsDelta": -50,
+            "arena": {
+                "name": "Master II",
+                "arena": "League 5",
+                "arenaID": 17,
+                "trophyLimit": 5200
+            },
+            "donationsPercent": 0.3
+        },
+        {
+            "name": "chuzyu",
+            "tag": "8QYCV9JY",
+            "rank": 3,
+            "previousRank": 4,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 5305,
+            "clanChestCrowns": 0,
+            "donations": 530,
+            "donationsReceived": 480,
+            "donationsDelta": 50,
+            "arena": {
+                "name": "Master II",
+                "arena": "League 5",
+                "arenaID": 17,
+                "trophyLimit": 5200
+            },
+            "donationsPercent": 1.45
+        },
+        {
+            "name": "$--cam--$",
+            "tag": "20L89JLY",
+            "rank": 4,
+            "previousRank": 3,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 5267,
+            "clanChestCrowns": 0,
+            "donations": 210,
+            "donationsReceived": 480,
+            "donationsDelta": -270,
+            "arena": {
+                "name": "Master II",
+                "arena": "League 5",
+                "arenaID": 17,
+                "trophyLimit": 5200
+            },
+            "donationsPercent": 0.58
+        },
+        {
+            "name": "Alonso23",
+            "tag": "RVJLGLV",
+            "rank": 5,
+            "previousRank": 5,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 5225,
+            "clanChestCrowns": 0,
+            "donations": 410,
+            "donationsReceived": 246,
+            "donationsDelta": 164,
+            "arena": {
+                "name": "Master II",
+                "arena": "League 5",
+                "arenaID": 17,
+                "trophyLimit": 5200
+            },
+            "donationsPercent": 1.12
+        },
+        {
+            "name": "mizz",
+            "tag": "P09C8929",
+            "rank": 6,
             "role": "coLeader",
             "expLevel": 13,
-            "trophies": 5144,
+            "trophies": 5207,
             "clanChestCrowns": 0,
-            "donations": 92,
-            "donationsReceived": 88,
-            "donationsDelta": 4,
+            "donations": 10,
+            "donationsReceived": 40,
+            "donationsDelta": -30,
+            "arena": {
+                "name": "Master II",
+                "arena": "League 5",
+                "arenaID": 17,
+                "trophyLimit": 5200
+            },
+            "donationsPercent": 0.03
+        },
+        {
+            "name": "Supreme",
+            "tag": "VC2YLLUL",
+            "rank": 7,
+            "role": "member",
+            "expLevel": 13,
+            "trophies": 5192,
+            "clanChestCrowns": 0,
+            "donations": 40,
+            "donationsReceived": 8,
+            "donationsDelta": 32,
             "arena": {
                 "name": "Master I",
                 "arena": "League 4",
                 "arenaID": 16,
                 "trophyLimit": 4900
             },
-            "donationsPercent": 0.16
+            "donationsPercent": 0.11
         },
         {
-            "name": "Au revoir",
-            "tag": "2RYP0VUC",
-            "rank": 3,
-            "previousRank": 4,
+            "name": "word",
+            "tag": "9YCG2Q2P",
+            "rank": 8,
+            "previousRank": 7,
             "role": "member",
             "expLevel": 13,
-            "trophies": 5079,
+            "trophies": 5180,
             "clanChestCrowns": 0,
-            "donations": 741,
-            "donationsReceived": 345,
-            "donationsDelta": 396,
+            "donations": 274,
+            "donationsReceived": 82,
+            "donationsDelta": 192,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0.75
+        },
+        {
+            "name": "Bazenmaker",
+            "tag": "2982RJG",
+            "rank": 9,
+            "previousRank": 12,
+            "role": "member",
+            "expLevel": 13,
+            "trophies": 5169,
+            "clanChestCrowns": 0,
+            "donations": 230,
+            "donationsReceived": 400,
+            "donationsDelta": -170,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0.63
+        },
+        {
+            "name": "Nova l Mystic",
+            "tag": "80LJ2GLL",
+            "rank": 10,
+            "role": "coLeader",
+            "expLevel": 13,
+            "trophies": 5161,
+            "clanChestCrowns": 0,
+            "donations": 10,
+            "donationsReceived": 40,
+            "donationsDelta": -30,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0.03
+        },
+        {
+            "name": "ApocD21",
+            "tag": "YV9PC9PU",
+            "rank": 11,
+            "role": "coLeader",
+            "expLevel": 13,
+            "trophies": 5158,
+            "clanChestCrowns": 0,
+            "donations": 0,
+            "donationsReceived": 0,
+            "donationsDelta": 0,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0
+        },
+        {
+            "name": "GILGAMESH",
+            "tag": "UL28JC8",
+            "rank": 12,
+            "previousRank": 8,
+            "role": "member",
+            "expLevel": 13,
+            "trophies": 5149,
+            "clanChestCrowns": 0,
+            "donations": 810,
+            "donationsReceived": 440,
+            "donationsDelta": 370,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 2.22
+        },
+        {
+            "name": "Frosty",
+            "tag": "8CCGP8V8",
+            "rank": 13,
+            "previousRank": 20,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 5138,
+            "clanChestCrowns": 0,
+            "donations": 370,
+            "donationsReceived": 400,
+            "donationsDelta": -30,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 1.01
+        },
+        {
+            "name": "Tazz",
+            "tag": "2L0GQGY",
+            "rank": 14,
+            "previousRank": 15,
+            "role": "member",
+            "expLevel": 12,
+            "trophies": 5123,
+            "clanChestCrowns": 0,
+            "donations": 295,
+            "donationsReceived": 450,
+            "donationsDelta": -155,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0.81
+        },
+        {
+            "name": "Min",
+            "tag": "L88P2282",
+            "rank": 15,
+            "previousRank": 23,
+            "role": "coLeader",
+            "expLevel": 13,
+            "trophies": 5114,
+            "clanChestCrowns": 0,
+            "donations": 131,
+            "donationsReceived": 350,
+            "donationsDelta": -219,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0.36
+        },
+        {
+            "name": "schmanik",
+            "tag": "2VYVG0LQ",
+            "rank": 16,
+            "previousRank": 10,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 5111,
+            "clanChestCrowns": 0,
+            "donations": 471,
+            "donationsReceived": 159,
+            "donationsDelta": 312,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 1.29
+        },
+        {
+            "name": "Arjun",
+            "tag": "8YRVRPJ8",
+            "rank": 17,
+            "previousRank": 14,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 5098,
+            "clanChestCrowns": 0,
+            "donations": 150,
+            "donationsReceived": 520,
+            "donationsDelta": -370,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0.41
+        },
+        {
+            "name": "Quentin",
+            "tag": "2L8PRPRQ",
+            "rank": 18,
+            "previousRank": 17,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 5075,
+            "clanChestCrowns": 0,
+            "donations": 200,
+            "donationsReceived": 280,
+            "donationsDelta": -80,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0.55
+        },
+        {
+            "name": "Donkey punch",
+            "tag": "G0C2VJLR",
+            "rank": 19,
+            "previousRank": 18,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 5042,
+            "clanChestCrowns": 0,
+            "donations": 164,
+            "donationsReceived": 390,
+            "donationsDelta": -226,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0.45
+        },
+        {
+            "name": "Lewganito",
+            "tag": "8P8JQPJ0",
+            "rank": 20,
+            "previousRank": 25,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 5034,
+            "clanChestCrowns": 0,
+            "donations": 400,
+            "donationsReceived": 175,
+            "donationsDelta": 225,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 1.1
+        },
+        {
+            "name": "John",
+            "tag": "9LL0VQ8L",
+            "rank": 21,
+            "previousRank": 19,
+            "role": "coLeader",
+            "expLevel": 13,
+            "trophies": 5031,
+            "clanChestCrowns": 0,
+            "donations": 570,
+            "donationsReceived": 440,
+            "donationsDelta": 130,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 1.56
+        },
+        {
+            "name": "Prob",
+            "tag": "LYVL99JV",
+            "rank": 22,
+            "previousRank": 16,
+            "role": "coLeader",
+            "expLevel": 13,
+            "trophies": 5019,
+            "clanChestCrowns": 0,
+            "donations": 40,
+            "donationsReceived": 520,
+            "donationsDelta": -480,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0.11
+        },
+        {
+            "name": "Gus",
+            "tag": "R90LR28J",
+            "rank": 23,
+            "previousRank": 26,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 5002,
+            "clanChestCrowns": 0,
+            "donations": 470,
+            "donationsReceived": 320,
+            "donationsDelta": 150,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 1.29
+        },
+        {
+            "name": "alpe123",
+            "tag": "29RGGUGV",
+            "rank": 24,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 4998,
+            "clanChestCrowns": 0,
+            "donations": 0,
+            "donationsReceived": 40,
+            "donationsDelta": -40,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0
+        },
+        {
+            "name": "BennAndTheJets",
+            "tag": "PU8JQPCL",
+            "rank": 25,
+            "previousRank": 21,
+            "role": "coLeader",
+            "expLevel": 13,
+            "trophies": 4996,
+            "clanChestCrowns": 0,
+            "donations": 1140,
+            "donationsReceived": 520,
+            "donationsDelta": 620,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 3.12
+        },
+        {
+            "name": "Woody",
+            "tag": "8L9J29",
+            "rank": 26,
+            "previousRank": 28,
+            "role": "leader",
+            "expLevel": 13,
+            "trophies": 4982,
+            "clanChestCrowns": 0,
+            "donations": 360,
+            "donationsReceived": 440,
+            "donationsDelta": -80,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0.99
+        },
+        {
+            "name": "darthjarjar",
+            "tag": "9UPCL2C",
+            "rank": 27,
+            "previousRank": 22,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 4972,
+            "clanChestCrowns": 0,
+            "donations": 412,
+            "donationsReceived": 400,
+            "donationsDelta": 12,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 1.13
+        },
+        {
+            "name": "Carlos",
+            "tag": "PRLLUPC",
+            "rank": 28,
+            "previousRank": 40,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 4959,
+            "clanChestCrowns": 0,
+            "donations": 476,
+            "donationsReceived": 480,
+            "donationsDelta": -4,
             "arena": {
                 "name": "Master I",
                 "arena": "League 4",
@@ -85,57 +581,117 @@
             "donationsPercent": 1.3
         },
         {
-            "name": "Alonso23",
-            "tag": "RVJLGLV",
-            "rank": 4,
-            "previousRank": 5,
-            "role": "elder",
+            "name": "whit3\u2122",
+            "tag": "8P2YR9",
+            "rank": 29,
+            "previousRank": 24,
+            "role": "member",
             "expLevel": 13,
-            "trophies": 5045,
+            "trophies": 4958,
             "clanChestCrowns": 0,
-            "donations": 990,
-            "donationsReceived": 439,
-            "donationsDelta": 551,
+            "donations": 0,
+            "donationsReceived": 87,
+            "donationsDelta": -87,
             "arena": {
                 "name": "Master I",
                 "arena": "League 4",
                 "arenaID": 16,
                 "trophyLimit": 4900
             },
-            "donationsPercent": 1.74
+            "donationsPercent": 0
         },
         {
-            "name": "chuzyu",
-            "tag": "8QYCV9JY",
-            "rank": 5,
-            "previousRank": 8,
+            "name": "DividedByZer0",
+            "tag": "Q9LGLCYC",
+            "rank": 30,
+            "previousRank": 31,
             "role": "elder",
             "expLevel": 13,
-            "trophies": 5042,
+            "trophies": 4929,
             "clanChestCrowns": 0,
-            "donations": 791,
-            "donationsReceived": 760,
-            "donationsDelta": 31,
+            "donations": 430,
+            "donationsReceived": 520,
+            "donationsDelta": -90,
             "arena": {
                 "name": "Master I",
                 "arena": "League 4",
                 "arenaID": 16,
                 "trophyLimit": 4900
             },
-            "donationsPercent": 1.39
+            "donationsPercent": 1.18
         },
         {
-            "name": "$--cam--$",
-            "tag": "20L89JLY",
-            "rank": 6,
-            "previousRank": 6,
+            "name": "Sergster",
+            "tag": "CYL0P0P8",
+            "rank": 31,
+            "previousRank": 27,
             "role": "elder",
             "expLevel": 13,
-            "trophies": 4989,
+            "trophies": 4925,
             "clanChestCrowns": 0,
-            "donations": 155,
-            "donationsReceived": 360,
-            "donationsDelta": -205,
+            "donations": 60,
+            "donationsReceived": 440,
+            "donationsDelta": -380,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0.16
+        },
+        {
+            "name": "PaRGaL\u0131",
+            "tag": "PJUG9VRY",
+            "rank": 32,
+            "previousRank": 41,
+            "role": "member",
+            "expLevel": 13,
+            "trophies": 4921,
+            "clanChestCrowns": 0,
+            "donations": 470,
+            "donationsReceived": 214,
+            "donationsDelta": 256,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 1.29
+        },
+        {
+            "name": "mattyramrods",
+            "tag": "L89QCL0Y",
+            "rank": 33,
+            "previousRank": 32,
+            "role": "coLeader",
+            "expLevel": 13,
+            "trophies": 4919,
+            "clanChestCrowns": 0,
+            "donations": 30,
+            "donationsReceived": 240,
+            "donationsDelta": -210,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0.08
+        },
+        {
+            "name": "napstar light",
+            "tag": "YP09CYUV",
+            "rank": 34,
+            "previousRank": 33,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 4916,
+            "clanChestCrowns": 0,
+            "donations": 100,
+            "donationsReceived": 304,
+            "donationsDelta": -204,
             "arena": {
                 "name": "Master I",
                 "arena": "League 4",
@@ -145,614 +701,196 @@
             "donationsPercent": 0.27
         },
         {
-            "name": "Arjun",
-            "tag": "8YRVRPJ8",
-            "rank": 7,
-            "previousRank": 11,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4983,
-            "clanChestCrowns": 0,
-            "donations": 140,
-            "donationsReceived": 710,
-            "donationsDelta": -570,
-            "arena": {
-                "name": "Master I",
-                "arena": "League 4",
-                "arenaID": 16,
-                "trophyLimit": 4900
-            },
-            "donationsPercent": 0.25
-        },
-        {
-            "name": "schmanik",
-            "tag": "2VYVG0LQ",
-            "rank": 8,
-            "previousRank": 7,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4965,
-            "clanChestCrowns": 0,
-            "donations": 771,
-            "donationsReceived": 413,
-            "donationsDelta": 358,
-            "arena": {
-                "name": "Master I",
-                "arena": "League 4",
-                "arenaID": 16,
-                "trophyLimit": 4900
-            },
-            "donationsPercent": 1.35
-        },
-        {
-            "name": "6Dad",
-            "tag": "8L9L9GL",
-            "rank": 9,
-            "previousRank": 17,
+            "name": "matiz",
+            "tag": "G0JVYY0",
+            "rank": 35,
+            "previousRank": 39,
             "role": "coLeader",
             "expLevel": 13,
-            "trophies": 4960,
+            "trophies": 4915,
             "clanChestCrowns": 0,
-            "donations": 440,
-            "donationsReceived": 320,
-            "donationsDelta": 120,
+            "donations": 620,
+            "donationsReceived": 360,
+            "donationsDelta": 260,
             "arena": {
                 "name": "Master I",
                 "arena": "League 4",
                 "arenaID": 16,
                 "trophyLimit": 4900
             },
-            "donationsPercent": 0.77
+            "donationsPercent": 1.7
         },
         {
-            "name": "Prob",
-            "tag": "LYVL99JV",
-            "rank": 10,
-            "previousRank": 10,
+            "name": "Predator",
+            "tag": "9QJUQG88",
+            "rank": 36,
+            "previousRank": 49,
             "role": "coLeader",
             "expLevel": 13,
-            "trophies": 4958,
+            "trophies": 4912,
             "clanChestCrowns": 0,
-            "donations": 30,
-            "donationsReceived": 720,
-            "donationsDelta": -690,
+            "donations": 312,
+            "donationsReceived": 350,
+            "donationsDelta": -38,
             "arena": {
                 "name": "Master I",
                 "arena": "League 4",
                 "arenaID": 16,
                 "trophyLimit": 4900
             },
-            "donationsPercent": 0.05
-        },
-        {
-            "name": "mizz",
-            "tag": "P09C8929",
-            "rank": 11,
-            "previousRank": 1,
-            "role": "coLeader",
-            "expLevel": 13,
-            "trophies": 4943,
-            "clanChestCrowns": 0,
-            "donations": 162,
-            "donationsReceived": 40,
-            "donationsDelta": 122,
-            "arena": {
-                "name": "Master I",
-                "arena": "League 4",
-                "arenaID": 16,
-                "trophyLimit": 4900
-            },
-            "donationsPercent": 0.28
-        },
-        {
-            "name": "napstar light",
-            "tag": "YP09CYUV",
-            "rank": 12,
-            "previousRank": 9,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4934,
-            "clanChestCrowns": 0,
-            "donations": 200,
-            "donationsReceived": 378,
-            "donationsDelta": -178,
-            "arena": {
-                "name": "Master I",
-                "arena": "League 4",
-                "arenaID": 16,
-                "trophyLimit": 4900
-            },
-            "donationsPercent": 0.35
-        },
-        {
-            "name": "Lewganito",
-            "tag": "8P8JQPJ0",
-            "rank": 13,
-            "previousRank": 12,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4924,
-            "clanChestCrowns": 0,
-            "donations": 450,
-            "donationsReceived": 197,
-            "donationsDelta": 253,
-            "arena": {
-                "name": "Master I",
-                "arena": "League 4",
-                "arenaID": 16,
-                "trophyLimit": 4900
-            },
-            "donationsPercent": 0.79
-        },
-        {
-            "name": "Sergster",
-            "tag": "CYL0P0P8",
-            "rank": 14,
-            "previousRank": 29,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4923,
-            "clanChestCrowns": 0,
-            "donations": 80,
-            "donationsReceived": 720,
-            "donationsDelta": -640,
-            "arena": {
-                "name": "Master I",
-                "arena": "League 4",
-                "arenaID": 16,
-                "trophyLimit": 4900
-            },
-            "donationsPercent": 0.14
-        },
-        {
-            "name": "Nasty Nate",
-            "tag": "QVYVU0JP",
-            "rank": 15,
-            "previousRank": 26,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4919,
-            "clanChestCrowns": 0,
-            "donations": 1096,
-            "donationsReceived": 40,
-            "donationsDelta": 1056,
-            "arena": {
-                "name": "Master I",
-                "arena": "League 4",
-                "arenaID": 16,
-                "trophyLimit": 4900
-            },
-            "donationsPercent": 1.92
-        },
-        {
-            "name": "alpe123",
-            "tag": "29RGGUGV",
-            "rank": 16,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4914,
-            "clanChestCrowns": 0,
-            "donations": 0,
-            "donationsReceived": 40,
-            "donationsDelta": -40,
-            "arena": {
-                "name": "Master I",
-                "arena": "League 4",
-                "arenaID": 16,
-                "trophyLimit": 4900
-            },
-            "donationsPercent": 0
-        },
-        {
-            "name": "John",
-            "tag": "9LL0VQ8L",
-            "rank": 17,
-            "previousRank": 14,
-            "role": "coLeader",
-            "expLevel": 13,
-            "trophies": 4913,
-            "clanChestCrowns": 0,
-            "donations": 510,
-            "donationsReceived": 560,
-            "donationsDelta": -50,
-            "arena": {
-                "name": "Master I",
-                "arena": "League 4",
-                "arenaID": 16,
-                "trophyLimit": 4900
-            },
-            "donationsPercent": 0.89
-        },
-        {
-            "name": "Big Nick",
-            "tag": "228CC292",
-            "rank": 18,
-            "previousRank": 35,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4909,
-            "clanChestCrowns": 0,
-            "donations": 20,
-            "donationsReceived": 640,
-            "donationsDelta": -620,
-            "arena": {
-                "name": "Master I",
-                "arena": "League 4",
-                "arenaID": 16,
-                "trophyLimit": 4900
-            },
-            "donationsPercent": 0.04
-        },
-        {
-            "name": "Woody",
-            "tag": "8L9J29",
-            "rank": 19,
-            "previousRank": 16,
-            "role": "leader",
-            "expLevel": 13,
-            "trophies": 4904,
-            "clanChestCrowns": 0,
-            "donations": 340,
-            "donationsReceived": 640,
-            "donationsDelta": -300,
-            "arena": {
-                "name": "Master I",
-                "arena": "League 4",
-                "arenaID": 16,
-                "trophyLimit": 4900
-            },
-            "donationsPercent": 0.6
-        },
-        {
-            "name": "Donkey punch",
-            "tag": "G0C2VJLR",
-            "rank": 20,
-            "previousRank": 15,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4901,
-            "clanChestCrowns": 0,
-            "donations": 194,
-            "donationsReceived": 680,
-            "donationsDelta": -486,
-            "arena": {
-                "name": "Master I",
-                "arena": "League 4",
-                "arenaID": 16,
-                "trophyLimit": 4900
-            },
-            "donationsPercent": 0.34
-        },
-        {
-            "name": "Bazenmaker",
-            "tag": "2982RJG",
-            "rank": 21,
-            "role": "member",
-            "expLevel": 13,
-            "trophies": 4895,
-            "clanChestCrowns": 0,
-            "donations": 0,
-            "donationsReceived": 40,
-            "donationsDelta": -40,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 0
-        },
-        {
-            "name": "Carlos",
-            "tag": "PRLLUPC",
-            "rank": 22,
-            "previousRank": 37,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4866,
-            "clanChestCrowns": 0,
-            "donations": 513,
-            "donationsReceived": 680,
-            "donationsDelta": -167,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 0.9
-        },
-        {
-            "name": "Gus",
-            "tag": "R90LR28J",
-            "rank": 23,
-            "previousRank": 21,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4864,
-            "clanChestCrowns": 0,
-            "donations": 598,
-            "donationsReceived": 480,
-            "donationsDelta": 118,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 1.05
-        },
-        {
-            "name": "Tazz",
-            "tag": "2L0GQGY",
-            "rank": 24,
-            "previousRank": 24,
-            "role": "member",
-            "expLevel": 12,
-            "trophies": 4859,
-            "clanChestCrowns": 0,
-            "donations": 495,
-            "donationsReceived": 480,
-            "donationsDelta": 15,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 0.87
-        },
-        {
-            "name": "Change Name\u2122",
-            "tag": "R02RCLJL",
-            "rank": 25,
-            "previousRank": 18,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4854,
-            "clanChestCrowns": 0,
-            "donations": 640,
-            "donationsReceived": 720,
-            "donationsDelta": -80,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 1.12
-        },
-        {
-            "name": "Frosty",
-            "tag": "8CCGP8V8",
-            "rank": 26,
-            "previousRank": 23,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4851,
-            "clanChestCrowns": 0,
-            "donations": 328,
-            "donationsReceived": 520,
-            "donationsDelta": -192,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 0.58
-        },
-        {
-            "name": "Sam PS",
-            "tag": "VLLPRGC",
-            "rank": 27,
-            "previousRank": 31,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4845,
-            "clanChestCrowns": 0,
-            "donations": 302,
-            "donationsReceived": 520,
-            "donationsDelta": -218,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 0.53
-        },
-        {
-            "name": "BrianJarett",
-            "tag": "QVCQGUQ9",
-            "rank": 28,
-            "previousRank": 44,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4845,
-            "clanChestCrowns": 0,
-            "donations": 1110,
-            "donationsReceived": 760,
-            "donationsDelta": 350,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 1.95
-        },
-        {
-            "name": "MCBC45",
-            "tag": "9QYC2P0R",
-            "rank": 29,
-            "previousRank": 20,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4842,
-            "clanChestCrowns": 0,
-            "donations": 80,
-            "donationsReceived": 720,
-            "donationsDelta": -640,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 0.14
-        },
-        {
-            "name": "Nova l Mystic",
-            "tag": "80LJ2GLL",
-            "rank": 30,
-            "previousRank": 13,
-            "role": "coLeader",
-            "expLevel": 13,
-            "trophies": 4837,
-            "clanChestCrowns": 0,
-            "donations": 630,
-            "donationsReceived": 600,
-            "donationsDelta": 30,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 1.11
+            "donationsPercent": 0.85
         },
         {
             "name": "meridian",
             "tag": "LG9G28U9",
-            "rank": 31,
-            "previousRank": 22,
-            "role": "coLeader",
-            "expLevel": 13,
-            "trophies": 4833,
-            "clanChestCrowns": 0,
-            "donations": 250,
-            "donationsReceived": 760,
-            "donationsDelta": -510,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 0.44
-        },
-        {
-            "name": "Grood",
-            "tag": "9PVLCUU9",
-            "rank": 32,
-            "previousRank": 25,
-            "role": "member",
-            "expLevel": 13,
-            "trophies": 4813,
-            "clanChestCrowns": 0,
-            "donations": 1011,
-            "donationsReceived": 600,
-            "donationsDelta": 411,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 1.77
-        },
-        {
-            "name": "mattyramrods",
-            "tag": "L89QCL0Y",
-            "rank": 33,
-            "previousRank": 45,
-            "role": "coLeader",
-            "expLevel": 13,
-            "trophies": 4801,
-            "clanChestCrowns": 0,
-            "donations": 10,
-            "donationsReceived": 200,
-            "donationsDelta": -190,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 0.02
-        },
-        {
-            "name": "BennAndTheJets",
-            "tag": "PU8JQPCL",
-            "rank": 34,
-            "previousRank": 30,
-            "role": "coLeader",
-            "expLevel": 13,
-            "trophies": 4794,
-            "clanChestCrowns": 0,
-            "donations": 1450,
-            "donationsReceived": 690,
-            "donationsDelta": 760,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 2.54
-        },
-        {
-            "name": "FoRCaS",
-            "tag": "8C8YPVLU",
-            "rank": 35,
-            "previousRank": 28,
-            "role": "member",
-            "expLevel": 13,
-            "trophies": 4770,
-            "clanChestCrowns": 0,
-            "donations": 211,
-            "donationsReceived": 200,
-            "donationsDelta": 11,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 0.37
-        },
-        {
-            "name": "whit3\u2122",
-            "tag": "8P2YR9",
-            "rank": 36,
-            "previousRank": 34,
-            "role": "member",
-            "expLevel": 13,
-            "trophies": 4767,
-            "clanChestCrowns": 0,
-            "donations": 0,
-            "donationsReceived": 0,
-            "donationsDelta": 0,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 0
-        },
-        {
-            "name": "DividedByZer0",
-            "tag": "Q9LGLCYC",
             "rank": 37,
+            "previousRank": 34,
+            "role": "coLeader",
+            "expLevel": 13,
+            "trophies": 4911,
+            "clanChestCrowns": 0,
+            "donations": 230,
+            "donationsReceived": 520,
+            "donationsDelta": -290,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0.63
+        },
+        {
+            "name": "Dirty Italian",
+            "tag": "P2Y0J92",
+            "rank": 38,
+            "previousRank": 37,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 4906,
+            "clanChestCrowns": 0,
+            "donations": 230,
+            "donationsReceived": 440,
+            "donationsDelta": -210,
+            "arena": {
+                "name": "Master I",
+                "arena": "League 4",
+                "arenaID": 16,
+                "trophyLimit": 4900
+            },
+            "donationsPercent": 0.63
+        },
+        {
+            "name": "Big Nick",
+            "tag": "228CC292",
+            "rank": 39,
+            "previousRank": 35,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 4878,
+            "clanChestCrowns": 0,
+            "donations": 110,
+            "donationsReceived": 390,
+            "donationsDelta": -280,
+            "arena": {
+                "name": "Challenger III",
+                "arena": "League 3",
+                "arenaID": 15,
+                "trophyLimit": 4600
+            },
+            "donationsPercent": 0.3
+        },
+        {
+            "name": "Change Name\u2122",
+            "tag": "R02RCLJL",
+            "rank": 40,
+            "previousRank": 38,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 4869,
+            "clanChestCrowns": 0,
+            "donations": 150,
+            "donationsReceived": 480,
+            "donationsDelta": -330,
+            "arena": {
+                "name": "Challenger III",
+                "arena": "League 3",
+                "arenaID": 15,
+                "trophyLimit": 4600
+            },
+            "donationsPercent": 0.41
+        },
+        {
+            "name": "Nasty Nate",
+            "tag": "QVYVU0JP",
+            "rank": 41,
+            "previousRank": 47,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 4864,
+            "clanChestCrowns": 0,
+            "donations": 789,
+            "donationsReceived": 70,
+            "donationsDelta": 719,
+            "arena": {
+                "name": "Challenger III",
+                "arena": "League 3",
+                "arenaID": 15,
+                "trophyLimit": 4600
+            },
+            "donationsPercent": 2.16
+        },
+        {
+            "name": "Metetin",
+            "tag": "PYP2C",
+            "rank": 42,
+            "previousRank": 29,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 4860,
+            "clanChestCrowns": 0,
+            "donations": 260,
+            "donationsReceived": 400,
+            "donationsDelta": -140,
+            "arena": {
+                "name": "Challenger III",
+                "arena": "League 3",
+                "arenaID": 15,
+                "trophyLimit": 4600
+            },
+            "donationsPercent": 0.71
+        },
+        {
+            "name": "yo mama",
+            "tag": "20PV900V",
+            "rank": 43,
+            "previousRank": 42,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 4828,
+            "clanChestCrowns": 0,
+            "donations": 298,
+            "donationsReceived": 400,
+            "donationsDelta": -102,
+            "arena": {
+                "name": "Challenger III",
+                "arena": "League 3",
+                "arenaID": 15,
+                "trophyLimit": 4600
+            },
+            "donationsPercent": 0.82
+        },
+        {
+            "name": "Sam PS",
+            "tag": "VLLPRGC",
+            "rank": 44,
             "role": "member",
             "expLevel": 13,
-            "trophies": 4766,
+            "trophies": 4811,
             "clanChestCrowns": 0,
             "donations": 0,
-            "donationsReceived": 0,
-            "donationsDelta": 0,
+            "donationsReceived": 40,
+            "donationsDelta": -40,
             "arena": {
                 "name": "Challenger III",
                 "arena": "League 3",
@@ -764,242 +902,102 @@
         {
             "name": "Bdubs",
             "tag": "2Y29GRU9",
-            "rank": 38,
-            "previousRank": 41,
+            "rank": 45,
+            "previousRank": 44,
             "role": "elder",
             "expLevel": 13,
-            "trophies": 4757,
+            "trophies": 4811,
             "clanChestCrowns": 0,
-            "donations": 550,
-            "donationsReceived": 680,
-            "donationsDelta": -130,
+            "donations": 379,
+            "donationsReceived": 380,
+            "donationsDelta": -1,
             "arena": {
                 "name": "Challenger III",
                 "arena": "League 3",
                 "arenaID": 15,
                 "trophyLimit": 4600
             },
-            "donationsPercent": 0.96
+            "donationsPercent": 1.04
         },
         {
-            "name": "matiz",
-            "tag": "G0JVYY0",
-            "rank": 39,
-            "previousRank": 33,
-            "role": "coLeader",
-            "expLevel": 13,
-            "trophies": 4750,
-            "clanChestCrowns": 0,
-            "donations": 1488,
-            "donationsReceived": 550,
-            "donationsDelta": 938,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 2.61
-        },
-        {
-            "name": "darthjarjar",
-            "tag": "9UPCL2C",
-            "rank": 40,
-            "previousRank": 46,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4734,
-            "clanChestCrowns": 0,
-            "donations": 1057,
-            "donationsReceived": 640,
-            "donationsDelta": 417,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 1.85
-        },
-        {
-            "name": "phuie024",
-            "tag": "9CQ2U8QJ",
-            "rank": 41,
-            "previousRank": 42,
-            "role": "coLeader",
-            "expLevel": 13,
-            "trophies": 4724,
-            "clanChestCrowns": 0,
-            "donations": 30,
-            "donationsReceived": 240,
-            "donationsDelta": -210,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 0.05
-        },
-        {
-            "name": "Min",
-            "tag": "L88P2282",
-            "rank": 42,
-            "previousRank": 39,
-            "role": "coLeader",
-            "expLevel": 13,
-            "trophies": 4720,
-            "clanChestCrowns": 0,
-            "donations": 31,
-            "donationsReceived": 600,
-            "donationsDelta": -569,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 0.05
-        },
-        {
-            "name": "kelso",
-            "tag": "Y0RLLLC",
-            "rank": 43,
-            "previousRank": 27,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4718,
-            "clanChestCrowns": 0,
-            "donations": 812,
-            "donationsReceived": 440,
-            "donationsDelta": 372,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 1.42
-        },
-        {
-            "name": "Dirty Italian",
-            "tag": "P2Y0J92",
-            "rank": 44,
+            "name": "BrianJarett",
+            "tag": "QVCQGUQ9",
+            "rank": 46,
             "previousRank": 43,
             "role": "elder",
             "expLevel": 13,
-            "trophies": 4712,
+            "trophies": 4797,
             "clanChestCrowns": 0,
-            "donations": 130,
-            "donationsReceived": 280,
-            "donationsDelta": -150,
+            "donations": 658,
+            "donationsReceived": 480,
+            "donationsDelta": 178,
             "arena": {
                 "name": "Challenger III",
                 "arena": "League 3",
                 "arenaID": 15,
                 "trophyLimit": 4600
             },
-            "donationsPercent": 0.23
+            "donationsPercent": 1.8
+        },
+        {
+            "name": "Nasty Nate Jr.",
+            "tag": "2GV90LQJY",
+            "rank": 47,
+            "previousRank": 45,
+            "role": "elder",
+            "expLevel": 13,
+            "trophies": 4768,
+            "clanChestCrowns": 0,
+            "donations": 138,
+            "donationsReceived": 62,
+            "donationsDelta": 76,
+            "arena": {
+                "name": "Challenger III",
+                "arena": "League 3",
+                "arenaID": 15,
+                "trophyLimit": 4600
+            },
+            "donationsPercent": 0.38
         },
         {
             "name": "DarkestHour\u2122",
             "tag": "QYQ8V0V",
-            "rank": 45,
-            "previousRank": 40,
-            "role": "elder",
-            "expLevel": 13,
-            "trophies": 4706,
-            "clanChestCrowns": 0,
-            "donations": 991,
-            "donationsReceived": 430,
-            "donationsDelta": 561,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 1.74
-        },
-        {
-            "name": "CapRod16",
-            "tag": "CG2QJRP0",
-            "rank": 46,
-            "previousRank": 36,
-            "role": "member",
-            "expLevel": 13,
-            "trophies": 4706,
-            "clanChestCrowns": 0,
-            "donations": 825,
-            "donationsReceived": 280,
-            "donationsDelta": 545,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 1.45
-        },
-        {
-            "name": "Predator",
-            "tag": "9QJUQG88",
-            "rank": 47,
-            "previousRank": 47,
-            "role": "coLeader",
-            "expLevel": 13,
-            "trophies": 4626,
-            "clanChestCrowns": 0,
-            "donations": 410,
-            "donationsReceived": 480,
-            "donationsDelta": -70,
-            "arena": {
-                "name": "Challenger III",
-                "arena": "League 3",
-                "arenaID": 15,
-                "trophyLimit": 4600
-            },
-            "donationsPercent": 0.72
-        },
-        {
-            "name": "Metetin",
-            "tag": "PYP2C",
             "rank": 48,
-            "previousRank": 49,
+            "previousRank": 46,
             "role": "elder",
             "expLevel": 13,
-            "trophies": 4624,
+            "trophies": 4749,
             "clanChestCrowns": 0,
-            "donations": 458,
-            "donationsReceived": 600,
-            "donationsDelta": -142,
+            "donations": 620,
+            "donationsReceived": 308,
+            "donationsDelta": 312,
             "arena": {
                 "name": "Challenger III",
                 "arena": "League 3",
                 "arenaID": 15,
                 "trophyLimit": 4600
             },
-            "donationsPercent": 0.8
+            "donationsPercent": 1.7
         },
         {
-            "name": "yo mama",
-            "tag": "20PV900V",
+            "name": "Casy \u270c\ufe0f",
+            "tag": "U2C2RGJR",
             "rank": 49,
             "previousRank": 48,
-            "role": "elder",
+            "role": "member",
             "expLevel": 13,
-            "trophies": 4623,
+            "trophies": 4653,
             "clanChestCrowns": 0,
-            "donations": 220,
-            "donationsReceived": 640,
-            "donationsDelta": -420,
+            "donations": 120,
+            "donationsReceived": 160,
+            "donationsDelta": -40,
             "arena": {
-                "name": "Challenger II",
-                "arena": "League 2",
-                "arenaID": 14,
-                "trophyLimit": 4300
+                "name": "Challenger III",
+                "arena": "League 3",
+                "arenaID": 15,
+                "trophyLimit": 4600
             },
-            "donationsPercent": 0.39
+            "donationsPercent": 0.33
         },
         {
             "name": "Clark Kent",
@@ -1008,23 +1006,23 @@
             "previousRank": 50,
             "role": "elder",
             "expLevel": 13,
-            "trophies": 4356,
+            "trophies": 4446,
             "clanChestCrowns": 0,
-            "donations": 153,
-            "donationsReceived": 400,
-            "donationsDelta": -247,
+            "donations": 105,
+            "donationsReceived": 280,
+            "donationsDelta": -175,
             "arena": {
                 "name": "Challenger II",
                 "arena": "League 2",
                 "arenaID": 14,
                 "trophyLimit": 4300
             },
-            "donationsPercent": 0.27
+            "donationsPercent": 0.29
         }
     ],
     "tracking": {
         "active": true,
         "available": true,
-        "snapshotCount": 249
+        "snapshotCount": 278
     }
 }
