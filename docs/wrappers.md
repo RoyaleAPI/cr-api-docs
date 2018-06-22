@@ -49,8 +49,25 @@ PHP 5.5+ wrapper
 Python Async + Sync wrapper
 
 - Repo: https://github.com/cgrok/clashroyale
-- Author: kyb3r
-    - Github: https://github.com/kyb3r
+- Authors:
+    - kyb3r
+        - Github: https://github.com/kyb3r
+    - 4JR
+        - Github: https://github.com/fourjr
+
+## Go
+
+### goroyale
+
+A wrapper for RoyaleAPI written in Go (Golang).
+
+- Easy access to endpoints through methods in `goroyale.Client`
+- Simple ratelimit handling where a special error is returned (`RatelimitError`) with an attribute `RetryAfter` representing how long to wait before running another request.
+- Field Filter and other query parameters through a `url.Values` or `map[string][]string` object passed to endpoint methods.
+
+- Repo: https://github.com/Altarrel/goroyale
+- Author: Altarrel
+    - Github: https://github.com/Altarrel
 
 ## Retired / Invalid /  No longer maintained
 

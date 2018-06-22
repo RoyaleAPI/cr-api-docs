@@ -290,6 +290,14 @@ Access quick visualizations of your clan and member activity regarding the clan 
 - Author: Munsterlander
     - Github: https://github.com/munsterlander
 
+### Clash Royale War Assistant
+
+Check yours and other competitor war clan details, performance of your clan in last 10 wars (total counts for no of wins, cards, etc. for each member helping you decide whom to promote or kick if you're a leader), war battles of your clan (copy a winners deck for yourself), get notified to attack, and lot lot more!
+
+- Google Play: https://play.google.com/store/apps/details?id=com.abhiinteractive.clashroyalewarassistant
+- Author: Abhijeet
+    - Github: https://github.com/Abhijeet589
+
 ## Our apps
 
 ### Author: Selfish
