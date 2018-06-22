@@ -15,8 +15,8 @@ Name | Method | Description
 
 All query string parameters default to `0`, set the value to `1` for it to be active
 
-Name | Data Type | Required / Optional | Description
----  | --- | --- | ---
+Name     | Data Type | Required / Optional | Description
+-------- | --- | --- | ---
 1k       | number | optional | Filters out only 1k tournaments
 open     | number | optional | Filters out only open tournaments
 full     | number | optional | Filters out only full tournaments
