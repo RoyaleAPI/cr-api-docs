@@ -31,6 +31,7 @@ If you find this API useful, please consider [donating](/donate) so we can conti
     - [Version](/endpoints/version)
     - [Constants](/endpoints/constants)
     - [Player](/endpoints/player)
+    - [Player Verification](/endpoints/player_verification)
     - [Player Battles](/endpoints/player_battles)
     - [Player Chests](/endpoints/player_chests)
     - [Clan Search](/endpoints/clan_search)
