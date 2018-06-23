@@ -1,94 +1,4 @@
 {
-    "2018-06-15-00-00": {
-        "donations": 0,
-        "memberCount": 1,
-        "crowns": 1600,
-        "score": 0,
-        "members": [
-            {
-                "tag": "P2JV0U08J",
-                "name": "SML.1",
-                "clanRank": 1,
-                "trophies": 0,
-                "donations": 0
-            }
-        ]
-    },
-    "2018-06-15-04-00": {
-        "donations": 0,
-        "memberCount": 1,
-        "crowns": 1600,
-        "score": 0,
-        "members": [
-            {
-                "tag": "P2JV0U08J",
-                "name": "SML.1",
-                "clanRank": 1,
-                "trophies": 0,
-                "donations": 0
-            }
-        ]
-    },
-    "2018-06-15-08-00": {
-        "donations": 0,
-        "memberCount": 1,
-        "crowns": 1600,
-        "score": 0,
-        "members": [
-            {
-                "tag": "P2JV0U08J",
-                "name": "SML.1",
-                "clanRank": 1,
-                "trophies": 0,
-                "donations": 0
-            }
-        ]
-    },
-    "2018-06-15-12-00": {
-        "donations": 0,
-        "memberCount": 1,
-        "crowns": 1600,
-        "score": 0,
-        "members": [
-            {
-                "tag": "P2JV0U08J",
-                "name": "SML.1",
-                "clanRank": 1,
-                "trophies": 0,
-                "donations": 0
-            }
-        ]
-    },
-    "2018-06-15-16-00": {
-        "donations": 0,
-        "memberCount": 1,
-        "crowns": 1600,
-        "score": 0,
-        "members": [
-            {
-                "tag": "P2JV0U08J",
-                "name": "SML.1",
-                "clanRank": 1,
-                "trophies": 0,
-                "donations": 0
-            }
-        ]
-    },
-    "2018-06-15-20-00": {
-        "donations": 0,
-        "memberCount": 1,
-        "crowns": 1600,
-        "score": 0,
-        "members": [
-            {
-                "tag": "P2JV0U08J",
-                "name": "SML.1",
-                "clanRank": 1,
-                "trophies": 0,
-                "donations": 0
-            }
-        ]
-    },
     "2018-06-16-00-00": {
         "donations": 0,
         "memberCount": 1,
@@ -872,6 +782,190 @@
         ]
     },
     "2018-06-22-00-00": {
+        "donations": 0,
+        "memberCount": 1,
+        "crowns": 1600,
+        "score": 0,
+        "members": [
+            {
+                "tag": "P2JV0U08J",
+                "name": "SML.1",
+                "role": "leader",
+                "arena": {
+                    "id": 54000001,
+                    "name": "Arena 1"
+                },
+                "clanRank": 1,
+                "expLevel": 1,
+                "trophies": 0,
+                "donations": 0,
+                "previousClanRank": 1,
+                "donationsReceived": 0
+            }
+        ]
+    },
+    "2018-06-22-04-00": {
+        "donations": 0,
+        "memberCount": 1,
+        "crowns": 1600,
+        "score": 0,
+        "members": [
+            {
+                "tag": "P2JV0U08J",
+                "name": "SML.1",
+                "role": "leader",
+                "arena": {
+                    "id": 54000001,
+                    "name": "Arena 1"
+                },
+                "clanRank": 1,
+                "expLevel": 1,
+                "trophies": 0,
+                "donations": 0,
+                "previousClanRank": 1,
+                "donationsReceived": 0
+            }
+        ]
+    },
+    "2018-06-22-08-00": {
+        "donations": 0,
+        "memberCount": 1,
+        "crowns": 1600,
+        "score": 0,
+        "members": [
+            {
+                "tag": "P2JV0U08J",
+                "name": "SML.1",
+                "role": "leader",
+                "arena": {
+                    "id": 54000001,
+                    "name": "Arena 1"
+                },
+                "clanRank": 1,
+                "expLevel": 1,
+                "trophies": 0,
+                "donations": 0,
+                "previousClanRank": 1,
+                "donationsReceived": 0
+            }
+        ]
+    },
+    "2018-06-22-12-00": {
+        "donations": 0,
+        "memberCount": 1,
+        "crowns": 1600,
+        "score": 0,
+        "members": [
+            {
+                "tag": "P2JV0U08J",
+                "name": "SML.1",
+                "role": "leader",
+                "arena": {
+                    "id": 54000001,
+                    "name": "Arena 1"
+                },
+                "clanRank": 1,
+                "expLevel": 1,
+                "trophies": 0,
+                "donations": 0,
+                "previousClanRank": 1,
+                "donationsReceived": 0
+            }
+        ]
+    },
+    "2018-06-22-16-00": {
+        "donations": 0,
+        "memberCount": 1,
+        "crowns": 1600,
+        "score": 0,
+        "members": [
+            {
+                "tag": "P2JV0U08J",
+                "name": "SML.1",
+                "role": "leader",
+                "arena": {
+                    "id": 54000001,
+                    "name": "Arena 1"
+                },
+                "clanRank": 1,
+                "expLevel": 1,
+                "trophies": 0,
+                "donations": 0,
+                "previousClanRank": 1,
+                "donationsReceived": 0
+            }
+        ]
+    },
+    "2018-06-22-20-00": {
+        "donations": 0,
+        "memberCount": 1,
+        "crowns": 1600,
+        "score": 0,
+        "members": [
+            {
+                "tag": "P2JV0U08J",
+                "name": "SML.1",
+                "role": "leader",
+                "arena": {
+                    "id": 54000001,
+                    "name": "Arena 1"
+                },
+                "clanRank": 1,
+                "expLevel": 1,
+                "trophies": 0,
+                "donations": 0,
+                "previousClanRank": 1,
+                "donationsReceived": 0
+            }
+        ]
+    },
+    "2018-06-23-00-00": {
+        "donations": 0,
+        "memberCount": 1,
+        "crowns": 1600,
+        "score": 0,
+        "members": [
+            {
+                "tag": "P2JV0U08J",
+                "name": "SML.1",
+                "role": "leader",
+                "arena": {
+                    "id": 54000001,
+                    "name": "Arena 1"
+                },
+                "clanRank": 1,
+                "expLevel": 1,
+                "trophies": 0,
+                "donations": 0,
+                "previousClanRank": 1,
+                "donationsReceived": 0
+            }
+        ]
+    },
+    "2018-06-23-04-00": {
+        "donations": 0,
+        "memberCount": 1,
+        "crowns": 1600,
+        "score": 0,
+        "members": [
+            {
+                "tag": "P2JV0U08J",
+                "name": "SML.1",
+                "role": "leader",
+                "arena": {
+                    "id": 54000001,
+                    "name": "Arena 1"
+                },
+                "clanRank": 1,
+                "expLevel": 1,
+                "trophies": 0,
+                "donations": 0,
+                "previousClanRank": 1,
+                "donationsReceived": 0
+            }
+        ]
+    },
+    "2018-06-23-08-00": {
         "donations": 0,
         "memberCount": 1,
         "crowns": 1600,

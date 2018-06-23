@@ -31,7 +31,7 @@ To get a reminder of your developer key, visit the Discord channel above and typ
 
 ### Removing keys
 
-If you feel that your key may have been compromised, please contact open an issue on [Github](https://github.com/RoyaleAPI/cr-api) and we will create a new one for you.
+Simply [generate a new one](/authentication?id=generating-new-keys) and it will invalidate all existing keys.
 
 ### Key Statistics
 
