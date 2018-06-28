@@ -16,7 +16,7 @@ TAG | The player tag of the user to check
 
 Name | Data Type | Required / Optional | Description
 --- | --- | --- | ---
-`PLAYER_API_TOKEN` | string | required | User's API Token from in-game settings. The token lasts for a temporary period of time
+`PLAYER_API_TOKEN` | string | required | User's API Token from in-game settings. The token lasts for 6 minutes.
 
 ## Response
 
