@@ -38,5 +38,4 @@
     - [Popular Players](/endpoints/popular_players)
     - [Popular Tournaments](/endpoints/popular_tournaments)
     - [Popular Decks](/endpoints/popular_decks)
-    - [API Key Stats](/endpoints/auth_stats)
     - [Endpoints](/endpoints/endpoints)

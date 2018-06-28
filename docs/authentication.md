@@ -33,12 +33,6 @@ To get a reminder of your developer key, visit the Discord channel above and typ
 
 Simply [generate a new one](/authentication?id=generating-new-keys) and it will invalidate all existing keys.
 
-### Key Statistics
-
-!> Key Stats has been temporarily disabled.
-
-You can receive request statistics of your key on our Discord server. Go to the `#developer-key` channel and type `?crapikey stats`. Your stats will be visible to everyone else in the channel.
-
 ## Code examples
 
 Here are some code snippets on how to add custom headers in different languages.
