@@ -13,7 +13,8 @@ Name | Type | Description
 --- | --- | ---
 `x-ratelimit-limit` | number | Total amount of requests you can make to the API per second
 `x-ratelimit-remaining` | number | Number of requests remaining for that time window
-`x-ratelimit-retry-after` | number | Time in seconds until ratelimit time window will reset
+`x-ratelimit-retry-after` | number | Time in seconds until the next request is available
+`x-cached` | boolean | This is only returned if the data is cached
 
 ## How can my clan family be listed on the website?
 
