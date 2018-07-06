@@ -298,6 +298,14 @@ Check yours and other competitor war clan details, performance of your clan in l
 - Author: Abhijeet
     - Github: https://github.com/Abhijeet589
 
+### Chest Cycle Tracker
+
+See your Clash Royale stats, next chest, war details and much more!
+
+- Google Play: https://play.google.com/store/apps/details?id=in.sidheart.clashroyalechestcycle
+- Author: Sid-Heart
+    - Github: https://github.com/sid-heart
+
 ## Our apps
 
 ### Author: Selfish
