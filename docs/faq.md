@@ -6,14 +6,14 @@ All the tags used in Supercell games (Clash Royale, Clash of Clans, etc) are mad
 
 ## Is there a rate limit for the API requests?
 
-Yes. There is a fixed ratelimit per second that you can check by looking at the `Response Headers` returned by the API and the value of `x-ratelimit-limit` header.
+Yes. There is a fixed ratelimit per second that you can check by looking at the `Response Headers` returned by the API and the value of `x-ratelimit-limit` header. When you hit the ratelimit, a 429 response will be returned
 
 ## What headers are returned by the API?
 Name | Type | Description
 --- | --- | ---
 `x-ratelimit-limit` | number | Total amount of requests you can make to the API per second
 `x-ratelimit-remaining` | number | Number of requests remaining for that time window
-`x-ratelimit-retry-after` | number | Time in seconds until the next request is available
+`x-ratelimit-retry-after` | number | Time in milliseconds until the next request is available (only returned if you hit the ratelimit)
 `x-cached` | boolean | This is only returned if the data is cached
 
 ## How can my clan family be listed on the website?
