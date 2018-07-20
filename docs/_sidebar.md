@@ -34,6 +34,7 @@
     - [Tournaments](/endpoints/tournaments)
     - [Top Clans](/endpoints/top_clans)
     - [Top Players](/endpoints/top_players)
+    - [Top War Clans](/endpoints/top_war)
     - [Popular Clans](/endpoints/popular_clans)
     - [Popular Players](/endpoints/popular_players)
     - [Popular Tournaments](/endpoints/popular_tournaments)

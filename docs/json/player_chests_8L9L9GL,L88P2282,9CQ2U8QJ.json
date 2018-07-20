@@ -1,21 +1,21 @@
 [
     {
         "upcoming": [
+            "silver",
+            "silver",
+            "silver",
+            "silver",
             "gold",
             "silver",
+            "silver",
             "gold",
-            "silver",
-            "silver",
-            "silver",
-            "silver",
-            "giant",
             "silver"
         ],
-        "superMagical": 114,
-        "magical": 20,
-        "legendary": 136,
-        "epic": 44,
-        "giant": 7
+        "superMagical": 58,
+        "magical": 12,
+        "legendary": 80,
+        "epic": 411,
+        "giant": 52
     },
     {
         "upcoming": [
@@ -25,32 +25,32 @@
             "silver",
             "silver",
             "silver",
-            "gold",
+            "magical",
             "silver",
             "silver"
         ],
-        "superMagical": 266,
-        "magical": 14,
-        "legendary": 134,
-        "epic": 406,
-        "giant": 41
+        "superMagical": 258,
+        "magical": 6,
+        "legendary": 126,
+        "epic": 398,
+        "giant": 33
     },
     {
         "upcoming": [
             "silver",
+            "silver",
+            "silver",
+            "silver",
             "gold",
             "silver",
+            "silver",
             "gold",
-            "silver",
-            "silver",
-            "silver",
-            "silver",
-            "gold"
+            "silver"
         ],
-        "superMagical": 425,
-        "magical": 61,
-        "legendary": 161,
-        "epic": 43,
-        "giant": 16
+        "superMagical": 376,
+        "magical": 12,
+        "legendary": 112,
+        "epic": 240,
+        "giant": 39
     }
 ]

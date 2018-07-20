@@ -306,6 +306,15 @@ See your Clash Royale stats, next chest, war details and much more!
 - Author: Sid-Heart
     - Github: https://github.com/sid-heart
 
+### HowsMyClan.com
+
+Find out who the most valuable members of your clan are using simple indicators.    
+Find open joinable Tournaments using royaleapi real-time data.
+
+- Website: http://howsmyclan.com/
+- Author: Sagi Yehuday
+    - Github: https://github.com/Sagi44
+
 ## Our apps
 
 ### Author: Selfish

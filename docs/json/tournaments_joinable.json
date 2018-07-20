@@ -1,3208 +1,1602 @@
 [
     {
-        "tag": "UY2QRVJ",
-        "name": "Saltiyork",
+        "tag": "208RU0UQ",
+        "name": "frei f\u00fcr alle",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
         "status": "inPreparation",
-        "createTime": 1530881982,
+        "createTime": 1532084268,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
-        "description": "Si son saltillenses metanse, los qu no son tambien metanse jeje",
-        "updatedAt": 1530882092,
+        "description": "AFFEN-CLAN",
+        "updatedAt": 1532084424,
         "members": []
     },
     {
-        "tag": "CGLYYGJ",
-        "name": "GiggleGiggleKFC",
+        "tag": "22PPY02C",
+        "name": "Qantas Victoria",
         "open": true,
         "maxPlayers": 50,
-        "currentPlayers": 13,
-        "status": "inProgress",
-        "createTime": 1530880891,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "Join da tournament is gonna be fun",
-        "updatedAt": 1530882626,
-        "members": []
-    },
-    {
-        "tag": "CC2CCPY",
-        "name": "abc",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530876643,
+        "currentPlayers": 15,
+        "status": "inPreparation",
+        "createTime": 1532084116,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530880200,
+        "updatedAt": 1532084317,
         "members": []
     },
     {
-        "tag": "CGY20PU",
-        "name": "umut",
+        "tag": "CGUJYRP",
+        "name": "GTA2\u7687\u5ba4\u6230\u722d",
         "open": true,
         "maxPlayers": 50,
-        "currentPlayers": 49,
+        "currentPlayers": 11,
+        "status": "inPreparation",
+        "createTime": 1532084131,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "\u7687\u5ba4\u6230\u722d\u65b0\u51fa\u4e86GTA2\u6a21\u5f0f\u4e86 1999\u5e74",
+        "updatedAt": 1532084361,
+        "members": []
+    },
+    {
+        "tag": "CGUJLVG",
+        "name": "deutschland",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 24,
         "status": "inProgress",
-        "createTime": 1530873725,
+        "createTime": 1532084136,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530877273,
+        "updatedAt": 1532084415,
         "members": []
     },
     {
-        "tag": "229CGPYJ",
-        "name": "\u041f\u044f\u0442\u043d\u0438\u0447\u043d\u044b\u0439 \u0440\u0430\u0437\u0431\u043e\u0439 !!!",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530861872,
-        "prepTime": 7200,
-        "startTime": 1530869072,
-        "endTime": null,
-        "duration": 3600,
-        "description": "\u0412\u043f\u0435\u0440\u0435\u0434\u0438 \u0432\u044b\u0445\u043e\u0434\u043d\u044b\u0435, \u0432\u0441\u0435\u043c \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u0433\u043e \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f \u0438 \u0431\u0435\u0437\u0443\u0434\u0435\u0440\u0436\u043d\u043e\u0433\u043e \u0432\u0435\u0441\u0435\u043b\u044c\u044f!!!",
-        "updatedAt": 1530870829,
-        "creator": {
-            "tag": "RYY0RVCL",
-            "clan": {
-                "tag": "22QCGUUL",
-                "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
-                "badgeId": 16000124
-            },
-            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440",
-            "rank": 7,
-            "score": 114,
-            "creator": true
-        },
-        "members": [
-            {
-                "tag": "22VL2VQG2",
-                "clan": {
-                    "tag": "G8VY",
-                    "name": "x-art slovakia",
-                    "badgeId": 16000072
-                },
-                "name": "Ramos",
-                "rank": 1,
-                "score": 159
-            },
-            {
-                "tag": "2VQ02YG8J",
-                "clan": {
-                    "tag": "929VUPYG",
-                    "name": "\u30b4\u30ad\u30d6\u30ea\u306e\u6975\u307f",
-                    "badgeId": 16000028
-                },
-                "name": "55",
-                "rank": 2,
-                "score": 155
-            },
-            {
-                "tag": "9ULGUV9Y",
-                "clan": {
-                    "tag": "Y208VR9",
-                    "name": "LCLY BC",
-                    "badgeId": 16000145
-                },
-                "name": "clementteo",
-                "rank": 3,
-                "score": 153
-            },
-            {
-                "tag": "2J2002LC",
-                "clan": {
-                    "tag": "9LQQ9UP0",
-                    "name": "Hammer\u2122",
-                    "badgeId": 16000165
-                },
-                "name": "Gunner Skale",
-                "rank": 4,
-                "score": 141
-            },
-            {
-                "tag": "2U0YP28PY",
-                "clan": {
-                    "tag": "2GG8UY8P",
-                    "name": "Just Ukraine",
-                    "badgeId": 16000096
-                },
-                "name": "Resw op",
-                "rank": 5,
-                "score": 135
-            },
-            {
-                "tag": "J0LV9GU",
-                "clan": {
-                    "tag": "90VUJYGJ",
-                    "name": "Autumn Leaf",
-                    "badgeId": 16000077
-                },
-                "name": "TheFlab",
-                "rank": 6,
-                "score": 130
-            },
-            {
-                "tag": "RYY0RVCL",
-                "clan": {
-                    "tag": "22QCGUUL",
-                    "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
-                    "badgeId": 16000124
-                },
-                "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440",
-                "rank": 7,
-                "score": 114,
-                "creator": true
-            },
-            {
-                "tag": "9L9RJQQ2",
-                "clan": {
-                    "tag": "9LY8RVY0",
-                    "name": "DEXTER TEAM",
-                    "badgeId": 16000159
-                },
-                "name": "Notorius B.I.G",
-                "rank": 8,
-                "score": 108
-            },
-            {
-                "tag": "28G2GC28C",
-                "clan": {
-                    "tag": "YV0G88G",
-                    "name": "\u5fd8\u4e0d\u6389\uff0c\u4e5f\u5fd8\u4e86\u5427\uff01",
-                    "badgeId": 16000036
-                },
-                "name": "\u674e\u660a\u6587",
-                "rank": 9,
-                "score": 82
-            },
-            {
-                "tag": "8GG0C8JC",
-                "clan": {
-                    "tag": "8228RYV",
-                    "name": "DnB-Crew",
-                    "badgeId": 16000078
-                },
-                "name": "Drannoc",
-                "rank": 10,
-                "score": 75
-            },
-            {
-                "tag": "UY9CU28Q",
-                "clan": {
-                    "tag": "RQ99PQL",
-                    "name": "\u6d3b\u8dc3\u7b2c\u4e00",
-                    "badgeId": 16000102
-                },
-                "name": "17",
-                "rank": 11,
-                "score": 72
-            },
-            {
-                "tag": "2R822JJPQ",
-                "clan": {
-                    "tag": "99QYR009",
-                    "name": "10\u4e07\u99ac\u529b",
-                    "badgeId": 16000120
-                },
-                "name": "\u3053\u30fc\u304d",
-                "rank": 12,
-                "score": 68
-            },
-            {
-                "tag": "2VQQPY298",
-                "clan": {
-                    "tag": "8RGGJP98",
-                    "name": "Marokings \u2665",
-                    "badgeId": 16000147
-                },
-                "name": "LORD GRYFON",
-                "rank": 13,
-                "score": 66
-            },
-            {
-                "tag": "2J8PCLLRC",
-                "clan": {
-                    "tag": "P00UC2C",
-                    "name": "\u0425\u0430\u0440\u044c\u043a\u043e\u0432",
-                    "badgeId": 16000175
-                },
-                "name": "TheFear",
-                "rank": 14,
-                "score": 65
-            },
-            {
-                "tag": "2JJ8V08JP",
-                "clan": {
-                    "tag": "VCVPJU",
-                    "name": "\u798f\u5dde\u4e2b\u9738",
-                    "badgeId": 16000013
-                },
-                "name": "\u2299\u25bd\u2299",
-                "rank": 15,
-                "score": 60
-            },
-            {
-                "tag": "9GVLQ8GJY",
-                "clan": {
-                    "tag": "90YCQC22",
-                    "name": "\u0540\u0531\u0545\u0535\u0550\u0548\u054e",
-                    "badgeId": 16000024
-                },
-                "name": "FRED2006",
-                "rank": 16,
-                "score": 57
-            },
-            {
-                "tag": "2RYYVVCGP",
-                "clan": {
-                    "tag": "20R09RJC",
-                    "name": "Fox Germany 2.0",
-                    "badgeId": 16000009
-                },
-                "name": "KingsGarden",
-                "rank": 17,
-                "score": 53
-            },
-            {
-                "tag": "JQ8CGRPQ",
-                "clan": {
-                    "tag": "9UPLP9U2",
-                    "name": "5TM",
-                    "badgeId": 16000024
-                },
-                "name": "Sarp",
-                "rank": 18,
-                "score": 49
-            },
-            {
-                "tag": "80LGCLVUQ",
-                "clan": {
-                    "tag": "LQCPGY",
-                    "name": "4SaltiInPadella",
-                    "badgeId": 16000002
-                },
-                "name": "Akino",
-                "rank": 19,
-                "score": 49
-            },
-            {
-                "tag": "9P0JVJPY9",
-                "clan": {
-                    "tag": "PVL8Y2G",
-                    "name": "\u5929\u6d25",
-                    "badgeId": 16000077
-                },
-                "name": "Don Coleone",
-                "rank": 20,
-                "score": 47
-            },
-            {
-                "tag": "2CCV09G8Q",
-                "clan": {
-                    "tag": "88JYVG0Q",
-                    "name": "surabaya 1927",
-                    "badgeId": 16000173
-                },
-                "name": "Mozilla",
-                "rank": 21,
-                "score": 35
-            },
-            {
-                "tag": "2Q9P9J8RG",
-                "clan": {
-                    "tag": "JUPQ8YJ",
-                    "name": "Queerness2",
-                    "badgeId": 16000110
-                },
-                "name": "Burial",
-                "rank": 22,
-                "score": 32
-            },
-            {
-                "tag": "LRG2Q0VR",
-                "clan": {
-                    "tag": "20GV2Y9P",
-                    "name": "china-\u82cd\u7a79",
-                    "badgeId": 16000039
-                },
-                "name": "\u9169\u914a\u5929\u4f7f",
-                "rank": 23,
-                "score": 32
-            },
-            {
-                "tag": "298QLYLQR",
-                "clan": {
-                    "tag": "2LRV220J",
-                    "name": "\u041f.\u0415.\u041a.\u041a.\u0410",
-                    "badgeId": 16000164
-                },
-                "name": "\u0422\u0412\u0418\u041d\u041a",
-                "rank": 24,
-                "score": 27
-            },
-            {
-                "tag": "P9YUCLUC",
-                "clan": {
-                    "tag": "2GV2RQ",
-                    "name": "\u864e\u6251JR",
-                    "badgeId": 16000009
-                },
-                "name": "\u6d77\u4e4b\u6df1\u84dd",
-                "rank": 25,
-                "score": 27
-            },
-            {
-                "tag": "29CRJ0JCU",
-                "clan": {
-                    "tag": "80R2RQ9",
-                    "name": "\u041e\u0414\u0415\u0421\u0421\u0410",
-                    "badgeId": 16000086
-                },
-                "name": "\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f",
-                "rank": 26,
-                "score": 26
-            },
-            {
-                "tag": "29U8JRCQQ",
-                "clan": {
-                    "tag": "9L90QVQC",
-                    "name": "nova cyberpunk",
-                    "badgeId": 16000003
-                },
-                "name": "mami von nessi",
-                "rank": 27,
-                "score": 22
-            },
-            {
-                "tag": "P89J82PV2",
-                "name": "\u0420\u0443\u0441\u0442\u0435\u043c",
-                "rank": 28,
-                "score": 21,
-                "clan": null
-            },
-            {
-                "tag": "2PJU8GJR",
-                "clan": {
-                    "tag": "P9P9PQ",
-                    "name": "\u81fa\u7063no.1",
-                    "badgeId": 16000004
-                },
-                "name": "Lucky777",
-                "rank": 29,
-                "score": 20
-            },
-            {
-                "tag": "PJ90R808",
-                "clan": {
-                    "tag": "R98",
-                    "name": "AngryUkrainians",
-                    "badgeId": 16000175
-                },
-                "name": "Yavas",
-                "rank": 30,
-                "score": 17
-            },
-            {
-                "tag": "90R9UG8YG",
-                "clan": {
-                    "tag": "V982Q28",
-                    "name": "Elite Ass",
-                    "badgeId": 16000072
-                },
-                "name": "4eJloBeK",
-                "rank": 31,
-                "score": 7
-            },
-            {
-                "tag": "298UURQ2G",
-                "clan": {
-                    "tag": "22QCGUUL",
-                    "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
-                    "badgeId": 16000124
-                },
-                "name": "kto-to",
-                "rank": 32,
-                "score": 0
-            },
-            {
-                "tag": "2LJL8C0PP",
-                "clan": {
-                    "tag": "22QCGUUL",
-                    "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
-                    "badgeId": 16000124
-                },
-                "name": "\u0413\u0410\u0414\u0415\u041b\u042c",
-                "rank": 33,
-                "score": 0
-            },
-            {
-                "tag": "899CY2JRU",
-                "clan": {
-                    "tag": "22QCGUUL",
-                    "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
-                    "badgeId": 16000124
-                },
-                "name": "A.S.A.S.I.N",
-                "rank": 34,
-                "score": 0
-            },
-            {
-                "tag": "8LJV90LR0",
-                "clan": {
-                    "tag": "22QCGUUL",
-                    "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
-                    "badgeId": 16000124
-                },
-                "name": "PalegTea",
-                "rank": 35,
-                "score": 0
-            },
-            {
-                "tag": "8LPLU02G2",
-                "clan": {
-                    "tag": "22QCGUUL",
-                    "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
-                    "badgeId": 16000124
-                },
-                "name": "\u0434\u043e\u043a",
-                "rank": 36,
-                "score": 0
-            },
-            {
-                "tag": "88VP2RQGG",
-                "clan": {
-                    "tag": "22QCGUUL",
-                    "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
-                    "badgeId": 16000124
-                },
-                "name": "\u041f\u0430\u0434\u0448\u0438\u0439 \u0410\u043d\u0433\u0435\u043b",
-                "rank": 37,
-                "score": 0
-            },
-            {
-                "tag": "R0VCRCC0",
-                "clan": {
-                    "tag": "22QCGUUL",
-                    "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
-                    "badgeId": 16000124
-                },
-                "name": "\u0442\u0435\u043c\u0430. game",
-                "rank": 38,
-                "score": 0
-            },
-            {
-                "tag": "2QU2CCP2Q",
-                "clan": {
-                    "tag": "22QCGUUL",
-                    "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
-                    "badgeId": 16000124
-                },
-                "name": "Xypma415",
-                "rank": 39,
-                "score": 0
-            },
-            {
-                "tag": "8PGY8JC0",
-                "clan": {
-                    "tag": "22QCGUUL",
-                    "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
-                    "badgeId": 16000124
-                },
-                "name": "\u0421\u041e\u0425\u0410 \u041c\u0423\u0421\u0410\u0415\u0412",
-                "rank": 40,
-                "score": 0
-            },
-            {
-                "tag": "8PV0QVV0L",
-                "clan": {
-                    "tag": "9L8PJPVV",
-                    "name": "Gratisfaction",
-                    "badgeId": 16000002
-                },
-                "name": "\u043a\u043e\u0442 \u043d\u0430\u0440\u043a\u043e\u0442",
-                "rank": 41,
-                "score": 0
-            },
-            {
-                "tag": "P2P9Y2QC0",
-                "clan": {
-                    "tag": "CULRGG",
-                    "name": "Trystero",
-                    "badgeId": 16000084
-                },
-                "name": "SuperDesafiante",
-                "rank": 42,
-                "score": 0
-            },
-            {
-                "tag": "9RRU28JL",
-                "clan": {
-                    "tag": "9CRJ00G2",
-                    "name": "\u0413\u043e\u0440\u043e\u0434\u043e\u043a",
-                    "badgeId": 16000106
-                },
-                "name": "Aleks123",
-                "rank": 43,
-                "score": 0
-            },
-            {
-                "tag": "9V2C2P8Y2",
-                "clan": {
-                    "tag": "QL90R80",
-                    "name": "Crowle Estate",
-                    "badgeId": 16000008
-                },
-                "name": "Nate",
-                "rank": 44,
-                "score": 0
-            },
-            {
-                "tag": "RJC8JYY8",
-                "clan": {
-                    "tag": "PYRP2JG2",
-                    "name": "M\u011bln\u00edkRepresent",
-                    "badgeId": 16000087
-                },
-                "name": "zup",
-                "rank": 45,
-                "score": 0
-            },
-            {
-                "tag": "9RRPQYCGP",
-                "clan": {
-                    "tag": "9L989QVL",
-                    "name": "NEBOBLAKA",
-                    "badgeId": 16000029
-                },
-                "name": "\u0433\u0440\u043e\u043c",
-                "rank": 46,
-                "score": 0
-            },
-            {
-                "tag": "P80GLPLYP",
-                "clan": {
-                    "tag": "R099YCY",
-                    "name": "\u041d\u043e\u0432\u044b\u0435 \u0432\u043e\u043b\u043a\u0438",
-                    "badgeId": 16000072
-                },
-                "name": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05d4\u05d9\u05ea\u05d9\u05dc",
-                "rank": 47,
-                "score": 0
-            },
-            {
-                "tag": "8L288YU9Q",
-                "clan": {
-                    "tag": "8Q22C0RL",
-                    "name": "25TN...clan",
-                    "badgeId": 16000002
-                },
-                "name": "\u0647\u062c\u0648\u0645 \u0627\u0644\u0639\u0645\u0627\u0644\u0642\u0629",
-                "rank": 48,
-                "score": 0
-            },
-            {
-                "tag": "88YGYUY92",
-                "clan": {
-                    "tag": "2VYCL280",
-                    "name": "--ARZAMAS--",
-                    "badgeId": 16000085
-                },
-                "name": "Alex",
-                "rank": 49,
-                "score": 0
-            }
-        ]
-    },
-    {
-        "tag": "CC2CPJV",
-        "name": "les clacheur",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530866214,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530869458,
-        "members": []
-    },
-    {
-        "tag": "UY8JVG9",
-        "name": "marihuana",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530859013,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "bienvenida a jugar",
-        "updatedAt": 1530862249,
-        "members": []
-    },
-    {
-        "tag": "UYP8JL9",
-        "name": "hola",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530855461,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530859225,
-        "members": []
-    },
-    {
-        "tag": "2089L2C2",
-        "name": "pejuang utama",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530845869,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "harus ikutin peraturan",
-        "updatedAt": 1530849071,
-        "members": []
-    },
-    {
-        "tag": "229UJ9JL",
-        "name": "1234",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530839453,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530846064,
-        "members": []
-    },
-    {
-        "tag": "UY8JJVR",
-        "name": "....",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 46,
-        "status": "inProgress",
-        "createTime": 1530841249,
-        "prepTime": 7200,
-        "startTime": 1530845341,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530848041,
-        "creator": {
-            "tag": "89998P2G0",
-            "name": "o lend\u00e1rio",
-            "rank": 25,
-            "score": 0,
-            "creator": true,
-            "clan": null
-        },
-        "members": [
-            {
-                "tag": "8U9GQQRY",
-                "clan": {
-                    "tag": "8VVJ8PPJ",
-                    "name": "GulfNation\u2122\ufe0f CL",
-                    "badgeId": 16000043
-                },
-                "name": "carlos252",
-                "rank": 1,
-                "score": 195
-            },
-            {
-                "tag": "R9JJLV8R",
-                "clan": {
-                    "tag": "8VVJ8PPJ",
-                    "name": "GulfNation\u2122\ufe0f CL",
-                    "badgeId": 16000043
-                },
-                "name": "sebaa_018",
-                "rank": 2,
-                "score": 143
-            },
-            {
-                "tag": "9PY998Q8",
-                "clan": {
-                    "tag": "PR2JU0",
-                    "name": "Adult Hooligans",
-                    "badgeId": 16000096
-                },
-                "name": "\u8bad\u7ec3\u5e08\u96f7\u6602",
-                "rank": 3,
-                "score": 113
-            },
-            {
-                "tag": "PP8VV2V",
-                "clan": {
-                    "tag": "800VJYPG",
-                    "name": "LightOfGods",
-                    "badgeId": 16000122
-                },
-                "name": "David El Grande",
-                "rank": 4,
-                "score": 105
-            },
-            {
-                "tag": "8V2GRCJY",
-                "clan": {
-                    "tag": "8G9L0JLY",
-                    "name": "Seoul Royalers",
-                    "badgeId": 16000124
-                },
-                "name": "qweas02",
-                "rank": 5,
-                "score": 97
-            },
-            {
-                "tag": "2YQC0Q9Q",
-                "clan": {
-                    "tag": "GCR09UJ",
-                    "name": "Ahvaz",
-                    "badgeId": 16000058
-                },
-                "name": "King Of Empire",
-                "rank": 6,
-                "score": 92
-            },
-            {
-                "tag": "8ULLJLC0L",
-                "clan": {
-                    "tag": "999PQ29G",
-                    "name": "\u300a\u2605\u96e8\u8fc7@\u661f\u8fb0\u2605\u300b",
-                    "badgeId": 16000009
-                },
-                "name": "\u900d\u9065\u2606",
-                "rank": 7,
-                "score": 84
-            },
-            {
-                "tag": "28GCRVL2Y",
-                "clan": {
-                    "tag": "2VRPR29",
-                    "name": "KUKS ARMY",
-                    "badgeId": 16000058
-                },
-                "name": "Evandro",
-                "rank": 8,
-                "score": 74
-            },
-            {
-                "tag": "2CCGJQ2Q8",
-                "clan": {
-                    "tag": "2CPLVCQ",
-                    "name": "\ucd08\uc804\ubc15\uc0b4",
-                    "badgeId": 16000126
-                },
-                "name": "\uc0c8\ud574\uc124\ub0a0",
-                "rank": 9,
-                "score": 66
-            },
-            {
-                "tag": "90U8PGVQP",
-                "clan": {
-                    "tag": "22JR20QU",
-                    "name": "Alianza PRO MC",
-                    "badgeId": 16000043
-                },
-                "name": "criminal XD",
-                "rank": 10,
-                "score": 63
-            },
-            {
-                "tag": "9PPV0PYQ",
-                "clan": {
-                    "tag": "2LYLJPC",
-                    "name": "\u5c4c\u70b8\u6dfb",
-                    "badgeId": 16000000
-                },
-                "name": "wzm",
-                "rank": 11,
-                "score": 63
-            },
-            {
-                "tag": "290GCRYV2",
-                "clan": {
-                    "tag": "9QV00PLL",
-                    "name": "os super mario",
-                    "badgeId": 16000158
-                },
-                "name": "Gabriel",
-                "rank": 12,
-                "score": 61
-            },
-            {
-                "tag": "99RRY9R8P",
-                "clan": {
-                    "tag": "C98PUJ",
-                    "name": "AFLAK",
-                    "badgeId": 16000077
-                },
-                "name": "NEVER GIVE UP",
-                "rank": 13,
-                "score": 61
-            },
-            {
-                "tag": "RP0VQ8YQ",
-                "clan": {
-                    "tag": "2CV0JRQQ",
-                    "name": "Serdadu Bluesky",
-                    "badgeId": 16000173
-                },
-                "name": "Yudo Hebat",
-                "rank": 14,
-                "score": 59
-            },
-            {
-                "tag": "28L8GUCYU",
-                "clan": {
-                    "tag": "88L2PVRR",
-                    "name": "\u9b54\u6cd5\u5de5\u4f1aIII",
-                    "badgeId": 16000003
-                },
-                "name": "\u98de\u7fd4",
-                "rank": 15,
-                "score": 57
-            },
-            {
-                "tag": "L9R8Q2U8",
-                "clan": {
-                    "tag": "22RG0JQQ",
-                    "name": "resident evil",
-                    "badgeId": 16000044
-                },
-                "name": "aqrx",
-                "rank": 16,
-                "score": 57
-            },
-            {
-                "tag": "YGUVV9JV",
-                "clan": {
-                    "tag": "9GP890V9",
-                    "name": "JS TADO",
-                    "badgeId": 16000154
-                },
-                "name": "\uad6c\uc22b",
-                "rank": 17,
-                "score": 37
-            },
-            {
-                "tag": "LYR98929",
-                "clan": {
-                    "tag": "2GGCYJ2",
-                    "name": "Liverpool YNWA",
-                    "badgeId": 16000019
-                },
-                "name": "UniversalHunter",
-                "rank": 18,
-                "score": 31
-            },
-            {
-                "tag": "CQUU8LJJ",
-                "clan": {
-                    "tag": "VYVCCV",
-                    "name": "\uc5ec\uc758\ub3c4\ubc29\ub791\uc790",
-                    "badgeId": 16000146
-                },
-                "name": "\uc9c0\uc624\uc9c0\uc544",
-                "rank": 19,
-                "score": 31
-            },
-            {
-                "tag": "8JG2VLRR",
-                "clan": {
-                    "tag": "9PQVLRQ8",
-                    "name": "Mile High Magic",
-                    "badgeId": 16000097
-                },
-                "name": "Pac",
-                "rank": 20,
-                "score": 25
-            },
-            {
-                "tag": "20PUCQJP9",
-                "clan": {
-                    "tag": "82JVC0QJ",
-                    "name": "49S@lopards FR3",
-                    "badgeId": 16000153
-                },
-                "name": "Anaelmilian",
-                "rank": 21,
-                "score": 21
-            },
-            {
-                "tag": "8Q0LLYGYR",
-                "clan": {
-                    "tag": "8CGG9GU0",
-                    "name": "CanariasClass",
-                    "badgeId": 16000172
-                },
-                "name": "miguelAnge1",
-                "rank": 22,
-                "score": 20
-            },
-            {
-                "tag": "22RGG2YPJ",
-                "clan": {
-                    "tag": "8QU9UL2",
-                    "name": "glory road",
-                    "badgeId": 16000078
-                },
-                "name": "MX_MATRiix",
-                "rank": 23,
-                "score": 12
-            },
-            {
-                "tag": "2YJLP900",
-                "clan": {
-                    "tag": "YQPU9RQ",
-                    "name": "\u0627\u062d\u0628\u0627\u0628 \u0633\u0648\u0631\u064a\u0627",
-                    "badgeId": 16000028
-                },
-                "name": "\u0648\u0633\u064a\u0645",
-                "rank": 24,
-                "score": 12
-            },
-            {
-                "tag": "89998P2G0",
-                "name": "o lend\u00e1rio",
-                "rank": 25,
-                "score": 0,
-                "creator": true,
-                "clan": null
-            },
-            {
-                "tag": "9YCVGLYVG",
-                "clan": {
-                    "tag": "9VQ8YL0L",
-                    "name": "\u7edd\u5bf9\u7edd\u671b Meat",
-                    "badgeId": 16000142
-                },
-                "name": "\u4e3f\u51b7\u706c\u989c",
-                "rank": 26,
-                "score": 0
-            },
-            {
-                "tag": "8YRU08C08",
-                "clan": {
-                    "tag": "8RJYVQ8U",
-                    "name": "BRAZUCAS TEAM",
-                    "badgeId": 16000058
-                },
-                "name": "\u0158\u00f8\u0111 \u015e\u0163\u00e4\u0159",
-                "rank": 27,
-                "score": 0
-            },
-            {
-                "tag": "80CGRG8JP",
-                "clan": {
-                    "tag": "2Y9U2PP0",
-                    "name": "LEGOMANIACOS",
-                    "badgeId": 16000007
-                },
-                "name": "KITO",
-                "rank": 28,
-                "score": 0
-            },
-            {
-                "tag": "8JVQJ0LJG",
-                "clan": {
-                    "tag": "2Y2GGGP",
-                    "name": "On Wisconsin",
-                    "badgeId": 16000154
-                },
-                "name": "Come Queso",
-                "rank": 29,
-                "score": 0
-            },
-            {
-                "tag": "82GYCQ99L",
-                "clan": {
-                    "tag": "98CUVVGC",
-                    "name": "SecretWeapon",
-                    "badgeId": 16000058
-                },
-                "name": "Sther",
-                "rank": 30,
-                "score": 0
-            },
-            {
-                "tag": "202G0C8YJ",
-                "clan": {
-                    "tag": "8GR02YC8",
-                    "name": "\u658c\u72d7\u72d7",
-                    "badgeId": 16000168
-                },
-                "name": "15657",
-                "rank": 31,
-                "score": 0
-            },
-            {
-                "tag": "8P2GQPVCQ",
-                "clan": {
-                    "tag": "9RJPV2PC",
-                    "name": "los selv\u00e0ticos",
-                    "badgeId": 16000014
-                },
-                "name": "Anaa",
-                "rank": 32,
-                "score": 0
-            },
-            {
-                "tag": "LQLRL08G",
-                "clan": {
-                    "tag": "RG9YR8P",
-                    "name": "Kuaizero_\u9a6c\u6765\u897f\u4e9a",
-                    "badgeId": 16000029
-                },
-                "name": "\u9aa8\u5d99\u5d99",
-                "rank": 33,
-                "score": 0
-            },
-            {
-                "tag": "9JGGVYU",
-                "clan": {
-                    "tag": "82VU8VL0",
-                    "name": "\u0627\u06cc\u0631\u0627\u0646\u06cc\u0627\u0646",
-                    "badgeId": 16000081
-                },
-                "name": "SHEYDA_SP",
-                "rank": 34,
-                "score": 0
-            },
-            {
-                "tag": "2JVVUUY9U",
-                "clan": {
-                    "tag": "YJVC2V2",
-                    "name": "Guatemala tac",
-                    "badgeId": 16000028
-                },
-                "name": "carlos pro",
-                "rank": 35,
-                "score": 0
-            },
-            {
-                "tag": "80G02JUC",
-                "clan": {
-                    "tag": "9PQVLRQ8",
-                    "name": "Mile High Magic",
-                    "badgeId": 16000097
-                },
-                "name": "Babez",
-                "rank": 36,
-                "score": 0
-            },
-            {
-                "tag": "8VLG099J0",
-                "clan": {
-                    "tag": "8CG98PCG",
-                    "name": "\u00c7l\u00e2\u0144 \u0122\u00fa\u00eb\u0155\u0155\u00eb\u0155\u00f8\u015f\u2604",
-                    "badgeId": 16000043
-                },
-                "name": "$dementex$",
-                "rank": 37,
-                "score": 0
-            },
-            {
-                "tag": "2LQ2JQ9CP",
-                "clan": {
-                    "tag": "9VPPR8UU",
-                    "name": "Honor & Gloria",
-                    "badgeId": 16000020
-                },
-                "name": "JORGEPROS17",
-                "rank": 38,
-                "score": 0
-            },
-            {
-                "tag": "22LCR2YY0",
-                "clan": {
-                    "tag": "22C99PLR",
-                    "name": "FARMA DANA",
-                    "badgeId": 16000061
-                },
-                "name": "DanielVIII",
-                "rank": 39,
-                "score": 0
-            },
-            {
-                "tag": "2P9CRQ8RU",
-                "clan": {
-                    "tag": "9Y8QGQ00",
-                    "name": "chile 3.0",
-                    "badgeId": 16000025
-                },
-                "name": "soy alpachino",
-                "rank": 40,
-                "score": 0
-            },
-            {
-                "tag": "2R9UG020G",
-                "clan": {
-                    "tag": "9QCLJVCR",
-                    "name": "\u626b\u9ec4\u9f98\u961f",
-                    "badgeId": 16000144
-                },
-                "name": "\u66f9\u5c3c\u739b12321",
-                "rank": 41,
-                "score": 0
-            },
-            {
-                "tag": "29RPUQV2",
-                "clan": {
-                    "tag": "9PQVLRQ8",
-                    "name": "Mile High Magic",
-                    "badgeId": 16000097
-                },
-                "name": "Paaiin",
-                "rank": 42,
-                "score": 0
-            },
-            {
-                "tag": "8Q22R9VVV",
-                "clan": {
-                    "tag": "8JJCV9JV",
-                    "name": "Kapital Royale",
-                    "badgeId": 16000046
-                },
-                "name": "D4RKN3SS",
-                "rank": 43,
-                "score": 0
-            },
-            {
-                "tag": "2PPYJ9Y2",
-                "clan": {
-                    "tag": "28Q0PYPL",
-                    "name": "MasTeR \u05d1",
-                    "badgeId": 16000004
-                },
-                "name": "JOKER",
-                "rank": 44,
-                "score": 0
-            },
-            {
-                "tag": "8YLCY8L29",
-                "clan": {
-                    "tag": "9P2UPY9G",
-                    "name": "Clan War'S \u2728 GT",
-                    "badgeId": 16000044
-                },
-                "name": "Destructor Z916",
-                "rank": 45,
-                "score": 0
-            },
-            {
-                "tag": "YJ0ULQJG",
-                "clan": {
-                    "tag": "8VVJ8PPJ",
-                    "name": "GulfNation\u2122\ufe0f CL",
-                    "badgeId": 16000043
-                },
-                "name": "Yimy",
-                "rank": 46,
-                "score": 0
-            }
-        ]
-    },
-    {
-        "tag": "CJ9JJGG",
-        "name": "Portuanopase",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 48,
-        "status": "inProgress",
-        "createTime": 1530843394,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "pepe503",
-        "updatedAt": 1530849052,
-        "members": []
-    },
-    {
-        "tag": "UY2C0VV",
-        "name": "xd",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530843133,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "hola",
-        "updatedAt": 1530849786,
-        "members": []
-    },
-    {
-        "tag": "UL89VV8",
-        "name": "a por todo",
-        "open": true,
-        "maxPlayers": 200,
-        "currentPlayers": 199,
-        "status": "inProgress",
-        "createTime": 1530842720,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530846659,
-        "members": []
-    },
-    {
-        "tag": "UY99922",
-        "name": "tou",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530840300,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "de",
-        "updatedAt": 1530843674,
-        "members": []
-    },
-    {
-        "tag": "229UJ22U",
-        "name": "bi",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530839298,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530843005,
-        "members": []
-    },
-    {
-        "tag": "29C8RL80",
-        "name": "en memoria de Black destiny",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530838312,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "para voz pto ja ja ja",
-        "updatedAt": 1530841846,
-        "members": []
-    },
-    {
-        "tag": "29CY920U",
-        "name": "Los Durakos",
+        "tag": "CGUGCLY",
+        "name": "gladiyator",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 41,
-        "status": "inProgress",
-        "createTime": 1530836777,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "Eres un duro? gana el torneo y demuestralo \ud83d\udcaa\ud83d\udc4d",
-        "updatedAt": 1530847242,
-        "members": []
-    },
-    {
-        "tag": "2088RYGL",
-        "name": "GoD",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 48,
-        "status": "inProgress",
-        "createTime": 1530835183,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "Let's play",
-        "updatedAt": 1530845804,
-        "members": []
-    },
-    {
-        "tag": "2088G8GR",
-        "name": "gladiadores",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530833972,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "torneo clan gladiadores",
-        "updatedAt": 1530838223,
-        "members": []
-    },
-    {
-        "tag": "CC2RV8R",
-        "name": "Clash",
-        "open": true,
-        "maxPlayers": 100,
-        "currentPlayers": 99,
-        "status": "inProgress",
-        "createTime": 1530833066,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "This is a newly formed clan. Already pushing 40000 cs. Wars will start this week end. we will cruise through bronze & S.",
-        "updatedAt": 1530838209,
-        "members": []
-    },
-    {
-        "tag": "2089L92P",
-        "name": "Heaven burn",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530832697,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "Vamos a practicar que gane el mejor",
-        "updatedAt": 1530841828,
-        "members": []
-    },
-    {
-        "tag": "229URGGL",
-        "name": "gito panzon",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530828140,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "gito panzon gito nalgon guito meketrefe",
-        "updatedAt": 1530832260,
-        "members": []
-    },
-    {
-        "tag": "UY9R8RP",
-        "name": "duplas lendarias",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530827519,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "entre nesse torneio e ganhe",
-        "updatedAt": 1530831047,
-        "members": []
-    },
-    {
-        "tag": "29C98UGC",
-        "name": "Nerf Witch",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 48,
-        "status": "inProgress",
-        "createTime": 1530826874,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "Style is god",
-        "updatedAt": 1530837647,
-        "members": []
-    },
-    {
-        "tag": "29CY8PGG",
-        "name": "furia oscura",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530825124,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "los mejores",
-        "updatedAt": 1530835830,
-        "members": []
-    },
-    {
-        "tag": "228C9QG0",
-        "name": "teste",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530823735,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "Go!",
-        "updatedAt": 1530828075,
-        "members": []
-    },
-    {
-        "tag": "CGYLQYY",
-        "name": "Royale Elite",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530822803,
+        "status": "inPreparation",
+        "createTime": 1532083741,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530827419,
+        "updatedAt": 1532084361,
         "members": []
     },
     {
-        "tag": "CGY9QGL",
-        "name": "N\u00e9stor el bloque",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530822787,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "N\u00c9STOR EL BLOQ",
-        "updatedAt": 1530833456,
-        "members": []
-    },
-    {
-        "tag": "CC28RPG",
-        "name": "TROLLER",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 48,
-        "status": "inProgress",
-        "createTime": 1530821005,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530824495,
-        "members": []
-    },
-    {
-        "tag": "UY0VQ0R",
-        "name": "cr\u00e9ole 974",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530821125,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "pou nous gagne avancer in peu plus",
-        "updatedAt": 1530824413,
-        "members": []
-    },
-    {
-        "tag": "CJ9RUU0",
-        "name": "Galaico power",
-        "open": true,
-        "maxPlayers": 200,
-        "currentPlayers": 199,
-        "status": "inProgress",
-        "createTime": 1530819660,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "solo para quien se una al clan",
-        "updatedAt": 1530824431,
-        "members": []
-    },
-    {
-        "tag": "UY8C9LV",
-        "name": "passa tempo",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530816898,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "simples e facil",
-        "updatedAt": 1530820271,
-        "members": []
-    },
-    {
-        "tag": "UL88PL0",
-        "name": "Alepndro",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530816628,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "Alepndro",
-        "updatedAt": 1530820201,
-        "members": []
-    },
-    {
-        "tag": "UY92CLC",
-        "name": "antrax es la clabe",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530816343,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "lospro",
-        "updatedAt": 1530819866,
-        "members": []
-    },
-    {
-        "tag": "CGP0JQP",
-        "name": "d people",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530814387,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530817895,
-        "members": []
-    },
-    {
-        "tag": "229V98YQ",
-        "name": "TeamElite_Br",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530812945,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "S\u00f3 a Elite...",
-        "updatedAt": 1530823272,
-        "members": []
-    },
-    {
-        "tag": "229V99RC",
-        "name": "bloodisNEW",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 29,
-        "status": "inProgress",
-        "createTime": 1530813078,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "winner take all bragging rights",
-        "updatedAt": 1530823807,
-        "members": []
-    },
-    {
-        "tag": "228C8UL0",
-        "name": "BBB",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530812309,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530820805,
-        "members": []
-    },
-    {
-        "tag": "2089Y2YU",
-        "name": "El Gran Torneo",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530809867,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "All players in all shapes and sizes can join for free!",
-        "updatedAt": 1530813626,
-        "members": []
-    },
-    {
-        "tag": "CC2GJ8V",
-        "name": "2k #86 lol wow cr ind paid a 1",
-        "open": true,
-        "maxPlayers": 1000,
-        "currentPlayers": 158,
-        "status": "inProgress",
-        "createTime": 1530809427,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "join t.me/crindtours on Telegram or follow @crindtours on Twitter for last min pass",
-        "updatedAt": 1530820209,
-        "members": []
-    },
-    {
-        "tag": "UY8C0UY",
-        "name": "kings",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530805867,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530809446,
-        "members": []
-    },
-    {
-        "tag": "229CY800",
-        "name": "Simone xd",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530805850,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530809484,
-        "members": []
-    },
-    {
-        "tag": "UY2GCR2",
-        "name": "tete",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530804551,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530808285,
-        "members": []
-    },
-    {
-        "tag": "CGPCCV8",
-        "name": "cracs de frre fire",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530801314,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "para todos",
-        "updatedAt": 1530805227,
-        "members": []
-    },
-    {
-        "tag": "228JYYC0",
-        "name": "w.k.b",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530800643,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "cla w.k.b se quiser entrar entra no cla",
-        "updatedAt": 1530811295,
-        "members": []
-    },
-    {
-        "tag": "CGYYRGV",
-        "name": "desafio da estrat\u00e9gia",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530799809,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530803419,
-        "members": []
-    },
-    {
-        "tag": "CGPP099",
-        "name": "Gemer.HD",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530797763,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "****l Kampf Turnier",
-        "updatedAt": 1530801024,
-        "members": []
-    },
-    {
-        "tag": "CC22LPU",
-        "name": "legend pro",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530796911,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "herkez girebilir",
-        "updatedAt": 1530800454,
-        "members": []
-    },
-    {
-        "tag": "UL80CQL",
-        "name": "Imperio.titan",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530787902,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "solo clan",
-        "updatedAt": 1530798635,
-        "members": []
-    },
-    {
-        "tag": "228C2P98",
-        "name": "Liga PUBG",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530781344,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "ayo",
-        "updatedAt": 1530792074,
-        "members": []
-    },
-    {
-        "tag": "228JPRPJ",
-        "name": "world cup",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530783329,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "who can win the cup???",
-        "updatedAt": 1530786717,
-        "members": []
-    },
-    {
-        "tag": "UY8Q9PJ",
-        "name": "IMP\u00c9RIO ROYAL",
-        "open": true,
-        "maxPlayers": 100,
-        "currentPlayers": 94,
-        "status": "inProgress",
-        "createTime": 1530760731,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "imp\u00e9rio royal",
-        "updatedAt": 1530769243,
-        "members": []
-    },
-    {
-        "tag": "CGY8RCR",
-        "name": "EcuaRoyale",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530745525,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530756165,
-        "members": []
-    },
-    {
-        "tag": "UY9Q999",
-        "name": "petarda xdxdxd",
+        "tag": "22PY92UU",
+        "name": "killer",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
         "status": "inPreparation",
-        "createTime": 1530749718,
+        "createTime": 1532083671,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
-        "description": "k gane el mejor :v y unete al grupo que se llama:elgranpapus",
-        "updatedAt": 1530750038,
+        "description": "clash on.. let's rock",
+        "updatedAt": 1532084169,
         "members": []
     },
     {
-        "tag": "CJ9L8GG",
-        "name": "jp",
+        "tag": "UYGV8LP",
+        "name": "CRcells.zam.com 1301",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 3,
+        "status": "inProgress",
+        "createTime": 1532081098,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "CRcells.zam.com is hosting 24/7 Cash Tournaments - Check out the tournament section for pasword - Twitch.Tv/CRcells",
+        "updatedAt": 1532084410,
+        "members": []
+    },
+    {
+        "tag": "29CCRG00",
+        "name": "RED*DEVILS*",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
         "status": "inProgress",
-        "createTime": 1530743017,
+        "createTime": 1532080792,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
-        "description": "so os amigos",
-        "updatedAt": 1530744623,
+        "description": "please help me bros\ud83d\ude18\ud83d\ude2d\ud83d\ude2d",
+        "updatedAt": 1532084406,
         "members": []
     },
     {
-        "tag": "UY9QUY8",
-        "name": "\u043c\u0430\u043d\u0438\u0444\u0435\u0441\u0442",
+        "tag": "29CC88CQ",
+        "name": "king king king clan",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532073406,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "first join my clan after be Enjoy this tourmanant thanks for all guys next tournament be Enjoy karo ok",
+        "updatedAt": 1532080625,
+        "members": []
+    },
+    {
+        "tag": "29CC82Q9",
+        "name": "vmskbjekgs",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532073401,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1532084109,
+        "members": []
+    },
+    {
+        "tag": "UYJQR8Q",
+        "name": "legendary",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 47,
         "status": "inProgress",
-        "createTime": 1530733045,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "\u0442\u0443\u0440\u043d\u0438\u0440 \u043a\u043b\u0430\u043d\u0430",
-        "updatedAt": 1530735681,
-        "members": []
-    },
-    {
-        "tag": "UY9PPJL",
-        "name": "\u0411\u0438\u0442\u0432\u0430 \u0411\u043e\u0433\u043e\u0432",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 24,
-        "status": "inPreparation",
-        "createTime": 1530733810,
+        "createTime": 1532066328,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530735681,
+        "updatedAt": 1532069892,
         "members": []
     },
     {
-        "tag": "CG9JQJL",
-        "name": "\u0442\u043e\u043b\u044c\u043a\u043e \u0434\u043b\u044f \u0441\u043e\u043a\u043b\u0430\u043d\u043e\u0432\u0446\u0435\u0432))",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 39,
-        "status": "inProgress",
-        "createTime": 1530725808,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "\u0447\u0442\u043e\u0431 \u043d\u0435 \u0441\u043a\u0443\u0447\u0430\u0442\u044c)",
-        "updatedAt": 1530732257,
-        "members": []
-    },
-    {
-        "tag": "CGPGU80",
-        "name": "king",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inPreparation",
-        "createTime": 1530731564,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "AR you oki",
-        "updatedAt": 1530732219,
-        "members": []
-    },
-    {
-        "tag": "CC0U9V8",
-        "name": "LEONES LATINO",
+        "tag": "UYQCYJP",
+        "name": "jg10",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
         "status": "inProgress",
-        "createTime": 1530727627,
+        "createTime": 1532064949,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
-        "description": "unanse a LEONES LATINO",
-        "updatedAt": 1530731447,
+        "description": "ganenme putos",
+        "updatedAt": 1532068633,
         "members": []
     },
     {
-        "tag": "228JU0Q8",
-        "name": "gonzalo",
+        "tag": "22PY8P8P",
+        "name": "Universo 7",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
-        "status": "inPreparation",
-        "createTime": 1530715895,
+        "status": "inProgress",
+        "createTime": 1532062062,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "\ud83d\udcaa\ud83c\udffb",
+        "updatedAt": 1532067079,
+        "members": []
+    },
+    {
+        "tag": "CGU09PY",
+        "name": "pitudoxd",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532061710,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "\ud83d\udca9",
+        "updatedAt": 1532065426,
+        "members": []
+    },
+    {
+        "tag": "CGUQQ8Y",
+        "name": "heroes Alliance's show down",
+        "open": true,
+        "maxPlayers": 1000,
+        "currentPlayers": 999,
+        "status": "inProgress",
+        "createTime": 1532059289,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "This is the ultimate grand prize of heroes Alliance. and together we will show bad influence who's boss.",
+        "updatedAt": 1532070084,
+        "members": []
+    },
+    {
+        "tag": "UYJQ9VY",
+        "name": "2470\u2019s exclusive",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 12,
+        "status": "inProgress",
+        "createTime": 1532057037,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530723019,
+        "updatedAt": 1532067675,
         "members": []
     },
     {
-        "tag": "29C8CJC2",
-        "name": "Sieger",
+        "tag": "UYJQ8R2",
+        "name": "alpha",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
         "status": "inProgress",
-        "createTime": 1530720329,
+        "createTime": 1532056876,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530721248,
+        "updatedAt": 1532067001,
         "members": []
     },
     {
-        "tag": "2088G9UU",
-        "name": "mama del chon",
+        "tag": "2298UQU8",
+        "name": "subhasis",
         "open": true,
         "maxPlayers": 50,
-        "currentPlayers": 5,
+        "currentPlayers": 49,
         "status": "inProgress",
-        "createTime": 1530716830,
+        "createTime": 1532055965,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "ghosh",
+        "updatedAt": 1532066688,
+        "members": []
+    },
+    {
+        "tag": "229P2QQV",
+        "name": "boiiiiiiii",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532055537,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530722682,
+        "updatedAt": 1532066308,
         "members": []
     },
     {
-        "tag": "29C8CYQV",
-        "name": "GER",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 20,
-        "status": "inProgress",
-        "createTime": 1530720119,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "Clash pio. GER",
-        "updatedAt": 1530723020,
-        "members": []
-    },
-    {
-        "tag": "CGPQQU0",
-        "name": "AngelsDark",
+        "tag": "22PYU8GQ",
+        "name": "Royale Battle",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
         "status": "inProgress",
-        "createTime": 1530704186,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "\u263a\ud83d\ude18",
-        "updatedAt": 1530708600,
-        "members": []
-    },
-    {
-        "tag": "UY9P82C",
-        "name": "DarkAlliance",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530700906,
+        "createTime": 1532053400,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530704440,
+        "updatedAt": 1532057136,
         "members": []
     },
     {
-        "tag": "CGYRC2P",
-        "name": "nezam",
+        "tag": "CGCUJYR",
+        "name": "feilx",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
         "status": "inProgress",
-        "createTime": 1530693943,
+        "createTime": 1532052414,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "feilx",
+        "updatedAt": 1532056005,
+        "members": []
+    },
+    {
+        "tag": "CCQUYVR",
+        "name": "upiicsa",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532050340,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530697251,
+        "updatedAt": 1532061082,
         "members": []
     },
     {
-        "tag": "CGYG09C",
-        "name": "ANGEL",
+        "tag": "UYJ9UV8",
+        "name": "torneio de magos",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
         "status": "inProgress",
-        "createTime": 1530693262,
+        "createTime": 1532048737,
         "prepTime": 7200,
-        "startTime": 1530700462,
+        "startTime": null,
         "endTime": null,
         "duration": 3600,
-        "description": "",
-        "updatedAt": 1530703924,
-        "creator": {
-            "tag": "P2YC0VYJR",
-            "clan": {
-                "tag": "8V28YLU0",
-                "name": "\u2122WOLF\u2122",
-                "badgeId": 16000024
-            },
-            "name": "ANGEL",
-            "rank": 21,
-            "score": 0,
-            "creator": true
-        },
-        "members": [
-            {
-                "tag": "LQU9JRRQ",
-                "clan": {
-                    "tag": "899PJVQP",
-                    "name": "\u984f\u503c\u9ad8",
-                    "badgeId": 16000177
-                },
-                "name": "\u5feb\u6a02\u8c6c",
-                "rank": 1,
-                "score": 231
-            },
-            {
-                "tag": "JYVQGPV",
-                "clan": {
-                    "tag": "2Y8P92V",
-                    "name": "nissan- ntv-DS0",
-                    "badgeId": 16000039
-                },
-                "name": "hoa\u0300ng vi\u0303",
-                "rank": 2,
-                "score": 230
-            },
-            {
-                "tag": "JPLJVLY2",
-                "clan": {
-                    "tag": "98JCPCYC",
-                    "name": "GulfNation\u2122 SYR",
-                    "badgeId": 16000043
-                },
-                "name": "Ghost Rider",
-                "rank": 3,
-                "score": 152
-            },
-            {
-                "tag": "RRQJC9L0",
-                "clan": {
-                    "tag": "8L0JUYGP",
-                    "name": "KUAIZERO",
-                    "badgeId": 16000029
-                },
-                "name": "\u56e7\u56e7\u56e7\u56e7\u56e7\u56e7",
-                "rank": 4,
-                "score": 145
-            },
-            {
-                "tag": "9PG0J9U8L",
-                "clan": {
-                    "tag": "90CRLQCJ",
-                    "name": "Turkey Esports",
-                    "badgeId": 16000030
-                },
-                "name": "RedSchoL",
-                "rank": 5,
-                "score": 120
-            },
-            {
-                "tag": "9YR2GVRVP",
-                "clan": {
-                    "tag": "8LYRGQ",
-                    "name": "\u30d5\u30a1\u30df\u30fc\u30e6\u2661",
-                    "badgeId": 16000020
-                },
-                "name": "ReuKuraudo",
-                "rank": 6,
-                "score": 103
-            },
-            {
-                "tag": "PJG8Q0G",
-                "clan": {
-                    "tag": "22VPYP98",
-                    "name": "\u591c\u306e\u76d7\u8cca\u56e3",
-                    "badgeId": 16000139
-                },
-                "name": "Takuto",
-                "rank": 7,
-                "score": 103
-            },
-            {
-                "tag": "Q80C88G",
-                "clan": {
-                    "tag": "8L0VUU0Y",
-                    "name": "Over 40 Rebels",
-                    "badgeId": 16000081
-                },
-                "name": "igor",
-                "rank": 8,
-                "score": 103
-            },
-            {
-                "tag": "Q8CGVGGQ",
-                "clan": {
-                    "tag": "9Q8VJV8L",
-                    "name": "Smile Baby 2nd",
-                    "badgeId": 16000032
-                },
-                "name": "KRD",
-                "rank": 9,
-                "score": 101
-            },
-            {
-                "tag": "J08088QY",
-                "clan": {
-                    "tag": "2LPYUJ2",
-                    "name": "Huawei Jordan",
-                    "badgeId": 16000143
-                },
-                "name": "jameel .J.d",
-                "rank": 10,
-                "score": 58
-            },
-            {
-                "tag": "PLJLL8JJ",
-                "clan": {
-                    "tag": "8R8R080C",
-                    "name": "@moncaeSports",
-                    "badgeId": 16000053
-                },
-                "name": "SANLO",
-                "rank": 11,
-                "score": 53
-            },
-            {
-                "tag": "Q9GGLYP0",
-                "clan": {
-                    "tag": "2ULVRUR",
-                    "name": "IkOmNa gaming",
-                    "badgeId": 16000101
-                },
-                "name": "ThesainT",
-                "rank": 12,
-                "score": 31
-            },
-            {
-                "tag": "PJLCYR8R",
-                "clan": {
-                    "tag": "28QL2UUQ",
-                    "name": "RoyalTurks",
-                    "badgeId": 16000030
-                },
-                "name": "aykut",
-                "rank": 13,
-                "score": 31
-            },
-            {
-                "tag": "UQG0U0VU",
-                "clan": {
-                    "tag": "9L8GPY9C",
-                    "name": "BeiHong",
-                    "badgeId": 16000116
-                },
-                "name": "\u7687\u5e1d",
-                "rank": 14,
-                "score": 24
-            },
-            {
-                "tag": "9JL022GVJ",
-                "clan": {
-                    "tag": "LVCYPL",
-                    "name": "Cyprus clan",
-                    "badgeId": 16000107
-                },
-                "name": "Antreas04boom",
-                "rank": 15,
-                "score": 23
-            },
-            {
-                "tag": "8V9QV2U88",
-                "clan": {
-                    "tag": "2V0CGQC8",
-                    "name": "3.1416tu2",
-                    "badgeId": 16000029
-                },
-                "name": "creyz",
-                "rank": 16,
-                "score": 16
-            },
-            {
-                "tag": "9VPYRYJGL",
-                "clan": {
-                    "tag": "9GLV9920",
-                    "name": "iran iran iran",
-                    "badgeId": 16000150
-                },
-                "name": "BARDIA",
-                "rank": 17,
-                "score": 15
-            },
-            {
-                "tag": "2299C9PQL",
-                "clan": {
-                    "tag": "8LVRP0UV",
-                    "name": "\u0627\u0644\u0634\u064a\u0627\u0637\u064a\u0646 \u0627\u0644\u062d\u0645\u0631",
-                    "badgeId": 16000099
-                },
-                "name": "AI AM THE KING",
-                "rank": 18,
-                "score": 13
-            },
-            {
-                "tag": "8CJUPUVL",
-                "clan": {
-                    "tag": "YP200Q8",
-                    "name": "winners",
-                    "badgeId": 16000146
-                },
-                "name": "zed",
-                "rank": 19,
-                "score": 11
-            },
-            {
-                "tag": "9RQLL8QQQ",
-                "clan": {
-                    "tag": "LVCYPL",
-                    "name": "Cyprus clan",
-                    "badgeId": 16000107
-                },
-                "name": "loukas bro",
-                "rank": 20,
-                "score": 3
-            },
-            {
-                "tag": "P2YC0VYJR",
-                "clan": {
-                    "tag": "8V28YLU0",
-                    "name": "\u2122WOLF\u2122",
-                    "badgeId": 16000024
-                },
-                "name": "ANGEL",
-                "rank": 21,
-                "score": 0,
-                "creator": true
-            },
-            {
-                "tag": "2CV9PRCCL",
-                "clan": {
-                    "tag": "PLYLY2JR",
-                    "name": "Purge Wars",
-                    "badgeId": 16000000
-                },
-                "name": "Dicky Arya",
-                "rank": 22,
-                "score": 0
-            },
-            {
-                "tag": "98QUGJLUP",
-                "name": "o(\uff40\u03c9\u00b4 )o",
-                "rank": 23,
-                "score": 0,
-                "clan": null
-            },
-            {
-                "tag": "8LGYLJU02",
-                "clan": {
-                    "tag": "28CY2VQY",
-                    "name": "\u521d\u5fc3\u8005\u5fdc\u63f4\u30af\u30e9\u30f3",
-                    "badgeId": 16000111
-                },
-                "name": "\u30dd\u30d4p",
-                "rank": 24,
-                "score": 0
-            },
-            {
-                "tag": "8VGJC88P9",
-                "clan": {
-                    "tag": "P9LRCQLL",
-                    "name": "\u8352\u91ce\u738b\u8005",
-                    "badgeId": 16000176
-                },
-                "name": "akito",
-                "rank": 25,
-                "score": 0
-            },
-            {
-                "tag": "P202JY802",
-                "clan": {
-                    "tag": "9R020VLU",
-                    "name": "f\u0131rt\u0131na 61",
-                    "badgeId": 16000030
-                },
-                "name": "keremkkrtgn",
-                "rank": 26,
-                "score": 0
-            },
-            {
-                "tag": "8V99PLRVV",
-                "clan": {
-                    "tag": "9GC8LYVP",
-                    "name": "\u65b0\u83ef\u793e\u2161",
-                    "badgeId": 16000142
-                },
-                "name": "\u3052\u3063\u3061\u3087\u308a",
-                "rank": 27,
-                "score": 0
-            },
-            {
-                "tag": "P0PUUU89",
-                "clan": {
-                    "tag": "P8U9GU",
-                    "name": "Mike's clan",
-                    "badgeId": 16000168
-                },
-                "name": "Simon",
-                "rank": 28,
-                "score": 0
-            },
-            {
-                "tag": "8V2P80PUL",
-                "clan": {
-                    "tag": "UYV8Q2",
-                    "name": "vadodara",
-                    "badgeId": 16000012
-                },
-                "name": "Sekhmet",
-                "rank": 29,
-                "score": 0
-            },
-            {
-                "tag": "8088R0YR9",
-                "clan": {
-                    "tag": "99Y0R8R8",
-                    "name": "ADMINS",
-                    "badgeId": 16000006
-                },
-                "name": "khalil",
-                "rank": 30,
-                "score": 0
-            },
-            {
-                "tag": "898ULQ8L",
-                "clan": {
-                    "tag": "9PCPL928",
-                    "name": "30 +/-",
-                    "badgeId": 16000072
-                },
-                "name": "KicK Ass",
-                "rank": 31,
-                "score": 0
-            },
-            {
-                "tag": "22QRJG0CG",
-                "clan": {
-                    "tag": "2UCV0JQJ",
-                    "name": "G\u00f6ztepe",
-                    "badgeId": 16000013
-                },
-                "name": "PrensKarde\u015fler",
-                "rank": 32,
-                "score": 0
-            },
-            {
-                "tag": "802UY9R0L",
-                "clan": {
-                    "tag": "9QUR8VQL",
-                    "name": "Chinos Official",
-                    "badgeId": 16000008
-                },
-                "name": "The Real Chino",
-                "rank": 33,
-                "score": 0
-            },
-            {
-                "tag": "9RCLLQ8U0",
-                "clan": {
-                    "tag": "9228Y0V9",
-                    "name": "\u0628\u063a\u062f\u0627\u062f",
-                    "badgeId": 16000118
-                },
-                "name": "PROCRAFT",
-                "rank": 34,
-                "score": 0
-            },
-            {
-                "tag": "8CRCPJL9",
-                "clan": {
-                    "tag": "V0L8R9U",
-                    "name": "ChileKinGs",
-                    "badgeId": 16000038
-                },
-                "name": "nicolasxd",
-                "rank": 35,
-                "score": 0
-            },
-            {
-                "tag": "89JUY2Q8Q",
-                "name": "\u5341\u4e09",
-                "rank": 36,
-                "score": 0,
-                "clan": null
-            },
-            {
-                "tag": "9L9GYPCCC",
-                "clan": {
-                    "tag": "92Q9YVGJ",
-                    "name": "Pro clan",
-                    "badgeId": 16000029
-                },
-                "name": "Ronaldo7",
-                "rank": 37,
-                "score": 0
-            },
-            {
-                "tag": "R29YR290",
-                "clan": {
-                    "tag": "VVVRG0L",
-                    "name": "Egypt",
-                    "badgeId": 16000009
-                },
-                "name": "MARK",
-                "rank": 38,
-                "score": 0
-            },
-            {
-                "tag": "8PCY09QGC",
-                "clan": {
-                    "tag": "8YY90VY9",
-                    "name": "Abm_Vase_ONE",
-                    "badgeId": 16000044
-                },
-                "name": "\u00a4Bagus\u00a4",
-                "rank": 39,
-                "score": 0
-            },
-            {
-                "tag": "9G2UPP8CQ",
-                "clan": {
-                    "tag": "8RV2VRPJ",
-                    "name": "SENA",
-                    "badgeId": 16000043
-                },
-                "name": "fiyu alesha",
-                "rank": 40,
-                "score": 0
-            },
-            {
-                "tag": "229R0VYVR",
-                "clan": {
-                    "tag": "89LR8JQL",
-                    "name": "TheDark",
-                    "badgeId": 16000024
-                },
-                "name": "keepInventory",
-                "rank": 41,
-                "score": 0
-            },
-            {
-                "tag": "9YJPQRQLV",
-                "clan": {
-                    "tag": "9L8U9VJC",
-                    "name": "\u062e\u062f\u0627\u06cc\u0627\u0646 \u0648\u0627\u0631",
-                    "badgeId": 16000005
-                },
-                "name": "\u0645\u06af\u0627 \u0646\u0627\u06cc\u062a",
-                "rank": 42,
-                "score": 0
-            },
-            {
-                "tag": "8UVP92PLP",
-                "clan": {
-                    "tag": "2JCCJVCV",
-                    "name": "\u9ec3\u91d1\u4e4b\u98a8",
-                    "badgeId": 16000150
-                },
-                "name": "hhh",
-                "rank": 43,
-                "score": 0
-            },
-            {
-                "tag": "2UVYY90R",
-                "clan": {
-                    "tag": "VRL229",
-                    "name": "Extrema Ratio",
-                    "badgeId": 16000081
-                },
-                "name": "cicciogamer89",
-                "rank": 44,
-                "score": 0
-            },
-            {
-                "tag": "2R2PPP20R",
-                "clan": {
-                    "tag": "JCP089Y",
-                    "name": "\u30ab\u30ad\u30f3\u3001\u30c0\u30e1\u3001\u30bc\u30c3\u30bf\u30a4\u3002",
-                    "badgeId": 16000012
-                },
-                "name": "\u30af\u30e9\u30c3\u30b7\u30e3\u30fc\u30ba",
-                "rank": 45,
-                "score": 0
-            },
-            {
-                "tag": "YVVJRR08",
-                "clan": {
-                    "tag": "9PGQVQP",
-                    "name": "\u5c0f\u9e23\u540c\u5b66\u2014\u58f9\u73ed",
-                    "badgeId": 16000144
-                },
-                "name": "\u8fea\u65af\u5c3c\u4e50\u56ed",
-                "rank": 46,
-                "score": 0
-            },
-            {
-                "tag": "RGGGGPPJ",
-                "clan": {
-                    "tag": "2RLP2LC9",
-                    "name": "z Z king",
-                    "badgeId": 16000025
-                },
-                "name": "\u0637\u0627\u0647\u0631",
-                "rank": 47,
-                "score": 0
-            },
-            {
-                "tag": "9LQQQRRLP",
-                "clan": {
-                    "tag": "2CU9J8",
-                    "name": "KOLKATA CLASHER",
-                    "badgeId": 16000145
-                },
-                "name": "chinmoy",
-                "rank": 48,
-                "score": 0
-            },
-            {
-                "tag": "GGGC2URL",
-                "clan": {
-                    "tag": "CJ2LRP",
-                    "name": "ForEverKingZ",
-                    "badgeId": 16000144
-                },
-                "name": "Uvvve FUNKI BOY",
-                "rank": 49,
-                "score": 0
-            }
-        ]
+        "description": "neste torneio voc\u00ea ir\u00e1 batalhar contra advers\u00e1rios dif\u00edceis mas nele poder\u00e1 mostrar seu m\u00e9rito.",
+        "updatedAt": 1532052424,
+        "members": []
     },
     {
-        "tag": "29CPGU2J",
-        "name": "Adrian",
+        "tag": "UYGCPPG",
+        "name": "EL MANZANO SNBK",
         "open": true,
         "maxPlayers": 50,
-        "currentPlayers": 2,
-        "status": "inPreparation",
-        "createTime": 1530651591,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532045396,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "KE GANE EL MEJOR!!",
+        "updatedAt": 1532056160,
+        "members": []
+    },
+    {
+        "tag": "UYGC0YJ",
+        "name": "The escrubs",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 46,
+        "status": "inProgress",
+        "createTime": 1532045293,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "Juegen alv",
+        "updatedAt": 1532049120,
+        "members": []
+    },
+    {
+        "tag": "UYR98GY",
+        "name": "devel",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532044418,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530651601,
+        "updatedAt": 1532048074,
         "members": []
     },
     {
-        "tag": "UY98QUV",
-        "name": "isa",
+        "tag": "UYJ08RU",
+        "name": "CRAKS",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
         "status": "inProgress",
-        "createTime": 1530639286,
+        "createTime": 1532043680,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "nada",
+        "updatedAt": 1532047208,
+        "members": []
+    },
+    {
+        "tag": "208R9V9J",
+        "name": "fornite p1",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532040671,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530649906,
+        "updatedAt": 1532044377,
         "members": []
     },
     {
-        "tag": "CG9JCR9",
-        "name": "el pro xd :v",
+        "tag": "2298C89U",
+        "name": "\u00a7gravedad cero\u00a7",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
         "status": "inProgress",
-        "createTime": 1530631962,
+        "createTime": 1532038399,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
-        "description": "disfruten mucho el torneo xd contrase\u00f1a: :-)@$",
-        "updatedAt": 1530636079,
+        "description": "gracias por participar",
+        "updatedAt": 1532042024,
         "members": []
     },
     {
-        "tag": "UL80QGL",
-        "name": "\u041e\u0422\u0411\u041e\u0420 \u0442\u043e\u043f\u0447\u0438\u043a\u043e\u0432 \u043d\u0430 \u041a\u0432",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 37,
-        "status": "inProgress",
-        "createTime": 1530627097,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "\u043f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u0438 \u0437\u0430\u0439\u0434\u0438\u0442\u0435 \u0432 Wild World \u0441 1-5 \u043c\u0435\u0441\u0442\u0430",
-        "updatedAt": 1530633695,
-        "members": []
-    },
-    {
-        "tag": "29C98J08",
-        "name": "kings",
+        "tag": "22998YYC",
+        "name": "free tournament",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
         "status": "inProgress",
-        "createTime": 1530623031,
+        "createTime": 1532038226,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "looking for consistent members for war!!! please join us and have fun!!",
+        "updatedAt": 1532049019,
+        "members": []
+    },
+    {
+        "tag": "UYR8J0V",
+        "name": "the king",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532036138,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530633773,
+        "updatedAt": 1532046914,
         "members": []
     },
     {
-        "tag": "228R0JQV",
-        "name": "luka",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530621738,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "lukachotora",
-        "updatedAt": 1530625237,
-        "members": []
-    },
-    {
-        "tag": "UY0RRLU",
-        "name": "sagan",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530615131,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "nnnnnnnn",
-        "updatedAt": 1530622872,
-        "members": []
-    },
-    {
-        "tag": "2082U09Q",
-        "name": "youtobosok",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 34,
-        "status": "inProgress",
-        "createTime": 1530612704,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "gyere be a clanba/join my clane",
-        "updatedAt": 1530616285,
-        "members": []
-    },
-    {
-        "tag": "UY80GGL",
-        "name": "a b c d e f l m n t s p o r",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 24,
-        "status": "inProgress",
-        "createTime": 1530612002,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "on recherche des joueurs actif et stable pr\u00e8s a se poser dans la dur\u00e9e. clan tres r\u00e9cent. fait ta demande \ud83d\ude09 bon jeu",
-        "updatedAt": 1530616268,
-        "members": []
-    },
-    {
-        "tag": "UY2VRQG",
-        "name": "B\u0130Z\u0130M 4L\u00dc",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530605422,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530610804,
-        "members": []
-    },
-    {
-        "tag": "CGP8L0P",
-        "name": "Torneo",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530595195,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "me costo mucho, asi que paguen pvtos >:v",
-        "updatedAt": 1530598860,
-        "members": []
-    },
-    {
-        "tag": "CC20VCP",
-        "name": "NO SE QUE PONER",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530585275,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530591061,
-        "members": []
-    },
-    {
-        "tag": "229CP8V2",
-        "name": "torneo",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530582426,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530592894,
-        "members": []
-    },
-    {
-        "tag": "UL2UG8L",
-        "name": "nova sport",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530581007,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "quien sera el 1",
-        "updatedAt": 1530585064,
-        "members": []
-    },
-    {
-        "tag": "228GUUL9",
-        "name": "Faith Kings Tournament",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530578534,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "Let's have fun guys!",
-        "updatedAt": 1530582974,
-        "members": []
-    },
-    {
-        "tag": "228RJLYG",
-        "name": "mexico rifa",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530578027,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530581582,
-        "members": []
-    },
-    {
-        "tag": "2082UP8L",
-        "name": "NovaLatinos",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 17,
-        "status": "inProgress",
-        "createTime": 1530576156,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "si quieres la contra del torneo unete al clan y la contra se pasar\u00e1 cuando el clan este lleno y si no te gusta pz noUNAD",
-        "updatedAt": 1530586846,
-        "members": []
-    },
-    {
-        "tag": "2082C8LV",
-        "name": "Team Truppe",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530574893,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "suerte a todos !!",
-        "updatedAt": 1530585666,
-        "members": []
-    },
-    {
-        "tag": "20882Y9J",
-        "name": "only one",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530571118,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530574850,
-        "members": []
-    },
-    {
-        "tag": "UY8222C",
-        "name": "david",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530569425,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530573012,
-        "members": []
-    },
-    {
-        "tag": "UY828L2",
-        "name": "CAVEIRA",
+        "tag": "ULG2PUY",
+        "name": "Diosde",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 48,
         "status": "inProgress",
-        "createTime": 1530569520,
+        "createTime": 1532035527,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "contrase\u00f1a por twitch: Di0sde",
+        "updatedAt": 1532042049,
+        "members": []
+    },
+    {
+        "tag": "208RR9RV",
+        "name": "yayayyyyy",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532035312,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530580208,
+        "updatedAt": 1532046091,
         "members": []
     },
     {
-        "tag": "UY0QCY8",
-        "name": "Unanse al clan=)",
+        "tag": "UYQRGUU",
+        "name": "bombac\u0131 m\u00fclayim",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
         "status": "inProgress",
-        "createTime": 1530569174,
+        "createTime": 1532034658,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
-        "description": "Legendarios\ud83d\udcaa",
-        "updatedAt": 1530579676,
+        "description": "pompalay\u0131n birbirinizi",
+        "updatedAt": 1532038272,
         "members": []
     },
     {
-        "tag": "UY2UCC0",
-        "name": "IBA\u00d1EZ",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530568753,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "ENCUANTO SE LLENE LO INICIO",
-        "updatedAt": 1530573033,
-        "members": []
-    },
-    {
-        "tag": "CGP882L",
-        "name": "JIMMY325",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530565369,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "canal you tube jimmy325 suscribirse y darle like",
-        "updatedAt": 1530571834,
-        "members": []
-    },
-    {
-        "tag": "UY8C88L",
-        "name": "NOVA OP ELITE",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530564782,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "xdxdxdxdxdxd",
-        "updatedAt": 1530575453,
-        "members": []
-    },
-    {
-        "tag": "CG9P0PL",
-        "name": "torneitor",
+        "tag": "22PPVJUG",
+        "name": "trouna",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 48,
         "status": "inProgress",
-        "createTime": 1530564332,
+        "createTime": 1532033795,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530574868,
+        "updatedAt": 1532038548,
         "members": []
     },
     {
-        "tag": "CGY9GUY",
-        "name": "wester",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530562417,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "",
-        "updatedAt": 1530573083,
-        "members": []
-    },
-    {
-        "tag": "UY99PY2",
-        "name": "viva amlo2018-2024",
+        "tag": "CGCPQLU",
+        "name": "habt Spass",
         "open": true,
         "maxPlayers": 100,
         "currentPlayers": 99,
         "status": "inProgress",
-        "createTime": 1530562781,
-        "prepTime": 7200,
-        "startTime": null,
-        "endTime": null,
-        "duration": 3600,
-        "description": "torneo para celebrar la victoria de amlo gente que tenga mas de 4k de copas se puede unir con buen rendimiento en guera",
-        "updatedAt": 1530570072,
-        "members": []
-    },
-    {
-        "tag": "CC0GJP9",
-        "name": "dragonbollz",
-        "open": true,
-        "maxPlayers": 50,
-        "currentPlayers": 49,
-        "status": "inProgress",
-        "createTime": 1530561664,
+        "createTime": 1532032691,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530565217,
+        "updatedAt": 1532043443,
         "members": []
     },
     {
-        "tag": "CGPGRQ2",
-        "name": "power",
+        "tag": "CGCR8C0",
+        "name": "spartanos",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
         "status": "inProgress",
-        "createTime": 1530560527,
+        "createTime": 1532032157,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "os saluda los que van a morir\ud83e\udd2f\ud83e\udd2c\ud83d\ude07\ud83d\ude30\ud83d\ude35\ud83d\ude35\ud83d\ude35\ud83e\udd2a\ud83d\ude28",
+        "updatedAt": 1532035873,
+        "members": []
+    },
+    {
+        "tag": "CGCR08L",
+        "name": "cesar gay",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532032025,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
         "description": "",
-        "updatedAt": 1530564056,
+        "updatedAt": 1532036098,
         "members": []
     },
     {
-        "tag": "CGP2PPU",
-        "name": "mar",
+        "tag": "22PLCCP2",
+        "name": "Free",
         "open": true,
         "maxPlayers": 50,
         "currentPlayers": 49,
         "status": "inProgress",
-        "createTime": 1530560640,
+        "createTime": 1532031779,
         "prepTime": 7200,
         "startTime": null,
         "endTime": null,
         "duration": 3600,
-        "description": "mar",
-        "updatedAt": 1530571243,
+        "description": "die",
+        "updatedAt": 1532035468,
+        "members": []
+    },
+    {
+        "tag": "CGCCUR9",
+        "name": "Efra tu papi",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532027825,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "entren gay......",
+        "updatedAt": 1532038591,
+        "members": []
+    },
+    {
+        "tag": "CGCJVG9",
+        "name": "Twitch.tv/Nic0le",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532027296,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "Go to Twitch.tv/nic0le for password",
+        "updatedAt": 1532033127,
+        "members": []
+    },
+    {
+        "tag": "CGUY8Q9",
+        "name": "join free",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532026127,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "JOIN MY CLAN PLEASE, JOIN CLAN FOR PASSWORD",
+        "updatedAt": 1532032133,
+        "members": []
+    },
+    {
+        "tag": "CCG8890",
+        "name": "mati",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532025474,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "kaks",
+        "updatedAt": 1532029451,
+        "members": []
+    },
+    {
+        "tag": "ULGJ0PC",
+        "name": "perros",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532023338,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "A divertirnos!!!!que gane el mejor",
+        "updatedAt": 1532034059,
+        "members": []
+    },
+    {
+        "tag": "UYRPJC8",
+        "name": "jurs",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532022791,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "13508",
+        "updatedAt": 1532027146,
+        "members": []
+    },
+    {
+        "tag": "208R8LY8",
+        "name": "rdx",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532021998,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1532025611,
+        "members": []
+    },
+    {
+        "tag": "CGCCPCQ",
+        "name": "WWE Raw",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532019636,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "Q pasoo..El wason bb",
+        "updatedAt": 1532023220,
+        "members": []
+    },
+    {
+        "tag": "2299UR22",
+        "name": "Nicaragua",
+        "open": true,
+        "maxPlayers": 100,
+        "currentPlayers": 99,
+        "status": "inProgress",
+        "createTime": 1532018232,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1532028829,
+        "members": []
+    },
+    {
+        "tag": "UYJ2LVJ",
+        "name": "gutty lal",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532017292,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "mosti",
+        "updatedAt": 1532028076,
+        "members": []
+    },
+    {
+        "tag": "CCG2UP8",
+        "name": "santi y Gonza",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532017089,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "putin",
+        "updatedAt": 1532021000,
+        "members": []
+    },
+    {
+        "tag": "CJRULV8",
+        "name": "namoro mt",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532016569,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1532020581,
+        "members": []
+    },
+    {
+        "tag": "UYQUCPQ",
+        "name": "king",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532015855,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "no caption needed",
+        "updatedAt": 1532019861,
+        "members": []
+    },
+    {
+        "tag": "UYGVLY0",
+        "name": "entra ae",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532013931,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1532022618,
+        "members": []
+    },
+    {
+        "tag": "22PLJ929",
+        "name": "Sattiva",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532013846,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1532017520,
+        "members": []
+    },
+    {
+        "tag": "CGUPPJR",
+        "name": "no pass here",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532013215,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1532023986,
+        "members": []
+    },
+    {
+        "tag": "ULQGGCU",
+        "name": "free",
+        "open": true,
+        "maxPlayers": 100,
+        "currentPlayers": 99,
+        "status": "inProgress",
+        "createTime": 1532010513,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "join",
+        "updatedAt": 1532021258,
+        "members": []
+    },
+    {
+        "tag": "208GCYCU",
+        "name": "busco novia",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532009418,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1532013065,
+        "members": []
+    },
+    {
+        "tag": "CGCRJGQ",
+        "name": "tiuj",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532008571,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1532012203,
+        "members": []
+    },
+    {
+        "tag": "208RQYG9",
+        "name": "Dio",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532008387,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "ciao",
+        "updatedAt": 1532012037,
+        "members": []
+    },
+    {
+        "tag": "CCQL9JU",
+        "name": "aaa",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532007288,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "bbb",
+        "updatedAt": 1532010830,
+        "members": []
+    },
+    {
+        "tag": "29CGC8LG",
+        "name": "gualobs torneo",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532007015,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "torneo jaja quien se une",
+        "updatedAt": 1532010519,
+        "members": []
+    },
+    {
+        "tag": "29CGC28P",
+        "name": "Igor YouTube",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 48,
+        "status": "inProgress",
+        "createTime": 1532006837,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "entrem no cl\u00e3 que eu falo meu canal e a senha",
+        "updatedAt": 1532013426,
+        "members": []
+    },
+    {
+        "tag": "CCG0JGJ",
+        "name": "CRcells.zam.com 1291",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532005488,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "CRcells.zam.com is hosting 24/7 Cash Tournaments - Check out the tournament section for password - Twitch.tv./CRcells",
+        "updatedAt": 1532012198,
+        "members": []
+    },
+    {
+        "tag": "CJRCV2L",
+        "name": "Go And WIN.",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532005010,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "This tournament is fot you guys.",
+        "updatedAt": 1532015774,
+        "members": []
+    },
+    {
+        "tag": "UYGUQP9",
+        "name": "free fun",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532005009,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "\ud83d\ude1c",
+        "updatedAt": 1532008694,
+        "members": []
+    },
+    {
+        "tag": "208RLV0C",
+        "name": "S\u00d3VEM",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1532000906,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "BOA SORTE A TODOS",
+        "updatedAt": 1532004443,
+        "members": []
+    },
+    {
+        "tag": "UYQVCRG",
+        "name": "BIGYAN NG JACKET SI GLET",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531998998,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "top 3 OP",
+        "updatedAt": 1532009721,
+        "members": []
+    },
+    {
+        "tag": "ULQQRC0",
+        "name": "almonstr",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531996310,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1532007083,
+        "members": []
+    },
+    {
+        "tag": "29CGJ0C8",
+        "name": "gfnfh",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531989644,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1531993242,
+        "members": []
+    },
+    {
+        "tag": "CCQGPQ2",
+        "name": "vogel",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531988969,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "alles z\u00e4lt",
+        "updatedAt": 1531999660,
+        "members": []
+    },
+    {
+        "tag": "29CC9GYJ",
+        "name": "got s\u0131k",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531987749,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1531991365,
+        "members": []
+    },
+    {
+        "tag": "22PYLPPQ",
+        "name": "\u0627\u0646\u0633\u062a\u0642\u0631\u0627\u0645 azo_119_",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531981670,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "\u0636\u064a\u0641\u0648\u0646\u064a \u0627\u0646\u0633\u062a\u0642\u0631\u0627\u0645 azo_119_",
+        "updatedAt": 1531985296,
+        "members": []
+    },
+    {
+        "tag": "29CJJC0V",
+        "name": "ooooooooocbbfbfifbbebbekkfnbdd",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531977994,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "nddheeuddjjdvvfuujffbffvvjffjffnffbrbbkrkffbrrjrr",
+        "updatedAt": 1531981599,
+        "members": []
+    },
+    {
+        "tag": "ULG9900",
+        "name": "Free Tournament",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531976912,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "Rompanse la madre",
+        "updatedAt": 1531980520,
+        "members": []
+    },
+    {
+        "tag": "2298U9V9",
+        "name": "me vale verg*",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531968066,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "ganen ******s perrosv",
+        "updatedAt": 1531978852,
+        "members": []
+    },
+    {
+        "tag": "UYR2RRJ",
+        "name": "todo o nada",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531967551,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "\ud83d\ude07",
+        "updatedAt": 1531978311,
+        "members": []
+    },
+    {
+        "tag": "CCQP2JP",
+        "name": "Destroyer",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531967226,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1531970920,
+        "members": []
+    },
+    {
+        "tag": "208GGPJY",
+        "name": "\u00daltimos Reyes",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531967089,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "Torneo de entrenamiento y entretenimiento :D",
+        "updatedAt": 1531974000,
+        "members": []
+    },
+    {
+        "tag": "UYRV20P",
+        "name": "unanse al clan!",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531966725,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "contra en el clan!!!!",
+        "updatedAt": 1531970284,
+        "members": []
+    },
+    {
+        "tag": "CGJLGPY",
+        "name": "unance",
+        "open": true,
+        "maxPlayers": 100,
+        "currentPlayers": 99,
+        "status": "inProgress",
+        "createTime": 1531966162,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "la contrase\u00f1a es : pene para el que lo lee",
+        "updatedAt": 1531972883,
+        "members": []
+    },
+    {
+        "tag": "UYQ00YQ",
+        "name": "ni\u00f1o sin amor",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531966064,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1531976089,
+        "members": []
+    },
+    {
+        "tag": "CCQLGVV",
+        "name": "luzu",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531963365,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "suerte y ganen",
+        "updatedAt": 1531967094,
+        "members": []
+    },
+    {
+        "tag": "22PLLLCC",
+        "name": "los valientes caballeros",
+        "open": true,
+        "maxPlayers": 100,
+        "currentPlayers": 99,
+        "status": "inProgress",
+        "createTime": 1531963118,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "Demuestra tus habilidades luchando con otros jugares,lucha hasta hanar como un valiente caballero",
+        "updatedAt": 1531967002,
+        "members": []
+    },
+    {
+        "tag": "UYJ290C",
+        "name": "join us realstoners",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531962020,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "join our clan. need more members for war.",
+        "updatedAt": 1531972761,
+        "members": []
+    },
+    {
+        "tag": "CGU8V8L",
+        "name": "PURO MEXICANO",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531960459,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "VAMOS A VER QUIEN ES EL MEJOR",
+        "updatedAt": 1531967319,
+        "members": []
+    },
+    {
+        "tag": "22PYCL88",
+        "name": "SantaMuerte",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531960423,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "La muerte a llegado al clan quien ser\u00e1 el mejor es hora de comprobarlo. suerte a todos \u2620\ufe0f\u262f\ufe0f",
+        "updatedAt": 1531971086,
+        "members": []
+    },
+    {
+        "tag": "ULGGPCG",
+        "name": "The Legendaries",
+        "open": true,
+        "maxPlayers": 100,
+        "currentPlayers": 99,
+        "status": "inProgress",
+        "createTime": 1531958054,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "este torneo es su premio por subir a liga de bronce tres asi que echenle mas ganas y are mas torneos unance al clan",
+        "updatedAt": 1531961965,
+        "members": []
+    },
+    {
+        "tag": "2292GR2Y",
+        "name": "tttrrr",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531955260,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1531965875,
+        "members": []
+    },
+    {
+        "tag": "2299R2L9",
+        "name": "Brasileir\u00e3o",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531956965,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "aberto",
+        "updatedAt": 1531967680,
+        "members": []
+    },
+    {
+        "tag": "22PYJGYG",
+        "name": "VAMOS DESCORCHADORES",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531956866,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "A LUCHAR",
+        "updatedAt": 1531967551,
+        "members": []
+    },
+    {
+        "tag": "208RP2U9",
+        "name": "Super Clan Word Hell",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531955417,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "unanse",
+        "updatedAt": 1531963786,
+        "members": []
+    },
+    {
+        "tag": "208GQ0LY",
+        "name": "TDX04",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531953799,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "\ud83d\ude00",
+        "updatedAt": 1531960244,
+        "members": []
+    },
+    {
+        "tag": "UYR2JVV",
+        "name": "campa\u00f1a",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531952078,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1531962808,
+        "members": []
+    },
+    {
+        "tag": "CGU0GQ9",
+        "name": "jossue",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531952037,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "solo los *****",
+        "updatedAt": 1531955616,
+        "members": []
+    },
+    {
+        "tag": "UYGVLPU",
+        "name": "ivan y aaron",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531949722,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "si te unis al clan te paso la contrase\u00f1a",
+        "updatedAt": 1531953705,
+        "members": []
+    },
+    {
+        "tag": "CGCL0Y2",
+        "name": "Vatreni2018",
+        "open": true,
+        "maxPlayers": 100,
+        "currentPlayers": 99,
+        "status": "inProgress",
+        "createTime": 1531949083,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1531953103,
+        "members": []
+    },
+    {
+        "tag": "UYRR9LR",
+        "name": "k.g.r. best",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531948940,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1531952561,
+        "members": []
+    },
+    {
+        "tag": "CCQ89GG",
+        "name": "pro",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531948508,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "lol",
+        "updatedAt": 1531952825,
+        "members": []
+    },
+    {
+        "tag": "22PPLVQJ",
+        "name": "RomaniaShoTz",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531947839,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "dadadaddad",
+        "updatedAt": 1531951582,
+        "members": []
+    },
+    {
+        "tag": "CCQ2VRJ",
+        "name": "Angels Of Hell",
+        "open": true,
+        "maxPlayers": 50,
+        "currentPlayers": 49,
+        "status": "inProgress",
+        "createTime": 1531945988,
+        "prepTime": 7200,
+        "startTime": null,
+        "endTime": null,
+        "duration": 3600,
+        "description": "",
+        "updatedAt": 1531953418,
         "members": []
     }
 ]
