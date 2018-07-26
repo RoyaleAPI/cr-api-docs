@@ -36,13 +36,12 @@ The above command returns JSON structured like this. In the actual response, the
 [
     {
         "tag": "CUUVGVP",
-        "type": "open",
+        "open": true,
         "status": "inPreparation",
         "name": "hola",
-        "capacity": 50,
-        "playerCount": 50,
+        "currentPlayers": 50,
         "maxCapacity": 50,
-        "preparationDuration": 7200,
+        "prepTime": 7200,
         "duration": 3600,
         "createTime": 1518090895,
         "startTime": null,

@@ -38,7 +38,6 @@ The above command returns JSON structured like this. In the actual response, the
         "tag": "CQVCRRC",
         "name": "Nova SG Monthly Cup",
         "open": false,
-        "maxPlayers": 1000,
         "currentPlayers": 44,
         "status": "inProgress",
         "createTime": 1529145581,
@@ -49,9 +48,6 @@ The above command returns JSON structured like this. In the actual response, the
         "description": "good luck to SG Branch! #NovaStrong #AyisGOD",
         "updatedAt": 1529156328,
         "maxCapacity": 1000,
-        "playerCount": 44,
-        "preparationDuration": 7200,
-        "type": "passwordProtected"
     }
 ]
 ```
