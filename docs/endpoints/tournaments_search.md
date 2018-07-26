@@ -33,13 +33,13 @@ https://api.royaleapi.com/tournaments/search?name=a
         "status": "inPreparation",
         "creatorTag": "#99Y90URP8",
         "name": "Andrei Geanta",
-        "maxCapacity": 50,
-        "preparationDuration": 7200,
+        "maxPlayers": 50,
+        "prepTime": 7200,
         "duration": 3600,
         "createTime": 1520249970,
         "startTime": null,
         "endTime": null,
-        "playerCount": 50,
+        "currentPlayers": 50,
         "members": []
     },
     {
@@ -49,13 +49,13 @@ https://api.royaleapi.com/tournaments/search?name=a
         "creatorTag": "#989G8QLCG",
         "name": "ali",
         "description": "vous pouvez pas rejoindre",
-        "maxCapacity": 100,
-        "preparationDuration": 7200,
+        "maxPlayers": 100,
+        "prepTime": 7200,
         "duration": 3600,
         "createTime": 1520251673,
         "startTime": null,
         "endTime": null,
-        "playerCount": 29,
+        "currentPlayers": 29,
         "members": []
     },
 ]
