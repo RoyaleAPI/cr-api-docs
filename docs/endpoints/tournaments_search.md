@@ -29,7 +29,7 @@ https://api.royaleapi.com/tournaments/search?name=a
 [
     {
         "tag": "20CVYRV8",
-        "type": "open",
+        "open": true,
         "status": "inPreparation",
         "creatorTag": "#99Y90URP8",
         "name": "Andrei Geanta",
@@ -44,7 +44,7 @@ https://api.royaleapi.com/tournaments/search?name=a
     },
     {
         "tag": "C9LRLP0",
-        "type": "passwordProtected",
+        "open": false,
         "status": "inProgress",
         "creatorTag": "#989G8QLCG",
         "name": "ali",
