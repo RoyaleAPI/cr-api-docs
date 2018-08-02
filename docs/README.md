@@ -45,7 +45,7 @@ If you find this API useful, please consider [donating](/donate) so we can conti
     - [Known Tournaments](/endpoints/tournaments_known)
     - [1K Tournaments](/endpoints/tournaments_1k)
     - [Open Tournaments](/endpoints/tournaments_open)
-    - [In Preperation Tournaments](/endpoints/tournaments_prep)
+    - [In Preperation Tournaments](/endpoints/tournaments_inprep)
     - [Full Tournaments](/endpoints/tournaments_full)
     - [Joinable Tournaments](/endpoints/tournaments_joinable)
     - [Tournaments Search](/endpoints/tournaments_search)
