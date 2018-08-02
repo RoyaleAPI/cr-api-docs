@@ -23,7 +23,7 @@ full     | number | optional | Filters out only full tournaments
 inprep    | number | optional | Filters out only tournaments in preperation
 joinable | number | optional | Filters out only joinable tournaments
 
-[/tournaments/open](/endpoints/tournaments_open), [/tournaments/1k](/endpoints/tournaments_1k), [/tournaments/prep](/endpoints/tournaments_prep), [/tournaments/full](/endpoints/tournaments_full) and [/tournaments/joinable](/endpoints/tournaments_joinable) already implement some of these filters. However, you can still mix and match!
+[/tournaments/open](/endpoints/tournaments_open), [/tournaments/1k](/endpoints/tournaments_1k), [/tournaments/prep](/endpoints/tournaments_inprep), [/tournaments/full](/endpoints/tournaments_full) and [/tournaments/joinable](/endpoints/tournaments_joinable) already implement some of these filters. However, you can still mix and match!
 
 ## Response
 https://api.royaleapi.com/tournaments/joinable
