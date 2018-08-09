@@ -1,14 +1,14 @@
 {
     "state": "warDay",
-    "warEndTime": 1532153338,
+    "warEndTime": 1533838186,
     "clan": {
         "tag": "9LPVG9UC",
         "name": "100T Zen",
-        "participants": 20,
-        "battlesPlayed": 5,
-        "wins": 5,
-        "crowns": 6,
-        "warTrophies": 2120,
+        "participants": 25,
+        "battlesPlayed": 21,
+        "wins": 15,
+        "crowns": 27,
+        "warTrophies": 2449,
         "badge": {
             "name": "A_Char_Rocket_02",
             "category": "03_Royale",
@@ -18,78 +18,155 @@
     },
     "participants": [
         {
-            "tag": "Y9GU9CGR",
-            "name": "sumbowdee",
-            "cardsEarned": 1120,
+            "tag": "8C0UJ90G",
+            "name": "Toadlby",
+            "cardsEarned": 840,
             "battlesPlayed": 2,
-            "wins": 2
+            "wins": 0
         },
         {
-            "tag": "29UJ08PR",
-            "name": "Peacepipe",
-            "cardsEarned": 1120,
+            "tag": "2GPUCCQUG",
+            "name": "TheDangerBox",
+            "cardsEarned": 1680,
             "battlesPlayed": 1,
             "wins": 1
         },
         {
-            "tag": "2CLC90Q0Y",
-            "name": "Aeria",
-            "cardsEarned": 1120,
+            "tag": "8Y8QQPGJ",
+            "name": "TheTraywick",
+            "cardsEarned": 1400,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "LGC928",
+            "name": "Angel of Death",
+            "cardsEarned": 1400,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "90L0V8QQ",
+            "name": "Swarls Barkley",
+            "cardsEarned": 1400,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "URPPCYYJ",
+            "name": "ricardo",
+            "cardsEarned": 1400,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "PR0GV29C",
+            "name": "swoleytien",
+            "cardsEarned": 1400,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "89LUPQ2G",
+            "name": "gam",
+            "cardsEarned": 1400,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "GQ2R9UC0",
+            "name": "freek24",
+            "cardsEarned": 1400,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "Q0JC2RJC",
+            "name": "Vicsanity",
+            "cardsEarned": 1400,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "GP22PYRV",
+            "name": "Dpons",
+            "cardsEarned": 1400,
             "battlesPlayed": 1,
             "wins": 1
         },
         {
             "tag": "PL98CCQJ",
             "name": "Ab\u00f8 Nizar",
+            "cardsEarned": 1120,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "88YYVPQC",
+            "name": "RIP The Dream",
+            "cardsEarned": 1120,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "8Q9JYQ29",
+            "name": "Thalan",
+            "cardsEarned": 1120,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "2UCRLP0L",
+            "name": "Akash",
+            "cardsEarned": 1120,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "8VGCCRY2",
+            "name": "Hirtel",
             "cardsEarned": 840,
             "battlesPlayed": 1,
             "wins": 1
         },
         {
-            "tag": "RLJGCV22",
-            "name": "Goatgoat",
+            "tag": "2Y9R2JV8",
+            "name": "Malan",
+            "cardsEarned": 1400,
+            "battlesPlayed": 1,
+            "wins": 0
+        },
+        {
+            "tag": "920C0CP2",
+            "name": "dankim9",
+            "cardsEarned": 1400,
+            "battlesPlayed": 1,
+            "wins": 0
+        },
+        {
+            "tag": "8V2Y0UQV",
+            "name": "StratifieD",
+            "cardsEarned": 1120,
+            "battlesPlayed": 1,
+            "wins": 0
+        },
+        {
+            "tag": "R8CCJC9U",
+            "name": "SR RADIM M CZ#2",
+            "cardsEarned": 1120,
+            "battlesPlayed": 1,
+            "wins": 0
+        },
+        {
+            "tag": "GL8Q9JRJ",
+            "name": "ng\u00e2n",
             "cardsEarned": 1680,
             "battlesPlayed": 0,
             "wins": 0
         },
         {
-            "tag": "YQPCYU2",
-            "name": "MrRoger",
-            "cardsEarned": 1487,
-            "battlesPlayed": 0,
-            "wins": 0
-        },
-        {
-            "tag": "QQJP28JQ",
-            "name": "Rob^BledShot#2",
-            "cardsEarned": 1470,
-            "battlesPlayed": 0,
-            "wins": 0
-        },
-        {
-            "tag": "8Q9JYQ29",
-            "name": "Thalan",
-            "cardsEarned": 1400,
-            "battlesPlayed": 0,
-            "wins": 0
-        },
-        {
-            "tag": "89LUPQ2G",
-            "name": "gam",
-            "cardsEarned": 1400,
-            "battlesPlayed": 0,
-            "wins": 0
-        },
-        {
-            "tag": "JVQ2VRQL",
-            "name": "elissandro2004",
-            "cardsEarned": 1400,
-            "battlesPlayed": 0,
-            "wins": 0
-        },
-        {
-            "tag": "Q0JC2RJC",
-            "name": "Vicsanity",
+            "tag": "JVCRRQVG",
+            "name": "Aman",
             "cardsEarned": 1400,
             "battlesPlayed": 0,
             "wins": 0
@@ -102,48 +179,6 @@
             "wins": 0
         },
         {
-            "tag": "920C0CP2",
-            "name": "dankim9",
-            "cardsEarned": 1189,
-            "battlesPlayed": 0,
-            "wins": 0
-        },
-        {
-            "tag": "8C0UJ90G",
-            "name": "Toadlby",
-            "cardsEarned": 1120,
-            "battlesPlayed": 0,
-            "wins": 0
-        },
-        {
-            "tag": "P92RPLLC",
-            "name": "sniper0812",
-            "cardsEarned": 1120,
-            "battlesPlayed": 0,
-            "wins": 0
-        },
-        {
-            "tag": "2Y9R2JV8",
-            "name": "Malan",
-            "cardsEarned": 1120,
-            "battlesPlayed": 0,
-            "wins": 0
-        },
-        {
-            "tag": "RPQ9V9JJ",
-            "name": "3THAN",
-            "cardsEarned": 1120,
-            "battlesPlayed": 0,
-            "wins": 0
-        },
-        {
-            "tag": "2CPJQG82C",
-            "name": "GravyTrain",
-            "cardsEarned": 1120,
-            "battlesPlayed": 0,
-            "wins": 0
-        },
-        {
             "tag": "8GP20Q98",
             "name": "Jupiter",
             "cardsEarned": 1120,
@@ -151,52 +186,22 @@
             "wins": 0
         },
         {
-            "tag": "8VGCCRY2",
-            "name": "Hirtel",
-            "cardsEarned": 840,
+            "tag": "P92RPLLC",
+            "name": "sniper0812",
+            "cardsEarned": 560,
             "battlesPlayed": 0,
             "wins": 0
         }
     ],
     "standings": [
         {
-            "tag": "99RP0GRV",
-            "name": "DYNASTY eSports",
-            "participants": 20,
-            "battlesPlayed": 11,
-            "wins": 6,
-            "crowns": 8,
-            "warTrophies": 1623,
-            "badge": {
-                "name": "flag_j_03",
-                "category": "02_Flag",
-                "id": 16000077,
-                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_j_03.png"
-            }
-        },
-        {
-            "tag": "90R8G8U",
-            "name": "\u94bb\u77f3\u72d7",
-            "participants": 22,
-            "battlesPlayed": 10,
-            "wins": 5,
-            "crowns": 13,
-            "warTrophies": 1603,
-            "badge": {
-                "name": "A_Char_King_01",
-                "category": "03_Royale",
-                "id": 16000144,
-                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_King_01.png"
-            }
-        },
-        {
             "tag": "9LPVG9UC",
             "name": "100T Zen",
-            "participants": 20,
-            "battlesPlayed": 5,
-            "wins": 5,
-            "crowns": 6,
-            "warTrophies": 2120,
+            "participants": 25,
+            "battlesPlayed": 21,
+            "wins": 15,
+            "crowns": 27,
+            "warTrophies": 2449,
             "badge": {
                 "name": "A_Char_Rocket_02",
                 "category": "03_Royale",
@@ -205,33 +210,63 @@
             }
         },
         {
-            "tag": "2C9VLY",
-            "name": "Arrust team",
-            "participants": 19,
-            "battlesPlayed": 10,
-            "wins": 3,
-            "crowns": 10,
-            "warTrophies": 1539,
+            "tag": "2U9JLV2U",
+            "name": "MorcillasRoyale",
+            "participants": 27,
+            "battlesPlayed": 23,
+            "wins": 14,
+            "crowns": 24,
+            "warTrophies": 1518,
             "badge": {
-                "name": "Flame_01",
+                "name": "Skull_06",
                 "category": "01_Symbol",
-                "id": 16000000,
-                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_01.png"
+                "id": 16000029,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Skull_06.png"
             }
         },
         {
-            "tag": "YY88QR",
-            "name": "!WoAh DuDe!",
-            "participants": 20,
-            "battlesPlayed": 5,
-            "wins": 2,
-            "crowns": 2,
-            "warTrophies": 1609,
+            "tag": "P2CV09Y",
+            "name": "Spartans Latins",
+            "participants": 27,
+            "battlesPlayed": 24,
+            "wins": 13,
+            "crowns": 23,
+            "warTrophies": 1791,
             "badge": {
-                "name": "Flame_03",
+                "name": "Skull_06",
                 "category": "01_Symbol",
-                "id": 16000002,
-                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_03.png"
+                "id": 16000029,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Skull_06.png"
+            }
+        },
+        {
+            "tag": "8LQQY9P8",
+            "name": "jackid",
+            "participants": 27,
+            "battlesPlayed": 23,
+            "wins": 12,
+            "crowns": 22,
+            "warTrophies": 1622,
+            "badge": {
+                "name": "A_Char_Goblin_01",
+                "category": "03_Royale",
+                "id": 16000154,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Goblin_01.png"
+            }
+        },
+        {
+            "tag": "GJU8P",
+            "name": "Lit Squad Aye",
+            "participants": 26,
+            "battlesPlayed": 26,
+            "wins": 10,
+            "crowns": 18,
+            "warTrophies": 1866,
+            "badge": {
+                "name": "A_Char_King_04",
+                "category": "03_Royale",
+                "id": 16000147,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_King_04.png"
             }
         }
     ]
