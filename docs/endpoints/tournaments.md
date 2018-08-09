@@ -26,13 +26,12 @@ https://api.royaleapi.com/tournament/20YU0VJ9
 ```json
 {
     "tag": "20YU0VJ9",
-    "type": "passwordProtected",
+    "open": false,
     "status": "ended",
     "name": "Some random tourney",
     "description": "Some random tourney description",
-    "capacity": 100,
-    "maxCapacity": 100,
-    "preparationDuration": 7200,
+    "maxPlayers": 100,
+    "prepTime": 7200,
     "duration": 3600,
     "endedTime": "20171227T034657.000Z",
     "startTime": 1514342817,

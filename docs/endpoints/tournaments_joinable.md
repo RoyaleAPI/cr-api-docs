@@ -23,7 +23,7 @@ full     | number | optional | Filters out only full tournaments
 inprep    | number | optional | Filters out only tournaments in preperation
 joinable | number | optional | Filters out only joinable tournaments
 
-[/tournaments/open](/endpoints/tournaments_open), [/tournaments/1k](/endpoints/tournaments_1k), [/tournaments/prep](/endpoints/tournaments_prep), [/tournaments/full](/endpoints/tournaments_full) and [/tournaments/joinable](/endpoints/tournaments_joinable) already implement some of these filters. However, you can still mix and match!
+[/tournaments/open](/endpoints/tournaments_open), [/tournaments/1k](/endpoints/tournaments_1k), [/tournaments/inprep](/endpoints/tournaments_inprep), [/tournaments/full](/endpoints/tournaments_full) and [/tournaments/joinable](/endpoints/tournaments_joinable) already implement some of these filters. However, you can still mix and match!
 
 ## Response
 https://api.royaleapi.com/tournaments/joinable
@@ -36,13 +36,12 @@ The above command returns JSON structured like this. In the actual response, the
 [
     {
         "tag": "CUUVGVP",
-        "type": "open",
+        "open": true,
         "status": "inPreparation",
         "name": "hola",
-        "capacity": 50,
-        "playerCount": 20,
-        "maxCapacity": 50,
-        "preparationDuration": 7200,
+        "currentPlayers": 20,
+        "maxPlayers": 50,
+        "prepTime": 7200,
         "duration": 3600,
         "createTime": 1518090895,
         "startTime": null,
