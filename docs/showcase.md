@@ -315,6 +315,16 @@ Find open joinable Tournaments using royaleapi real-time data.
 - Author: Sagi Yehuday
     - Github: https://github.com/Sagi44
 
+### Royale Verify
+
+A bot that verifies users based on their Clash Royale account
+
+- Twitter: https://twitter.com/StatsyBot
+- Invite: https://discordapp.com/oauth2/authorize?client_id=475712000635305994&permissions=268627008&scope=bot
+- Author: nikoskon
+    - Github: https://github.com/nikoskon2003
+    - Twitter: https://twitter.com/nikoskon03
+
 ## Our apps
 
 ### Author: Selfish
