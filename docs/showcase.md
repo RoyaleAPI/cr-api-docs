@@ -324,6 +324,16 @@ A bot that verifies users based on their Clash Royale account
     - Github: https://github.com/nikoskon2003
     - Twitter: https://twitter.com/nikoskon03
 
+### CR Tournament Finder
+
+This project queries RoyaleAPI and when a new tournament is found, sends a `POST` request to subscribed URLs.
+
+Developers can pick from a range of filters (explained in the README) to get the best results.
+
+- Github: https://github.com/fourjr/cr-tournament-finder
+- Author: fourjr
+    - Github: https://github.com/fourjr
+
 ## Our apps
 
 ### Author: Selfish
