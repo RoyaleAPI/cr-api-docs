@@ -12,6 +12,16 @@ C\# wrapper (both async and sync)
 - Author: SoptikHa2
     - Github: https://github.com/SoptikHa2
 
+## .NET
+
+### P.E.K.K.A
+
+P.E.K.K.A is a client library targeting .NET Standard 2.0 and .NET 4.6.1 that provides an easy way to interact with Royale API.
+
+- Repo: https://github.com/Blind-Striker/clash-royale-client-dotnet
+- Author: Deniz İrgin
+    - Github: https://github.com/Blind-Striker
+
 ## Java  
 
 ### jcrapi

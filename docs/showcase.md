@@ -334,6 +334,18 @@ Developers can pick from a range of filters (explained in the README) to get the
 - Author: fourjr
     - Github: https://github.com/fourjr
 
+### Spell Comparator Clash Royale
+
+Spell Comparator for Clash Royale is the ideal application to know the combination of the damage that your spells can do according to the level of your cards on the other units!
+
+- Apple App Store: https://itunes.apple.com/us/app/spell-comparator-clash-royale/id1424483560
+- Google Play: https://play.google.com/store/apps/details?id=com.clashroyalespells
+- Facebook: https://www.facebook.com/SpellComparator/
+- Authors:
+    - Jordan Montel
+        - Github: https://github.com/JordanMontel
+    - Romain Capelli
+
 ## Our apps
 
 ### Author: Selfish
