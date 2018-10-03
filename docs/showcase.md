@@ -346,6 +346,28 @@ Spell Comparator for Clash Royale is the ideal application to know the combinati
         - Github: https://github.com/JordanMontel
     - Romain Capelli
 
+### Clash Royale Helper
+
+Clash Royale Helper is an application with the purpose to help users of Clash Royale management their accounts.
+With Clash Royale Helper, you can:
+
+1. Create decks as many as you want.
+2. See your deck list when you want.
+3. Export your decks whenever you want to the game Clash Royale. So the slot decks in game will never be an problem now. You can save decks for all events and game plays that you want and export them when necessary.
+4. Import decks from Clash Royale game to the Clash Royale App.
+5. You can copy one deck from the "Deck List" to "Deck Builder" in order to create a similar deck fastest and very simpler.
+6. Delete decks.
+
+Feel free to customize more than one deck for each special event too!
+
+
+- Google Play: https://play.google.com/store/apps/details?id=clashroyalehelper.joaopinho.com.clashroyalehelper
+- Email: clash.royale.helper.app@gmail.com
+- Facebook: https://www.facebook.com/ClashRoyaleHelperApp
+- Author: João Pinho
+    - Google Play: https://play.google.com/store/apps/developer?id=Jo%C3%A3o+Pinho
+    - Github: https://github.com/JoaoPinho
+
 ## Our apps
 
 ### Author: Selfish
