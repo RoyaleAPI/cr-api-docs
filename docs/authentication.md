@@ -1,4 +1,4 @@
-#  Authentication
+# Authentication
 
 All API requests must be accompanied by a developer key. This key is a unique identifier to an individual developer and you should not share it with anyone else.
 
