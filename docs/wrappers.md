@@ -71,9 +71,9 @@ Python Async + Sync wrapper
 
 A wrapper for RoyaleAPI written in Go (Golang).
 
-- Repo: https://github.com/Altarrel/goroyale
-- Author: Altarrel
-    - Github: https://github.com/Altarrel
+- Repo: https://github.com/jegfish/goroyale
+- Author: jegfish
+    - Github: https://github.com/jegfish
 
 ## Retired / Invalid /  No longer maintained
 
