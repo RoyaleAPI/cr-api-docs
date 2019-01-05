@@ -71,10 +71,6 @@ Python Async + Sync wrapper
 
 A wrapper for RoyaleAPI written in Go (Golang).
 
-- Easy access to endpoints through methods in `goroyale.Client`
-- Simple ratelimit handling where a special error is returned (`RatelimitError`) with an attribute `RetryAfter` representing how long to wait before running another request.
-- Field Filter and other query parameters through a `url.Values` or `map[string][]string` object passed to endpoint methods.
-
 - Repo: https://github.com/Altarrel/goroyale
 - Author: Altarrel
     - Github: https://github.com/Altarrel
