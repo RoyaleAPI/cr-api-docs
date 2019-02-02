@@ -368,6 +368,18 @@ Feel free to customize more than one deck for each special event too!
     - Google Play: https://play.google.com/store/apps/developer?id=Jo%C3%A3o+Pinho
     - Github: https://github.com/JoaoPinho
 
+### Sakura Stats
+
+Sakura Stats is an app that focuses on gathering, processing and displaying player statistics of a clan and it can help determine which players are performing good in wars, which still have low level cards and which of them are inactive.
+
+The main feature the app offers is war data collection. As you know, almost every app or site out there offers a history of 10 wars per clan. In contrary this app stores every war’s result it encounters in a local database, thus you can have player statistics for more than 10 wars (starting from the day the app was installed). In addition to that and based on those statistics the app can predict the end result of each current war. The more wars are collected and stored, the more accurate the prediction it becomes!
+
+- Google Play: https://play.google.com/store/apps/details?id=eu.rtsketo.sakurastats
+- Author: DeadlyAlive
+    - Google Play: https://play.google.com/store/apps/developer?id=DeadlyAlive
+    - Github: https://github.com/rtsketo
+
+
 ## Our apps
 
 ### Author: Selfish
