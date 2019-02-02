@@ -2,16 +2,6 @@
 
 !> Unless otherwise noted, this is not an official endorsement.
 
-## C\# #
-
-### crapi-csharp-wrapper
-
-C\# wrapper (both async and sync)
-
-- Repo: https://github.com/SoptikHa2/crapi-csharp-wrapper/)
-- Author: SoptikHa2
-    - Github: https://github.com/SoptikHa2
-
 ## .NET
 
 ### P.E.K.K.A
@@ -83,7 +73,15 @@ A wrapper for RoyaleAPI written in Go (Golang).
 
 Listed here are a list of wrappers that are no longer maintained and in fact no longer work with the latest version of the API. They are included here as our thanks for being an early supporter.
 
-### CrApiCsharp   
+### crapi-csharp-wrapper
+
+C\# wrapper (both async and sync)
+
+- Repo: https://github.com/SoptikHa2/crapi-csharp-wrapper/)
+- Author: SoptikHa2
+    - Github: https://github.com/SoptikHa2
+
+### CrApiCsharp
 
 A C\# wrapper
 
