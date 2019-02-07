@@ -20,8 +20,6 @@ If you find this API useful, please consider [donating](/donate) so we can conti
 - Getting Started
     - [Introduction](/)
     - [Authentication](/authentication)
-    <!-- - [Field Filter](/field_filter)
-    - [Pagination](/pagination) -->
     - [Errors](/errors)
     - [Showcase](/showcase)
     - [Wrappers](/wrappers)

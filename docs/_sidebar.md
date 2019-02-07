@@ -1,8 +1,6 @@
 - Getting Started
     - [Introduction](/)
     - [Authentication](/authentication)
-    <!-- - [Field Filter](/field_filter)
-    - [Pagination](/pagination) -->
     - [Errors](/errors)
     - [Showcase](/showcase)
     - [Wrappers](/wrappers)
