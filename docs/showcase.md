@@ -379,6 +379,14 @@ The main feature the app offers is war data collection. As you know, almost ever
     - Google Play: https://play.google.com/store/apps/developer?id=DeadlyAlive
     - Github: https://github.com/rtsketo
 
+### playedwith.io
+
+playedwith allows you to type in your Clash Royale ID, and see if you have ever played against a streamer. If you have it will show you the video your game on twitch if it is available.
+
+- Website: https://playedwith.io/
+- Author:
+    - Github: https://github.com/Is0tope
+
 
 ## Our apps
 
