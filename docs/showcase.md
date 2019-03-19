@@ -384,7 +384,7 @@ The main feature the app offers is war data collection. As you know, almost ever
 playedwith allows you to type in your Clash Royale ID, and see if you have ever played against a streamer. If you have it will show you the video your game on twitch if it is available.
 
 - Website: https://playedwith.io/
-- Author:
+- Author: Is0tope
     - Github: https://github.com/Is0tope
 
 
