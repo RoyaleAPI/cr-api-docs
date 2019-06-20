@@ -1,0 +1,4992 @@
+[
+    {
+        "warEndTime": "2019-06-20T03:55:10Z",
+        "participants": [
+            {
+                "tag": "V2YGLRPU",
+                "name": "6TLL",
+                "cardsEarned": 2475,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 2,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9V9G9008",
+                "name": "pwncake",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92CQ8UUV",
+                "name": "Ross",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RQGGJG22",
+                "name": "SGV.D0PEE0523",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "CGJGYCYJ",
+                "name": "\u2606\u2661\u2606\u25cfGUSTAVO\u25cf\u2606\u2661\u2606",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2PLPPR2RL",
+                "name": "Cheesecake",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "G0C2VJLR",
+                "name": "Donkey punch",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LGUVCR0",
+                "name": "ig88b",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LL0VQ8L",
+                "name": "John",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VYVG0LQ",
+                "name": "schmanik",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "820CGRLGU",
+                "name": "6Will",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2Q0RC0R99",
+                "name": "Ragnar",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "80LJ2GLL",
+                "name": "Mystic",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QVYVU0JP",
+                "name": "Nasty Nate",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "29LPR20Q",
+                "name": "6Porsas",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2GV90LQJY",
+                "name": "Nasty Nate Jr.",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "29UJ9Q99",
+                "name": "Lime ",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "PY2G8LQ",
+                "name": "6Pokeeee",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YRGYRC",
+                "name": "Royale Storm",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8LVGP0UQQ",
+                "name": "Cheese Twist",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 2
+            },
+            {
+                "tag": "920C0CP2",
+                "name": "dankim9",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "Y09Y9YUQ",
+                "name": "Slephnir",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "822JYQQL",
+                "name": "RGamble3",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8P0UPCQ08",
+                "name": "xXJucyBooty69Xx",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92LQRCUC",
+                "name": "SWAGGER1337",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92U28PYY",
+                "name": "Dexter :P",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RVJLGLV",
+                "name": "Alonso23",
+                "cardsEarned": 1485,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VPG9LRU",
+                "name": "jamie blob",
+                "cardsEarned": 1402,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 2
+            },
+            {
+                "tag": "QRL99CR",
+                "name": "akichie",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9QYC2P0R",
+                "name": "MCBC45",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2QUG8GJ00",
+                "name": "jskipy",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 0,
+                "battlesMissed": 1,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2V280RRP9",
+                "name": "Geson",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8QYCV9JY",
+                "name": "chuz",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YQPCYU2",
+                "name": "MrRoger",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "JCG0LQU8",
+                "name": "\u26a1\ufe0fBanshees\u26a1\ufe0f",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "P902UGRC",
+                "name": "\u262f\ufe0fM3GA\u264e\ufe0f",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQ099VL",
+                "name": "yeudy",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YLVPLYG2",
+                "name": "Zayn",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YCRU0JJL",
+                "name": "Zeus",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            }
+        ],
+        "standings": [
+            {
+                "tag": "9PJ82CRC",
+                "name": "RoyaleAPI Alpha",
+                "participants": 39,
+                "battlesPlayed": 39,
+                "wins": 31,
+                "crowns": 56,
+                "warTrophies": 22770,
+                "warTrophiesChange": 131,
+                "badge": {
+                    "id": 16000005,
+                    "name": "Sword_02",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_02.png"
+                }
+            },
+            {
+                "tag": "20GR8PG",
+                "name": "\uc11c\uc6b8(3040)",
+                "participants": 39,
+                "battlesPlayed": 38,
+                "wins": 21,
+                "crowns": 39,
+                "warTrophies": 3087,
+                "warTrophiesChange": 71,
+                "badge": {
+                    "id": 16000126,
+                    "name": "flag_c_01",
+                    "category": "02_Flag",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_c_01.png"
+                }
+            },
+            {
+                "tag": "20P89J9L",
+                "name": "\u5e78\u8fd0\u56fd\u5ea6",
+                "participants": 40,
+                "battlesPlayed": 39,
+                "wins": 20,
+                "crowns": 38,
+                "warTrophies": 3256,
+                "warTrophiesChange": -5,
+                "badge": {
+                    "id": 16000164,
+                    "name": "A_Char_Hammer_01",
+                    "category": "03_Royale",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Hammer_01.png"
+                }
+            },
+            {
+                "tag": "9RUGVCJU",
+                "name": "#betaclash",
+                "participants": 39,
+                "battlesPlayed": 40,
+                "wins": 17,
+                "crowns": 34,
+                "warTrophies": 2988,
+                "warTrophiesChange": -33,
+                "badge": {
+                    "id": 16000003,
+                    "name": "Flame_04",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_04.png"
+                }
+            },
+            {
+                "tag": "PL9LQC99",
+                "name": "Clash Rejects",
+                "participants": 39,
+                "battlesPlayed": 37,
+                "wins": 8,
+                "crowns": 17,
+                "warTrophies": 2975,
+                "warTrophiesChange": -92,
+                "badge": {
+                    "id": 16000144,
+                    "name": "A_Char_King_01",
+                    "category": "03_Royale",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_King_01.png"
+                }
+            }
+        ],
+        "seasonNumber": 31
+    },
+    {
+        "warEndTime": "2019-06-18T02:51:16Z",
+        "participants": [
+            {
+                "tag": "RVJLGLV",
+                "name": "Alonso23",
+                "cardsEarned": 2337,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 2,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2PLPPR2RL",
+                "name": "Cheesecake",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20YC8P",
+                "name": "Azazel",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VPG9LRU",
+                "name": "jamie blob",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9V9G9008",
+                "name": "pwncake",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8QYCV9JY",
+                "name": "chuz",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "29UJ9Q99",
+                "name": "Lime ",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LGUVCR0",
+                "name": "ig88b",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YRGYRC",
+                "name": "Royale Storm",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20L0L9U9",
+                "name": "Ingentic",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QRL99CR",
+                "name": "akichie",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YCRU0JJL",
+                "name": "Zeus",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "V2YGLRPU",
+                "name": "6TLL",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8P0UPCQ08",
+                "name": "xXJucyBooty69Xx",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "P902UGRC",
+                "name": "\u262f\ufe0fM3GA\u264e\ufe0f",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92LQRCUC",
+                "name": "SWAGGER1337",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "Y09Y9YUQ",
+                "name": "Slephnir",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YLVPLYG2",
+                "name": "Zayn",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8JGGUVC9",
+                "name": "Alan",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "JRGQPRCU",
+                "name": "UncleIsMLA:-)",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LL0VQ8L",
+                "name": "John",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8LVGP0UQQ",
+                "name": "Cheese Twist",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "80LJ2GLL",
+                "name": "Mystic",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "CGJGYCYJ",
+                "name": "\u2606\u2661\u2606\u25cfGUSTAVO\u25cf\u2606\u2661\u2606",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2RUG99LUV",
+                "name": "C-io",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RQGGJG22",
+                "name": "SGV.D0PEE0523",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9QYC2P0R",
+                "name": "MCBC45",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "G0C2VJLR",
+                "name": "Donkey punch",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "920C0CP2",
+                "name": "dankim9",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92U28PYY",
+                "name": "Dexter :P",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "822JYQQL",
+                "name": "RGamble3",
+                "cardsEarned": 1485,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "820CGRLGU",
+                "name": "6Will",
+                "cardsEarned": 1485,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VYVG0LQ",
+                "name": "schmanik",
+                "cardsEarned": 1485,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YR0V2LPL",
+                "name": "RoyaleGhost\u2122",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "JQJYLU0",
+                "name": "hermione",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QVYVU0JP",
+                "name": "Nasty Nate",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YQPCYU2",
+                "name": "MrRoger",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2QUG8GJ00",
+                "name": "jskipy",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2Q0RC0R99",
+                "name": "Ragnar",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2V280RRP9",
+                "name": "Geson",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "PY2G8LQ",
+                "name": "6Pokeeee",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQ099VL",
+                "name": "yeudy",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            }
+        ],
+        "standings": [
+            {
+                "tag": "YLYJ8",
+                "name": "Wi and Fi",
+                "participants": 40,
+                "battlesPlayed": 43,
+                "wins": 39,
+                "crowns": 79,
+                "warTrophies": 21481,
+                "warTrophiesChange": 139,
+                "badge": {
+                    "id": 16000168,
+                    "name": "Freeze_01",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Freeze_01.png"
+                }
+            },
+            {
+                "tag": "9PJ82CRC",
+                "name": "RoyaleAPI Alpha",
+                "participants": 42,
+                "battlesPlayed": 43,
+                "wins": 38,
+                "crowns": 55,
+                "warTrophies": 22639,
+                "warTrophiesChange": 88,
+                "badge": {
+                    "id": 16000005,
+                    "name": "Sword_02",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_02.png"
+                }
+            },
+            {
+                "tag": "8LJCVPVJ",
+                "name": "3C eSports",
+                "participants": 43,
+                "battlesPlayed": 43,
+                "wins": 35,
+                "crowns": 62,
+                "warTrophies": 18295,
+                "warTrophiesChange": 10,
+                "badge": {
+                    "id": 16000040,
+                    "name": "Traditional_Star_05",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Traditional_Star_05.png"
+                }
+            },
+            {
+                "tag": "2U982",
+                "name": "GERMAN ELITE",
+                "participants": 42,
+                "battlesPlayed": 43,
+                "wins": 34,
+                "crowns": 64,
+                "warTrophies": 17151,
+                "warTrophiesChange": -16,
+                "badge": {
+                    "id": 16000164,
+                    "name": "A_Char_Hammer_01",
+                    "category": "03_Royale",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Hammer_01.png"
+                }
+            },
+            {
+                "tag": "GRQ8VYG",
+                "name": "FLAMENGO",
+                "participants": 41,
+                "battlesPlayed": 42,
+                "wins": 17,
+                "crowns": 30,
+                "warTrophies": 2969,
+                "warTrophiesChange": -83,
+                "badge": {
+                    "id": 16000009,
+                    "name": "Bolt_02",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Bolt_02.png"
+                }
+            }
+        ],
+        "seasonNumber": 31
+    },
+    {
+        "warEndTime": "2019-06-15T23:46:34Z",
+        "participants": [
+            {
+                "tag": "2GV90LQJY",
+                "name": "Nasty Nate Jr.",
+                "cardsEarned": 2805,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 2,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20YC8P",
+                "name": "Azazel",
+                "cardsEarned": 1980,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 2,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2QUG8GJ00",
+                "name": "jskipy",
+                "cardsEarned": 1980,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 2,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RQGGJG22",
+                "name": "SGV.D0PEE0523",
+                "cardsEarned": 1485,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 2,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YRGYRC",
+                "name": "Royale Storm",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "920C0CP2",
+                "name": "dankim9",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LGUVCR0",
+                "name": "ig88b",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "JRGQPRCU",
+                "name": "UncleIsMLA:-)",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VYVG0LQ",
+                "name": "schmanik",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YCRU0JJL",
+                "name": "Zeus",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YLVPLYG2",
+                "name": "Zayn",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92U28PYY",
+                "name": "Dexter :P",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8LVGP0UQQ",
+                "name": "Cheese Twist",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "Y09Y9YUQ",
+                "name": "Slephnir",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "V2YGLRPU",
+                "name": "6TLL",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2V280RRP9",
+                "name": "Geson",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QVYVU0JP",
+                "name": "Nasty Nate",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YR0V2LPL",
+                "name": "RoyaleGhost\u2122",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2RUG99LUV",
+                "name": "C-io",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YQPCYU2",
+                "name": "MrRoger",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "29UJ9Q99",
+                "name": "Lime ",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8JGGUVC9",
+                "name": "Alan",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VPG9LRU",
+                "name": "jamie blob",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQ099VL",
+                "name": "yeudy",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9V9G9008",
+                "name": "pwncake",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "CGJGYCYJ",
+                "name": "\u2606\u2661\u2606\u25cfGUSTAVO\u25cf\u2606\u2661\u2606",
+                "cardsEarned": 1980,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "80LJ2GLL",
+                "name": "Mystic",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "822JYQQL",
+                "name": "RGamble3",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20L0L9U9",
+                "name": "Ingentic",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "P902UGRC",
+                "name": "\u262f\ufe0fM3GA\u264e\ufe0f",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9QYC2P0R",
+                "name": "MCBC45",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "JCG0LQU8",
+                "name": "\u26a1\ufe0fBanshees\u26a1\ufe0f",
+                "cardsEarned": 1485,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QRL99CR",
+                "name": "akichie",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92LQRCUC",
+                "name": "SWAGGER1337",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2Q0RC0R99",
+                "name": "Ragnar",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "JQJYLU0",
+                "name": "hermione",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8P0UPCQ08",
+                "name": "xXJucyBooty69Xx",
+                "cardsEarned": 467,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 1
+            },
+            {
+                "tag": "8QYCV9JY",
+                "name": "chuz",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "PY2G8LQ",
+                "name": "6Pokeeee",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "820CGRLGU",
+                "name": "6Will",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2G8CQV89",
+                "name": "tim",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            }
+        ],
+        "standings": [
+            {
+                "tag": "9PJ82CRC",
+                "name": "RoyaleAPI Alpha",
+                "participants": 41,
+                "battlesPlayed": 46,
+                "wins": 41,
+                "crowns": 65,
+                "warTrophies": 22551,
+                "warTrophiesChange": 141,
+                "badge": {
+                    "id": 16000005,
+                    "name": "Sword_02",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_02.png"
+                }
+            },
+            {
+                "tag": "2LR02ULG",
+                "name": "Nova\u5927\u5510 l \u7981\u536b\u519b",
+                "participants": 46,
+                "battlesPlayed": 46,
+                "wins": 37,
+                "crowns": 64,
+                "warTrophies": 16060,
+                "warTrophiesChange": 87,
+                "badge": {
+                    "id": 16000044,
+                    "name": "Star_Shine_03",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+                }
+            },
+            {
+                "tag": "9YR8L8R8",
+                "name": "TeamLiquid PE X",
+                "participants": 43,
+                "battlesPlayed": 44,
+                "wins": 34,
+                "crowns": 50,
+                "warTrophies": 14014,
+                "warTrophiesChange": 9,
+                "badge": {
+                    "id": 16000063,
+                    "name": "flag_d_04",
+                    "category": "02_Flag",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_d_04.png"
+                }
+            },
+            {
+                "tag": "JR0JRCR",
+                "name": "C.R.A",
+                "participants": 44,
+                "battlesPlayed": 42,
+                "wins": 29,
+                "crowns": 58,
+                "warTrophies": 8991,
+                "warTrophiesChange": -21,
+                "badge": {
+                    "id": 16000038,
+                    "name": "Traditional_Star_03",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Traditional_Star_03.png"
+                }
+            },
+            {
+                "tag": "PL0P2R",
+                "name": "+Kings Landing+",
+                "participants": 45,
+                "battlesPlayed": 44,
+                "wins": 29,
+                "crowns": 54,
+                "warTrophies": 8779,
+                "warTrophiesChange": -71,
+                "badge": {
+                    "id": 16000077,
+                    "name": "flag_j_03",
+                    "category": "02_Flag",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_j_03.png"
+                }
+            }
+        ],
+        "seasonNumber": 31
+    },
+    {
+        "warEndTime": "2019-06-13T20:57:24Z",
+        "participants": [
+            {
+                "tag": "9V9G9008",
+                "name": "pwncake",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8JGGUVC9",
+                "name": "Alan",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "CGJGYCYJ",
+                "name": "\u2606\u2661\u2606\u25cfGUSTAVO\u25cf\u2606\u2661\u2606",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2V280RRP9",
+                "name": "Geson",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LGUVCR0",
+                "name": "ig88b",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "28C8G08JJ",
+                "name": "KSG Saskeee\u2b50",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2GV90LQJY",
+                "name": "Nasty Nate Jr.",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "29LPR20Q",
+                "name": "6Porsas",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YRGYRC",
+                "name": "Royale Storm",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RQGGJG22",
+                "name": "SGV.D0PEE0523",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VPG9LRU",
+                "name": "jamie blob",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LL0VQ8L",
+                "name": "John",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "V2YGLRPU",
+                "name": "6TLL",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "P902UGRC",
+                "name": "\u262f\ufe0fM3GA\u264e\ufe0f",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YLVPLYG2",
+                "name": "Zayn",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2G8CQV89",
+                "name": "tim",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2Q0RC0R99",
+                "name": "Ragnar",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "Y09Y9YUQ",
+                "name": "Slephnir",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "920C0CP2",
+                "name": "dankim9",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8P0UPCQ08",
+                "name": "xXJucyBooty69Xx",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "820CGRLGU",
+                "name": "6Will",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20YC8P",
+                "name": "Azazel",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "P09C8929",
+                "name": "mizz",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8LVGP0UQQ",
+                "name": "Cheese Twist",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8QYCV9JY",
+                "name": "chuz",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQUUCL",
+                "name": "KFC",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RVJLGLV",
+                "name": "Alonso23",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2QUG8GJ00",
+                "name": "jskipy",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VYVG0LQ",
+                "name": "schmanik",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YR0V2LPL",
+                "name": "RoyaleGhost\u2122",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9QYC2P0R",
+                "name": "MCBC45",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "VVYRU9G2",
+                "name": "\u26a1Dio\u26a1",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2RUG99LUV",
+                "name": "C-io",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "822JYQQL",
+                "name": "RGamble3",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QRL99CR",
+                "name": "akichie",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YCRU0JJL",
+                "name": "Zeus",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "JQJYLU0",
+                "name": "hermione",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "PY2G8LQ",
+                "name": "6Pokeeee",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "29UJ9Q99",
+                "name": "Lime ",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20L0L9U9",
+                "name": "Ingentic",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QVYVU0JP",
+                "name": "Nasty Nate",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "G0C2VJLR",
+                "name": "Donkey punch",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YC99029P",
+                "name": "SrNando",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 0,
+                "battlesMissed": 1,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92U28PYY",
+                "name": "Dexter :P",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQ099VL",
+                "name": "yeudy",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YQPCYU2",
+                "name": "MrRoger",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            }
+        ],
+        "standings": [
+            {
+                "tag": "9PJ82CRC",
+                "name": "RoyaleAPI Alpha",
+                "participants": 46,
+                "battlesPlayed": 45,
+                "wins": 42,
+                "crowns": 70,
+                "warTrophies": 22410,
+                "warTrophiesChange": 142,
+                "badge": {
+                    "id": 16000005,
+                    "name": "Sword_02",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_02.png"
+                }
+            },
+            {
+                "tag": "2PLQLUQ0",
+                "name": "Mirmidones",
+                "participants": 45,
+                "battlesPlayed": 46,
+                "wins": 40,
+                "crowns": 74,
+                "warTrophies": 19047,
+                "warTrophiesChange": 90,
+                "badge": {
+                    "id": 16000015,
+                    "name": "Crown_04",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Crown_04.png"
+                }
+            },
+            {
+                "tag": "PLG9P28",
+                "name": "CRO-PRO2",
+                "participants": 45,
+                "battlesPlayed": 45,
+                "wins": 24,
+                "crowns": 44,
+                "warTrophies": 6147,
+                "warTrophiesChange": -1,
+                "badge": {
+                    "id": 16000044,
+                    "name": "Star_Shine_03",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+                }
+            },
+            {
+                "tag": "2UYY8VJQ",
+                "name": "#Merengues\u2666",
+                "participants": 41,
+                "battlesPlayed": 41,
+                "wins": 17,
+                "crowns": 33,
+                "warTrophies": 3064,
+                "warTrophiesChange": -33,
+                "badge": {
+                    "id": 16000101,
+                    "name": "Gem_04",
+                    "category": "03_Royale",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Gem_04.png"
+                }
+            },
+            {
+                "tag": "299VPRU",
+                "name": "\u90e8\u843d\u73a9\u5f88\u5927",
+                "participants": 43,
+                "battlesPlayed": 45,
+                "wins": 15,
+                "crowns": 34,
+                "warTrophies": 2944,
+                "warTrophiesChange": -85,
+                "badge": {
+                    "id": 16000013,
+                    "name": "Crown_02",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Crown_02.png"
+                }
+            }
+        ],
+        "seasonNumber": 31
+    },
+    {
+        "warEndTime": "2019-06-11T17:53:05Z",
+        "participants": [
+            {
+                "tag": "P902UGRC",
+                "name": "\u262f\ufe0fM3GA\u264e\ufe0f",
+                "cardsEarned": 2337,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 2,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "80LJ2GLL",
+                "name": "Mystic",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YLVPLYG2",
+                "name": "Zayn",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "CGJGYCYJ",
+                "name": "\u2606\u2661\u2606\u25cfGUSTAVO\u25cf\u2606\u2661\u2606",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92U28PYY",
+                "name": "Dexter :P",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92CQ8UUV",
+                "name": "Ross",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8LVGP0UQQ",
+                "name": "Cheese Twist",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20L0L9U9",
+                "name": "Ingentic",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "29LPR20Q",
+                "name": "6Porsas",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQUUCL",
+                "name": "KFC",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YQPCYU2",
+                "name": "MrRoger",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "P09C8929",
+                "name": "mizz",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VYVG0LQ",
+                "name": "schmanik",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YRGYRC",
+                "name": "Royale Storm",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8JGGUVC9",
+                "name": "Alan",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "V2YGLRPU",
+                "name": "6TLL",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2G8CQV89",
+                "name": "tim",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2Q0RC0R99",
+                "name": "Ragnar",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "Y09Y9YUQ",
+                "name": "Slephnir",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QVYVU0JP",
+                "name": "Nasty Nate",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QRL99CR",
+                "name": "akichie",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2QUG8GJ00",
+                "name": "jskipy",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "G0C2VJLR",
+                "name": "Donkey punch",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LL0VQ8L",
+                "name": "John",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20YC8P",
+                "name": "Azazel",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8QYCV9JY",
+                "name": "chuz",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "PY2G8LQ",
+                "name": "6Pokeeee",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "28C8G08JJ",
+                "name": "KSG Saskeee\u2b50",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2RUG99LUV",
+                "name": "C-io",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8P0UPCQ08",
+                "name": "xXJucyBooty69Xx",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "820CGRLGU",
+                "name": "6Will",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2V280RRP9",
+                "name": "Geson",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "JQJYLU0",
+                "name": "hermione",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "822JYQQL",
+                "name": "RGamble3",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LGUVCR0",
+                "name": "ig88b",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VPG9LRU",
+                "name": "jamie blob",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "920C0CP2",
+                "name": "dankim9",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RVJLGLV",
+                "name": "Alonso23",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2PLPPR2RL",
+                "name": "Cheesecake",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2GV90LQJY",
+                "name": "Nasty Nate Jr.",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YCRU0JJL",
+                "name": "Zeus",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQ099VL",
+                "name": "yeudy",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RQGGJG22",
+                "name": "SGV.D0PEE0523",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YR0V2LPL",
+                "name": "RoyaleGhost\u2122",
+                "cardsEarned": 935,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 1
+            },
+            {
+                "tag": "9V9G9008",
+                "name": "pwncake",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YC99029P",
+                "name": "SrNando",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9QYC2P0R",
+                "name": "MCBC45",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "29UJ9Q99",
+                "name": "Lime ",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            }
+        ],
+        "standings": [
+            {
+                "tag": "9PJ82CRC",
+                "name": "RoyaleAPI Alpha",
+                "participants": 48,
+                "battlesPlayed": 49,
+                "wins": 45,
+                "crowns": 75,
+                "warTrophies": 22268,
+                "warTrophiesChange": 145,
+                "badge": {
+                    "id": 16000005,
+                    "name": "Sword_02",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_02.png"
+                }
+            },
+            {
+                "tag": "8VLPLR29",
+                "name": "#OVERiDE",
+                "participants": 38,
+                "battlesPlayed": 48,
+                "wins": 35,
+                "crowns": 69,
+                "warTrophies": 13600,
+                "warTrophiesChange": 85,
+                "badge": {
+                    "id": 16000078,
+                    "name": "flag_k_01",
+                    "category": "02_Flag",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_k_01.png"
+                }
+            },
+            {
+                "tag": "9RRCJQYQ",
+                "name": "Portugal Wars \u00ae",
+                "participants": 47,
+                "battlesPlayed": 49,
+                "wins": 29,
+                "crowns": 55,
+                "warTrophies": 8839,
+                "warTrophiesChange": 4,
+                "badge": {
+                    "id": 16000090,
+                    "name": "flag_n_01",
+                    "category": "02_Flag",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_n_01.png"
+                }
+            },
+            {
+                "tag": "LGLCRGJ",
+                "name": "Adult Daycare",
+                "participants": 49,
+                "battlesPlayed": 45,
+                "wins": 19,
+                "crowns": 35,
+                "warTrophies": 2952,
+                "warTrophiesChange": -56,
+                "badge": {
+                    "id": 16000007,
+                    "name": "Sword_04",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_04.png"
+                }
+            },
+            {
+                "tag": "2GJULLPR",
+                "name": "Compas HS CR",
+                "participants": 42,
+                "battlesPlayed": 47,
+                "wins": 19,
+                "crowns": 35,
+                "warTrophies": 3308,
+                "warTrophiesChange": -56,
+                "badge": {
+                    "id": 16000024,
+                    "name": "Skull_01",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Skull_01.png"
+                }
+            }
+        ],
+        "seasonNumber": 30
+    },
+    {
+        "warEndTime": "2019-06-09T15:43:07Z",
+        "participants": [
+            {
+                "tag": "2C2VRL0C",
+                "name": "Th\u00e1natos",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LL0VQ8L",
+                "name": "John",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YRGYRC",
+                "name": "Royale Storm",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92CQ8UUV",
+                "name": "Ross",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "29UJ9Q99",
+                "name": "Lime ",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "PY2G8LQ",
+                "name": "6Pokeeee",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "G0C2VJLR",
+                "name": "Donkey punch",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20L0L9U9",
+                "name": "Ingentic",
+                "cardsEarned": 2337,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9V9G9008",
+                "name": "pwncake",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2G8CQV89",
+                "name": "tim",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YR0V2LPL",
+                "name": "RoyaleGhost\u2122",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "P09C8929",
+                "name": "mizz",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "80LJ2GLL",
+                "name": "Mystic",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RQGGJG22",
+                "name": "SGV.D0PEE0523",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RVJLGLV",
+                "name": "Alonso23",
+                "cardsEarned": 2337,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2PLPPR2RL",
+                "name": "Cheesecake",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "822JYQQL",
+                "name": "RGamble3",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "820CGRLGU",
+                "name": "6Will",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "28C8G08JJ",
+                "name": "KSG Saskeee\u2b50",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QRL99CR",
+                "name": "akichie",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8JGGUVC9",
+                "name": "Alan",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "CGJGYCYJ",
+                "name": "\u2606\u2661\u2606\u25cfGUSTAVO\u25cf\u2606\u2661\u2606",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "JQJYLU0",
+                "name": "hermione",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "P902UGRC",
+                "name": "\u262f\ufe0fM3GA\u264e\ufe0f",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9QYC2P0R",
+                "name": "MCBC45",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VYVG0LQ",
+                "name": "schmanik",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YCRU0JJL",
+                "name": "Zeus",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LGUVCR0",
+                "name": "ig88b",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8LVGP0UQQ",
+                "name": "Cheese Twist",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2Q0RC0R99",
+                "name": "Ragnar",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20YC8P",
+                "name": "Azazel",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YQPCYU2",
+                "name": "MrRoger",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QVYVU0JP",
+                "name": "Nasty Nate",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92U28PYY",
+                "name": "Dexter :P",
+                "cardsEarned": 934,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 2
+            },
+            {
+                "tag": "QQ099VL",
+                "name": "yeudy",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQUUCL",
+                "name": "KFC",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2GV90LQJY",
+                "name": "Nasty Nate Jr.",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "Y09Y9YUQ",
+                "name": "Slephnir",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YLVPLYG2",
+                "name": "Zayn",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8QYCV9JY",
+                "name": "chuz",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            }
+        ],
+        "standings": [
+            {
+                "tag": "P8U9RQ",
+                "name": "clash brothers",
+                "participants": 41,
+                "battlesPlayed": 42,
+                "wins": 35,
+                "crowns": 50,
+                "warTrophies": 12988,
+                "warTrophiesChange": 135,
+                "badge": {
+                    "id": 16000078,
+                    "name": "flag_k_01",
+                    "category": "02_Flag",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_k_01.png"
+                }
+            },
+            {
+                "tag": "9PJ82CRC",
+                "name": "RoyaleAPI Alpha",
+                "participants": 40,
+                "battlesPlayed": 42,
+                "wins": 34,
+                "crowns": 63,
+                "warTrophies": 22123,
+                "warTrophiesChange": 84,
+                "badge": {
+                    "id": 16000005,
+                    "name": "Sword_02",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_02.png"
+                }
+            },
+            {
+                "tag": "9J2L9URP",
+                "name": "Nova I Romania",
+                "participants": 40,
+                "battlesPlayed": 41,
+                "wins": 27,
+                "crowns": 46,
+                "warTrophies": 16989,
+                "warTrophiesChange": 2,
+                "badge": {
+                    "id": 16000044,
+                    "name": "Star_Shine_03",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+                }
+            },
+            {
+                "tag": "9JRCV98",
+                "name": "Broterhood COL",
+                "participants": 42,
+                "battlesPlayed": 41,
+                "wins": 27,
+                "crowns": 38,
+                "warTrophies": 3581,
+                "warTrophiesChange": -23,
+                "badge": {
+                    "id": 16000073,
+                    "name": "flag_h_02",
+                    "category": "02_Flag",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_h_02.png"
+                }
+            },
+            {
+                "tag": "9JQGG82J",
+                "name": "50KingsPoland",
+                "participants": 39,
+                "battlesPlayed": 39,
+                "wins": 15,
+                "crowns": 30,
+                "warTrophies": 2986,
+                "warTrophiesChange": -85,
+                "badge": {
+                    "id": 16000145,
+                    "name": "A_Char_King_02",
+                    "category": "03_Royale",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_King_02.png"
+                }
+            }
+        ],
+        "seasonNumber": 30
+    },
+    {
+        "warEndTime": "2019-06-07T15:39:25Z",
+        "participants": [
+            {
+                "tag": "80LJ2GLL",
+                "name": "Mystic",
+                "cardsEarned": 2337,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 2,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "JQJYLU0",
+                "name": "hermione",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "R02RCLJL",
+                "name": "Change Name\u2122",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2GV90LQJY",
+                "name": "Nasty Nate Jr.",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "CGJGYCYJ",
+                "name": "\u2606\u2661\u2606\u25cfGUSTAVO\u25cf\u2606\u2661\u2606",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "P902UGRC",
+                "name": "\u262f\ufe0fM3GA\u264e\ufe0f",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RVJLGLV",
+                "name": "Alonso23",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "V2YGLRPU",
+                "name": "6TLL",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQ099VL",
+                "name": "yeudy",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "822JYQQL",
+                "name": "RGamble3",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YCRU0JJL",
+                "name": "Zeus",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92U28PYY",
+                "name": "Dexter :P",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9V9G9008",
+                "name": "pwncake",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "828V9028",
+                "name": "Danielle",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VYVG0LQ",
+                "name": "schmanik",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YQPCYU2",
+                "name": "MrRoger",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RQGGJG22",
+                "name": "SGV.D0PEE0523",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2QUG8GJ00",
+                "name": "jskipy",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8JGGUVC9",
+                "name": "Alan",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "28C8G08JJ",
+                "name": "KSG Saskeee\u2b50",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2G8CQV89",
+                "name": "tim",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2Q0RC0R99",
+                "name": "Ragnar",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92LQRCUC",
+                "name": "SWAGGER1337",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20L0L9U9",
+                "name": "Ingentic",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "Y09Y9YUQ",
+                "name": "Slephnir",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8QYCV9JY",
+                "name": "chuz",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9QYC2P0R",
+                "name": "MCBC45",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20YC8P",
+                "name": "Azazel",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2PLPPR2RL",
+                "name": "Cheesecake",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "P09C8929",
+                "name": "mizz",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LGUVCR0",
+                "name": "ig88b",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8LVGP0UQQ",
+                "name": "Cheese Twist",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "PY2G8LQ",
+                "name": "6Pokeeee",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YRGYRC",
+                "name": "Royale Storm",
+                "cardsEarned": 467,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 1
+            },
+            {
+                "tag": "YLVPLYG2",
+                "name": "Zayn",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "820CGRLGU",
+                "name": "6Will",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "29UJ9Q99",
+                "name": "Lime ",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92CQ8UUV",
+                "name": "Ross",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QRL99CR",
+                "name": "akichie",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8P0UPCQ08",
+                "name": "xXJucyBooty69Xx",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LL0VQ8L",
+                "name": "John",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QVYVU0JP",
+                "name": "Nasty Nate",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            }
+        ],
+        "standings": [
+            {
+                "tag": "9PJ82CRC",
+                "name": "RoyaleAPI Alpha",
+                "participants": 42,
+                "battlesPlayed": 43,
+                "wins": 35,
+                "crowns": 57,
+                "warTrophies": 22039,
+                "warTrophiesChange": 135,
+                "badge": {
+                    "id": 16000005,
+                    "name": "Sword_02",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_02.png"
+                }
+            },
+            {
+                "tag": "PPVLV8R0",
+                "name": "Danish Alliance",
+                "participants": 42,
+                "battlesPlayed": 43,
+                "wins": 32,
+                "crowns": 59,
+                "warTrophies": 13968,
+                "warTrophiesChange": 82,
+                "badge": {
+                    "id": 16000170,
+                    "name": "Clover_01",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Clover_01.png"
+                }
+            },
+            {
+                "tag": "QJ88JGY",
+                "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0435 \u043b\u0435\u0433\u0435\u043d\u0434\u044b",
+                "participants": 41,
+                "battlesPlayed": 41,
+                "wins": 22,
+                "crowns": 45,
+                "warTrophies": 3023,
+                "warTrophiesChange": -3,
+                "badge": {
+                    "id": 16000072,
+                    "name": "flag_h_01",
+                    "category": "02_Flag",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_h_01.png"
+                }
+            },
+            {
+                "tag": "2G20CLL8",
+                "name": "#Teampiga",
+                "participants": 43,
+                "battlesPlayed": 40,
+                "wins": 22,
+                "crowns": 37,
+                "warTrophies": 7023,
+                "warTrophiesChange": -28,
+                "badge": {
+                    "id": 16000028,
+                    "name": "Skull_05",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Skull_05.png"
+                }
+            },
+            {
+                "tag": "2GRG98RQ",
+                "name": "BarDown Qc",
+                "participants": 38,
+                "battlesPlayed": 41,
+                "wins": 15,
+                "crowns": 24,
+                "warTrophies": 3136,
+                "warTrophiesChange": -85,
+                "badge": {
+                    "id": 16000166,
+                    "name": "A_Char_Rocket_01",
+                    "category": "03_Royale",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Rocket_01.png"
+                }
+            }
+        ],
+        "seasonNumber": 30
+    },
+    {
+        "warEndTime": "2019-06-05T10:29:46Z",
+        "participants": [
+            {
+                "tag": "822JYQQL",
+                "name": "RGamble3",
+                "cardsEarned": 2337,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 2,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQUUCL",
+                "name": "KFC",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9QYC2P0R",
+                "name": "MCBC45",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2QUG8GJ00",
+                "name": "jskipy",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QRL99CR",
+                "name": "akichie",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2GV90LQJY",
+                "name": "Nasty Nate Jr.",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "V2YGLRPU",
+                "name": "6TLL",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "P902UGRC",
+                "name": "\u262f\ufe0fM3GA\u264e\ufe0f",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "R02RCLJL",
+                "name": "Change Name\u2122",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20L0L9U9",
+                "name": "Ingentic",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "80LJ2GLL",
+                "name": "Mystic",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RVJLGLV",
+                "name": "Alonso23",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LGUVCR0",
+                "name": "ig88b",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20YC8P",
+                "name": "Azazel",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9V9G9008",
+                "name": "pwncake",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "820CGRLGU",
+                "name": "6Will",
+                "cardsEarned": 2337,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YLVPLYG2",
+                "name": "Zayn",
+                "cardsEarned": 2337,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92LQRCUC",
+                "name": "SWAGGER1337",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92U28PYY",
+                "name": "Dexter :P",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YCRU0JJL",
+                "name": "Zeus",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YRGYRC",
+                "name": "Royale Storm",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "L88P2282",
+                "name": "Min",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "JQJYLU0",
+                "name": "hermione",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VYVG0LQ",
+                "name": "schmanik",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8QYCV9JY",
+                "name": "chuz",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2G8CQV89",
+                "name": "tim",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "828V9028",
+                "name": "Danielle",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2Q0RC0R99",
+                "name": "Ragnar",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "29UJ9Q99",
+                "name": "Lime ",
+                "cardsEarned": 1869,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LL0VQ8L",
+                "name": "John",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "CGJGYCYJ",
+                "name": "\u2606\u2661\u2606\u25cfGUSTAVO\u25cf\u2606\u2661\u2606",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQ099VL",
+                "name": "yeudy",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "PY2G8LQ",
+                "name": "6Pokeeee",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8P0UPCQ08",
+                "name": "xXJucyBooty69Xx",
+                "cardsEarned": 467,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 1
+            },
+            {
+                "tag": "YQPCYU2",
+                "name": "MrRoger",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "G0C2VJLR",
+                "name": "Donkey punch",
+                "cardsEarned": 2805,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8LVGP0UQQ",
+                "name": "Cheese Twist",
+                "cardsEarned": 1401,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            }
+        ],
+        "standings": [
+            {
+                "tag": "9PJ82CRC",
+                "name": "RoyaleAPI Alpha",
+                "participants": 37,
+                "battlesPlayed": 39,
+                "wins": 35,
+                "crowns": 53,
+                "warTrophies": 21904,
+                "warTrophiesChange": 135,
+                "badge": {
+                    "id": 16000005,
+                    "name": "Sword_02",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_02.png"
+                }
+            },
+            {
+                "tag": "8LPU0GC",
+                "name": "#rodzina",
+                "participants": 37,
+                "battlesPlayed": 39,
+                "wins": 27,
+                "crowns": 56,
+                "warTrophies": 5149,
+                "warTrophiesChange": 77,
+                "badge": {
+                    "id": 16000106,
+                    "name": "Elixir_01",
+                    "category": "03_Royale",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Elixir_01.png"
+                }
+            },
+            {
+                "tag": "8RJY0JR",
+                "name": "\u6d4e\u5357\u4e00\u5bb6\u4eba",
+                "participants": 38,
+                "battlesPlayed": 39,
+                "wins": 24,
+                "crowns": 37,
+                "warTrophies": 3975,
+                "warTrophiesChange": -1,
+                "badge": {
+                    "id": 16000039,
+                    "name": "Traditional_Star_04",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Traditional_Star_04.png"
+                }
+            },
+            {
+                "tag": "P8CYCJ",
+                "name": "Maxus King",
+                "participants": 36,
+                "battlesPlayed": 37,
+                "wins": 15,
+                "crowns": 27,
+                "warTrophies": 3051,
+                "warTrophiesChange": -35,
+                "badge": {
+                    "id": 16000144,
+                    "name": "A_Char_King_01",
+                    "category": "03_Royale",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_King_01.png"
+                }
+            },
+            {
+                "tag": "UL08C2P",
+                "name": "\u0425\u0430\u0440\u044c\u043a\u043e\u0432",
+                "participants": 39,
+                "battlesPlayed": 36,
+                "wins": 10,
+                "crowns": 16,
+                "warTrophies": 2911,
+                "warTrophiesChange": -90,
+                "badge": {
+                    "id": 16000066,
+                    "name": "flag_f_01",
+                    "category": "02_Flag",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_f_01.png"
+                }
+            }
+        ],
+        "seasonNumber": 30
+    },
+    {
+        "warEndTime": "2019-06-02T03:38:38Z",
+        "participants": [
+            {
+                "tag": "CGJGYCYJ",
+                "name": "\u2606\u2661\u2606\u25cfGUSTAVO\u25cf\u2606\u2661\u2606",
+                "cardsEarned": 2475,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 2,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YLVPLYG2",
+                "name": "Zayn",
+                "cardsEarned": 1980,
+                "battleCount": 2,
+                "battlesPlayed": 2,
+                "battlesMissed": 0,
+                "wins": 2,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "P902UGRC",
+                "name": "\u262f\ufe0fM3GA\u264e\ufe0f",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2GV90LQJY",
+                "name": "Nasty Nate Jr.",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "29LPR20Q",
+                "name": "6Porsas",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92U28PYY",
+                "name": "Dexter :P",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "822JYQQL",
+                "name": "RGamble3",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8LVGP0UQQ",
+                "name": "Cheese Twist",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "828V9028",
+                "name": "Danielle",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "PV88V8R",
+                "name": "Fadaei",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "Y09Y9YUQ",
+                "name": "Slephnir",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9V9G9008",
+                "name": "pwncake",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VYVG0LQ",
+                "name": "schmanik",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QVYVU0JP",
+                "name": "Nasty Nate",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "G0C2VJLR",
+                "name": "Donkey punch",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20L0L9U9",
+                "name": "Ingentic",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "820CGRLGU",
+                "name": "6Will",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8JGGUVC9",
+                "name": "Alan",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8QYCV9JY",
+                "name": "chuz",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "PY2G8LQ",
+                "name": "6Pokeeee",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YQPCYU2",
+                "name": "MrRoger",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "R02RCLJL",
+                "name": "Change Name\u2122",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQ099VL",
+                "name": "yeudy",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20YC8P",
+                "name": "Azazel",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LGUVCR0",
+                "name": "ig88b",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RVJLGLV",
+                "name": "Alonso23",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2Q0RC0R99",
+                "name": "Ragnar",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92LQRCUC",
+                "name": "SWAGGER1337",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9QYC2P0R",
+                "name": "MCBC45",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YCRU0JJL",
+                "name": "Zeus",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2QUG8GJ00",
+                "name": "jskipy",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "JQJYLU0",
+                "name": "hermione",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QRL99CR",
+                "name": "akichie",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LL0VQ8L",
+                "name": "John",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2G8CQV89",
+                "name": "tim",
+                "cardsEarned": 1485,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YRGYRC",
+                "name": "Royale Storm",
+                "cardsEarned": 1485,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RJRLG2PC",
+                "name": "Fang",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2PLPPR2RL",
+                "name": "Cheesecake",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            }
+        ],
+        "standings": [
+            {
+                "tag": "9PJ82CRC",
+                "name": "RoyaleAPI Alpha",
+                "participants": 38,
+                "battlesPlayed": 40,
+                "wins": 38,
+                "crowns": 67,
+                "warTrophies": 21769,
+                "warTrophiesChange": 138,
+                "badge": {
+                    "id": 16000005,
+                    "name": "Sword_02",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_02.png"
+                }
+            },
+            {
+                "tag": "8UP8R9UY",
+                "name": "pittu club",
+                "participants": 38,
+                "battlesPlayed": 39,
+                "wins": 27,
+                "crowns": 43,
+                "warTrophies": 13598,
+                "warTrophiesChange": 77,
+                "badge": {
+                    "id": 16000032,
+                    "name": "Moon_03",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Moon_03.png"
+                }
+            },
+            {
+                "tag": "2JC2QJCV",
+                "name": "khuld",
+                "participants": 39,
+                "battlesPlayed": 36,
+                "wins": 14,
+                "crowns": 28,
+                "warTrophies": 4391,
+                "warTrophiesChange": -11,
+                "badge": {
+                    "id": 16000164,
+                    "name": "A_Char_Hammer_01",
+                    "category": "03_Royale",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Hammer_01.png"
+                }
+            },
+            {
+                "tag": "PQV9GU",
+                "name": "Chino Tuerto",
+                "participants": 40,
+                "battlesPlayed": 37,
+                "wins": 11,
+                "crowns": 21,
+                "warTrophies": 2974,
+                "warTrophiesChange": -39,
+                "badge": {
+                    "id": 16000032,
+                    "name": "Moon_03",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Moon_03.png"
+                }
+            },
+            {
+                "tag": "2QLQL8Y2",
+                "name": "Anonymous",
+                "participants": 40,
+                "battlesPlayed": 40,
+                "wins": 10,
+                "crowns": 22,
+                "warTrophies": 2945,
+                "warTrophiesChange": -90,
+                "badge": {
+                    "id": 16000015,
+                    "name": "Crown_04",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Crown_04.png"
+                }
+            }
+        ],
+        "seasonNumber": 30
+    },
+    {
+        "warEndTime": "2019-05-31T03:36:32Z",
+        "participants": [
+            {
+                "tag": "820CGRLGU",
+                "name": "6Will",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQUUCL",
+                "name": "KFC",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQR9LGPU",
+                "name": "\u2606\u25cf\u00a4HAwK\u00a4\u25cf\u2606",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8LVGP0UQQ",
+                "name": "Cheese Twist",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "JQJYLU0",
+                "name": "hermione",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "V2YGLRPU",
+                "name": "6TLL",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "P902UGRC",
+                "name": "\u262f\ufe0fM3GA\u264e\ufe0f",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2QUG8GJ00",
+                "name": "jskipy",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "RJRLG2PC",
+                "name": "Fang",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2G8CQV89",
+                "name": "tim",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20YC8P",
+                "name": "Azazel",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "29LPR20Q",
+                "name": "6Porsas",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YRGYRC",
+                "name": "Royale Storm",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8JGGUVC9",
+                "name": "Alan",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2Q0RC0R99",
+                "name": "Ragnar",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YLVPLYG2",
+                "name": "Zayn",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "8QYCV9JY",
+                "name": "chuz",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "CGJGYCYJ",
+                "name": "\u2606\u2661\u2606\u25cfGUSTAVO\u25cf\u2606\u2661\u2606",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "PY2G8LQ",
+                "name": "6Pokeeee",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9V9G9008",
+                "name": "pwncake",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QRL99CR",
+                "name": "akichie",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YCRU0JJL",
+                "name": "Zeus",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "822JYQQL",
+                "name": "RGamble3",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 2
+            },
+            {
+                "tag": "Y09Y9YUQ",
+                "name": "Slephnir",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92U28PYY",
+                "name": "Dexter :P",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "20L0L9U9",
+                "name": "Ingentic",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QQ099VL",
+                "name": "yeudy",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "YQPCYU2",
+                "name": "MrRoger",
+                "cardsEarned": 1485,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2VYVG0LQ",
+                "name": "schmanik",
+                "cardsEarned": 1485,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "G0C2VJLR",
+                "name": "Donkey punch",
+                "cardsEarned": 1485,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "2PLPPR2RL",
+                "name": "Cheesecake",
+                "cardsEarned": 1485,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LL0VQ8L",
+                "name": "John",
+                "cardsEarned": 1485,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "92LQRCUC",
+                "name": "SWAGGER1337",
+                "cardsEarned": 495,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 1,
+                "collectionDayBattlesPlayed": 1
+            },
+            {
+                "tag": "80LCR8LQL",
+                "name": "KSHMR\u26a1",
+                "cardsEarned": 2970,
+                "battleCount": 1,
+                "battlesPlayed": 0,
+                "battlesMissed": 1,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "828V9028",
+                "name": "Danielle",
+                "cardsEarned": 2475,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "QVYVU0JP",
+                "name": "Nasty Nate",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9LGUVCR0",
+                "name": "ig88b",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            },
+            {
+                "tag": "9QYC2P0R",
+                "name": "MCBC45",
+                "cardsEarned": 1980,
+                "battleCount": 1,
+                "battlesPlayed": 1,
+                "battlesMissed": 0,
+                "wins": 0,
+                "collectionDayBattlesPlayed": 3
+            }
+        ],
+        "standings": [
+            {
+                "tag": "9PJ82CRC",
+                "name": "RoyaleAPI Alpha",
+                "participants": 38,
+                "battlesPlayed": 37,
+                "wins": 33,
+                "crowns": 55,
+                "warTrophies": 21631,
+                "warTrophiesChange": 133,
+                "badge": {
+                    "id": 16000005,
+                    "name": "Sword_02",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_02.png"
+                }
+            },
+            {
+                "tag": "CUJPG9",
+                "name": "Bastas",
+                "participants": 37,
+                "battlesPlayed": 38,
+                "wins": 23,
+                "crowns": 46,
+                "warTrophies": 8241,
+                "warTrophiesChange": 73,
+                "badge": {
+                    "id": 16000142,
+                    "name": "Lotus_01",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Lotus_01.png"
+                }
+            },
+            {
+                "tag": "LUQUCJY",
+                "name": "Storm OuRs",
+                "participants": 38,
+                "battlesPlayed": 38,
+                "wins": 21,
+                "crowns": 30,
+                "warTrophies": 11209,
+                "warTrophiesChange": -4,
+                "badge": {
+                    "id": 16000111,
+                    "name": "Heart_03",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Heart_03.png"
+                }
+            },
+            {
+                "tag": "9JY00L80",
+                "name": "Trophy Husbands",
+                "participants": 36,
+                "battlesPlayed": 37,
+                "wins": 20,
+                "crowns": 43,
+                "warTrophies": 7572,
+                "warTrophiesChange": -30,
+                "badge": {
+                    "id": 16000107,
+                    "name": "Elixir_02",
+                    "category": "03_Royale",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Elixir_02.png"
+                }
+            },
+            {
+                "tag": "8Q0PLQQY",
+                "name": "family clan",
+                "participants": 37,
+                "battlesPlayed": 33,
+                "wins": 6,
+                "crowns": 13,
+                "warTrophies": 3026,
+                "warTrophiesChange": -94,
+                "badge": {
+                    "id": 16000014,
+                    "name": "Crown_03",
+                    "category": "01_Symbol",
+                    "image": "https://royaleapi.github.io/cr-api-assets/badges/Crown_03.png"
+                }
+            }
+        ],
+        "seasonNumber": 30
+    }
+]

@@ -1,0 +1,172 @@
+{
+    "CLAN": {
+        "key": "CLAN",
+        "name": "Clan",
+        "path": "/clan/{tag}"
+    },
+    "CLANS": {
+        "key": "CLANS",
+        "name": "Clans",
+        "path": "/clans/{tags}"
+    },
+    "CLAN_BATTLES": {
+        "key": "CLAN_BATTLES",
+        "name": "Clan Battles",
+        "path": "/clan/{tag}/battles"
+    },
+    "CLAN_HISTORY": {
+        "key": "CLAN_HISTORY",
+        "name": "Clan History",
+        "path": "/clan/{tag}/history"
+    },
+    "CLAN_HISTORY_WEEKLY": {
+        "key": "CLAN_HISTORY_WEEKLY",
+        "name": "Clan History Weekly",
+        "path": "/clan/{tag}/history/weekly"
+    },
+    "CLAN_SEARCH": {
+        "key": "CLAN_SEARCH",
+        "name": "Clan Search",
+        "path": "/clan/search"
+    },
+    "CLAN_TRACK": {
+        "key": "CLAN_TRACK",
+        "name": "Clan Track",
+        "path": "/clan/{tag}/track"
+    },
+    "CLAN_TRACKING": {
+        "key": "CLAN_TRACKING",
+        "name": "Clan Tracking",
+        "path": "/clan/{tag}/tracking"
+    },
+    "CLAN_WAR": {
+        "key": "CLAN_WAR",
+        "name": "Clan War",
+        "path": "/clan/{tag}/war"
+    },
+    "CLAN_WARLOG": {
+        "key": "CLAN_WARLOG",
+        "name": "Clan WarLog",
+        "path": "/clan/{tag}/warlog"
+    },
+    "CONSTANT": {
+        "key": "CONSTANT",
+        "name": "Constant",
+        "path": "/constant/{name}"
+    },
+    "CONSTANTS": {
+        "key": "CONSTANTS",
+        "name": "Constants",
+        "path": "/constants"
+    },
+    "ENDPOINTS": {
+        "key": "ENDPOINTS",
+        "name": "Endpoints",
+        "path": "/endpoints"
+    },
+    "PLAYER": {
+        "key": "PLAYER",
+        "name": "Player",
+        "path": "/player/{tag}"
+    },
+    "PLAYERS": {
+        "key": "PLAYERS",
+        "name": "Players",
+        "path": "/players/{tags}"
+    },
+    "PLAYER_BATTLES": {
+        "key": "PLAYER_BATTLES",
+        "name": "Player Battles",
+        "path": "/player/{tag}/battles"
+    },
+    "PLAYER_CHESTS": {
+        "key": "PLAYER_CHESTS",
+        "name": "Player Chests",
+        "path": "/player/{tag}/chests"
+    },
+    "POPULAR_CLANS": {
+        "key": "POPULAR_CLANS",
+        "name": "Popular Clans",
+        "path": "/popular/clans"
+    },
+    "POPULAR_DECKS": {
+        "key": "POPULAR_DECKS",
+        "name": "Popular Decks",
+        "path": "/popular/decks"
+    },
+    "POPULAR_PLAYERS": {
+        "key": "POPULAR_PLAYERS",
+        "name": "Popular Players",
+        "path": "/popular/players"
+    },
+    "POPULAR_TOURNAMENTS": {
+        "key": "POPULAR_TOURNAMENTS",
+        "name": "Popular Tournaments",
+        "path": "/popular/tournaments"
+    },
+    "TOP_CLANS": {
+        "key": "TOP_CLANS",
+        "name": "Top Clans",
+        "path": "/top/clans"
+    },
+    "TOP_PLAYERS": {
+        "key": "TOP_PLAYERS",
+        "name": "Top Players",
+        "path": "/top/players"
+    },
+    "TOP_WARCLANS": {
+        "key": "TOP_WARCLANS",
+        "name": "Top WarClans",
+        "path": "/top/war"
+    },
+    "TOURNAMENT": {
+        "key": "TOURNAMENT",
+        "name": "Tournament",
+        "path": "/tournament/{tag}"
+    },
+    "TOURNAMENT_1K": {
+        "key": "TOURNAMENT_1K",
+        "name": "Tournament 1k",
+        "path": "/tournament/{tag}/1k"
+    },
+    "TOURNAMENT_FULL": {
+        "key": "TOURNAMENT_FULL",
+        "name": "Tournament Full",
+        "path": "/tournament/{tag}/full"
+    },
+    "TOURNAMENT_GLOBAL": {
+        "key": "TOURNAMENT_GLOBAL",
+        "name": "Tournament Global",
+        "path": "/tournament/{tag}/global"
+    },
+    "TOURNAMENT_INPREP": {
+        "key": "TOURNAMENT_INPREP",
+        "name": "Tournament Inprep",
+        "path": "/tournament/{tag}/inprep"
+    },
+    "TOURNAMENT_JOINABLE": {
+        "key": "TOURNAMENT_JOINABLE",
+        "name": "Tournament Joinable",
+        "path": "/tournament/{tag}/joinable"
+    },
+    "TOURNAMENT_KNOWN": {
+        "key": "TOURNAMENT_KNOWN",
+        "name": "Tournament Known",
+        "path": "/tournament/{tag}/known"
+    },
+    "TOURNAMENT_OPEN": {
+        "key": "TOURNAMENT_OPEN",
+        "name": "Tournament Open",
+        "path": "/tournament/{tag}/open"
+    },
+    "TOURNAMENT_SEARCH": {
+        "key": "TOURNAMENT_SEARCH",
+        "name": "Tournament Search",
+        "path": "/tournament/{tag}/search"
+    },
+    "VERSION": {
+        "key": "VERSION",
+        "name": "Version",
+        "path": "/version"
+    }
+}

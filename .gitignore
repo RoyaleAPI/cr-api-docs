@@ -3,4 +3,4 @@
 
 .vscode
 
-docs/refresh_json.py
+docs/v3/refresh_json.py

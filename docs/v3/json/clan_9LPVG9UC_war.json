@@ -1,0 +1,234 @@
+{
+    "state": "warDay",
+    "warEndTime": "2019-06-21T06:48:43Z",
+    "clan": {
+        "tag": "9LPVG9UC",
+        "name": "RoyaleAPI Zen",
+        "participants": 13,
+        "battlesPlayed": 6,
+        "wins": 3,
+        "crowns": 7,
+        "warTrophies": 10416,
+        "warTrophiesChange": 0,
+        "badge": {
+            "id": 16000005,
+            "name": "Sword_02",
+            "category": "01_Symbol",
+            "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_02.png"
+        }
+    },
+    "participants": [
+        {
+            "tag": "20LQ9GJU",
+            "name": "coconuthead93",
+            "cardsEarned": 2337,
+            "battleCount": 1,
+            "battlesPlayed": 1,
+            "battlesMissed": 0,
+            "wins": 1,
+            "collectionDayBattlesPlayed": 3
+        },
+        {
+            "tag": "VP02RV28",
+            "name": "nemauen",
+            "cardsEarned": 2337,
+            "battleCount": 1,
+            "battlesPlayed": 1,
+            "battlesMissed": 0,
+            "wins": 1,
+            "collectionDayBattlesPlayed": 3
+        },
+        {
+            "tag": "YC9UYCQQ",
+            "name": "Dish",
+            "cardsEarned": 935,
+            "battleCount": 1,
+            "battlesPlayed": 1,
+            "battlesMissed": 0,
+            "wins": 1,
+            "collectionDayBattlesPlayed": 1
+        },
+        {
+            "tag": "9YJY0J9YV",
+            "name": "\u25cf\u2606ALMIGHTY\u2606\u25cf",
+            "cardsEarned": 2337,
+            "battleCount": 1,
+            "battlesPlayed": 0,
+            "battlesMissed": 1,
+            "wins": 0,
+            "collectionDayBattlesPlayed": 3
+        },
+        {
+            "tag": "RG9VP9L",
+            "name": "lynkelol",
+            "cardsEarned": 2337,
+            "battleCount": 1,
+            "battlesPlayed": 1,
+            "battlesMissed": 0,
+            "wins": 0,
+            "collectionDayBattlesPlayed": 3
+        },
+        {
+            "tag": "P8PLLU8P",
+            "name": "Soonkyu",
+            "cardsEarned": 2337,
+            "battleCount": 1,
+            "battlesPlayed": 0,
+            "battlesMissed": 1,
+            "wins": 0,
+            "collectionDayBattlesPlayed": 3
+        },
+        {
+            "tag": "L88P2282",
+            "name": "Min",
+            "cardsEarned": 1980,
+            "battleCount": 1,
+            "battlesPlayed": 1,
+            "battlesMissed": 0,
+            "wins": 0,
+            "collectionDayBattlesPlayed": 3
+        },
+        {
+            "tag": "82CR9C0J",
+            "name": "marco",
+            "cardsEarned": 1869,
+            "battleCount": 1,
+            "battlesPlayed": 0,
+            "battlesMissed": 1,
+            "wins": 0,
+            "collectionDayBattlesPlayed": 3
+        },
+        {
+            "tag": "2LQQV8JP",
+            "name": "Dominic",
+            "cardsEarned": 1869,
+            "battleCount": 1,
+            "battlesPlayed": 0,
+            "battlesMissed": 1,
+            "wins": 0,
+            "collectionDayBattlesPlayed": 3
+        },
+        {
+            "tag": "2GPUCCQUG",
+            "name": "TheDangerBox",
+            "cardsEarned": 1869,
+            "battleCount": 1,
+            "battlesPlayed": 0,
+            "battlesMissed": 1,
+            "wins": 0,
+            "collectionDayBattlesPlayed": 3
+        },
+        {
+            "tag": "8GP20Q98",
+            "name": "Jupiter",
+            "cardsEarned": 1869,
+            "battleCount": 1,
+            "battlesPlayed": 0,
+            "battlesMissed": 1,
+            "wins": 0,
+            "collectionDayBattlesPlayed": 3
+        },
+        {
+            "tag": "2Y9R2JV8",
+            "name": "Malan",
+            "cardsEarned": 1401,
+            "battleCount": 1,
+            "battlesPlayed": 0,
+            "battlesMissed": 1,
+            "wins": 0,
+            "collectionDayBattlesPlayed": 3
+        },
+        {
+            "tag": "8VCPRQ29",
+            "name": "Cool Guy!",
+            "cardsEarned": 935,
+            "battleCount": 1,
+            "battlesPlayed": 1,
+            "battlesMissed": 0,
+            "wins": 0,
+            "collectionDayBattlesPlayed": 1
+        }
+    ],
+    "standings": [
+        {
+            "tag": "8RUY982",
+            "name": "AllianceProject",
+            "participants": 11,
+            "battlesPlayed": 11,
+            "wins": 4,
+            "crowns": 7,
+            "warTrophies": 7047,
+            "warTrophiesChange": 0,
+            "badge": {
+                "id": 16000060,
+                "name": "flag_d_01",
+                "category": "02_Flag",
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_d_01.png"
+            }
+        },
+        {
+            "tag": "J2CGP2",
+            "name": "UAE Stars",
+            "participants": 10,
+            "battlesPlayed": 7,
+            "wins": 3,
+            "crowns": 8,
+            "warTrophies": 3225,
+            "warTrophiesChange": 0,
+            "badge": {
+                "id": 16000106,
+                "name": "Elixir_01",
+                "category": "03_Royale",
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Elixir_01.png"
+            }
+        },
+        {
+            "tag": "9LPVG9UC",
+            "name": "RoyaleAPI Zen",
+            "participants": 13,
+            "battlesPlayed": 6,
+            "wins": 3,
+            "crowns": 7,
+            "warTrophies": 10416,
+            "warTrophiesChange": 0,
+            "badge": {
+                "id": 16000005,
+                "name": "Sword_02",
+                "category": "01_Symbol",
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_02.png"
+            }
+        },
+        {
+            "tag": "V98CCUU",
+            "name": "WELTUNTERGAENG/",
+            "participants": 10,
+            "battlesPlayed": 6,
+            "wins": 3,
+            "crowns": 4,
+            "warTrophies": 4013,
+            "warTrophiesChange": 0,
+            "badge": {
+                "id": 16000136,
+                "name": "Bamboo_01",
+                "category": "01_Symbol",
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Bamboo_01.png"
+            }
+        },
+        {
+            "tag": "P8RY2J8Q",
+            "name": "FaZe Ligma",
+            "participants": 10,
+            "battlesPlayed": 5,
+            "wins": 1,
+            "crowns": 2,
+            "warTrophies": 3039,
+            "warTrophiesChange": 0,
+            "badge": {
+                "id": 16000152,
+                "name": "A_Char_Knight_01",
+                "category": "03_Royale",
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Knight_01.png"
+            }
+        }
+    ]
+}

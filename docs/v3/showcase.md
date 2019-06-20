@@ -387,27 +387,6 @@ playedwith allows you to type in your Clash Royale ID, and see if you have ever 
 - Author: Is0tope
     - Github: https://github.com/Is0tope
 
-### Crous Royale
-
-Crous royale is a website that allows you to compare your stats with up to 3 other players!
-
-- Website: http://crousroyale.herokuapp.com
-- Authors:
-    - Axel Donadio:
-        - Website: https://www.linkedin.com/in/axel-donadio-373921130/
-    - Guillaume Lollier:
-    	- Website: http://guillaumelollier.fr/
-
-### Switfty-Bot
-
-A bot that makes clan management simple by outputting clean reports with customisable scoring system. Check out the documentation (link below) for further information and usage
-
-- Github: https://github.com/swifty-report-cards/swifty-bot
-- Authors:
-    - Brian Lewis
-    	- Github: https://github.com/WebDeg-Brian
-    - Joe
-    	- Github: https://github.com/Swifty2019
 
 ## Our apps
 
