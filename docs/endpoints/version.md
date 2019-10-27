@@ -10,4 +10,7 @@ This endpoint returns the current version of the API. Unlike the other endpoints
 
 https://api.royaleapi.com/version
 
-```12.0.144```
+```json
+{
+    "version": "v83"
+}

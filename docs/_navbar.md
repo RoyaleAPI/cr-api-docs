@@ -1,4 +1,3 @@
-- [v3](https://docs.royaleapi.com/v3/#/)
 - Social
     - [Discord](https://discord.me/RoyaleAPI)
     - [Github](https://github.com/RoyaleAPI/cr-api)

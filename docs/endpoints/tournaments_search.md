@@ -1,5 +1,7 @@
 # Tournaments Search
 
+!> This endpoint has yet to be implemented. Please be patient as we add the endpoints from v2. The endpoint will return a 501 Not Implemented error.
+
 This endpoint allows you to search for a tournament given the name.
 
 You may want to use [pagination](pagination) for this request.

@@ -4,7 +4,7 @@ This endpoint retrieves multiple players. To retrieve a single player, take a lo
 
 ## HTTP Request
 
-`GET https://v3-beta.royaleapi.com/players/<TAGS>`
+`GET https://api.royaleapi.com/players/<TAGS>`
 
 ### URL Parameters
 
@@ -14,7 +14,7 @@ Parameter | Description
 
 ## Response
 
-https://v3-beta.royaleapi.com/players/8L9L9GL,L88P2282
+https://api.royaleapi.com/players/8L9L9GL,L88P2282
 
 <a href="/json/players_8L9L9GL,L88P2282.json">Full JSON response</a>
 

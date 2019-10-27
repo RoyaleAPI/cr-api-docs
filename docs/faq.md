@@ -1,5 +1,9 @@
 # Frequently Asked Questions
 
+## When will v3 be live?
+
+There is currently no ETA. RoyaleAPI has only 1 developer and he has his own personal life as well. Keep up to date in the Discord Server.
+
 ## What are the valid characters in a Supercell tag?
 
 All the tags used in Supercell games (Clash Royale, Clash of Clans, etc) are made up with these characters `0289CGJLPQRUVY` — the numbers `0289` and the letters `CGJLPQRUVY`. If you don’t want the API to return invalid tag errors, check and make sure that the tags you use are valid before making your requests. For convenience, you may wish to check and convert the letter `O` to `0` as this is a common mistake made by the users. They must also be in uppercase. Please pre-process these for end-users if you wish to avoid errors.

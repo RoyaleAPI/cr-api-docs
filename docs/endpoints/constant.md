@@ -1,6 +1,6 @@
 # Constants
 
-This endpoint returns constants by the API. Take a look at [/constant/<NAME>](/endpoints/constant) to filter the response. Top level objects include:
+This endpoint returns filtered constants by the API. Take a look at [/constants](/endpoints/constants) to retrieve the full response. Top level objects include:
 
 - alliance_badges
     - name (string)
@@ -322,10 +322,16 @@ This endpoint returns constants by the API. Take a look at [/constant/<NAME>](/e
 
 ## HTTP Request
 
-`https://v3-beta.royaleapi.com/constants`
+`https://api.royaleapi.com/constant/<NAME>`
+
+### URL Parameters
+
+Parameter | Description
+--- | ---
+`NAME` | The name of the top level object to retrieve (`alliance_badges`, `arenas`, `cards`, `challenges`, `game_modes` or `regions`)
 
 ## Response
 
-https://v3-beta.royaleapi.com/constants
+https://api.royaleapi.com/constant/regions
 
-<a href="/json/constants.json">Full JSON response</a>
+<a href="/json/constant_regions.json">Full JSON response</a>

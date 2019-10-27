@@ -1,5 +1,7 @@
 # Filtering Fields
 
+!> This feature has yet to be implemented. Please be patient as we add the features from v2.
+
 For any of our endpoints, you may use query string params to optionally include or exclude fields that you don’t need.
 
 Name | Data Type | Required / Optional | Description

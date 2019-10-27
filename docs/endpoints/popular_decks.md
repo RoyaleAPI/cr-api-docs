@@ -1,5 +1,7 @@
 # Popular Decks
 
+!> This endpoint has yet to be implemented. Please be patient as we add the endpoints from v2. The endpoint will return a 501 Not Implemented error.
+
 This endpoint returns statistics about how often a deck's data has been requested from the API.
 
 You may want to use [pagination](pagination) for this request.

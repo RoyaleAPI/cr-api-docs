@@ -1,5 +1,7 @@
 # Get Top Players
 
+!> This endpoint has yet to support Global leaderboards. Please be patient as we add the endpoints from v2. The endpoint will return a 404 Not Found error when not provided a location key.
+
 This endpoint retrieves the Global 200 top players on the leaderboard. Data is cached and currently set to update every 10 minutes.
 
 You may want to use [pagination](pagination) for this request.

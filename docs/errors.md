@@ -9,8 +9,10 @@ Error Code| Meaning
 400	| Bad Request -- Your request sucks.
 401	| Unauthorized -- No authentication was provided, or key invalid.
 404	| Not Found -- The specified player / clan cannot be found. Could be invalid tags.
+417 | Expectation Failed -- Clan not tracked.
 429 | Too Many Requests -- You have hit the API Ratelimit. [More info](/faq?id=is-there-a-rate-limit-for-the-api-requests)
 500	| Internal Server Error -- We had a problem with our server. Try again later.
+501 | Not Implemented Yet -- We have yet to implement this feature in v3 of the API.
 503	| Service Unavailable -- We're temporarily offline for maintenance. Please try again later.
 522 | Service Unavailable -- We're temporarily offline. Please try again later.
 

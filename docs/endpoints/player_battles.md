@@ -1,11 +1,10 @@
 # Player Battles
 
-This endpoint return battles played by one or more player profiles.
+This endpoint return battles played by a specific player.
 
 ## HTTP Request
 
-`GET https://api.royaleapi.com/player/<TAG>/battles`    
-`GET https://api.royaleapi.com/player/<TAG>,<TAG>,<TAG>/battles`
+`GET https://api.royaleapi.com/player/<TAG>/battles`
 
 ### URL Parameters
 
@@ -15,12 +14,11 @@ Parameter | Description
 
 ## Response
 
-### Single Player
-https://api.royaleapi.com/player/L88P2282/battles
+https://api.royaleapi.com/player/2JGYG2YY/battles
 
 The above command returns JSON structured like this. In the actual response, there will be 25 battles:
 
-<a href="/json/player_battles_8L9L9GL.json">Full JSON Response</a>
+<a href="/json/player_2JGYG2YY_battles.json">Full JSON Response</a>
 
 ```json
 [
@@ -122,8 +120,3 @@ The above command returns JSON structured like this. In the actual response, the
 ]
 ```
 You can see an implementation of this at https://royaleapi.com/player/L88P2282/battles
-
-### Multiple Tags
-https://api.royaleapi.com/player/8L9L9GL,L88P2282,9CQ2U8QJ/battles
-
-<a href="/json/player_battles_8L9L9GL,L88P2282,9CQ2U8QJ.json">Full JSON Response</a>

@@ -39,10 +39,10 @@ Different responses might be provided if the clan is on different `state`s (`war
     ```
 - Matchmaking
     - https://api.royaleapi.com/clan/80LCC09P/war
-    - <a href="/json/clan_war_80LCC09P.json">Nova l Ger 4 (#80LCC09P)</a>
+    - <a href="/json/clan_80LCC09P_war.json">Nova l Ger 4 (#80LCC09P)</a>
 - Collection Day
     - https://api.royaleapi.com/clan/9PJ82CRC/war
-    - <a href="/json/clan_war_9PJ82CRC.json">100T Alpha (#9PJ82CRC)</a>  
+    - <a href="/json/clan_9PJ82CRC_war.json">100T Alpha (#9PJ82CRC)</a>  
 - War Day  
     - https://api.royaleapi.com/clan/9LPVG9UC/war
-    - <a href="/json/clan_war_9LPVG9UC.json">100T Zen (#9LPVG9UC)</a>
+    - <a href="/json/clan_9LPVG9UC_war.json">100T Zen (#9LPVG9UC)</a>

@@ -132,22 +132,6 @@ For example, if you have a level 10 knight, with 3500 spare cards, it will tell 
 - Author: DCMaxxx
     - Github: https://github.com/DCMaxxx
 
-### Statsy
-
-Statsy provides realtime statistics about your game profiles!
-![Player command](https://i.imgur.com/zUYhapA.png)
-![Friend link](https://i.imgur.com/aMO9QWN.png)
-
-- Twitter: https://twitter.com/StatsyBot
-- Invite: https://bot.discord.io/statsy
-- Authors:
-    - kyb3r
-        - Github: https://github.com/kyb3r
-    - kwugfighter
-        - Github: https://github.com/kwugfighter
-    - 4JR
-        - Github: https://github.com/fourjr
-
 
 ### Team CMC website
 

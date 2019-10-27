@@ -1,11 +1,10 @@
 # Player Chests
 
-This endpoint return upcoming chests for one or more player profiles.
+This endpoint return upcoming chests for a specific player.
 
 ## HTTP Request
 
-`GET https://api.royaleapi.com/player/<TAG>/chests`    
-`GET https://api.royaleapi.com/player/<TAG>,<TAG>,<TAG>/chests`
+`GET https://api.royaleapi.com/player/<TAG>/chests`
 
 ### URL Parameters
 
@@ -15,12 +14,11 @@ TAG | The player tag of the user to retrieve
 
 ## Response
 
-### Single Player
-https://api.royaleapi.com/player/L88P2282/chests
+https://api.royaleapi.com/player/8L9L9GL/chests
 
 The above command returns JSON structured like this:
 
-<a href="/json/player_chests_8L9L9GL.json">Full JSON Response</a>
+<a href="/json/player_8L9L9GL_chests.json">Full JSON Response</a>
 
 ```json
 {

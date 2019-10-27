@@ -30,9 +30,11 @@ Name | Data Type | Required / Optional | Description
 
 ## Response
 
+### Included in tracking
+
 https://api.royaleapi.com/clan/2U2GGQJ/history
 
-<a href="/json/clan_history_2U2GGQJ.json">Full JSON Response</a>
+<a href="/json/clan_2U2GGQJ_history.json">Full JSON Response</a>
 
 ```json
 {
@@ -62,4 +64,17 @@ https://api.royaleapi.com/clan/2U2GGQJ/history
 
     },
 }
+```
+
+### Not included in the tracking
+https://api.royaleapi.com/clan/28JU8P0Y/history
+
+Below is the full JSON Response with a 417 Expectation Failed error
+```json
+    {
+    "error": true,
+    "statusCode": 417,
+    "statusText": "cannot fetch clan data: cannot fetch clan data: clan not tracked",
+    "info": "Additional information and support: http://discord.me/royaleapi"
+    }
 ```

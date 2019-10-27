@@ -18,13 +18,13 @@ Parameter | Description
 
 Name | Data Type | Required / Optional | Description
 --- | --- | --- | ---
-`type` | string | optional (default to `clanMate`) | Type of clan battles to filter (`all`, `war` or `clanMate`)
+`type` | string | optional (default to `clanMate`) | Type of clan battles to filter (`all`, `war`, `challenge` or `clanMate`)
 
 ## Response
 
 https://api.royaleapi.com/clan/9PJ82CRC/battles
 
-<a href="/json/clan_battles_9PJ82CRC.json">Full JSON Response</a>
+<a href="/json/clan_9PJ82CRC_battles.json">Full JSON Response</a>
 ```json
 [
     {},

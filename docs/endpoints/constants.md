@@ -1,6 +1,6 @@
 # Constants
 
-This endpoint returns constants returned by the API. You can use [field filter](/field_filter) on this endpoint. Top level objects include:
+This endpoint returns constants by the API. Take a look at [/constant/<NAME>](/endpoints/constant) to filter the response. Top level objects include:
 
 - alliance_badges
     - name (string)

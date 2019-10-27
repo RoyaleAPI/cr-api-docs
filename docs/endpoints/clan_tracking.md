@@ -22,6 +22,7 @@ Below is the full JSON Response
 {
     "tag": "2CCCP",
     "active": true,
+    "legible": true,
     "available": true,
     "snapshotCount": 218
 }
@@ -30,12 +31,12 @@ Below is the full JSON Response
 ### Not included in the tracking
 https://api.royaleapi.com/clan/28JU8P0Y/tracking
 
-Below is the full JSON Response
+Below is the full JSON Response with a 417 Expectation Failed error
 ```json
 {
-    "tag": "28JU8P0Y",
-    "active": false,
-    "available": false,
-    "snapshotCount": 0
+    "error": true,
+    "statusCode": 417,
+    "statusText": "Cannot fetch clan tracking: Cannot fetch clan tracking: clan not tracked",
+    "info": "Additional information and support: http://discord.me/royaleapi"
 }
 ```

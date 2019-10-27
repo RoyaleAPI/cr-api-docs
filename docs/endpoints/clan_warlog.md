@@ -13,13 +13,13 @@ Parameter | Description
 `TAG` | The clan tag of the clan to retrieve
 
 ## Response
-<a href="/json/clan_warlog_9PJ82CRC.json">Full JSON Response</a>
+<a href="/json/clan_9PJ82CRC_warlog.json">Full JSON Response</a>
 
 ```json
 [
-    "createdDate": number,
-    {"participants": ...},
-    {"standings": ...},
-    {"seasonNumber": number}
+    {},
+    {},
+    {},
+    {}
 ]
 ```

@@ -1,5 +1,7 @@
 # Clan Weekly History
 
+<!-- TODO: HAVE TO DOUBLE CHECK AS I DONT SEE ANYTHING WORKING HERE -->
+
 This endpoint returns a time series of member stats. This is similar to [Clan History](/endpoints/clan_history) but has weekly statistics. Currently it is enabled for a selected set of clans which meet our internal criteria.
 
 ## How to be included
@@ -30,9 +32,11 @@ Name | Data Type | Required / Optional | Description
 
 ## Response
 
+### Included in the tracking
+
 https://api.royaleapi.com/clan/2U2GGQJ/history/weekly
 
-<!--  <a href="/json/clan_history_weekly_2U2GGQJ.json">Full JSON Response</a> -->
+ <!-- <a href="/json/clan_2U2GGQJ_history_weekly.json">Full JSON Response</a> -->
 !> Full JSON Response will be made available once more data is gathered.
 
 ```json
@@ -63,4 +67,17 @@ https://api.royaleapi.com/clan/2U2GGQJ/history/weekly
         ...
     },
 }
+```
+
+### Not included in the tracking
+https://api.royaleapi.com/clan/28JU8P0Y/history/weekly
+
+Below is the full JSON Response with a 417 Expectation Failed error
+```json
+    {
+    "error": true,
+    "statusCode": 417,
+    "statusText": "cannot fetch clan data: cannot fetch clan data: clan not tracked",
+    "info": "Additional information and support: http://discord.me/royaleapi"
+    }
 ```

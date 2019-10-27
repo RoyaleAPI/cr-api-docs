@@ -4,18 +4,20 @@
 
 Welcome to RoyaleAPI, the unofficial public API for Clash Royale! You can use our API to access Clash Royale API endpoints, which provides real-time information about players, clans, clan wars, tournaments and more.
 
-You can see implementations of this API in [Showcase](/showcase) by third-party developers and on our web site: https://royaleapi.com
+You can see implementations of this API in [Showcase]/showcase) by third-party developers and on our web site: https://royaleapi.com
 
-[Wrappers](/wrappers) in multiple languages are also available.
+[Wrappers]/wrappers) in multiple languages are also available.
 
 If you are new to development using REST APIs, we recommend that you try out [Postman](https://www.getpostman.com/), which provides many useful tools for your daily development needs.
 
-If you find this API useful, please consider [donating](/donate) so we can continue to provide this service free of charge to everyone. 
+If you find this API useful, please consider [donating]/donate) so we can continue to provide this service free of charge to everyone. 
 
 !> We are currently in alpha pre-release. The JSON structure may change over time. Please follow our [Twitter @RoyaleAPI](https://twitter.com/RoyaleAPI) or join our [Discord](https://discord.me/RoyaleAPI) server for important updates.
 
 
 ## Documentation
+
+!> The popular and tournament related endpoints are currently not implemented and will return a 501 Not Implemented error.
 
 - Getting Started
     - [Introduction](/)
@@ -39,7 +41,13 @@ If you find this API useful, please consider [donating](/donate) so we can conti
     - [Clan History](/endpoints/clan_history)
     - [Clan Weekly History](/endpoints/clan_history_weekly)
     - [Clan Tracking](/endpoints/clan_tracking)
-    - [Open Tournaments](/endpoints/tournaments_open)
+    - [Top Clans](/endpoints/top_clans)
+    - [Top Players](/endpoints/top_players)
+    - [Top War Clans](/endpoints/top_war)
+    - [Endpoints](/endpoints/endpoints)
+
+## Support + Feature Requests
+<!-- - [Open Tournaments](/endpoints/tournaments_open)
     - [Known Tournaments](/endpoints/tournaments_known)
     - [1K Tournaments](/endpoints/tournaments_1k)
     - [Open Tournaments](/endpoints/tournaments_open)
@@ -48,17 +56,10 @@ If you find this API useful, please consider [donating](/donate) so we can conti
     - [Joinable Tournaments](/endpoints/tournaments_joinable)
     - [Tournaments Search](/endpoints/tournaments_search)
     - [Tournaments](/endpoints/tournaments)
-    - [Top Clans](/endpoints/top_clans)
-    - [Top Players](/endpoints/top_players)
-    - [Top War Clans](/endpoints/top_war)
     - [Popular Clans](/endpoints/popular_clans)
     - [Popular Players](/endpoints/popular_players)
     - [Popular Tournaments](/endpoints/popular_tournaments)
-    - [Popular Decks](/endpoints/popular_decks)
-    - [Endpoints](/endpoints/endpoints)
-
-## Support + Feature Requests
-
+    - [Popular Decks](/endpoints/popular_decks) -->
 If you have a suggestion or an issue to report, please use the [issue tracker](https://github.com/RoyaleAPI/cr-api/issues). We recommend that you search the issue tracker to check if someone else has already reported the issue and whether there is a known solution that you can use. This probably is the fastest way for you to find a solution to any issue that you are facing.
 
 If you are adding a bug report, please add steps to reproduce the bug, exact request (method and URL) and response (including response code). Any additional information (console errors, screenshots) would be helpful.
