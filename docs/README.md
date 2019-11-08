@@ -78,7 +78,7 @@ We are also available as [@RoyaleAPI](https://twitter.com/RoyaleAPI) on Twitter.
 --- | :---: | :---: |
 &nbsp; | <img src="https://avatars0.githubusercontent.com/u/7327741" height=80> | <img src="https://avatars1.githubusercontent.com/u/25040297" height=80>
 Github | [Selfish](https://github.com/selfish) | [smlbiobot](https://github.com/smlbiobot)
-Twitter | [@selfishio](https://twitter.com/selfishio) | [@smlbiobot](https://twitter.com/smlbiobot)
+Twitter | [@selfishio](https://twitter.com/selfishio) | [@SML_RoyaleAPI](https://twitter.com/SML_RoyaleAPI)
 
 ## Repositories
 
