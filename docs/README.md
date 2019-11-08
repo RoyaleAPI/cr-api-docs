@@ -94,6 +94,8 @@ UX | https://github.com/RoyaleAPI/cr-api-docs | User experience, website feature
 
 Name | URL | Description
 --- | --- | ---
-Discord | https://discord.me/RoyaleAPI | Community support and status updates
-Facebook | https://facebook.com/RoyaleAPI | Fan page.
+Discord (Dev) | https://discord.me/RoyaleAPI | Community support and status updates
+Discord (UX) | https://discord.royaleapi.com | UX and end-user support for non-developers
 Twitter | https://twitter.com/RoyaleAPI | Status updates.
+Facebook | https://facebook.com/RoyaleAPI | Fan page.
+
