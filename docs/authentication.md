@@ -244,8 +244,6 @@ Synchronous (blocking) Python using the [requests](https://docs.python-requests.
 ```python
 import requests
 
-url = "https://api.royaleapi.com/clan/2CCCP"
-
 headers = {
     'auth': "a1234.567.890"
     }
