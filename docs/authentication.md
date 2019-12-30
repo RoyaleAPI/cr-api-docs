@@ -250,9 +250,9 @@ headers = {
     'auth': "a1234.567.890"
     }
 
-response = requests.request("GET", url, headers=headers)
+r = requests.get('https://api.royaleapi.com/clan/2CCCP', headers=headers)
 
-data = response.json()
+print(r.text)
 ```
 
 ### Ruby (NET::Http)
