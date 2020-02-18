@@ -2,5 +2,6 @@
 .DS_Store
 
 .vscode
+.idea
 
 docs/v3/refresh_json.py
