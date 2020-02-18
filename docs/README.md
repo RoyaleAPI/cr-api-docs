@@ -4,15 +4,19 @@
 
 Welcome to RoyaleAPI, the unofficial public API for Clash Royale! You can use our API to access Clash Royale API endpoints, which provides real-time information about players, clans, clan wars, tournaments and more.
 
-You can see implementations of this API in [Showcase]/showcase) by third-party developers and on our web site: https://royaleapi.com
+!> We are sunsetting this API starting on March 1st, 2020. Our website for end users will not be affected. Please [read our blog post](https://royaleapi.com/blog/sunset-api) for full details.
 
-[Wrappers]/wrappers) in multiple languages are also available.
+!> Developers who wish to work with the official API with dynamic IPs can use our [proxy](/proxy) solution. 
+
+You can see implementations of this API in [Showcase](/showcase) by third-party developers and on our web site: https://royaleapi.com
+
+[Wrappers](/wrappers) in multiple languages are also available.
 
 If you are new to development using REST APIs, we recommend that you try out [Postman](https://www.getpostman.com/), which provides many useful tools for your daily development needs.
 
-If you find this API useful, please consider [donating]/donate) so we can continue to provide this service free of charge to everyone. 
+If you find this API useful, please consider [donating](/donate) so we can continue to provide this service free of charge to everyone. 
 
-!> We are currently in alpha pre-release. The JSON structure may change over time. Please follow our [Twitter @RoyaleAPI](https://twitter.com/RoyaleAPI) or join our [Discord](https://discord.me/RoyaleAPI) server for important updates.
+!> The JSON structure may change over time. Please follow our [Twitter @RoyaleAPI](https://twitter.com/RoyaleAPI) or join our [Discord](https://discord.royaleapi.dev) server for important updates.
 
 
 ## Documentation
@@ -68,7 +72,7 @@ If you are adding a bug report, please add steps to reproduce the bug, exact req
 
 If you are interested in talking to the team, we are there on Discord. Feel free to drop by and say hello. Our upcoming features and beta releases are discussed here along with deck advice and Die Hard quotes.
 
-Join our Discord Server at: https://discord.me/RoyaleAPI.
+Join our Discord Server at: [https://discord.royaleapi.dev](https://discord.royaleapi.dev)
 
 We are also available as [@RoyaleAPI](https://twitter.com/RoyaleAPI) on Twitter. Feel free to drop in a line wherever it is easiest for you. Twitter would be the best place for you to stay updated with latest news, features and releases regarding RoyaleAPI.
 
