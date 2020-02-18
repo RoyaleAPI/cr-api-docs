@@ -1,5 +1,6 @@
 - Getting Started
     - [Introduction](/)
+    - [Proxy](/proxy)
     - [Authentication](/authentication)
     - [Errors](/errors)
     - [Showcase](/showcase)

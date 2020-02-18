@@ -18,7 +18,7 @@ Additionally, we support **Bearer Token** authorization. Bearer tokens use a fie
 
 ### Generating new keys
 
-You can obtain and manage your developer key on [our discord server](https://discord.me/RoyaleAPI).
+You can obtain and manage your developer key on [our discord server](https://discord.royaleapi.dev).
 
 1. Ensure you have the `Allow Direct Messages from server members` option in `Privacy Settings` checked.
 2. Go to the #developer-key channel.
