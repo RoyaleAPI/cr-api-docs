@@ -58,7 +58,7 @@ Clash Royale selfbot dedicated to getting your CR stats
 
 Tracking of clan and alliance stats. Listings of top Australian clans (to be expanded) for clan chest crowns. History of player stats and card upgrade information.
 
-- Website: http://crclanstats.com/
+- Website: `http://crclanstats.com/` (site no longer live)
 - Author: Jimmy
     - Github: https://github.com/jimmyk3008
 
