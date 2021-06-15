@@ -18,7 +18,7 @@ Follow the instructions above, and substitute domains accordingly:
 
 - [Clash Royale API](https://developer.clashroyale.com) 
 - https://api.clashroyale.com
-- https://cocproxy.royaleapi.dev
+- https://proxy.royaleapi.dev
 
 ## Clash of Clans API Proxy
 
