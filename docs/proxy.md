@@ -24,7 +24,7 @@ Follow the instructions above, and substitute domains accordingly:
 
 - [Clash of Clans API](https://developer.clashofclans.com)
 - https://api.clashofclans.com
-- https://cocproxy.clashofclans.dev
+- https://cocproxy.royaleapi.dev
 
 ## Brawl Stars API Proxy
 
