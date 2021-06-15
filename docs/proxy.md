@@ -9,3 +9,26 @@ We have developed a proxy solution that makes it possible for you to use the [of
     - `https://proxy.royaleapi.dev/v1/players/%23C0G20PR2`
     
 Please join our [Developer Discord server](https://discord.royaleapi.dev) if you need help!
+
+## Proxy for other Supercell Games
+
+Follow the instructions above, and substitute domains accordingly:
+
+## Clash Royale API Proxy
+
+- [Clash Royale API](https://developer.clashroyale.com) 
+- https://api.clashroyale.com
+- https://cocproxy.royaleapi.dev
+
+## Clash of Clans API Proxy
+
+- [Clash of Clans API](https://developer.clashofclans.com)
+- https://api.clashofclans.com
+- https://cocproxy.clashofclans.dev
+
+## Brawl Stars API Proxy
+
+- [Brawl Starss API](https://developer.clashofclans.com)
+- https://api.brawlstars.com
+- https://bsproxy.royaleapi.dev
+
