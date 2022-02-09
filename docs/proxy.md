@@ -28,7 +28,7 @@ Follow the instructions above, and substitute domains accordingly:
 
 ## Brawl Stars API Proxy
 
-- [Brawl Starss API](https://developer.clashofclans.com)
+- [Brawl Stars API](https://developer.brawlstars.com)
 - https://api.brawlstars.com
 - https://bsproxy.royaleapi.dev
 
