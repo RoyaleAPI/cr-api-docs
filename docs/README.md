@@ -6,7 +6,7 @@ Welcome to RoyaleAPI, the unofficial public API for Clash Royale! You can use ou
 
 !> We are sunsetting this API starting on March 1st, 2020. Our website for end users will not be affected. Please [read our blog post](https://royaleapi.com/blog/sunset-api) for full details.
 
-!> **Update 2022-02-08:** Supercell made some changes with how tokens are handled. Because of this, the  [proxy](/proxy) will no longer work.
+!> **Update 2022-02-08:** Supercell made some changes with how tokens are handled. Because of this, the  [proxy](/proxy) will no longer work with `128.128.128.128` but you can create a new key with `45.79.218.79`.
 
 
 You can see implementations of this API in [Showcase](/showcase) by third-party developers and on our web site: https://royaleapi.com
