@@ -1,4 +1,4 @@
-name: docs
+name: Vuepress 2 Docs
 
 on:
   # trigger deployment on every push to main branch
