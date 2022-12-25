@@ -4,7 +4,7 @@ This endpoint returns very basic data on whether a clan is included in the [Clan
 
 ## HTTP Request
 
-`GET https://api.royaleapi.com/clan/<TAG>/tracking`
+`GET https://api.royaleapi.com/clan/:tag/tracking`
 
 ### URL Parameters
 

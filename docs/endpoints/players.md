@@ -1,16 +1,16 @@
 # Players
 
-This endpoint retrieves multiple players. To retrieve a single player, take a look at [/player/<TAG>](/endpoints/player).
+This endpoint retrieves multiple players. To retrieve a single player, take a look at [/player/:tag](/endpoints/player).
 
 ## HTTP Request
 
-`GET https://api.royaleapi.com/players/<TAGS>`
+`GET https://api.royaleapi.com/players/:tags`
 
 ### URL Parameters
 
-Parameter | Description
---- | ---
-`TAGS` | A comma-seperated list of player tags to retrieve.
+| Parameter | Description |
+| -----------| --- |
+|  `TAGS`    | A comma-seperated list of player tags to retrieve. |
 
 ## Response
 

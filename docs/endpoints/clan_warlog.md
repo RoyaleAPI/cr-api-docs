@@ -4,7 +4,7 @@ This endpoint returns data about the past clan wars. [/clan/:tag/war](/endpoints
 
 ## HTTP Request
 
-`GET https://api.royaleapi.com/clan/<TAG>/warlog`
+`GET https://api.royaleapi.com/clan/:tag/warlog`
 
 ### URL Parameters
 

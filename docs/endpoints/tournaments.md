@@ -8,7 +8,7 @@ You can see information about the tournament before it has started and after it 
 
 ## HTTP Request
 
-`GET https://api.royaleapi.com/tournament/<TAG>,<TAG>`
+`GET https://api.royaleapi.com/tournament/:tag,:tag`
 
 
 ### URL Parameters

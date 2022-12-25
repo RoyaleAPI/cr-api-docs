@@ -1,13 +1,18 @@
+
 # Introduction
 
 <img width="30%" height="30%" src="https://raw.githubusercontent.com/cr-api/cr-api-docs/master/docs/img/cr-api-logo-b.png">
 
 Welcome to RoyaleAPI, the unofficial public API for Clash Royale! You can use our API to access Clash Royale API endpoints, which provides real-time information about players, clans, clan wars, tournaments and more.
 
-!> We are sunsetting this API starting on March 1st, 2020. Our website for end users will not be affected. Please [read our blog post](https://royaleapi.com/blog/sunset-api) for full details.
+::: tip Note
+We have sunsetted our public API starting on March 1st, 2020. Our website for end users will not be affected. Please [read our blog post](https://royaleapi.com/blog/sunset-api) for full details.
+:::
 
-!> **Update 2022-02-08:** Supercell made some changes with how tokens are handled. Because of this, the  [proxy](/proxy) will no longer work with `128.128.128.128` but you can create a new key with `45.79.218.79`.
 
+::: tip Proxy IP Update 2022-02-08
+Supercell made some changes with how tokens are handled. Because of this, the  [proxy](/proxy) will no longer work with `128.128.128.128` but you can create a new key with `45.79.218.79`.
+::: 
 
 You can see implementations of this API in [Showcase](/showcase) by third-party developers and on our web site: https://royaleapi.com
 
@@ -83,7 +88,7 @@ We are also available as [@RoyaleAPI](https://twitter.com/RoyaleAPI) on Twitter.
 --- | :---: | :---: |
 &nbsp; | <img src="https://avatars0.githubusercontent.com/u/7327741" height=80> | <img src="https://avatars1.githubusercontent.com/u/25040297" height=80>
 Github | [Selfish](https://github.com/selfish) | [smlbiobot](https://github.com/smlbiobot)
-Twitter | [@selfishio](https://twitter.com/selfishio) | [@SML_RoyaleAPI](https://twitter.com/SML_RoyaleAPI)
+Twitter | [@selfishio](https://twitter.com/selfishio) | [@seeminglee](https://twitter.com/seeminglee)
 
 ## Repositories
 

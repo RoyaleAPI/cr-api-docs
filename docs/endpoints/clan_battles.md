@@ -6,7 +6,7 @@ You may want to use [pagination](pagination) for this request.
 
 ## HTTP Request
 
-`GET https://api.royaleapi.com/clan/<TAG>/battles`
+`GET https://api.royaleapi.com/clan/:tag/battles`
 
 ### URL Parameters
 

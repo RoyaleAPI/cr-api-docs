@@ -4,7 +4,7 @@ This endpoint return upcoming chests for a specific player.
 
 ## HTTP Request
 
-`GET https://api.royaleapi.com/player/<TAG>/chests`
+`GET https://api.royaleapi.com/player/:tag/chests`
 
 ### URL Parameters
 

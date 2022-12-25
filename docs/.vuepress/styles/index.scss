@@ -1,0 +1,14 @@
+:root {
+  // brand colors
+  --c-brand: #2b73ff;
+  --c-brand-light: #2b73ff;
+  --font-family: 'Source Sans Pro', sans-serif;
+  --c-tip: var(--c-brand);
+}
+
+html.dark {
+  --c-bg: #22272e;
+  --c-brand: #518fff;
+  --c-brand-light: #518fff;
+  --c-tip: var(--c-brand);
+}

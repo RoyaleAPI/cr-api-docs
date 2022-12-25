@@ -4,7 +4,7 @@ This endpoint would allow the API to verify your clan description and get it add
 
 ## HTTP Request
 
-`GET https://api.royaleapi.com/clan/<TAG>/track`
+`GET https://api.royaleapi.com/clan/:tag/track`
 
 ### URL Parameters
 

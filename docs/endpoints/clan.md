@@ -1,10 +1,10 @@
 # Clan
 
-This endpoint retrieves a specific clan. To retrieve multiple clans, take a look at [/clans/<TAGS>](/endpoints/clans).
+This endpoint retrieves a specific clan. To retrieve multiple clans, take a look at [/clans/:tags](/endpoints/clans).
 
 ## HTTP Request
 
-`GET https://api.royaleapi.com/clan/<TAG>`
+`GET https://api.royaleapi.com/clan/:tag`
 
 ### URL Parameters
 

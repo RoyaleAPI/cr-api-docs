@@ -4,7 +4,7 @@ This endpoint return battles played by a specific player.
 
 ## HTTP Request
 
-`GET https://api.royaleapi.com/player/<TAG>/battles`
+`GET https://api.royaleapi.com/player/:tag/battles`
 
 ### URL Parameters
 

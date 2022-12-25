@@ -4,7 +4,7 @@ This endpoint returns data about the current clan war. [/clan/:tag/warlog](/endp
 
 ## HTTP Request
 
-`GET https://api.royaleapi.com/clan/<TAG>/war`
+`GET https://api.royaleapi.com/clan/:tag/war`
 
 ### URL Parameters
 
