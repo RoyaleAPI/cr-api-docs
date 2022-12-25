@@ -94,18 +94,18 @@ Twitter | [@selfishio](https://twitter.com/selfishio) | [@seeminglee](https://tw
 
 Name | URL | Description
 --- | --- | ---
-Main | https://github.com/RoyaleAPI/cr-api | Feature requests, bug reports, etc.
-Assets | https://github.com/RoyaleAPI/cr-api-assets | Image assets for cards, arenas, etc.
-Data | https://github.com/RoyaleAPI/cr-api-data | Constants as JSON.
-Docs | https://github.com/RoyaleAPI/cr-api-docs | Documentation.
-UX | https://github.com/RoyaleAPI/cr-api-docs | User experience, website feature request, family configs.
+Main | [https://github.com/RoyaleAPI/cr-api](https://github.com/RoyaleAPI/cr-api) | Feature requests, bug reports, etc.
+Assets | [https://github.com/RoyaleAPI/cr-api-assets](https://github.com/RoyaleAPI/cr-api-assets) | Image assets for cards, arenas, etc.
+Data | [https://github.com/RoyaleAPI/cr-api-data](https://github.com/RoyaleAPI/cr-api-data) | Constants as JSON.
+Docs | [https://github.com/RoyaleAPI/cr-api-docs](https://github.com/RoyaleAPI/cr-api-docs) | Documentation.
+UX | [https://github.com/RoyaleAPI/cr-api-docs](https://github.com/RoyaleAPI/cr-api-docs) | User experience, website feature request, family configs.
 
 ## Social
 
 Name | URL | Description
 --- | --- | ---
-Discord (Dev) | https://discord.me/RoyaleAPI | Community support and status updates
-Discord (UX) | https://discord.royaleapi.com | UX and end-user support for non-developers
-Twitter | https://twitter.com/RoyaleAPI | Status updates.
-Facebook | https://facebook.com/RoyaleAPI | Fan page.
+Discord (Dev) | [https://discord.me/RoyaleAPI](https://discord.me/RoyaleAPI) | Community support and status updates
+Discord (UX) | [https://discord.royaleapi.com](https://discord.royaleapi.com) | UX and end-user support for non-developers
+Twitter | [https://twitter.com/RoyaleAPI](https://twitter.com/RoyaleAPI) | Status updates.
+Facebook | [https://facebook.com/RoyaleAPI](https://facebook.com/RoyaleAPI) | Fan page.
 
