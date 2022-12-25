@@ -58,7 +58,7 @@ Clash Royale selfbot dedicated to getting your CR stats
 
 Tracking of clan and alliance stats. Listings of top Australian clans (to be expanded) for clan chest crowns. History of player stats and card upgrade information.
 
-- Website: `http://crclanstats.com/` (site no longer live)
+- Website: `https://crclanstats.com/` (site no longer live)
 - Author: Jimmy
     - Github: https://github.com/jimmyk3008
 
@@ -85,7 +85,7 @@ Deck Bandit also lists the top players & decks for a predefined list of card lev
 
 A French Discord bot with many features (e.g. moderation, utilities) as well as Clash Royale and Clash of Clans commands.
 
-- Website: http://www.fayssalbot.ml/
+- Website: https://www.fayssalbot.ml/
 - Author: FayssalZ
     - Github: https://github.com/fayssalz59
 
@@ -101,7 +101,7 @@ A multipurpose bot with music, fun, moderation, and many more things, and especi
 
 An app and website that shows the trophies ranking for the clan family, and the interim season prizes.
 
-- Website: http://orionesportsbr.com/ranking/raw-leaderboard/mobile-ranking
+- Website: https://orionesportsbr.com/ranking/raw-leaderboard/mobile-ranking
 - Play Store: https://play.google.com/store/apps/details?id=com.wOrioneSports
 - Author: Vitor Hugo Welzel]
     - Github: https://github.com/welzel855
@@ -127,7 +127,7 @@ A quick website to calculate the amount of gold, gems, money it will cost you to
 
 For example, if you have a level 10 knight, with 3500 spare cards, it will tell you that you can upgrade it to a level 12 knight, and that it will cost you 70k gold, and you'll need 4500 to get it to the next level (13).
 
-- Website: http://cr.maxime-dechalendar.com/
+- Website: https://cr.maxime-dechalendar.com/
 - Reddit: https://www.reddit.com/r/ClashRoyale/comments/7seoy8/strategy_introducing_sad_stats_royale_a_website/
 - Author: DCMaxxx
     - Github: https://github.com/DCMaxxx
@@ -137,7 +137,7 @@ For example, if you have a level 10 knight, with 3500 spare cards, it will tell 
 
 Website for Team CMC, a Singapore-based clan family. Utilizes RoyaleAPI for clan management, tracking members' movement and clan recruitment.
 
-- Website: http://www.teamcmc.pro
+- Website: https://www.teamcmc.pro
 - Author: ZeNeLLiE
     - Github: https://github.com/ZeNeLLiE
 
@@ -146,7 +146,7 @@ Website for Team CMC, a Singapore-based clan family. Utilizes RoyaleAPI for clan
 
 This website is a homepage for "the brews" clan. This is a very basic example of RoyaleAPI usage in a basic clan website that is mobile friendly.
 
-- Website: http://thebrews.tommaus.com/
+- Website: https://thebrews.tommaus.com/
 - Author: Qubit
     - Web: https://thebrews.tommaus.com/player.php?player=PRQJVPCR
 
@@ -154,7 +154,7 @@ This website is a homepage for "the brews" clan. This is a very basic example of
 
 This web page was created in order to show the clan roster "Top Ricarditos", inspired by your web site (clan view) structure but in Spanish language.
 
-- Website: http://luisramirez.me/topricarditos/
+- Website: https://luisramirez.me/topricarditos/
 - Author: Luis Ramirez
     - Github: https://github.com/luisramirez-m
 
@@ -193,7 +193,7 @@ Android chest tracker
 
 Profile statistics tool for the Brazilian Clash Royale community
 
-- Website: http://www.clashroyaledicas.com/stats/
+- Website: https://www.clashroyaledicas.com/stats/
 - Google Play: https://play.google.com/store/apps/details?id=com.clashdicas.clashroyaledicas
 - Authors:
     - Lucas Felix
@@ -227,15 +227,15 @@ Leader board on the front page.
 [All Stats are updated every 5 minutes and are stored in a database so if the API isn't working the latest data will be shown.]
 
 Graphs example:
-http://samisage.com/u/15.50.20-06.03.18.leader
-http://samisage.com/u/15.50.34-06.03.18.timeline
+https://samisage.com/u/15.50.20-06.03.18.leader
+https://samisage.com/u/15.50.34-06.03.18.timeline
 
 If you're not in the Chapsters clan, consider checking it out or check back in a while to see if we've changed the way the website works.
 
-- Website: http://samisage.com/app/clanstats/
+- Website: https://samisage.com/app/clanstats/
 - Authors:
     - Samisage
-        - Website: http://samisage.com/
+        - Website: https://samisage.com/
     - bobbob (aka. Ujimaflip)
     - ma
 
@@ -261,7 +261,7 @@ A tiny fiddle that shows 10 best & worst members of a clan based on war wins & w
 
 Track and analyze all of your clan wars! Identify your clan MVPs!
 
-- Website: http://royalewartracker.com/
+- Website: https://royalewartracker.com/
 - Author: Brian Kates
     - Github: https://github.com/briankates816
     - Linkedin: https://www.linkedin.com/in/briankates/
@@ -295,7 +295,7 @@ See your Clash Royale stats, next chest, war details and much more!
 Find out who the most valuable members of your clan are using simple indicators.    
 Find open joinable Tournaments using royaleapi real-time data.
 
-- Website: http://howsmyclan.com/
+- Website: https://howsmyclan.com/
 - Author: Sagi Yehuday
     - Github: https://github.com/Sagi44
 
@@ -375,12 +375,12 @@ playedwith allows you to type in your Clash Royale ID, and see if you have ever 
 
 Crous royale is a website that allows you to compare your stats with up to 3 other players!
 
-- Website: http://crousroyale.herokuapp.com
+- Website: https://crousroyale.herokuapp.com
 - Authors:
     - Axel Donadio:
         - Website: https://www.linkedin.com/in/axel-donadio-373921130/
     - Guillaume Lollier:
-    	- Website: http://guillaumelollier.fr/
+    	- Website: https://guillaumelollier.fr/
 
 ### Switfty-Bot
 

@@ -37,6 +37,6 @@ Below is the full JSON Response with a 417 Expectation Failed error
     "error": true,
     "statusCode": 417,
     "statusText": "Cannot fetch clan tracking: Cannot fetch clan tracking: clan not tracked",
-    "info": "Additional information and support: http://discord.me/royaleapi"
+    "info": "Additional information and support: https://discord.me/royaleapi"
 }
 ```
