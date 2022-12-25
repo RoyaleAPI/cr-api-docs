@@ -1,7 +1,6 @@
-# Mac
-.DS_Store
-
-.vscode
 .idea
-
-docs/v3/refresh_json.py
+.temp
+.cache
+.DS_Store
+node_modules
+dist
