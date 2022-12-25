@@ -14,7 +14,9 @@ Parameter | Description
 
 ## Response
 
-!> Even if the API says `success: true`, it does not mean that your clan has been added to tracking. Do a request to [/clan/tracking](/endpoints/clan_tracking) to check that.
+::: tip Note
+Even if the API says `success: true`, it does not mean that your clan has been added to tracking. Do a request to [/clan/tracking](/endpoints/clan_tracking) to check that.
+:::
 
 Below is the full JSON Response
 ```json

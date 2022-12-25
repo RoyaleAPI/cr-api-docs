@@ -1,6 +1,8 @@
 # Pagination
 
-!> This feature has yet to be implemented. Please be patient as we add the features from v2.
+::: tip Note
+This feature has yet to be implemented. Please be patient as we add the features from v2.
+:::
 
 For any of our endpoints that returns an array, you may use query string params to filter out data you don't need.
 

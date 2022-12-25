@@ -1,6 +1,8 @@
 # Get Top Clans
 
-!> This endpoint has yet to support Global leaderboards. Please be patient as we add the endpoints from v2. The endpoint will return a 404 Not Found error when not provided a location key.
+::: tip Note
+This endpoint has yet to support Global leaderboards. Please be patient as we add the endpoints from v2. The endpoint will return a 404 Not Found error when not provided a location key.
+:::
 
 This endpoint retrieves the Global 200 top clans on the leaderboard.
 

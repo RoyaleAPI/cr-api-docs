@@ -22,12 +22,16 @@ If you are new to development using REST APIs, we recommend that you try out [Po
 
 If you find this API useful, please consider [donating](/donate) so we can continue to provide this service free of charge to everyone. 
 
-!> The JSON structure may change over time. Please follow our [Twitter @RoyaleAPI](https://twitter.com/RoyaleAPI) or join our [Discord](https://discord.royaleapi.dev) server for important updates.
+::: tip Note
+The JSON structure may change over time. Please follow our [Twitter @RoyaleAPI](https://twitter.com/RoyaleAPI) or join our [Discord](https://discord.royaleapi.dev) server for important updates.
+:::
 
 
 ## Documentation
 
-!> The popular and tournament related endpoints are currently not implemented and will return a 501 Not Implemented error.
+::: tip Note
+The popular and tournament related endpoints are currently not implemented and will return a 501 Not Implemented error.
+:::
 
 - Getting Started
     - [Introduction](/)

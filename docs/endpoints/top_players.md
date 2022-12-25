@@ -1,6 +1,8 @@
 # Get Top Players
 
-!> This endpoint has yet to support Global leaderboards. Please be patient as we add the endpoints from v2. The endpoint will return a 404 Not Found error when not provided a location key.
+::: tip Note
+This endpoint has yet to support Global leaderboards. Please be patient as we add the endpoints from v2. The endpoint will return a 404 Not Found error when not provided a location key.
+:::
 
 This endpoint retrieves the Global 200 top players on the leaderboard. Data is cached and currently set to update every 10 minutes.
 
@@ -18,7 +20,9 @@ Parameter | Description
 
  See [cr-api-data/json/regions.json](https://github.com/RoyaleAPI/cr-api-data/blob/master/json/regions.json) for the full list of acceptable keys.
 
- !> Unlike clans, players do not belong to regions (denoted by `_` underscore prefix). Players only belong to a country. Clans can be set to a region because it is a clan setting.
+ ::: tip Note
+Unlike clans, players do not belong to regions (denoted by `_` underscore prefix). Players only belong to a country. Clans can be set to a region because it is a clan setting.
+:::
 
 ## Response
 

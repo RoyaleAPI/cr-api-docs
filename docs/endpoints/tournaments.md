@@ -1,6 +1,8 @@
 # Tournament(s)
 
-!> This endpoint has yet to be implemented. Please be patient as we add the endpoints from v2. The endpoint will return a 501 Not Implemented error.
+::: tip Note
+This endpoint has yet to be implemented. Please be patient as we add the endpoints from v2. The endpoint will return a 501 Not Implemented error.
+:::
 
 The tournaments endpoint is not overly useful unless you know the tournament tags already. You can use [/tournaments/known](/endpoints/tournaments_known) or [/tournaments/open](/endpoints/tournaments_open) to find new tournaments.
 

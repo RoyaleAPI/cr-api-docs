@@ -37,7 +37,9 @@ Name | Data Type | Required / Optional | Description
 https://api.royaleapi.com/clan/2U2GGQJ/history/weekly
 
  <!-- <a href="/json/clan_2U2GGQJ_history_weekly.json">Full JSON Response</a> -->
-!> Full JSON Response will be made available once more data is gathered.
+::: tip Note
+Full JSON Response will be made available once more data is gathered.
+:::
 
 ```json
 {

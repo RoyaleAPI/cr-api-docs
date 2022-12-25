@@ -1,6 +1,8 @@
 # Wrappers
 
-!> Unless otherwise noted, this is not an official endorsement.
+::: tip Note
+Unless otherwise noted, this is not an official endorsement.
+:::
 
 ## .NET
 

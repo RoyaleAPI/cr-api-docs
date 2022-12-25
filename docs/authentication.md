@@ -8,7 +8,9 @@ You must authenticate your requests using **custom headers**. Add a key named `a
 
 Additionally, we support **Bearer Token** authorization. Bearer tokens use a field named `Authorization` with value `Bearer <token>` in the header.
 
-!> Set your token as an **environment variable** or save it as part of the Authorization setting in your **Postman Collection** settings so you don’t need to ever type it again.
+::: tip Note
+Set your token as an **environment variable** or save it as part of the Authorization setting in your **Postman Collection** settings so you don’t need to ever type it again.
+:::
 
 ## Key Management
 

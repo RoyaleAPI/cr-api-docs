@@ -2,7 +2,9 @@
 
 Here are some applications which use our API. Want to get your app listed here? Read about how you can do that [here](https://github.com/RoyaleAPI/cr-api-docs/wiki/Showcase)!
 
-!> Unless otherwise noted, this is not an official endorsement.
+::: tip Note
+Unless otherwise noted, this is not an official endorsement.
+:::
 
 ## Third-party Applications
 

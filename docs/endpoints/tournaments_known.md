@@ -1,6 +1,8 @@
 # Known Tournaments
 
-!> This endpoint has yet to be implemented. Please be patient as we add the endpoints from v2. The endpoint will return a 501 Not Implemented error.
+::: tip Note
+This endpoint has yet to be implemented. Please be patient as we add the endpoints from v2. The endpoint will return a 501 Not Implemented error.
+:::
 
 This endpoint returns a list of tournaments people have used the [/tournaments](/endpoints/tournaments) endpoint to search for.
 
