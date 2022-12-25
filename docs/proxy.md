@@ -1,10 +1,5 @@
 # Proxy
 
-
-::: tip Note
-**Update 2022-02-08:** Supercell made some changes with how tokens are handled. Because of this, you can no longer use `128.128.128.128` as IP. You should be able to continue to use this proxy by creating a new key with this IP `45.79.218.79`
-:::
-
 We have developed a proxy solution that makes it possible for you to use the [official API](https://developer.clashroyale.com/) with dynamic IP addresses.
 
 1. Create a key on the the official API and whitelist (include) this IP: `45.79.218.79`

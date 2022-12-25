@@ -1,7 +1,11 @@
 export const sidebar_en = [
     {
-      text: 'Archive',
-      link: '/',
+        text: 'Archive',
+        link: '/',
+        children: [
+            '/index.md',
+            '/proxy.md',
+        ]
     },
 
     {
