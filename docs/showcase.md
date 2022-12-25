@@ -62,13 +62,13 @@ Tracking of clan and alliance stats. Listings of top Australian clans (to be exp
 
 - Website: `https://crclanstats.com/` (site no longer live)
 - Author: Jimmy
-    - Github: https://github.com/jimmyk3008
+    - Github: [https://github.com/jimmyk3008](https://github.com/jimmyk3008)
 
 ### Crown Stats (Bot)
 
 A Clash Royale Statistics bot for Facebook Messenger Platform.
 
-- Invite: https://m.me/CrownStats
+- Invite: [https://m.me/CrownStats](https://m.me/CrownStats)
 - Author: kamaelxiii
 
 ### Deck Bandit
@@ -77,36 +77,36 @@ Deck Bandit is a unique tool to find the best & highest ranked Clash Royale ladd
 
 Deck Bandit also lists the top players & decks for a predefined list of card levels. The data is gathered daily and provides great insight into the different "metas" in trophy ranges from 3000 to the elite players at 6000 trophies and above.
 
-- Website: https://deckbandit.com
-- Play Store: https://play.google.com/store/apps/details?id=com.deckbandit.deckbanditapp
+- Website: [https://deckbandit.com](https://deckbandit.com)
+- Play Store: [https://play.google.com/store/apps/details?id=com.deckbandit.deckbanditapp](https://play.google.com/store/apps/details?id=com.deckbandit.deckbanditapp)
 - Author: Jan Ole Suhr
     - Email: [ole@mobileways.de](mailto:ole@mobileways.de)
-    - Twitter: https://twitter.com/janole
+    - Twitter: [https://twitter.com/janole](https://twitter.com/janole)
 
 ### Fayssalbot
 
 A French Discord bot with many features (e.g. moderation, utilities) as well as Clash Royale and Clash of Clans commands.
 
-- Website: https://www.fayssalbot.ml/
+- Website: [https://www.fayssalbot.ml/](https://www.fayssalbot.ml/)
 - Author: FayssalZ
-    - Github: https://github.com/fayssalz59
+    - Github: [https://github.com/fayssalz59](https://github.com/fayssalz59)
 
 ### Gearz
 
 A multipurpose bot with music, fun, moderation, and many more things, and especially Clash Royale commands.
 
-- Repo: https://github.com/Innovative-creators/Gearz
+- Repo: [https://github.com/Innovative-creators/Gearz](https://github.com/Innovative-creators/Gearz)
 - Author: Froosty Aka TheLearneer
-    - Github: https://github.com/TheLearneer
+    - Github: [https://github.com/TheLearneer](https://github.com/TheLearneer)
 
 ### Orion eSports Ranking website
 
 An app and website that shows the trophies ranking for the clan family, and the interim season prizes.
 
-- Website: https://orionesportsbr.com/ranking/raw-leaderboard/mobile-ranking
-- Play Store: https://play.google.com/store/apps/details?id=com.wOrioneSports
+- Website: [https://orionesportsbr.com/ranking/raw-leaderboard/mobile-ranking](https://orionesportsbr.com/ranking/raw-leaderboard/mobile-ranking)
+- Play Store: [https://play.google.com/store/apps/details?id=com.wOrioneSports](https://play.google.com/store/apps/details?id=com.wOrioneSports)
 - Author: Vitor Hugo Welzel]
-    - Github: https://github.com/welzel855
+    - Github: [https://github.com/welzel855](https://github.com/welzel855)
 
 ### Road21 clan website
 
@@ -119,9 +119,9 @@ Keeps track of member stats, especially member activity (last battle time, last 
 
 Clan info logging.
 
-- Repo: https://github.com/akaminetzkyp/RoyaleStats
+- Repo: [https://github.com/akaminetzkyp/RoyaleStats](https://github.com/akaminetzkyp/RoyaleStats)
 - Author: akaminetzkyp
-    - Github: https://github.com/akaminetzkyp)
+    - Github: [https://github.com/akaminetzkyp)](https://github.com/akaminetzkyp))
 
 ### Sad Stats Royale
 
@@ -129,36 +129,36 @@ A quick website to calculate the amount of gold, gems, money it will cost you to
 
 For example, if you have a level 10 knight, with 3500 spare cards, it will tell you that you can upgrade it to a level 12 knight, and that it will cost you 70k gold, and you'll need 4500 to get it to the next level (13).
 
-- Website: https://cr.maxime-dechalendar.com/
-- Reddit: https://www.reddit.com/r/ClashRoyale/comments/7seoy8/strategy_introducing_sad_stats_royale_a_website/
+- Website: [https://cr.maxime-dechalendar.com/](https://cr.maxime-dechalendar.com/)
+- Reddit: [https://www.reddit.com/r/ClashRoyale/comments/7seoy8/strategy_introducing_sad_stats_royale_a_website/](https://www.reddit.com/r/ClashRoyale/comments/7seoy8/strategy_introducing_sad_stats_royale_a_website/)
 - Author: DCMaxxx
-    - Github: https://github.com/DCMaxxx
+    - Github: [https://github.com/DCMaxxx](https://github.com/DCMaxxx)
 
 
 ### Team CMC website
 
 Website for Team CMC, a Singapore-based clan family. Utilizes RoyaleAPI for clan management, tracking members' movement and clan recruitment.
 
-- Website: https://www.teamcmc.pro
+- Website: [https://www.teamcmc.pro](https://www.teamcmc.pro)
 - Author: ZeNeLLiE
-    - Github: https://github.com/ZeNeLLiE
+    - Github: [https://github.com/ZeNeLLiE](https://github.com/ZeNeLLiE)
 
 
 ### The Brews clan website
 
 This website is a homepage for "the brews" clan. This is a very basic example of RoyaleAPI usage in a basic clan website that is mobile friendly.
 
-- Website: https://thebrews.tommaus.com/
+- Website: [https://thebrews.tommaus.com/](https://thebrews.tommaus.com/)
 - Author: Qubit
-    - Web: https://thebrews.tommaus.com/player.php?player=PRQJVPCR
+    - Web: [https://thebrews.tommaus.com/player.php?player=PRQJVPCR](https://thebrews.tommaus.com/player.php?player=PRQJVPCR)
 
 ### Top Ricarditos Clan Website
 
 This web page was created in order to show the clan roster "Top Ricarditos", inspired by your web site (clan view) structure but in Spanish language.
 
-- Website: https://luisramirez.me/topricarditos/
+- Website: [https://luisramirez.me/topricarditos/](https://luisramirez.me/topricarditos/)
 - Author: Luis Ramirez
-    - Github: https://github.com/luisramirez-m
+    - Github: [https://github.com/luisramirez-m](https://github.com/luisramirez-m)
 
 ### Track Royale
 
@@ -172,9 +172,9 @@ Track Royale provide tools to help you get more fun while playing Clash Royale. 
 
 ★ Look at your battle and account statistic
 
-- Google Play: https://play.google.com/store/apps/details?id=com.anksite.trackroyale
+- Google Play: [https://play.google.com/store/apps/details?id=com.anksite.trackroyale](https://play.google.com/store/apps/details?id=com.anksite.trackroyale)
 - Author: anksite
-    - Github: https://github.com/anksite
+    - Github: [https://github.com/anksite](https://github.com/anksite)
 
 ![](/img/showcase/trackroyale1.png)
 
@@ -185,7 +185,7 @@ Track Royale provide tools to help you get more fun while playing Clash Royale. 
 
 Android chest tracker
 
-- Google Play: https://play.google.com/store/apps/details?id=eu.tudor.ultimatechesttrackerforclash
+- Google Play: [https://play.google.com/store/apps/details?id=eu.tudor.ultimatechesttrackerforclash](https://play.google.com/store/apps/details?id=eu.tudor.ultimatechesttrackerforclash)
 - Author: Tudorr (XDDK)
 
 ![](/img/showcase/ultimate-clash-royale-tracker.png)
@@ -195,27 +195,27 @@ Android chest tracker
 
 Profile statistics tool for the Brazilian Clash Royale community
 
-- Website: https://www.clashroyaledicas.com/stats/
-- Google Play: https://play.google.com/store/apps/details?id=com.clashdicas.clashroyaledicas
+- Website: [https://www.clashroyaledicas.com/stats/](https://www.clashroyaledicas.com/stats/)
+- Google Play: [https://play.google.com/store/apps/details?id=com.clashdicas.clashroyaledicas](https://play.google.com/store/apps/details?id=com.clashdicas.clashroyaledicas)
 - Authors:
     - Lucas Felix
-        - Twitter: https://twitter.com/ClashDicas
+        - Twitter: [https://twitter.com/ClashDicas](https://twitter.com/ClashDicas)
     - Reginaldo P.
 
 ### Clash Royale Chest Tracker
 
 Simple way to keep tracking of the next chests.
 
-- Google Play: https://play.google.com/store/apps/details?id=com.nelsonalmendra.clashroyalechesttracker
+- Google Play: [https://play.google.com/store/apps/details?id=com.nelsonalmendra.clashroyalechesttracker](https://play.google.com/store/apps/details?id=com.nelsonalmendra.clashroyalechesttracker)
 - Author: Nelson Almendra
-    - Twitter: https://twitter.com/NelsonAlmendra
+    - Twitter: [https://twitter.com/NelsonAlmendra](https://twitter.com/NelsonAlmendra)
 
 ### CR Tracker for Chests
 A simple app to help you know about your upcoming and special chests
 
-- Google Play: https://play.google.com/store/apps/details?id=com.abhiinteractive.crtrackerforchests
+- Google Play: [https://play.google.com/store/apps/details?id=com.abhiinteractive.crtrackerforchests](https://play.google.com/store/apps/details?id=com.abhiinteractive.crtrackerforchests)
 - Author: Abhi Interactive
-    - Github: https://github.com/Abhijeet589
+    - Github: [https://github.com/Abhijeet589](https://github.com/Abhijeet589)
 
 ### Clanstats
 
@@ -234,10 +234,10 @@ https://samisage.com/u/15.50.34-06.03.18.timeline
 
 If you're not in the Chapsters clan, consider checking it out or check back in a while to see if we've changed the way the website works.
 
-- Website: https://samisage.com/app/clanstats/
+- Website: [https://samisage.com/app/clanstats/](https://samisage.com/app/clanstats/)
 - Authors:
     - Samisage
-        - Website: https://samisage.com/
+        - Website: [https://samisage.com/](https://samisage.com/)
     - bobbob (aka. Ujimaflip)
     - ma
 
@@ -247,68 +247,68 @@ Stu's Army! Bot is a private bot made for a clan family, it features an always-u
 
 ![#clan-stats](https://i.imgur.com/pohqjfg.png)
 
-- Github: https://github.com/fourjr/stusarmybot
+- Github: [https://github.com/fourjr/stusarmybot](https://github.com/fourjr/stusarmybot)
 - Author: 4JR
-    - Github: https://github.com/fourjr
+    - Github: [https://github.com/fourjr](https://github.com/fourjr)
 
 ### Clan Activity Statistics
 
 A tiny fiddle that shows 10 best & worst members of a clan based on war wins & war participation in the last 10 wars, and donations in the last 2 weeks. You can use it for suggestions on who to promote or demote.
 
-- Website: https://jsfiddle.net/wbcf8jz3/17
+- Website: [https://jsfiddle.net/wbcf8jz3/17](https://jsfiddle.net/wbcf8jz3/17)
 - Author: haulin
-    - Github: https://github.com/haulin
+    - Github: [https://github.com/haulin](https://github.com/haulin)
 
 ### Clash Royale Clan War Tracker
 
 Track and analyze all of your clan wars! Identify your clan MVPs!
 
-- Website: https://royalewartracker.com/
+- Website: [https://royalewartracker.com/](https://royalewartracker.com/)
 - Author: Brian Kates
-    - Github: https://github.com/briankates816
-    - Linkedin: https://www.linkedin.com/in/briankates/
+    - Github: [https://github.com/briankates816](https://github.com/briankates816)
+    - Linkedin: [https://www.linkedin.com/in/briankates/](https://www.linkedin.com/in/briankates/)
 
 ### Royale War Stats
 
 Access quick visualizations of your clan and member activity regarding the clan war as well as other battles played. Quickly identify who contributes and who should be kicked.
 
-- Website: https://royalewarstats.com/
+- Website: [https://royalewarstats.com/](https://royalewarstats.com/)
 - Author: Munsterlander
-    - Github: https://github.com/munsterlander
+    - Github: [https://github.com/munsterlander](https://github.com/munsterlander)
 
 ### Clash Royale War Assistant
 
 Check yours and other competitor war clan details, performance of your clan in last 10 wars (total counts for no of wins, cards, etc. for each member helping you decide whom to promote or kick if you're a leader), war battles of your clan (copy a winners deck for yourself), get notified to attack, and lot lot more!
 
-- Google Play: https://play.google.com/store/apps/details?id=com.abhiinteractive.clashroyalewarassistant
+- Google Play: [https://play.google.com/store/apps/details?id=com.abhiinteractive.clashroyalewarassistant](https://play.google.com/store/apps/details?id=com.abhiinteractive.clashroyalewarassistant)
 - Author: Abhijeet
-    - Github: https://github.com/Abhijeet589
+    - Github: [https://github.com/Abhijeet589](https://github.com/Abhijeet589)
 
 ### Chest Cycle Tracker
 
 See your Clash Royale stats, next chest, war details and much more!
 
-- Google Play: https://play.google.com/store/apps/details?id=in.sidheart.clashroyalechestcycle
+- Google Play: [https://play.google.com/store/apps/details?id=in.sidheart.clashroyalechestcycle](https://play.google.com/store/apps/details?id=in.sidheart.clashroyalechestcycle)
 - Author: Sid-Heart
-    - Github: https://github.com/sid-heart
+    - Github: [https://github.com/sid-heart](https://github.com/sid-heart)
 
 ### HowsMyClan.com
 
 Find out who the most valuable members of your clan are using simple indicators.    
 Find open joinable Tournaments using royaleapi real-time data.
 
-- Website: https://howsmyclan.com/
+- Website: [https://howsmyclan.com/](https://howsmyclan.com/)
 - Author: Sagi Yehuday
-    - Github: https://github.com/Sagi44
+    - Github: [https://github.com/Sagi44](https://github.com/Sagi44)
 
 ### Royale Verify
 
 A bot that verifies users based on their Clash Royale account
 
-- Github: https://github.com/nikoskon2003/royale-verify
+- Github: [https://github.com/nikoskon2003/royale-verify](https://github.com/nikoskon2003/royale-verify)
 - Author: nikoskon
-    - Github: https://github.com/nikoskon2003
-    - Twitter: https://twitter.com/nikoskon03
+    - Github: [https://github.com/nikoskon2003](https://github.com/nikoskon2003)
+    - Twitter: [https://twitter.com/nikoskon03](https://twitter.com/nikoskon03)
 
 ### CR Tournament Finder
 
@@ -316,20 +316,20 @@ This project queries RoyaleAPI and when a new tournament is found, sends a `POST
 
 Developers can pick from a range of filters (explained in the README) to get the best results.
 
-- Github: https://github.com/fourjr/cr-tournament-finder
+- Github: [https://github.com/fourjr/cr-tournament-finder](https://github.com/fourjr/cr-tournament-finder)
 - Author: fourjr
-    - Github: https://github.com/fourjr
+    - Github: [https://github.com/fourjr](https://github.com/fourjr)
 
 ### Spell Comparator Clash Royale
 
 Spell Comparator for Clash Royale is the ideal application to know the combination of the damage that your spells can do according to the level of your cards on the other units!
 
-- Apple App Store: https://itunes.apple.com/us/app/spell-comparator-clash-royale/id1424483560
-- Google Play: https://play.google.com/store/apps/details?id=com.clashroyalespells
-- Facebook: https://www.facebook.com/SpellComparator/
+- Apple App Store: [https://itunes.apple.com/us/app/spell-comparator-clash-royale/id1424483560](https://itunes.apple.com/us/app/spell-comparator-clash-royale/id1424483560)
+- Google Play: [https://play.google.com/store/apps/details?id=com.clashroyalespells](https://play.google.com/store/apps/details?id=com.clashroyalespells)
+- Facebook: [https://www.facebook.com/SpellComparator/](https://www.facebook.com/SpellComparator/)
 - Authors:
     - Jordan Montel
-        - Github: https://github.com/JordanMontel
+        - Github: [https://github.com/JordanMontel](https://github.com/JordanMontel)
     - Romain Capelli
 
 ### Clash Royale Helper
@@ -347,12 +347,12 @@ With Clash Royale Helper, you can:
 Feel free to customize more than one deck for each special event too!
 
 
-- Google Play: https://play.google.com/store/apps/details?id=clashroyalehelper.joaopinho.com.clashroyalehelper
+- Google Play: [https://play.google.com/store/apps/details?id=clashroyalehelper.joaopinho.com.clashroyalehelper](https://play.google.com/store/apps/details?id=clashroyalehelper.joaopinho.com.clashroyalehelper)
 - Email: clash.royale.helper.app@gmail.com
-- Facebook: https://www.facebook.com/ClashRoyaleHelperApp
+- Facebook: [https://www.facebook.com/ClashRoyaleHelperApp](https://www.facebook.com/ClashRoyaleHelperApp)
 - Author: João Pinho
-    - Google Play: https://play.google.com/store/apps/developer?id=Jo%C3%A3o+Pinho
-    - Github: https://github.com/JoaoPinho
+    - Google Play: [https://play.google.com/store/apps/developer?id=Jo%C3%A3o+Pinho](https://play.google.com/store/apps/developer?id=Jo%C3%A3o+Pinho)
+    - Github: [https://github.com/JoaoPinho](https://github.com/JoaoPinho)
 
 ### Sakura Stats
 
@@ -360,54 +360,54 @@ Sakura Stats is an app that focuses on gathering, processing and displaying play
 
 The main feature the app offers is war data collection. As you know, almost every app or site out there offers a history of 10 wars per clan. In contrary this app stores every war’s result it encounters in a local database, thus you can have player statistics for more than 10 wars (starting from the day the app was installed). In addition to that and based on those statistics the app can predict the end result of each current war. The more wars are collected and stored, the more accurate the prediction it becomes!
 
-- Google Play: https://play.google.com/store/apps/details?id=eu.rtsketo.sakurastats
+- Google Play: [https://play.google.com/store/apps/details?id=eu.rtsketo.sakurastats](https://play.google.com/store/apps/details?id=eu.rtsketo.sakurastats)
 - Author: DeadlyAlive
-    - Google Play: https://play.google.com/store/apps/developer?id=DeadlyAlive
-    - Github: https://github.com/rtsketo
+    - Google Play: [https://play.google.com/store/apps/developer?id=DeadlyAlive](https://play.google.com/store/apps/developer?id=DeadlyAlive)
+    - Github: [https://github.com/rtsketo](https://github.com/rtsketo)
 
 ### playedwith.io
 
 playedwith allows you to type in your Clash Royale ID, and see if you have ever played against a streamer. If you have it will show you the video your game on twitch if it is available.
 
-- Website: https://playedwith.io/
+- Website: [https://playedwith.io/](https://playedwith.io/)
 - Author: Is0tope
-    - Github: https://github.com/Is0tope
+    - Github: [https://github.com/Is0tope](https://github.com/Is0tope)
 
 ### Crous Royale
 
 Crous royale is a website that allows you to compare your stats with up to 3 other players!
 
-- Website: https://crousroyale.herokuapp.com
+- Website: [https://crousroyale.herokuapp.com](https://crousroyale.herokuapp.com)
 - Authors:
     - Axel Donadio:
-        - Website: https://www.linkedin.com/in/axel-donadio-373921130/
+        - Website: [https://www.linkedin.com/in/axel-donadio-373921130/](https://www.linkedin.com/in/axel-donadio-373921130/)
     - Guillaume Lollier:
-    	- Website: https://guillaumelollier.fr/
+    	- Website: [https://guillaumelollier.fr/](https://guillaumelollier.fr/)
 
 ### Switfty-Bot
 
 A bot that makes clan management simple by outputting clean reports with customisable scoring system. Check out the documentation (link below) for further information and usage
 
-- Github: https://github.com/swifty-report-cards/swifty-bot
+- Github: [https://github.com/swifty-report-cards/swifty-bot](https://github.com/swifty-report-cards/swifty-bot)
 - Authors:
     - Brian Lewis
-    	- Github: https://github.com/WebDeg-Brian
+    	- Github: [https://github.com/WebDeg-Brian](https://github.com/WebDeg-Brian)
     - Joe
-    	- Github: https://github.com/Swifty2019
+    	- Github: [https://github.com/Swifty2019](https://github.com/Swifty2019)
 
 ## Our apps
 
 ### Author: Selfish
 
-- Github: https://github.com/selfish
-- Twitter: https://twitter.com/selfishio
+- Github: [https://github.com/selfish](https://github.com/selfish)
+- Twitter: [https://twitter.com/selfishio](https://twitter.com/selfishio)
 
 #### Player Tracker Google Sheet
 
 Card count and upgrade spreadsheet. See reddit post for usage instructions.
 
-- Google Sheet: https://docs.google.com/spreadsheets/d/1DEn1R1ctwNg5dJegGwg_6k7WqFuIBkTiYms07qu4wx4/edit?usp=sharing
-- Reddit: https://www.reddit.com/r/ClashRoyale/comments/7rtzkf/card_count_and_upgrade_spreadsheet_updated/
+- Google Sheet: [https://docs.google.com/spreadsheets/d/1DEn1R1ctwNg5dJegGwg_6k7WqFuIBkTiYms07qu4wx4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1DEn1R1ctwNg5dJegGwg_6k7WqFuIBkTiYms07qu4wx4/edit?usp=sharing)
+- Reddit: [https://www.reddit.com/r/ClashRoyale/comments/7rtzkf/card_count_and_upgrade_spreadsheet_updated/](https://www.reddit.com/r/ClashRoyale/comments/7rtzkf/card_count_and_upgrade_spreadsheet_updated/)
 
 ![](/img/showcase/crapi-player-tracker-0.png)
 
@@ -424,25 +424,25 @@ Card count and upgrade spreadsheet. See reddit post for usage instructions.
 
 ### Author: SML
 
-- Github: https://github.com/smlbiobot
-- Twitter: https://twitter.com/smlbiobot
-- Discord: https://discord.me/sml
+- Github: [https://github.com/smlbiobot](https://github.com/smlbiobot)
+- Twitter: [https://twitter.com/smlbiobot](https://twitter.com/smlbiobot)
+- Discord: [https://discord.me/sml](https://discord.me/sml)
 
 
 #### royaleapi.com
 
 Web application implementing all the API endpoints.
 
-- Website: https://royaleapi.com
+- Website: [https://royaleapi.com](https://royaleapi.com)
 
 #### CRProfile
 
 Clash Royale profile cog for the Red Discord Bot.
 
-- Repo: https://github.com/smlbiobot/SML-Cogs/tree/master/crprofile
+- Repo: [https://github.com/smlbiobot/SML-Cogs/tree/master/crprofile](https://github.com/smlbiobot/SML-Cogs/tree/master/crprofile)
 
 #### CRClan
 
 Clash Royale clan cog for the Red Discord Bot.
 
-- Repo: https://github.com/smlbiobot/SML-Cogs/tree/master/crclan
+- Repo: [https://github.com/smlbiobot/SML-Cogs/tree/master/crclan](https://github.com/smlbiobot/SML-Cogs/tree/master/crclan)
