@@ -34,7 +34,7 @@ export const head_en = [
     }],
     ['meta', {
         property: 'og:title',
-        content: 'RoyaleAPI Help'
+        content: 'RoyaleAPI Developers'
     }],
     ['meta', {
         property: 'og:description',
