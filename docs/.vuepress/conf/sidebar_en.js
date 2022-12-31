@@ -13,7 +13,6 @@ export const sidebar_en = [
         link: '/getting_started.md',
         children: [
             '/getting_started.md',
-            '/proxy.md',
             '/authentication.md',
             '/errors.md',
             '/showcase.md',
