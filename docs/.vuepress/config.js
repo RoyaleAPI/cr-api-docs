@@ -5,6 +5,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 import { navbar_en } from './conf/navbar_en'
 import { sidebar_en } from './conf/sidebar_en'
 import { head_en } from './conf/head_en'
+import { seoPlugin } from "vuepress-plugin-seo2";
 
 
 export default defineUserConfig({
@@ -27,6 +28,11 @@ export default defineUserConfig({
         }),
         searchPlugin({
             // options
+        }),
+        seoPlugin({
+            hostname: 'https://docs.royaleapi.com',
+            twitterID: 'RoyaleAPI',
+
         }),
     ]
 })
